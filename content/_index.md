@@ -59,6 +59,12 @@ Super Capitals
 </div>
 </div>
 
+# Merry Christmas from the Galaxypedia Team!
+This Christmas marks the 5th Christmas since the creation of the Galaxypedia, and we're happy to still be here celebrating it with you all! As we continue developing the next-generation Galaxypedia, we wish to continue celebrating Christmas with you all for many more years to come. We hope you have a great Christmas, a happy holidays, and a happy new year!
+
+*P.S. Here's a special christmas rem for you all, brought to you by sugon.*
+<img src="christmas.png" alt="Christmas rem" class="mx-auto h-125">
+
 ## Looking to join the Discord?
 
 [Galaxy](https://galaxy.casa/) has a number of Discord Servers you can join as well as a bot that shares information from Galaxypedia straight to Discord.

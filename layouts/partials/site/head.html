@@ -48,4 +48,11 @@
       new PagefindUI({ element: "#search" });
     });
   </script>
+    {{ with resources.Get "js/snowstorm-min.js" }}
+        <script src="{{ .RelPermalink }}"></script>
+        <script>
+            snowStorm.followMouse = false;
+            snowStorm.vMaxX = 0;
+        </script>
+    {{ end }}
 </head>
