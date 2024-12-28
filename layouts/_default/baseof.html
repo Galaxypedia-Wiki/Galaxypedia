@@ -1,87 +1,10 @@
 <!doctype html>
 <html lang="en" charset="utf-8">
-  <head>
-    <!-- Meta tags -->
-    <meta
-      name="title"
-      content="{{ if .Title }}
-        Galaxypedia -
-        {{ .Title }}
-      {{ else }}
-        Galaxypedia
-      {{ end }}"
-      property="og:title"
-      property="twitter:title"
-    />
-    <meta
-      name="description"
-      content="{{ or .Description .Summary }}"
-      property="og:description"
-      property="twitter:description"
-    />
-    <meta
-      content="{{ .Permalink }}-icon.webp"
-      property="og:image"
-      property="twitter:image"
-    />
-    <meta content="{{ .Permalink }}" property="og:url" property="twitter:url" />
-    <meta content="website" property="og:type" />
-    <meta content="summary_large_image" property="twitter:card" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta charset="utf-8" />
-    <link rel="icon" href="/favicon.svg" />
-    <title>
-      {{ if .Title }}Galaxypedia - {{ .Title }}{{ else }}Galaxypedia{{ end }}
-    </title>
-    {{ if hugo.IsProduction }}
-      <script
-        src="https://js.sentry-cdn.com/79a2541d247797be5c61ecfd7c307b0e.min.js"
-        crossorigin="anonymous"
-      ></script>
-      <script>
-        Sentry.onLoad(function () {
-          Sentry.init({});
-        });
-      </script>
-    {{ end }}
-    {{ with (templates.Defer (dict "key" "global")) }}
-      {{ $t := debug.Timer "tailwindcss" }}
-      {{ with resources.Get "css/styles.css" }}
-        {{ $opts := dict
-          "inlineImports" true
-          "optimize" (not hugo.IsDevelopment)
-        }}
-        {{ with . | css.TailwindCSS $opts }}
-          {{ if hugo.IsDevelopment }}
-            <link rel="preload" href="{{ .RelPermalink }}" as="style" />
-            <link rel="stylesheet" href="{{ .RelPermalink }}" />
-          {{ else }}
-            {{ with . | minify | fingerprint }}
-              <link rel="preload" href="{{ .RelPermalink }}" as="style" />
-              <link
-                rel="stylesheet"
-                href="{{ .RelPermalink }}"
-                integrity="{{ .Data.Integrity }}"
-                crossorigin="anonymous"
-              />
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      {{ end }}
-      {{ $t.Stop }}
-    {{ end }}
-    <link href="{{ .Site.BaseURL }}pagefind/pagefind-ui.css" rel="stylesheet" />
-    <script src="{{ .Site.BaseURL }}pagefind/pagefind-ui.js"></script>
-    <script>
-      window.addEventListener("DOMContentLoaded", (event) => {
-        new PagefindUI({ element: "#search" });
-      });
-    </script>
-  </head>
+  {{ partial "site/head.html" . }}
   <body>
     <div class="content markdown">
       {{ block "main" . }}{{ end }}
-      {{ partial "footer/site-footer.html" . }}
+      {{ partial "site/footer.html" . }}
     </div>
   </body>
   <style>
@@ -94,13 +17,5 @@
       letter-spacing: 0.01em;
     }
   </style>
-  <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
-  <script>
-    kofiWidgetOverlay.draw("smallketchup82", {
-      type: "floating-chat",
-      "floating-chat.donateButton.text": "",
-      "floating-chat.donateButton.background-color": "#000",
-      "floating-chat.donateButton.text-color": "#fff",
-    });
-  </script>
+  {{ partial "site/kofi.html" . }}
 </html>

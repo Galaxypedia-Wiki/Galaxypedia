@@ -16,12 +16,6 @@ In light of these challenges, we are exploring the possibility of transitioning 
 
 We believe that a Hugo-based Galaxypedia will be easier to maintain, update, and use. Moreover, it will be developed and maintained by us, for us.
 
-## Will this replace the Galaxypedia?
-
-It's complicated. The Hugo version of the Galaxypedia will be a separate entity from the MediaWiki version. The MediaWiki version will still be up and running for as long as the hugo version is in development. Once the Hugo version is ready, has most and/or all of the content and features of the MediaWiki version we will consider replacing the MediaWiki version with the Hugo version.
-
-For now, it's up in the air.
-
 ## Features
 
 Some features that the Hugo version has over the MediaWiki version are:
@@ -43,7 +37,7 @@ Some features that the Hugo version has over the MediaWiki version are:
   - Being open source also means that the Galaxypedia is more portable. Anyone can easily download the site and archive it, host it themselves, or view the history.
   - Being open source also means that the Galaxypedia is more secure. Anyone can view the code and see if there are any security vulnerabilities. This ensures that the Galaxypedia is safe for everyone to use.
 - Lightweight and Fast
-  - Currently, the production version of the Hugo Galaxypedia is hosted on GitHub Pages. This means that the Galaxypedia is free to host, and doesn't require a server. This saves smallketchup82 money, which was one of the main concerns with the MediaWiki version. Server costs are not cheap!
+  - Currently, the production version of the Hugo Galaxypedia is hosted on Cloudflare Pages. This means that the Galaxypedia is free to host, and doesn't require a server. This saves smallketchup82 money, which was one of the main concerns with the MediaWiki version. Server costs are not cheap!
   - The site being static means that even if the site goes down at any point in time, people can view the Galaxypedia by running `hugo server` if they have the source code downloaded.
   - Unlike MediaWiki which is built on PHP, uses extensions and themes, and requires a MySQL database, the Hugo Galaxypedia has no such concepts. The Hugo Galaxypedia is much faster since your browser doesn't have to load PHP, the server doesn't have to do database queries, and the site doesn't have to load a bunch of unnecessary extensions and themes.
 - Secure and Independent
@@ -51,6 +45,12 @@ Some features that the Hugo version has over the MediaWiki version are:
   - As a breath of fresh air, the Hugo Galaxypedia does not require accounts. This means that there is no need for a database, and no need for a server. This means that the Galaxypedia is more secure, and more private. No need to worry about your data being leaked or stolen. And no need for smallketchup82 to concern himself with user data, management, and GDPR.
   - Since there are no accounts, there is no need for moderation. This means that staff can focus on making the Galaxypedia better, rather than dealing with trolls, vandals, and spammers.
   - Also we finally don't have to deal with bot accounts spamming the site with nonsense. This is a huge relief.
+
+## Will this replace the Galaxypedia?
+
+It's complicated. The Hugo version of the Galaxypedia will be a separate entity from the MediaWiki version. The MediaWiki version will still be up and running for as long as the hugo version is in development. Once the Hugo version is ready, has most and/or all of the content and features of the MediaWiki version we will consider replacing the MediaWiki version with the Hugo version.
+
+For now, it's up in the air.
 
 ## Contributing
 

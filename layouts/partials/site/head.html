@@ -1,0 +1,58 @@
+<head>
+  {{ with (templates.Defer (dict "key" "global")) }}
+    {{ $t := debug.Timer "tailwindcss" }}
+    {{ with resources.Get "css/styles.css" }}
+      {{ $opts := dict
+        "inlineImports" true
+        "optimize" (not hugo.IsDevelopment)
+      }}
+      {{ with . | css.TailwindCSS $opts }}
+        {{ if hugo.IsDevelopment }}
+          <link rel="preload" href="{{ .RelPermalink }}" as="style" />
+          <link rel="stylesheet" href="{{ .RelPermalink }}" />
+        {{ else }}
+          {{ with . | minify | fingerprint }}
+            <link rel="preload" href="{{ .RelPermalink }}" as="style" />
+            <link
+              rel="stylesheet"
+              href="{{ .RelPermalink }}"
+              integrity="{{ .Data.Integrity }}"
+              crossorigin="anonymous"
+            />
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $t.Stop }}
+  {{ end }}
+  {{ partial "site/meta.html" . }}
+  <link rel="icon" href="/favicon.svg" />
+  <title>
+    {{ if .Title }}Galaxypedia - {{ .Title }}{{ else }}Galaxypedia{{ end }}
+  </title>
+  {{ if hugo.IsProduction }}
+    <script
+      src="https://js.sentry-cdn.com/79a2541d247797be5c61ecfd7c307b0e.min.js"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      Sentry.onLoad(function () {
+        Sentry.init({});
+      });
+    </script>
+  {{ end }}
+  <link href="{{ .Site.BaseURL }}pagefind/pagefind-ui.css" rel="stylesheet" />
+  <script src="{{ .Site.BaseURL }}pagefind/pagefind-ui.js"></script>
+  <script>
+    window.addEventListener("DOMContentLoaded", (event) => {
+      new PagefindUI({ element: "#search" });
+    });
+  </script>
+  {{ with resources.Get "js/snowstorm-min.js" }}
+    <script src="{{ .RelPermalink }}"></script>
+    <script>
+      snowStorm.followMouse = false;
+      snowStorm.vMaxX = 0;
+    </script>
+  {{ end }}
+</head>
