@@ -39,7 +39,7 @@ Ships made by the **Blood Ravens** company;
 
 ## Trivia
 
-The **Blood Ravens** is no longer active on galaxy. However, the discord group has not been disbanded and has been converted into a gaming group.
+The **Blood Ravens** are no longer active on galaxy. However, the discord group has not been disbanded and has been converted into a gaming group.
 
 ## Gallery
 
