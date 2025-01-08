@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Preos-Egg
+  - /wiki/Preos-Egg
 categories:
-- Cruisers
-- Halloween 2021
-- Ships
+  - Cruisers
+  - Halloween 2021
+  - Ships
 title: Preos Egg
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Preos Egg_** is a small [**Cruiser**]({{< ref "/categories/" >}}cruisers) that's completely unarmed. 
+The **_Preos Egg_** is a small [**Cruiser**]({{< ref "/categories/" >}}cruisers) that's completely unarmed.
 
 ## Description
 
@@ -39,7 +39,7 @@ Instead of an interior, there is a purple circular room with a green seat. This 
 
 - Don't spawn the ship until the next stage is available, Once lost you wont be able to get it back, meaning you won't be able to unlock the true potential of the **Preos.**
 
-## Version History 
+## Version History
 
 - Removed in version .75a37
 

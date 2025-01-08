@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Dissonance
+  - /wiki/Dissonance
 categories:
-- Ships
+  - Ships
 title: Dissonance
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **_Dissonance_** is a basic destroyer that is the smallest AI-controlled pirate ship in the [Halloween Event 2021]({{< ref "/wiki/" >}}Halloween-Event-2021) event.
 
@@ -31,7 +31,7 @@ Will detect players/enemy AI from up to around 30,000 studs away, proceeding to 
 - Fight this ship in heavily point-defense based ships such as the [Loyalist]({{< ref "/wiki/" >}}Loyalist) or [Ampharos]({{< ref "/wiki/" >}}Ampharos). Consider using a heavier variant such as the [Tempest]({{< ref "/wiki/" >}}Tempest) when fighting swarms of these.
 - When fighting a swarm of these in addition to a [Lament]({{< ref "/wiki/" >}}Lament) or [Hellkeeper]({{< ref "/wiki/" >}}Hellkeeper), it is recommended to retreat to a base (assuming you are not already present at a base) and despawn your ship, as groups of these ships can be deadly.
 
-## Version History 
+## Version History
 
 - No logged changes (?)
 

@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Coal-Hyperion
+  - /wiki/Coal-Hyperion
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Coal Hyperion
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Coal Hyperion_** is an **[Admin]({{< ref "/categories/" >}}admin-ships)** ship and is one of the admin ships for Galaxy.
 
@@ -36,7 +36,7 @@ The interior of the **Coal Hyperion** is nothing but a small box with a black st
 - Scare away people that are sieging your base before they realize it's easily killable
 - Flex how easy it is to get super capitals when you're an admin.
 
-## Version History 
+## Version History
 
 - Added in .75a5
 

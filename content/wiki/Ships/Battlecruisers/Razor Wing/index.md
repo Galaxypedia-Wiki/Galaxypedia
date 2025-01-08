@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Razor-Wing
+  - /wiki/Razor-Wing
 categories:
-- Ships
-- Battlecruisers
-- Pirate Ships
-- PVP Ships
-- All-Rounder Ships
-- Support Ships
+  - Ships
+  - Battlecruisers
+  - Pirate Ships
+  - PVP Ships
+  - All-Rounder Ships
+  - Support Ships
 title: Razor Wing
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Razor Wing_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-oriented [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) well known for its ability to "tackle" larger ships.
 
@@ -48,7 +48,7 @@ There is a small energy core pillar directly inside from the doorway, as well as
 - Annoy **Dreadnoughts** whenever you spot one that can't defend against smaller ships.
 - Swarming is effective: While one is an annoyance, many are outright deadly.
 
-## Version History 
+## Version History
 
 - [Spinals]({{< ref "/wiki/" >}}Spinals) nerfed in .60(?) to only 4 barrels. 4 Flaks reduced to 2 Flaks and one Cannon.
 - Remodeled in .61h1(?).
@@ -69,15 +69,11 @@ There is a small energy core pillar directly inside from the doorway, as well as
 <!-- -->
 
 - It was the only ship remodeled for what could be called the Presidents Day event, with this remodeled Razor Wing being called the [United States of Razor]({{< ref "/wiki/" >}}United-States-of-Razor).
-- It was remodeled yet again for a [Hidden Event]({{< ref "/categories/" >}}hidden-events) on September 16, 2019, this** **remodel being named the [Disruptor]({{< ref "/wiki/" >}}Disruptor).
+- It was remodeled yet again for a [Hidden Event]({{< ref "/categories/" >}}hidden-events) on September 16, 2019, this\*\* \*\*remodel being named the [Disruptor]({{< ref "/wiki/" >}}Disruptor).
 - One of the few ships with an asymmetrical exterior.
 - Currently has the most reskins of any ship.
 - It's exterior is mangled & broken in some parts.
 - Received a nerf removing a turret and nerfing spinals in version .61g.
 - The bottom of the ship looks like it is held together by rods and scrap.
-- Despite its description: 
-         - It uses no palladium in its construction
-         - Its shield is stronger than its hull
-         - It does not have a very good hull health for a Battlecruiser.
-   ![Old Razor Wing
+- Despite its description:        - It uses no palladium in its construction       - Its shield is stronger than its hull       - It does not have a very good hull health for a Battlecruiser. ![Old Razor Wing
 Model.](Razor6.png "Old Razor Wing Model."){width="220" height="220"}

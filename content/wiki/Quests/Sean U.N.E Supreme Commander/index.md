@@ -1,17 +1,19 @@
 ---
 aliases:
-- /wiki/Sean-U.N.E-Supreme-Commander
+  - /wiki/Sean-U.N.E-Supreme-Commander
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Sean U.N.E Supreme Commander
----**_Sean U.N.E Supreme Commander_** is an NPC who offers powerful [Advanced Ships]({{< ref "/categories/" >}}advanced-ships).
+---
+
+**_Sean U.N.E Supreme Commander_** is an NPC who offers powerful [Advanced Ships]({{< ref "/categories/" >}}advanced-ships).
 
 ## Description
 
 **Sean** is the [U.N.E]({{< ref "/wiki/" >}}United-Nations-of-Earth) Supreme Commander who sports a distinctive blue top hat, a mischievous shark-toothed grin, and silver-colored armor with blue accents. He leads the U.N.E. forces from his position under the purple-lit U.N.E section, wearing tactical gear that combines military authority with his unique personal style.
 
-## Ships For Sale 
+## Ships For Sale
 
 ### [Slipstream]({{< ref "/wiki/" >}}Slipstream)
 
@@ -24,7 +26,7 @@ title: Sean U.N.E Supreme Commander
 **Sean U.N.E Supreme Commander** can be found in **Terminal C [UNE SECTION]** via teleporter. The teleporter to **[UNE SECTION]** is located near the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) spawn area, surrounded by other Terminal teleporters. After using the teleporter, look for a spiral staircase and proceed to the upper floor. There, you'll find the **Sean U.N.E Supreme Commander** in the center of the room, alongside other NPCs. ![UNE
 SECTION](Galaxy_UNESECTION.png "UNE SECTION")
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Sean U.N.E Supreme Commander]: " Looking to buy a ship? "</span>
 

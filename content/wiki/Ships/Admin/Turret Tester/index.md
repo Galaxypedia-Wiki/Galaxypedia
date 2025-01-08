@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Turret-Tester
+  - /wiki/Turret-Tester
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Turret Tester
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
-The **_Turret Tester_** is a [**Developer Ship**]({{< ref "/categories/" >}}admin-ships) that has been in the game since 2015. 
+The **_Turret Tester_** is a [**Developer Ship**]({{< ref "/categories/" >}}admin-ships) that has been in the game since 2015.
 
 ## Description
 
@@ -37,7 +37,7 @@ This ship has no interior.
 
 - ???
 
-## Version History 
+## Version History
 
 - ???
 

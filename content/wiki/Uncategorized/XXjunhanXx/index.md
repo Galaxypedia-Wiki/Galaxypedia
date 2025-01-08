@@ -1,8 +1,10 @@
 ---
 aliases:
-- /wiki/XXjunhanXx
+  - /wiki/XXjunhanXx
 title: XXjunhanXx
----High score, high bounty auto miner that recently got unbanned and account wiped.
+---
+
+High score, high bounty auto miner that recently got unbanned and account wiped.
 
 Unknown number of alt accounts but is known to own several SC's in them even Prototype's.
 

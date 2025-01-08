@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Spirit
-- /wiki/Spirit-Nixesion
+  - /wiki/Spirit
+  - /wiki/Spirit-Nixesion
 categories:
-- Ships
-- Support Ships
-- Limited Ships
-- Halloween 2017
-- PVP Ships
+  - Ships
+  - Support Ships
+  - Limited Ships
+  - Halloween 2017
+  - PVP Ships
 title: Spirit
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Spirit_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) that only spawns in the [Ghoul Nyx]({{< ref "/wiki/" >}}Ghoul-Nyx). 
+The **_Spirit_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) that only spawns in the [Ghoul Nyx]({{< ref "/wiki/" >}}Ghoul-Nyx).
 
 ##  Description
 
@@ -43,7 +43,7 @@ The Spirit is a recolored version of the original Nixesion model.
 - Overpower the enemy with swarms of **Spirit**.
 - Defend the [Ghoul Nyx]({{< ref "/wiki/" >}}Ghoul-Nyx) at all costs.
 
-## Version History 
+## Version History
 
 - Health, Speed, Acceleration, buffed in unknown version along with Tiny cannons being upgraded to Small cannons.
 - 5 Small cannons downgraded to 4 Small cannons, along with a speed and health buff in an unknown version.
@@ -55,6 +55,6 @@ The Spirit is a recolored version of the original Nixesion model.
 - These are super rare, maybe going months before seeing any form of combat.
 - They still use the old [Nixesion]({{< ref "/wiki/" >}}Nixesion) model.
 
-![]({{< ref "/wiki/" >}}5DF7C276-0C31-4192-9F20-50D78DAD9834.png-"5DF7C276-0C31-4192-9F20-50D78DAD9834.png"){width="220" height="220"} 
+![]({{< ref "/wiki/" >}}5DF7C276-0C31-4192-9F20-50D78DAD9834.png-"5DF7C276-0C31-4192-9F20-50D78DAD9834.png"){width="220" height="220"}
 
 [Fighters]({{< ref "/wiki/" >}}Category:Fighters)

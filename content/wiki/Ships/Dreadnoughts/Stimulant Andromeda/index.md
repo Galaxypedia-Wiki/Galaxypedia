@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Stimulant-Andromeda
+  - /wiki/Stimulant-Andromeda
 categories:
-- NPC Ships
-- Ultimate Retro Ship Event 2022
-- Dreadnoughts
-- Bosses
-- Ships
+  - NPC Ships
+  - Ultimate Retro Ship Event 2022
+  - Dreadnoughts
+  - Bosses
+  - Ships
 title: Stimulant Andromeda
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **Stimulant Andromeda** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) that spawned during the duration of the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022).
 

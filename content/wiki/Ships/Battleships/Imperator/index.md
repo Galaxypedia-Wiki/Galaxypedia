@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Imperator
+  - /wiki/Imperator
 categories:
-- Ships
-- Battleships
-- Capital Ships
-- PVP Ships
-- Siege Ships
-- Support Ships
-- Advanced Ships
+  - Ships
+  - Battleships
+  - Capital Ships
+  - PVP Ships
+  - Siege Ships
+  - Support Ships
+  - Advanced Ships
 title: Imperator
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/advancedShip >}} 
+{{< notices/advancedShip >}}
 
-The **_Imperator_** is a large and tanky [Advanced]({{< ref "/categories/" >}}advanced-ships) **[Battleship]({{< ref "/wiki/" >}}:category:battleship)**. 
+The **_Imperator_** is a large and tanky [Advanced]({{< ref "/categories/" >}}advanced-ships) **[Battleship]({{< ref "/wiki/" >}}:category:battleship)**.
 
 ## Description
 
@@ -61,7 +61,7 @@ The Interior of the **Imperator** starts with a hallway that has the [Osiris Leg
 - Avoid using it to tank too much damage, as its status as a target makes it a priority to destroy over other ships.
 - Use it as a replacement for a Dreadnought if three are already spawned or you do not have enough [Loyalty]({{< ref "/wiki/" >}}Loyalty).
 
-## Version History 
+## Version History
 
 - Disabled along with all other Artifact Ships in version .65a (?)
 - Re-enabled in version .65b, but cost increased dramatically to 1 million [Credits]({{< ref "/wiki/" >}}Credits).

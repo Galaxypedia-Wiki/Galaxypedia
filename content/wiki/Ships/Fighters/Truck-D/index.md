@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Truck-D
+  - /wiki/Truck-D
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Truck-D
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **Truck-D** is a [Fighter]({{< ref "/categories/" >}}fighters) found on [Pyramus]({{< ref "/wiki/" >}}Pyramus) that can do ridiculous damage.
 
@@ -37,7 +37,7 @@ The **Truck-D** has 50 Medium Cannons, dealing a ridiculous 3800 damage. However
 - Use the speed and size to dodge many things.
 - Make sure you hit your target. The ridiculous reload time means you won't have many chances to deal damage before being destroyed.
 
-## Version History 
+## Version History
 
 ## Trivia
 

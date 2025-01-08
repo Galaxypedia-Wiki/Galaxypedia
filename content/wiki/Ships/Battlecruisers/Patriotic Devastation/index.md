@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Patriotic-Devastation
+  - /wiki/Patriotic-Devastation
 categories:
-- Ships
-- Battlecruisers
-- Fourth of July 2021
-- Limited Ships
-- Reskins
+  - Ships
+  - Battlecruisers
+  - Fourth of July 2021
+  - Limited Ships
+  - Reskins
 title: Patriotic Devastation
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Patriotic Devastation_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021). 
+The **_Patriotic Devastation_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021).
 
 ## Description
 
@@ -40,7 +40,7 @@ The interior of the **Patriotic Devastation** is similar to that of the regular 
 - Utilize the mainly shield-focused firepower to burn the shields of enemy ships.
 - Pair up with a [Hull-breaker]({{< ref "/categories/" >}}hull-breakers) to compensate for the weak hull damage.
 
-## Version History 
+## Version History
 
 - Recolored in version .72e4
 

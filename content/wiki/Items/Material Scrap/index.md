@@ -1,12 +1,14 @@
 ---
 aliases:
-- /wiki/Material-Scrap
+  - /wiki/Material-Scrap
 categories:
-- Quests
-- NPCS
-- Items
+  - Quests
+  - NPCS
+  - Items
 title: Material Scrap
----_Not to be confused with [Armor Scrap]({{< ref "/wiki/" >}}Armor-Scrap), an item of a similar name._ 
+---
+
+_Not to be confused with [Armor Scrap]({{< ref "/wiki/" >}}Armor-Scrap), an item of a similar name._
 
 The Material Scrap is a special item used for trading in materials via Quests. Material Scraps are extremely lightweight and just take a [Wyrm]({{< ref "/wiki/" >}}Wyrm) to loot from enemies that drop it.
 
@@ -36,11 +38,11 @@ Material Scraps are mainly used to trade for materials via quests.
 
 - The Uranium ore refinery can be found in the third level of [Freedom Base]({{< ref "/wiki/" >}}Freedom-Base), which is only accessible via upgrading [Freedom Base]({{< ref "/wiki/" >}}Freedom-Base) to the final level; Level 3.
 
-### <span style="color:#ff0000">**All Material refinery quests except for the [Alien Scrapping Quest]({{< ref "/wiki/" >}}Alien-Part) are currently disabled.**</span> 
+### <span style="color:#ff0000">**All Material refinery quests except for the [Alien Scrapping Quest]({{< ref "/wiki/" >}}Alien-Part) are currently disabled.**</span>
 
-### <span style="color:#FFFF00">Level 1 Freedom Base</span> 
+### <span style="color:#FFFF00">Level 1 Freedom Base</span>
 
-### Silicate Refinery 
+### Silicate Refinery
 
 **Requires:** 1500 Material Scraps **Reward:** 1500 Silicate.
 
@@ -74,7 +76,7 @@ _When speaking with SilicateComputer again_
 
 _If player has the required items, they will receive 3000 Silicate as a reward._
 
-### Carbon Refinery 
+### Carbon Refinery
 
 **Requires:** 3000 Material Scraps **Reward:** 1500 Carbon.
 
@@ -108,7 +110,7 @@ _When speaking with CarbonComputer again_
 
 _If player has the required items, they will receive 3000 Carbon as a reward._
 
-### Iridium Refinery 
+### Iridium Refinery
 
 **Requires:** 3750 Material Scraps **Reward:** 1500 Iridium.
 
@@ -142,9 +144,9 @@ _When speaking with IridiumComputer again_
 
 _If player has the required items, they will receive 3000 Iridium as a reward._
 
-### <span style="color:#FFFF00">Level 2 Freedom Base</span> 
+### <span style="color:#FFFF00">Level 2 Freedom Base</span>
 
-### Adamantite Refinery 
+### Adamantite Refinery
 
 **Requires:** 1875 Material Scraps **Reward:** 750 Adamantite.
 
@@ -178,7 +180,7 @@ _When speaking with AdamantiteComputer again_
 
 _If player has the required items, they will receive 750 Adamantite as a reward._
 
-### Palladium Refinery 
+### Palladium Refinery
 
 **Requires:** 2625 Material Scraps **Reward:** 750 Palladium.
 
@@ -212,7 +214,7 @@ _When speaking with PalladiumComputer again_
 
 _If player has the required items, they will receive 750 Palladium as a reward._
 
-### Titanium Refinery 
+### Titanium Refinery
 
 **Requires:** 2625 Material Scraps **Reward:** 750 Titanium.
 
@@ -246,7 +248,7 @@ _When speaking with TitaniumComputer again_
 
 _If player has the required items, they will receive 750 Titanium as a reward._
 
-### Quantium Refinery 
+### Quantium Refinery
 
 **Requires:** 2625 Material Scraps **Reward:** 750 Quantium.
 
@@ -280,9 +282,9 @@ _When speaking with QuantiumComputer again_
 
 _If player has the required items, they will receive 750 Quantium as a reward._
 
-### <span style="color:#FFFF00">Level 3 Freedom Base</span> 
+### <span style="color:#FFFF00">Level 3 Freedom Base</span>
 
-### Uranium Refinery 
+### Uranium Refinery
 
 **Requires:** 3000 Material Scraps **Reward:** 500 Uranium.
 

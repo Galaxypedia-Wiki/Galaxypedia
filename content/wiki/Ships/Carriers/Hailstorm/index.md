@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Hailstorm
+  - /wiki/Hailstorm
 categories:
-- Carriers
-- Limited Ships
-- Ships
-- Capital Ships
-- PVP Ships
-- Siege Ships
-- All-Rounder Ships
-- Christmas Event 2019
+  - Carriers
+  - Limited Ships
+  - Ships
+  - Capital Ships
+  - PVP Ships
+  - Siege Ships
+  - All-Rounder Ships
+  - Christmas Event 2019
 title: Hailstorm
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Hailstorm_** is a [**Carrier**]({{< ref "/categories/" >}}carriers) from the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
@@ -41,7 +41,7 @@ The interior is a small black box with several chairs, one being the pilot chair
 - Is a [Limited Ship,]({{< ref "/categories/" >}}limited-ships) so it will make you a larger target.
 - Required a level 29 [Warehouse]({{< ref "/wiki/" >}}Warehouse) to build when it was onsale.
 
-## Version History 
+## Version History
 
 - Health increased from 7500/7500 to 11000/8500 and [Medium Point Defense Lasers]({{< ref "/wiki/" >}}Turrets) changed to [Heavy]({{< ref "/wiki/" >}}Turrets) variants in version .68d.
 - Health decreased back to 7500/7500 in version ???

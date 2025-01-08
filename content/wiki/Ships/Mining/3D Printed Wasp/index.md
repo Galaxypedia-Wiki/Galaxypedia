@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/3D-Printed-Wasp
+  - /wiki/3D-Printed-Wasp
 categories:
-- Ships
-- Limited Ships
-- Reskins
-- April Fools 2020
-- Mining Ships
+  - Ships
+  - Limited Ships
+  - Reskins
+  - April Fools 2020
+  - Mining Ships
 title: 3D Printed Wasp
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_3D Printed Wasp_** is a [**Limited ship**]({{< ref "/categories/" >}}limited-ships) which was available during the April Fool's 2020 Event.
 
@@ -34,7 +34,7 @@ The **3D Printed Wasp** is a Ship which was released during the [2020 April Fool
 
 - Never use this [ship]({{< ref "/wiki/" >}}Ships) during wartime. Consider it a collectible.
 
-## Version History 
+## Version History
 
 - 3D Printed Colossus Gun damage heavily buffed in version .69a2.
 - 1 [3D Printed Colossus Gun]({{< ref "/wiki/" >}}Turrets) replaced with 1 [Light Ice Laser]({{< ref "/wiki/" >}}Turrets) in version .71b.

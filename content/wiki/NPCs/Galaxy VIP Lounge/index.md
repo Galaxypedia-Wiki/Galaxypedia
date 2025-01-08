@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Galaxy-VIP-Lounge
+  - /wiki/Galaxy-VIP-Lounge
 categories:
-- NPCS
+  - NPCS
 title: Galaxy VIP Lounge
----  
+---
 
-{{< notices/outdatedInfo >}} 
+{{< notices/outdatedInfo >}}
 
 ## Description
 
@@ -18,7 +18,7 @@ The interior of the VIP Lounge is very spacious on the first floor. It has a fou
 
 The third floor displays Staff portraits and can be accessed by any player (even Non-VIPs) through a ladder beside Terminal A of the [Mega Base]({{< ref "/wiki/" >}}Mega-Base). This space has been used for some quest-based ships, including the recently released [Heartbreaker]({{< ref "/wiki/" >}}Heartbreaker).
 
-## Prior to Version .58a3 
+## Prior to Version .58a3
 
 Prior to V.58a3, the VIP lounge was a smaller building. It had a red and white exterior and an interior similar to the Staff-Only ship, the [Eclipse]({{< ref "/wiki/" >}}Eclipse). Even before this update, the VIP lounge was an admin lounge.
 

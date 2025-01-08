@@ -1,23 +1,23 @@
 ---
 aliases:
-- /wiki/Hearteater
+  - /wiki/Hearteater
 categories:
-- Ships
-- NPC Ships
-- Super Capital Ships
-- Capital Ships
+  - Ships
+  - NPC Ships
+  - Super Capital Ships
+  - Capital Ships
 title: Hearteater
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/outdatedInfo >}}   
+{{< notices/outdatedInfo >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-_This article describes the NPC vessel. To see the player ship counterpart, see [Widowmaker]({{< ref "/wiki/" >}}Widowmaker)._ The **Hearteater** is a Pirate AI [Super Capital]({{< ref "/categories/" >}}super-capital-ships) (formerly a [Battleship]({{< ref "/categories/" >}}battleships)) released on February 14th, 2022; during the Valentine's Day 2022 Event. 
+_This article describes the NPC vessel. To see the player ship counterpart, see [Widowmaker]({{< ref "/wiki/" >}}Widowmaker)._ The **Hearteater** is a Pirate AI [Super Capital]({{< ref "/categories/" >}}super-capital-ships) (formerly a [Battleship]({{< ref "/categories/" >}}battleships)) released on February 14th, 2022; during the Valentine's Day 2022 Event.
 
 ## Description
 
@@ -33,7 +33,7 @@ The **Hearteater** is a Pirate-affiliated AI ship that ruthlessly shreds both th
 
 For its power, the ship drops a measly loot of [3 Plasma Batteries]({{< ref "/wiki/" >}}Materials); on top of no Combat Rewards due to the ship having no value.
 
-## Version History 
+## Version History
 
 - Heartifact Accelerator turrets nerfed: loses two barrels, resulting in a reload rate reduction in version .75a5.
 - Disabled from spawning in an undocumented version.

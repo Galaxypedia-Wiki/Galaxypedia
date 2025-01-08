@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Ibis
+  - /wiki/Ibis
 categories:
-- Destroyers
-- Ships
-- PVP Ships
-- Support Ships
+  - Destroyers
+  - Ships
+  - PVP Ships
+  - Support Ships
 title: Ibis
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Ibis_** is a cheap and well-armed **[Destroyer]({{< ref "/categories/" >}}destroyers)** commonly seen in Galaxy. 
+The **_Ibis_** is a cheap and well-armed **[Destroyer]({{< ref "/categories/" >}}destroyers)** commonly seen in Galaxy.
 
 ## Description
 
@@ -44,7 +44,7 @@ The interior is compact but detailed with the main control seat and a raised sec
 - Keep your opponent on your right side so that the [Gatling Laser]({{< ref "/wiki/" >}}Turrets) has a clear line of sight. Otherwise, you'll have an even harder time breaking their shield.
 - Great ship for swarms, due to its very low cost and high accuracy.
 
-## Version History 
+## Version History
 
 - [Light Laser]({{< ref "/wiki/" >}}Turrets) changed to [Light Gatling Laser]({{< ref "/wiki/" >}}Turrets) in (???).
 - Explosion radius lowered from 40 to 1 in .64d.

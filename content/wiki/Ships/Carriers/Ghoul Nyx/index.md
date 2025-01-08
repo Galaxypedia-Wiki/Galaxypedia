@@ -1,24 +1,24 @@
 ---
 aliases:
-- /wiki/Ghoul-Nyx
+  - /wiki/Ghoul-Nyx
 categories:
-- Ships
-- Support Ships
-- Carriers
-- Limited Ships
-- Reskins
-- Halloween 2017
-- PVP Ships
-- Capital Ships
-- Black Friday 2019
+  - Ships
+  - Support Ships
+  - Carriers
+  - Limited Ships
+  - Reskins
+  - Halloween 2017
+  - PVP Ships
+  - Capital Ships
+  - Black Friday 2019
 title: Ghoul Nyx
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Ghoul Nyx_** is a slightly redesigned [Nyx]({{< ref "/wiki/" >}}Nyx) made for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).  
+The **_Ghoul Nyx_** is a slightly redesigned [Nyx]({{< ref "/wiki/" >}}Nyx) made for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).
 
 ## Description
 
@@ -52,7 +52,7 @@ The interior of the **Ghoul Nyx **is the same as the original Nyx model: very
 - Bait and Switch; warp into a dangerous zone, deploy the [Spirits]({{< ref "/wiki/" >}}Spirit) and then warp out of the zone leaving the Spirits to deal with whatever you wanted dealt with.
 - When at war with multiple factions, they will almost always gather a fleet with the purpose of defeating it. Never rely on the Ghoul Nyx's health to tank a fleet.
 
-## Version History 
+## Version History
 
 - Received some buffs in .60d that boosted Shields by 375 and Hull by 400.
 - Received a few buffs in .64c that (probably) gave the **Ghoul Nyx** turrets and more health.

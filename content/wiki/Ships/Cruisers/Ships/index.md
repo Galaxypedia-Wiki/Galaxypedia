@@ -1,16 +1,18 @@
 ---
 aliases:
-- /wiki/Ships
+  - /wiki/Ships
 categories:
-- Freighters
-- Frigates
-- Destroyers
-- Cruisers
-- Fighters
-- Game Mechanics
-- Ships
+  - Freighters
+  - Frigates
+  - Destroyers
+  - Cruisers
+  - Fighters
+  - Game Mechanics
+  - Ships
 title: Ships
----**Ships** are the basis of the game. They are used for everything in the game, from transportation, mining and trading to war, combat, and assimilation. They are divided into classes based on their statistics and purpose.
+---
+
+**Ships** are the basis of the game. They are used for everything in the game, from transportation, mining and trading to war, combat, and assimilation. They are divided into classes based on their statistics and purpose.
 
 All ships, except [Fighter Class]({{< ref "/categories/" >}}fighters) Ships, are equipped with a device called "Warp Drive", allowing rapid and immediate acceleration across varying distances.
 
@@ -38,7 +40,7 @@ See [Galaxy Slang]({{< ref "/wiki/" >}}Galaxy-Slang) for unofficial and official
 
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Miner Class 
+## Miner Class
 
 <div class="mw-collapsible-content">
 
@@ -52,13 +54,13 @@ Note: (Ships are organized from Galaxy's build menu.)
 
 <File:Wasp-icon.png>|[Wasp]({{< ref "/wiki/" >}}Wasp) <File:Tango-icon.png>|[Tango]({{< ref "/wiki/" >}}Tango) <File:Saturn-icon.png>|[Saturn]({{< ref "/wiki/" >}}Saturn) <File:Commercial> Miner-icon.png|[Commercial Miner]({{< ref "/wiki/" >}}Commercial-Miner) <File:Hornet-icon.png>|[Hornet]({{< ref "/wiki/" >}}Hornet) <File:Rorqual-icon.png>|[Rorqual]({{< ref "/wiki/" >}}Rorqual) <File:Mammoth-icon.png>|[**Mammoth**]({{< ref "/wiki/" >}}Mammoth) <File:Orca-icon.png>|[Orca]({{< ref "/wiki/" >}}Orca) <File:Galaxy-icon.png>|[Galaxy]({{< ref "/wiki/" >}}Galaxy)
 
-### Limited Ships 
+### Limited Ships
 
 Note: (Ships are unorganized)
 
 <File:Prototype> X-3-icon.png|[Prototype X-3]({{< ref "/wiki/" >}}Prototype-X-3) <File:Coal> Wasp-icon.png|[Coal Wasp]({{< ref "/wiki/" >}}Coal-Wasp) <File:Patriotic> Wasp-icon.png|[Patriotic Wasp]({{< ref "/wiki/" >}}Patriotic-Wasp) <File:Retro> Commercial Miner-icon.png|[Retro Commercial Miner]({{< ref "/wiki/" >}}Retro-Commercial-Miner) <File:Patriotic> Rorqual-icon.png|[Patriotic Rorqual]({{< ref "/wiki/" >}}Patriotic-Rorqual) <File:Patriotic> Harvester-icon.png|[Patriotic Harvester]({{< ref "/wiki/" >}}Patriotic-Harvester) <File:Festive> Wasp-Icon.png|[Festive Wasp]({{< ref "/wiki/" >}}Festive-Wasp) <File:Santa's> Workshop-icon.png|[Santa's Workshop]({{< ref "/wiki/" >}}Santa's-Workshop) <File:Maple> Orca-icon.png|[Maple Orca]({{< ref "/wiki/" >}}Maple-Orca) <File:Snowy> Advanced Miner-icon.png|[Snowy Advanced Miner]({{< ref "/wiki/" >}}Snowy-Advanced-Miner) <File:Retro> Advanced Miner-icon.png|[Retro Advanced Miner]({{< ref "/wiki/" >}}Retro-Advanced-Miner) <File:Woolly> Mammoth-icon.png|[Woolly Mammoth]({{< ref "/wiki/" >}}Woolly-Mammoth) <File:Obamasphere-icon.png>|[Obamasphere]({{< ref "/wiki/" >}}Obamasphere)
 
-### Offsale/Removed Ships 
+### Offsale/Removed Ships
 
 Note: (Ships are unorganized)
 
@@ -72,13 +74,13 @@ Note: (Ships are unorganized)
 
 (Advanced ships and NPC ships will be under the Special Classes Section and will not be listed here.)
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Miner]({{< ref "/categories/" >}}mining-ships). 
+### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Miner]({{< ref "/categories/" >}}mining-ships).
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Freighter Class 
+## Freighter Class
 
 <div class="mw-collapsible-content">
 
@@ -86,25 +88,25 @@ Freighter-Class ships are mainly used for transporting large amounts of material
 
 Most Freighter Class ships are very slow and vulnerable. The disproportionately large cargo holds in Freighter Class ships makes them extremely useful for looting and transporting [Materials]({{< ref "/wiki/" >}}Materials). This also makes them a big target for pirates trying to make some quick credits.
 
-### Ships 
+### Ships
 
 Note: (Ships are organized from Galaxy's build menu.)
 
 Wyrm-icon.png|[Wyrm]({{< ref "/wiki/" >}}Wyrm) Tempura-icon.png|[Tempura]({{< ref "/wiki/" >}}Tempura) Argonaut-icon.png|[Argonaut]({{< ref "/wiki/" >}}Argonaut) Hercules-icon.png|[Hercules]({{< ref "/wiki/" >}}Hercules) Prepravca-icon.png|[Prepravca]({{< ref "/wiki/" >}}Prepravca) Constellation-icon.png|[**Constellation**]({{< ref "/wiki/" >}}Constellation) E Class-icon.png|[E Class]({{< ref "/wiki/" >}}E-Class)
 
-### Limited Ships 
+### Limited Ships
 
 Note: (Ships are unorganized)
 
 <File:Clauspector-icon.png>|[Clauspector]({{< ref "/wiki/" >}}Clauspector) <File:Discordite> Cluster-icon.png|[Discordite Cluster]({{< ref "/wiki/" >}}Discordite-Cluster) <File:Festive> Wyrm-icon.png|[Festive Wyrm]({{< ref "/wiki/" >}}Festive-Wyrm) <File:Patriotic> Hercules-icon.png|[Patriotic Hercules]({{< ref "/wiki/" >}}Patriotic-Hercules) <File:Retro> Hercules-icon.png|[Retro Hercules]({{< ref "/wiki/" >}}Retro-Hercules) <File:Snowball-icon.png>|[Snowball]({{< ref "/wiki/" >}}Snowball) <File:Toy> Mega Base-icon.png|[Toy Mega Base]({{< ref "/wiki/" >}}Toy-Mega-Base)
 
-### Offsale/Removed Ships 
+### Offsale/Removed Ships
 
 Note: (Ships are unorganized)
 
 <File:Prospector-icon.png>|[Prospector]({{< ref "/wiki/" >}}Prospector) <File:x-0-icon.png>|[D Class]({{< ref "/wiki/" >}}D-Class) <File:C> Class-icon.png|[C Class]({{< ref "/wiki/" >}}C-Class)]
 
-### Unavailable/Unknown 
+### Unavailable/Unknown
 
 Note: (Ships are unorganized)
 
@@ -112,13 +114,13 @@ Note: (Ships are unorganized)
 
 (Advanced ships and NPC ships will be under the Special Classes Section and will not be listed here.)
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** 
+### **<span style="color:yellow">Any ships not listed here will be in</span>**
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Frigate Class 
+## Frigate Class
 
 <div class="mw-collapsible-content">
 
@@ -130,19 +132,19 @@ These ships are mostly used for Scouting bases, distracting base [Turrets]({{< r
 
 **Frigate-Class Ships can be spawned at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base).**
 
-### Ships 
+### Ships
 
 Note: (Ships are organized from Galaxy's build menu.)
 
 <File:Starblade-icon.png>|[Starblade]({{< ref "/wiki/" >}}Starblade) <File:Zhanado-icon.png>|[**Zhanado**]({{< ref "/wiki/" >}}Zhanado) <File:Oppressor-icon.png>|[Oppressor]({{< ref "/wiki/" >}}Oppressor) <File:Abyss-icon.png>|[Abyss]({{< ref "/wiki/" >}}Abyss) <File:Worm-icon.png>|[Worm]({{< ref "/wiki/" >}}Worm) <File:Viper-icon.png>|[Viper]({{< ref "/wiki/" >}}Viper) <File:Spider-icon.png>|[Spider]({{< ref "/wiki/" >}}Spider) <File:Draco-icon.png>|[Draco]({{< ref "/wiki/" >}}Draco) <File:Ishkur-icon.png>|[Ishkur]({{< ref "/wiki/" >}}Ishkur) <File:Raven-icon.png>|[Raven]({{< ref "/wiki/" >}}Raven) <File:Archangel-icon.png>|[Archangel]({{< ref "/wiki/" >}}Archangel) <File:Avenger-icon.png>|[Avenger]({{< ref "/wiki/" >}}Avenger) <File:Python-icon.png>|[Python]({{< ref "/wiki/" >}}Python) <File:Osprey-icon.png>|[Osprey]({{< ref "/wiki/" >}}Osprey) <File:Arrow-icon.png>|[Arrow]({{< ref "/wiki/" >}}Arrow)
 
-### Limited Ships 
+### Limited Ships
 
 Note: (Ships are unorganized)
 
 <File:Birthday> Ship-icon.png|[Birthday Ship]({{< ref "/wiki/" >}}Birthday-Ship) <File:Blue> Torp Wasp-icon.png|[Blue Torp Wasp]({{< ref "/wiki/" >}}Blue-Torp-Wasp) <File:Double> Fractal-icon.png|[Double Fractal]({{< ref "/wiki/" >}}Double-Fractal) <File:Dragon-icon.png>|[Dragon]({{< ref "/wiki/" >}}Dragon) <File:Macross-icon.png>|[Macross]({{< ref "/wiki/" >}}Macross) <File:Spiderblade-icon.png>|[Spiderblade]({{< ref "/wiki/" >}}Spiderblade)
 
-### Offsale/Removed Ships 
+### Offsale/Removed Ships
 
 Note: (Ships are unorganized)
 
@@ -150,13 +152,13 @@ Note: (Ships are unorganized)
 
 _(Advanced ships and NPC ships will be under the Special Classes Section and will not be listed here.)_
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** 
+### **<span style="color:yellow">Any ships not listed here will be in</span>**
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Destroyer Class 
+## Destroyer Class
 
 <div class="mw-collapsible-content">
 
@@ -166,19 +168,19 @@ Destroyer-Class ships still have rather low health, but most still have much mor
 
 **Destroyer-Class Ships can be spawned at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base).**
 
-### Ships 
+### Ships
 
 Note: (Ships are organized from Galaxy's build menu.)
 
 <File:Leecher-icon.png>|[Leecher]({{< ref "/wiki/" >}}Leecher) <File:Argosy-icon.png>|[Argosy]({{< ref "/wiki/" >}}Argosy) <File:Scythe-icon.png>|[Scythe]({{< ref "/wiki/" >}}Scythe) <File:Centurion-icon.png>|[Centurion]({{< ref "/wiki/" >}}Centurion) <File:Lich-icon.png>|[Lich]({{< ref "/wiki/" >}}Lich) <File:Crucible-icon.png>|[Crucible]({{< ref "/wiki/" >}}Crucible) <File:Scimitar-icon.png>|[Scimitar]({{< ref "/wiki/" >}}Scimitar) <File:Ibis-icon.png>|[Ibis]({{< ref "/wiki/" >}}Ibis) <File:Zero-icon.png>|[Zero]({{< ref "/wiki/" >}}Zero) <File:Corvid-icon.png>|[Corvid]({{< ref "/wiki/" >}}Corvid) <File:Starfall-icon.png>|[Starfall]({{< ref "/wiki/" >}}Starfall) <File:Cobra-icon.png>|[Cobra]({{< ref "/wiki/" >}}Cobra) <File:Meteor-icon.png>|[Meteor]({{< ref "/wiki/" >}}Meteor) <File:Apostle-icon.png>|[Apostle]({{< ref "/wiki/" >}}Apostle) <File:Defiance-icon.png>|[Defiance]({{< ref "/wiki/" >}}Defiance) <File:Chimera-icon.png>|[Chimera]({{< ref "/wiki/" >}}Chimera) <File:Phantom-icon.png>|[Phantom]({{< ref "/wiki/" >}}Phantom) <File:Dropship-icon.png>|[Dropship]({{< ref "/wiki/" >}}Dropship) <File:Sabre> Tooth-icon.png|[Sabre Tooth]({{< ref "/wiki/" >}}Sabre-Tooth)
 
-### Limited Ships 
+### Limited Ships
 
 Note: (Ships are unorganized)
 
 <File:Ghost> of Christmas Death-icon.png|[Ghost of Christmas Death]({{< ref "/wiki/" >}}Ghost-of-Christmas-Death) <File:Golden> Viper-icon.png|[Golden Viper]({{< ref "/wiki/" >}}Golden-Viper) <File:Patriotic> Crucible-icon.png|[Patriotic Crucible]({{< ref "/wiki/" >}}Patriotic-Crucible) <File:Permafrost-icon.png>|[Permafrost]({{< ref "/wiki/" >}}Permafrost) <File:Prikkit-icon.png>|[Prikkit]({{< ref "/wiki/" >}}Prikkit) <File:Retro> Centurion-icon.png|[Retro Centurion]({{< ref "/wiki/" >}}Retro-Centurion) <File:Viking-icon.png>|[Viking]({{< ref "/wiki/" >}}Viking)
 
-### Removed Ships 
+### Removed Ships
 
 Note: (Ships are unorganized)
 
@@ -186,13 +188,13 @@ Note: (Ships are unorganized)
 
 _(Advanced ships and NPC ships will be under the Special Classes Section and will not be listed here.)_
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** 
+### **<span style="color:yellow">Any ships not listed here will be in</span>**
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Cruiser Class 
+## Cruiser Class
 
 <div class="mw-collapsible-content">
 
@@ -202,19 +204,19 @@ These ships tend to be very maneuverable and pack a decent amount of health. The
 
 Most Cruisers make very good pirating ships and can be unstoppable in the hands of a good pilot. They are mostly cheap and max out around the price of the [Sixfold]({{< ref "/wiki/" >}}Sixfold), which costs 12k.
 
-### Ships 
+### Ships
 
 Note: (Ships are organized from Galaxy's build menu.)
 
 <File:Gunslinger-icon.png>|[Gunslinger]({{< ref "/wiki/" >}}Gunslinger) <File:Dramiel-icon.png>|[Dramiel]({{< ref "/wiki/" >}}Dramiel) <File:Invictus-icon.png>|[Invictus]({{< ref "/wiki/" >}}Invictus) <File:Constantine-icon.png>|[Constantine]({{< ref "/wiki/" >}}Constantine) <File:Nidhogg-icon.png>|[Nidhogg]({{< ref "/wiki/" >}}Nidhogg) <File:Inquisitor-icon.png>|[Inquisitor]({{< ref "/wiki/" >}}Inquisitor) <File:Orion-icon.png>|[Orion]({{< ref "/wiki/" >}}Orion) <File:Aura-icon.png>|[Aura]({{< ref "/wiki/" >}}Aura) <File:Gryphon-icon.png>|[Gryphon]({{< ref "/wiki/" >}}Gryphon) <File:Spectre-icon.png>|[Spectre]({{< ref "/wiki/" >}}Spectre) <File:Reaver-icon.png>|[Reaver]({{< ref "/wiki/" >}}Reaver) <File:Sixfold-icon.png>|[Sixfold]({{< ref "/wiki/" >}}Sixfold) <File:Templar-icon.png>|[Templar]({{< ref "/wiki/" >}}Templar) <File:Lusso-icon.png>|[Lusso]({{< ref "/wiki/" >}}Lusso) <File:Nova-icon.png>|[Nova]({{< ref "/wiki/" >}}Nova) <File:Sentinel-icon.png>|[Sentinel]({{< ref "/wiki/" >}}Sentinel) <File:Xenon-icon.png>|[Xenon]({{< ref "/wiki/" >}}Xenon) <File:Gideon-icon.png>|[Gideon]({{< ref "/wiki/" >}}Gideon) <File:Banshee-icon.png>|[Banshee]({{< ref "/wiki/" >}}Banshee)
 
-### Limited Ships 
+### Limited Ships
 
 Note: (Ships are unorganized)
 
 <File:2020> Ship-icon.png|[2020 Ship]({{< ref "/wiki/" >}}2020-Ship) <File:2022> Ship (soup gone edition)-front.png|[2022 Ship]({{< ref "/wiki/" >}}<2022-Ship-(soup-gon-edition)> "wikilink") <File:Cold> Blood-icon.png|[Cold Blood]({{< ref "/wiki/" >}}Cold-Blood) <File:Coldfront-icon.png>|[Coldfront]({{< ref "/wiki/" >}}Coldfront) <File:Devil's> Broom-icon.png|[Devil's Broom]({{< ref "/wiki/" >}}Devil's-Broom) <File:Ghost-icon.png>|[Ghost]({{< ref "/wiki/" >}}Ghost) <File:Icy-icon.png>|[Icy]({{< ref "/wiki/" >}}Icy) <File:Patriotic> Vengeance-icon.png|[Patriotic Vengeance]({{< ref "/wiki/" >}}Patriotic-Vengeance) <File:Preos> Egg-icon.png|[Preos Egg]({{< ref "/wiki/" >}}Preos-Egg) <File:Retro> Gideon-icon.png|[Retro Gideon]({{< ref "/wiki/" >}}Retro-Gideon) <File:Retro> Sixfold-icon.png|[Retro Sixfold]({{< ref "/wiki/" >}}Retro-Sixfold) <File:Revenge-icon.png>|[Revenge]({{< ref "/wiki/" >}}Revenge) <File:Vampire> X-R4-icon.png|[Vampire X-R4]({{< ref "/wiki/" >}}Vampire-X-R4)
 
-### Removed Ships 
+### Removed Ships
 
 Note: (Ships are unorganized)
 
@@ -222,13 +224,13 @@ Note: (Ships are unorganized)
 
 _(Advanced ships and NPC ships will be under the Special Classes Section and will not be listed here.)_
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** 
+### **<span style="color:yellow">Any ships not listed here will be in</span>**
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Battlecruiser Class 
+## Battlecruiser Class
 
 <div class="mw-collapsible-content">
 
@@ -240,19 +242,19 @@ Note: (Ships are organized from Galaxy's Build Menu)
 
 <File:Absolution-icon.png>|[Absolution]({{< ref "/wiki/" >}}Absolution) <File:Aeaphiel-icon.png>|[**Aeaphiel**]({{< ref "/wiki/" >}}Aeaphiel) <File:Bastion-icon.png>|[Bastion]({{< ref "/wiki/" >}}Bastion) <File:Belvat-icon.png>|[Belvat]({{< ref "/wiki/" >}}Belvat) <File:Black> Flare-icon.png|[Black Flare]({{< ref "/wiki/" >}}Black-Flare) <File:Dire> Wolf-icon.png|[Dire Wolf]({{< ref "/wiki/" >}}Dire-Wolf) <File:Grievion-icon.png>|[Grievion]({{< ref "/wiki/" >}}Grievion) <File:Hecate-icon.webp>|[**Hecate**]({{< ref "/wiki/" >}}Hecate) <File:Marauder-icon.png>|[Marauder]({{< ref "/wiki/" >}}Marauder) <File:Mjolnheimr-icon.png>|[Mjolnheimr]({{< ref "/wiki/" >}}Mjolnheimr) <File:MLRS-icon.png>|[MRLS Launcher]({{< ref "/wiki/" >}}MRLS-Launcher) <File:Radiance-icon.png>|[Radiance]({{< ref "/wiki/" >}}Radiance) <File:Razor> Wing-icon.png|[Razor Wing]({{< ref "/wiki/" >}}Razor-Wing) <File:Sturm-icon.png>|[Sturm]({{< ref "/wiki/" >}}Sturm) <File:Tengu-icon.png>|[Tengu]({{< ref "/wiki/" >}}Tengu) <File:Valiant-icon.png>|[Valiant]({{< ref "/wiki/" >}}Valiant) <File:Vansnova-icon.png>|[Vansnova]({{< ref "/wiki/" >}}Vansnova) <File:Vigilance-icon.png>|[Vigilance]({{< ref "/wiki/" >}}Vigilance)
 
-### Offsale/Removed Ships 
+### Offsale/Removed Ships
 
 Devestation-icon.png|[Devastation]({{< ref "/wiki/" >}}Devastation) <File:Prototype> X-1-icon.png|[Prototype X/1]({{< ref "/wiki/" >}}Prototype-X/1) <File:Hyron-icon.png>|[Hyron]({{< ref "/wiki/" >}}Hyron)
 
 _(Advanced ships and NPC ships will be under the Special Classes Section and will not be listed here.)_
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Battlecruiser]({{< ref "/categories/" >}}battlecruisers). 
+### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Battlecruiser]({{< ref "/categories/" >}}battlecruisers).
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Battleship Class 
+## Battleship Class
 
 <div class="mw-collapsible-content">
 
@@ -264,7 +266,7 @@ Note: (Ships are unorganized)
 
 Aegis-icon.png|[Aegis]({{< ref "/wiki/" >}}Aegis) Ampharos-icon.png|[Ampharos]({{< ref "/wiki/" >}}Ampharos) Archeon-icon.png|[Archeon]({{< ref "/wiki/" >}}Archeon) Cutlass-icon.png|[Cutlass]({{< ref "/wiki/" >}}Cutlass) Genesis-icon.png|[Genesis]({{< ref "/wiki/" >}}Genesis) Hasatan-icon.png|[Hasatan]({{< ref "/wiki/" >}}Hasatan) Hawklight-icon.png|[Hawklight]({{< ref "/wiki/" >}}Hawklight) Jackal-icon.png|[Jackal]({{< ref "/wiki/" >}}Jackal) Katana-icon.png|[Katana]({{< ref "/wiki/" >}}Katana) Legionnaire-icon.png|[Legionnaire]({{< ref "/wiki/" >}}Legionnaire) Loyalist-icon.png|[Loyalist]({{< ref "/wiki/" >}}Loyalist) Nautilus-icon.png|[Nautilus]({{< ref "/wiki/" >}}Nautilus) Nisos-icon.png|[Nisos]({{< ref "/wiki/" >}}Nisos) Panther-icon.png|[**Panther**]({{< ref "/wiki/" >}}Panther) Sentaliz-icon.png|[**Sentaliz**]({{< ref "/wiki/" >}}Sentaliz) Sovereign-icon.png|[Sovereign]({{< ref "/wiki/" >}}Sovereign) Warden-icon.png|[Warden]({{< ref "/wiki/" >}}Warden) Warlock-icon.png|[Warlock]({{< ref "/wiki/" >}}Warlock) Witch-icon.png|[Witch]({{< ref "/wiki/" >}}Witch)
 
-### Offsale/Removed Ships 
+### Offsale/Removed Ships
 
 <File:Consul-icon.png>|[Consul]({{< ref "/wiki/" >}}Consul) <File:Carvainir-icon.png>|[Carvainir]({{< ref "/wiki/" >}}Carvainir) Prowler-icon.png|[Prowler]({{< ref "/wiki/" >}}Prowler)
 
@@ -272,7 +274,7 @@ Aegis-icon.png|[Aegis]({{< ref "/wiki/" >}}Aegis) Ampharos-icon.png|[Ampharos]({
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Dreadnought Class 
+## Dreadnought Class
 
 <div class="mw-collapsible-content">
 
@@ -286,13 +288,13 @@ Andromeda-icon.png|[**Andromeda**]({{< ref "/wiki/" >}}Andromeda) Apocalypse-ico
 
 _(Advanced ships and NPC ships will be under the Special Classes Section and will not be listed here.)_
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Dreadnought]({{< ref "/categories/" >}}dreadnoughts). 
+### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Dreadnought]({{< ref "/categories/" >}}dreadnoughts).
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Carrier Class 
+## Carrier Class
 
 <div class="mw-collapsible-content">
 
@@ -304,13 +306,13 @@ Conqueror-icon.png|[Conqueror]({{< ref "/wiki/" >}}Conqueror) Executioner-icon.p
 
 _(Advanced ships and NPC ships will be under the Special Classes Section and will not be listed here.)_
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Carrier]({{< ref "/categories/" >}}carriers). 
+### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Carrier]({{< ref "/categories/" >}}carriers).
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Fighter Class 
+## Fighter Class
 
 <div class="mw-collapsible-content">
 
@@ -320,19 +322,19 @@ They possess no [Warp Drive]({{< ref "/wiki/" >}}Warp-Drive) unlike other ship c
 
 Blitz-icon.png|[Blitz]({{< ref "/wiki/" >}}Blitz) Dragonfly-icon.png|[Dragonfly]({{< ref "/wiki/" >}}Dragonfly) Elanis-icon.png|[Elanis]({{< ref "/wiki/" >}}Elanis) Falcon-icon.png|[Falcon]({{< ref "/wiki/" >}}Falcon) Foxfire-icon.png|[Foxfire]({{< ref "/wiki/" >}}Foxfire) Frenzy-icon.png|[Frenzy]({{< ref "/wiki/" >}}Frenzy) Fury-icon.png|[Fury]({{< ref "/wiki/" >}}Fury) Harbinger-icon.png|[Harbinger]({{< ref "/wiki/" >}}Harbinger) Hunter-icon.png|[Hunter]({{< ref "/wiki/" >}}Hunter) Instigator-icon.png|[Instigator]({{< ref "/wiki/" >}}Instigator) Interceptor F-icon.png|[Interceptor F]({{< ref "/wiki/" >}}Interceptor-F) Inflictor-icon.png|[Inflictor]({{< ref "/wiki/" >}}Inflictor) Nighthawk-icon.png|[Nighthawk]({{< ref "/wiki/" >}}Nighthawk) Nixesion-icon.png|[Nixesion]({{< ref "/wiki/" >}}Nixesion) Raptor-icon.png|[Raptor]({{< ref "/wiki/" >}}Raptor) Starbase Fury-icon.png|[Starbase Fury]({{< ref "/wiki/" >}}Starbase-Fury) Starhunter-icon.png|[Starhunter]({{< ref "/wiki/" >}}Starhunter) Striker-icon.png|[Striker]({{< ref "/wiki/" >}}Striker) Swarmer Prototype-icon.png|[Swarmer Prototype]({{< ref "/wiki/" >}}Swarmer-Prototype) Valkyrie-icon.png|[Valkyrie]({{< ref "/wiki/" >}}Valkyrie) ShieldSide-icon.png|[ShieldSide]({{< ref "/wiki/" >}}ShieldSide)
 
-### Removed/Not Used 
+### Removed/Not Used
 
 V-22 OSPREY - S-icon.png|[**V-22 Osprey - S**]({{< ref "/wiki/" >}}V-22-OSPREY---S) V-22 OSPREY - H-icon.png|[**V-22 Osprey - H**]({{< ref "/wiki/" >}}V-22-OSPREY---H) F-18.png|[F-18]({{< ref "/wiki/" >}}F-18) Unarmed Envoy-icon.png|[Unarmed Envoy]({{< ref "/wiki/" >}}Unarmed-Envoy) Xenophile-icon.png|[Xenophile]({{< ref "/wiki/" >}}Xenophile)
 
 _(Advanced ships and NPC ships will be under the Special Classes Section and will not be listed here.)_
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** 
+### **<span style="color:yellow">Any ships not listed here will be in</span>**
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Super Capital Class 
+## Super Capital Class
 
 <div class="mw-collapsible-content">
 
@@ -362,13 +364,13 @@ Thubjugator-icon.png|[Thubjugator]({{< ref "/wiki/" >}}Thubjugator)
 
 _(Advanced ships and NPC ships will be under the Special Classes Section and will not be listed here.)_
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Super Capital Ship]({{< ref "/categories/" >}}super-capital-ships). 
+### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Super Capital Ship]({{< ref "/categories/" >}}super-capital-ships).
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Admin Class 
+## Admin Class
 
 <div class="mw-collapsible-content">
 
@@ -376,19 +378,19 @@ These ships are restricted only to Admins and can only be spawned by Admins or M
 
 <File:Placeholder.png>|[Peter Gryphon]({{< ref "/wiki/" >}}Peter-Gryphon) <File:Holy> Bible-icon.png|[Holy Bible]({{< ref "/wiki/" >}}Holy-Bible) <File:Baby> Leviathan-icon.png|[Baby Leviathan]({{< ref "/wiki/" >}}Baby-Leviathan) <File:Placeholder.png>|[Dont use or banned]({{< ref "/wiki/" >}}Dont-use-or-banned) <File:Egg-icon.png>|[Egg]({{< ref "/wiki/" >}}Egg) <File:Revenue-icon.png>|[Revenue]({{< ref "/wiki/" >}}Revenue) <File:Spectating> Ship-icon.png|[Spectating Ship]({{< ref "/wiki/" >}}Spectating-Ship) <File:Chad> Swarmer-icon.png|[Chad Swarmer]({{< ref "/wiki/" >}}Chad-Swarmer) <File:Jetpack-icon.png>|[Jetpack]({{< ref "/wiki/" >}}Jetpack) <File:Toyota> AE85-icon.png|[Toyota AE85]({{< ref "/wiki/" >}}Toyota-AE85) <File:Malice-icon.png>|[Malice]({{< ref "/wiki/" >}}Malice) <File:Frog-icon.png>|[Frog]({{< ref "/wiki/" >}}Frog) <File:Key-icon.png>|[Key]({{< ref "/wiki/" >}}Key) <File:Key1-icon.png>|[Key1]({{< ref "/wiki/" >}}Key1) <File:Key2-icon.png>|[Key2]({{< ref "/wiki/" >}}Key2) <File:Key3-icon.png>|[Key3]({{< ref "/wiki/" >}}Key3) <File:Kodiak> A-icon.png|[Kodiak A]({{< ref "/wiki/" >}}Kodiak-A) <File:Chaos-icon.png>|[Chaos]({{< ref "/wiki/" >}}Chaos) <File:Placeholder.png>|[Prototype X-4]({{< ref "/wiki/" >}}Prototype-X-4) <File:Concerthalloverview.png>|[Concert Hall]({{< ref "/wiki/" >}}Concert-Hall) <File:Maple> Galaxy-icon.png|[Maple Galaxy]({{< ref "/wiki/" >}}Maple-Galaxy)
 
-### Removed Admin Ships 
+### Removed Admin Ships
 
 ß-icon.png|[ß]({{< ref "/wiki/" >}}ß) Aurora-icon.png|[Aurora]({{< ref "/wiki/" >}}Aurora) Eclipse-icon.png|[Eclipse]({{< ref "/wiki/" >}}Eclipse) Flying Car-icon.png|[Flying Car]({{< ref "/wiki/" >}}Flying-Car) Golden Flare-icon.png|[Golden Flare]({{< ref "/wiki/" >}}Golden-Flare) Goliath X-icon.png|[Goliath X]({{< ref "/wiki/" >}}Goliath-X) Halloween Ship-icon.png|[Halloween Ship]({{< ref "/wiki/" >}}Halloween-Ship) Mastodon-icon.png|[Mastodon]({{< ref "/wiki/" >}}Mastodon) Phalanx-icon.png|[Phalanx]({{< ref "/wiki/" >}}Phalanx) Pill-icon.png|[Pill]({{< ref "/wiki/" >}}Pill) Revenue-icon.png|[Revenue]({{< ref "/wiki/" >}}Revenue)
 
 _(Advanced ships and NPC ships will be under the Special Classes Section and will not be listed here.)_
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Admin]({{< ref "/categories/" >}}admin-ships). 
+### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Admin]({{< ref "/categories/" >}}admin-ships).
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Special Ships 
+## Special Ships
 
 <div class="mw-collapsible-content">
 
@@ -396,123 +398,123 @@ These types of ships still use standard ship classes but have factors that make 
 
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Limited Ships 
+## Limited Ships
 
 <div class="mw-collapsible-content">
 
 [Limited]({{< ref "/categories/" >}}limited-ships) Ships are a special type of ships that are usually much more powerful, expensive and rare and are usually acquired from [Quests]({{< ref "/wiki/" >}}Quests) in [Events]({{< ref "/categories/" >}}events), but many Limited Ships are also able to be built both in the Build Menu and the **Limited Build Menu**.
 
-### [Halloween Event 2016]({{< ref "/wiki/" >}}Halloween-Event-2016) 
+### [Halloween Event 2016]({{< ref "/wiki/" >}}Halloween-Event-2016)
 
 Halloween Grievion-icon.png|[Halloween Grievion]({{< ref "/wiki/" >}}Halloween-Grievion) Halloween Hawklight-icon.png|[Halloween Hawklight]({{< ref "/wiki/" >}}Halloween-Hawklight)
 
-### [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017) 
+### [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017)
 
 Blood Wing-icon.png|[Blood Wing]({{< ref "/wiki/" >}}Blood-Wing) Bone Ampharos-icon.png|[Bone Ampharos]({{< ref "/wiki/" >}}Bone-Ampharos) Frankenemi-icon.png|[Frankenemi]({{< ref "/wiki/" >}}Frankenemi) Ghoul Nyx-icon.png|[Ghoul Nyx]({{< ref "/wiki/" >}}Ghoul-Nyx) Spirit Nixesion-icon.png|[Spirit]({{< ref "/wiki/" >}}Spirit) Reaper-icon.png|[Reaper]({{< ref "/wiki/" >}}Reaper) Spiderblade-icon.png|[Spiderblade]({{< ref "/wiki/" >}}Spiderblade)
 
-### [Christmas Event 2017]({{< ref "/wiki/" >}}Christmas-Event-2017) 
+### [Christmas Event 2017]({{< ref "/wiki/" >}}Christmas-Event-2017)
 
 Blizzard-icon.png|[Blizzard]({{< ref "/wiki/" >}}Blizzard) Coal Wasp-icon.png|[Coal Wasp]({{< ref "/wiki/" >}}Coal-Wasp) Festive Wasp-icon.png|[Festive Wasp]({{< ref "/wiki/" >}}Festive-Wasp) Glacier-icon.png|[Glacier]({{< ref "/wiki/" >}}Glacier) Icy-icon.png|[Icy]({{< ref "/wiki/" >}}Icy) Viking-icon.png|[Viking]({{< ref "/wiki/" >}}Viking) Woolly Mammoth-icon.png|[Woolly Mammoth]({{< ref "/wiki/" >}}Woolly-Mammoth)
 
-### [Fourth of July Event 2018]({{< ref "/wiki/" >}}Fourth-of-July-Event-2018) 
+### [Fourth of July Event 2018]({{< ref "/wiki/" >}}Fourth-of-July-Event-2018)
 
 Patriotic Rorqual-icon.png|[Patriotic Rorqual]({{< ref "/wiki/" >}}Patriotic-Rorqual) Patriotic Hercules-icon.png|[Patriotic Hercules]({{< ref "/wiki/" >}}Patriotic-Hercules)
 
-### [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018) 
+### [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018)
 
 Cyber Leviathan-icon.png|[Cyber Leviathan]({{< ref "/wiki/" >}}Cyber-Leviathan) Dragon-icon.png|[Dragon]({{< ref "/wiki/" >}}Dragon) Ghost-icon.png|[Ghost]({{< ref "/wiki/" >}}Ghost) Green Snake-icon.png|[Green Snake]({{< ref "/wiki/" >}}Green-Snake) Grim-icon.png|[Grim]({{< ref "/wiki/" >}}Grim) Hallowlight-icon.png|[Hallowlight]({{< ref "/wiki/" >}}Hallowlight) Kapisi-icon.png|[Kapisi]({{< ref "/wiki/" >}}Kapisi) Bonehawk-icon.png|[Bonehawk]({{< ref "/wiki/" >}}Bonehawk) Pirated Grievion-icon.png|[Pirated Grievion]({{< ref "/wiki/" >}}Pirated-Grievion) Skeletal Ghostealis-icon.png|[Skeletal Ghostealis]({{< ref "/wiki/" >}}Skeletal-Ghostealis) Wraith-icon.png|[Wraith]({{< ref "/wiki/" >}}Wraith)
 
-### [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018) 
+### [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018)
 
 Arctic Sparrow-icon.png|[Arctic Sparrow]({{< ref "/wiki/" >}}Arctic-Sparrow) Clauspector-icon.png|[Clauspector]({{< ref "/wiki/" >}}Clauspector) Cold Blood-icon.png|[Cold Blood]({{< ref "/wiki/" >}}Cold-Blood) Festive Wyrm-icon.png|[Festive Wyrm]({{< ref "/wiki/" >}}Festive-Wyrm) Frostpocalypse-icon.png|[Frostpocalypse]({{< ref "/wiki/" >}}Frostpocalypse) Frozen MRLS Launcher-icon.png|[Frozen MRLS Launcher]({{< ref "/wiki/" >}}Frozen-MRLS-Launcher) Ghost of Christmas Death-icon.png|[Ghost of Christmas Death]({{< ref "/wiki/" >}}Ghost-of-Christmas-Death) Snowy Advanced Miner-icon.png|[Snowy Advanced Miner]({{< ref "/wiki/" >}}Snowy-Advanced-Miner)
 
-### [Fourth of July Event 2019]({{< ref "/wiki/" >}}Fourth-of-July-Event-2019) 
+### [Fourth of July Event 2019]({{< ref "/wiki/" >}}Fourth-of-July-Event-2019)
 
 Patriotic Crucible-icon.png|[Patriotic Crucible]({{< ref "/wiki/" >}}Patriotic-Crucible) Patriotic Defiance-icon.png|[Patriotic Defiance]({{< ref "/wiki/" >}}Patriotic-Defiance) Patriotic Ibis-icon.png|[Patriotic Ibis]({{< ref "/wiki/" >}}Patriotic-Ibis) Patriotic Osprey-icon.png|[Patriotic Osprey]({{< ref "/wiki/" >}}Patriotic-Osprey) Patriotic Phantom-icon.png|[Patriotic Phantom]({{< ref "/wiki/" >}}Patriotic-Phantom) Patriotic Vengeance-icon.png|[Patriotic Vengeance]({{< ref "/wiki/" >}}Patriotic-Vengeance) Patriotic Viper-icon.png|[Patriotic Viper]({{< ref "/wiki/" >}}Patriotic-Viper)
 
-### [Retro Ship Event 2019]({{< ref "/wiki/" >}}Retro-Ship-Event-2019) 
+### [Retro Ship Event 2019]({{< ref "/wiki/" >}}Retro-Ship-Event-2019)
 
 Retro Advanced Miner-icon.png|[Retro Advanced Miner]({{< ref "/wiki/" >}}Retro-Advanced-Miner) Retro Gideon-icon.png|[Retro Gideon]({{< ref "/wiki/" >}}Retro-Gideon) Retro Grievion-icon.png|[Retro Grievion]({{< ref "/wiki/" >}}Retro-Grievion) Retro Hawklight-icon.png|[Retro Hawklight]({{< ref "/wiki/" >}}Retro-Hawklight) Retro Hercules-icon.png|[Retro Hercules]({{< ref "/wiki/" >}}Retro-Hercules) Retro Leviathan-icon.png|[Retro Leviathan]({{< ref "/wiki/" >}}Retro-Leviathan) Retro Naglfar-icon.png|[Retro Naglfar]({{< ref "/wiki/" >}}Retro-Naglfar) Retro Ridgebreaker-icon.png|[Retro Ridgebreaker]({{< ref "/wiki/" >}}Retro-Ridgebreaker) Retro Sixfold-icon.png|[Retro Sixfold]({{< ref "/wiki/" >}}Retro-Sixfold)
 
-### [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019) 
+### [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019)
 
 Abaddon-icon.png|[Abaddon]({{< ref "/wiki/" >}}Abaddon) Aberrant-icon.png|[Aberrant]({{< ref "/wiki/" >}}Aberrant) Astaroth-icon.png|[Astaroth]({{< ref "/wiki/" >}}Astaroth) Azreal-icon.png|[Azreal]({{< ref "/wiki/" >}}Azreal) Demon-icon.png|[Demon]({{< ref "/wiki/" >}}Demon) Erebus-icon.png|[Erebus]({{< ref "/wiki/" >}}Erebus) Hallow-icon.png|[Hallow]({{< ref "/wiki/" >}}Hallow) Lucifer-icon.png|[Lucifer]({{< ref "/wiki/" >}}Lucifer) Plagued Warship-icon.png|[Plagued Warship]({{< ref "/wiki/" >}}Plagued-Warship)
 
-### [Christmas Event 2019]({{< ref "/wiki/" >}}Christmas-Event-2019) 
+### [Christmas Event 2019]({{< ref "/wiki/" >}}Christmas-Event-2019)
 
 2020 Ship-icon.png|[2020 Ship]({{< ref "/wiki/" >}}2020-Ship) Antares-icon.png|[Antares]({{< ref "/wiki/" >}}Antares) Coldfront-icon.png|[Coldfront]({{< ref "/wiki/" >}}Coldfront) Double Fractal-icon.png|[Double Fractal]({{< ref "/wiki/" >}}Double-Fractal) Hailstorm-icon.png|[Hailstorm]({{< ref "/wiki/" >}}Hailstorm) Frostfire-icon.png|[Frostfire]({{< ref "/wiki/" >}}Frostfire) Icicle-icon.png|[Icicle]({{< ref "/wiki/" >}}Icicle) Permafrost-icon.png|[Permafrost]({{< ref "/wiki/" >}}Permafrost) Santaliz-icon.png|[Santaliz]({{< ref "/wiki/" >}}Santaliz) Snowball-icon.png|[Snowball]({{< ref "/wiki/" >}}Snowball) Snowfall-icon.png|[Snowfall]({{< ref "/wiki/" >}}Snowfall)
 
-### [April Fool's Event 2020]({{< ref "/wiki/" >}}April-Fool's-Event-2020) 
+### [April Fool's Event 2020]({{< ref "/wiki/" >}}April-Fool's-Event-2020)
 
 3D Printed Wasp-icon.png|[3D Printed Wasp]({{< ref "/wiki/" >}}3D-Printed-Wasp) Baby Tyrant-icon.png|[Baby Tyrant]({{< ref "/wiki/" >}}Baby-Tyrant)
 
-### [Fourth of July Event 2020]({{< ref "/wiki/" >}}Fourth-of-July-Event-2020) 
+### [Fourth of July Event 2020]({{< ref "/wiki/" >}}Fourth-of-July-Event-2020)
 
 Freedom Galaxy-icon.png|[Freedom Galaxy]({{< ref "/wiki/" >}}Freedom-Galaxy) Liberator-icon.png|[Liberator]({{< ref "/wiki/" >}}Liberator)
 
-### [Retro Ship Event 2020]({{< ref "/wiki/" >}}Retro-Ship-Event-2020) 
+### [Retro Ship Event 2020]({{< ref "/wiki/" >}}Retro-Ship-Event-2020)
 
 Retro Centurion-icon.png|[Retro Centurion]({{< ref "/wiki/" >}}Retro-Centurion) Retro Cyclops-icon.png|[Retro Cyclops]({{< ref "/wiki/" >}}Retro-Cyclops)
 
-### [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) 
+### [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020)
 
 Acolyte-icon.png|[Acolyte]({{< ref "/wiki/" >}}Acolyte) Black Scarab-icon.png|[Black Scarab]({{< ref "/wiki/" >}}Black-Scarab) Blackgate-icon.png|[Blackgate]({{< ref "/wiki/" >}}Blackgate) Dullahan-icon.png|[Dullahan]({{< ref "/wiki/" >}}Dullahan) Incarnate-icon.png|[Incarnate]({{< ref "/wiki/" >}}Incarnate) Jack-Al'-Lantern-icon.png|[Jack-Al'-Lantern]({{< ref "/wiki/" >}}Jack-Al'-Lantern) Jupiter-icon.png|[Jupiter]({{< ref "/wiki/" >}}Jupiter) Naga-icon.png|[Naga]({{< ref "/wiki/" >}}Naga) Revenge-icon.png|[Revenge]({{< ref "/wiki/" >}}Revenge) Vampire X-R4-icon.png|[Vampire X-R4]({{< ref "/wiki/" >}}Vampire-X-R4)
 
-### [Black Friday Event 2020]({{< ref "/wiki/" >}}Black-Friday-Event-2020) 
+### [Black Friday Event 2020]({{< ref "/wiki/" >}}Black-Friday-Event-2020)
 
 Golden Viper-icon.png|[Golden Viper]({{< ref "/wiki/" >}}Golden-Viper) Atlas-icon.png|[Atlas]({{< ref "/wiki/" >}}Atlas)
 
-### [Christmas Event 2020]({{< ref "/wiki/" >}}Christmas-Event-2020) 
+### [Christmas Event 2020]({{< ref "/wiki/" >}}Christmas-Event-2020)
 
 Christmas Tree-icon.png|[Christmas Tree]({{< ref "/wiki/" >}}Christmas-Tree) Crystocrene-icon.png|[Crystocrene]({{< ref "/wiki/" >}}Crystocrene) Santa's Workshop-icon.png|[Santa's Workshop]({{< ref "/wiki/" >}}Santa's-Workshop) Snowsturm-icon.png|[Snowsturm]({{< ref "/wiki/" >}}Snowsturm) Toy Mega Base-icon.png|[Toy Mega Base]({{< ref "/wiki/" >}}Toy-Mega-Base)
 
-### [Fourth of July 2021]({{< ref "/wiki/" >}}Fourth-of-July-2021) 
+### [Fourth of July 2021]({{< ref "/wiki/" >}}Fourth-of-July-2021)
 
 Patriotic Wasp-icon.png|[Patriotic Wasp]({{< ref "/wiki/" >}}Patriotic-Wasp) Patriotic Harvester-icon.png|[Patriotic Harvester]({{< ref "/wiki/" >}}Patriotic-Harvester) Patriotic Draco-icon.png|[Patriotic Draco]({{< ref "/wiki/" >}}Patriotic-Draco) Patriotic Sixfold-icon.png|[Patriotic Sixfold]({{< ref "/wiki/" >}}Patriotic-Sixfold) Patriotic Devastation-icon.png|[Patriotic Devastation]({{< ref "/wiki/" >}}Patriotic-Devastation) Freedom Wolf-icon.png|[Freedom Wolf]({{< ref "/wiki/" >}}Freedom-Wolf) Freedom General-icon.png|[Freedom General]({{< ref "/wiki/" >}}Freedom-General) Maple Orca-icon.png|[Maple Orca]({{< ref "/wiki/" >}}Maple-Orca) Maple Witch-icon.png|[Maple Witch]({{< ref "/wiki/" >}}Maple-Witch) Maple Aura-icon.png|[Maple Aura]({{< ref "/wiki/" >}}Maple-Aura) Maple Syrup Launcher-icon.png|[Maple Syrup Launcher]({{< ref "/wiki/" >}}Maple-Syrup-Launcher) Weapon of Mass Destruction-icon.png|[Weapon of Mass Destruction]({{< ref "/wiki/" >}}Weapon-of-Mass-Destruction) Icebreaker-icon.png|[Icebreaker]({{< ref "/wiki/" >}}Icebreaker) Arctic Wasteland-icon.png|[Arctic Wasteland]({{< ref "/wiki/" >}}Arctic-Wasteland) Nuclear Catalyst-icon.png|[Nuclear Catalyst]({{< ref "/wiki/" >}}Nuclear-Catalyst) Obamasphere-icon.png|[Obamasphere]({{< ref "/wiki/" >}}Obamasphere) Liberty-icon.png|[Liberty]({{< ref "/wiki/" >}}Liberty) Dominion-icon.png|[Dominion]({{< ref "/wiki/" >}}Dominion)
 
 _Note: Most of the ships in this event were removed_
 
-### [Retro Ship Event 2021]({{< ref "/wiki/" >}}Retro-Ship-Event-2021) 
+### [Retro Ship Event 2021]({{< ref "/wiki/" >}}Retro-Ship-Event-2021)
 
 Retro Commercial Miner-icon.png|[Retro Commercial Miner]({{< ref "/wiki/" >}}Retro-Commercial-Miner) Retro Aegis-icon.png|[Retro Aegis]({{< ref "/wiki/" >}}Retro-Aegis) Beta Warlock-icon.png|[Beta Warlock]({{< ref "/wiki/" >}}Beta-Warlock) Retro Andromeda-icon.png|[Retro Andromeda]({{< ref "/wiki/" >}}Retro-Andromeda) Retro Nyx-icon.png|[Retro Nyx]({{< ref "/wiki/" >}}Retro-Nyx)
 
-### [Halloween Event 2021]({{< ref "/wiki/" >}}Halloween-Event-2021) 
+### [Halloween Event 2021]({{< ref "/wiki/" >}}Halloween-Event-2021)
 
 Valkerac-icon.png|[Valkerac]({{< ref "/wiki/" >}}Valkerac) Revenant-icon.png|[Revenant]({{< ref "/wiki/" >}}Revenant) Halkaryak-icon.png|[Halkaryak]({{< ref "/wiki/" >}}Halkaryak) Preos Egg-icon.png|[Preos Egg]({{< ref "/wiki/" >}}Preos-Egg) Preos Hatchling-icon.png|[Preos Hatchling]({{< ref "/wiki/" >}}Preos-Hatchling) Preos Juvenile-icon.png|[Preos Juvenile]({{< ref "/wiki/" >}}Preos-Juvenile) Preos Adult-icon.png|[Preos Adult]({{< ref "/wiki/" >}}Preos-Adult) Prikkit-icon.png|[Prikkit]({{< ref "/wiki/" >}}Prikkit) Requiem-icon.png|[Requiem]({{< ref "/wiki/" >}}Requiem) Brawler-icon.png|[Brawler]({{< ref "/wiki/" >}}Brawler) Crescendo-icon.png|[Crescendo]({{< ref "/wiki/" >}}Crescendo) Zillavik-icon.png|[Zillavik]({{< ref "/wiki/" >}}Zillavik) Lillak-icon.png|[Lillak]({{< ref "/wiki/" >}}Lillak) Epoka-icon.png|[Epoka]({{< ref "/wiki/" >}}Epoka)
 
-### [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021) 
+### [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021)
 
 Flea-icon.png|[Flea]({{< ref "/wiki/" >}}Flea) Solstice-icon.png|[Solstice]({{< ref "/wiki/" >}}Solstice) Shadowmane-icon.png|[Shadowmane]({{< ref "/wiki/" >}}Shadowmane) Mantid-icon.png|[Mantid]({{< ref "/wiki/" >}}Mantid) Khapri-icon.png|[Khapri]({{< ref "/wiki/" >}}Khapri)
 
-### [Retro Ship Event 2022]({{< ref "/wiki/" >}}Retro-Ship-Event-2022) 
+### [Retro Ship Event 2022]({{< ref "/wiki/" >}}Retro-Ship-Event-2022)
 
 Retro Prototype X-1-icon.png|[Retro Prototype X-1]({{< ref "/wiki/" >}}Retro-Prototype-X-1) Retro Prototype X-2-icon.png|[Retro Prototype X-2]({{< ref "/wiki/" >}}Retro-Prototype-X-2)
 
-### [April Fool's Event 2022]({{< ref "/wiki/" >}}April-Fool's-Event-2022) 
+### [April Fool's Event 2022]({{< ref "/wiki/" >}}April-Fool's-Event-2022)
 
 Mega Elanis-icon.png|[Mega Elanis]({{< ref "/wiki/" >}}Mega-Elanis) MRLS Launcher Launcher-icon.png|[MRLS Launcher Launcher]({{< ref "/wiki/" >}}MRLS-Launcher-Launcher) Waspinator-icon.png|[Waspinator]({{< ref "/wiki/" >}}Waspinator)
 
-### [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event) 
+### [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event)
 
 Annihilator-icon.png|[Annihilator]({{< ref "/wiki/" >}}Annihilator) Onslaught-icon.png|[Onslaught]({{< ref "/wiki/" >}}Onslaught) A-Brawler.png|[A - Brawler]({{< ref "/wiki/" >}}A---Brawler) A-Bruise.png|[A - Bruiser]({{< ref "/wiki/" >}}A---Bruiser)
 
-### [Fourth of July 2022]({{< ref "/wiki/" >}}Fourth-of-July-2022) 
+### [Fourth of July 2022]({{< ref "/wiki/" >}}Fourth-of-July-2022)
 
 SR-71-icon.png|[SR-71]({{< ref "/wiki/" >}}SR-71) Macross-icon.png|[Macross]({{< ref "/wiki/" >}}Macross)
 
-### [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022) 
+### [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022)
 
 Retro Ampharos-icon.png|[Retro Ampharos]({{< ref "/wiki/" >}}Retro-Ampharos)
 
-### [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022) 
+### [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022)
 
 Anathema-icon.png|[Anathema]({{< ref "/wiki/" >}}Anathema) Apotheosis-icon.png|[Apotheosis]({{< ref "/wiki/" >}}Apotheosis) Aedes-icon.png|[Aedes]({{< ref "/wiki/" >}}Aedes) Ascendant-icon.png|[Ascendant]({{< ref "/wiki/" >}}Ascendant)
 
-### [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022) 
+### [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022)
 
 Aludra-icon.png|[Aludra]({{< ref "/wiki/" >}}Aludra)
 
-### [Retro Ship Event 2024]({{< ref "/wiki/" >}}Retro-Ship-Event-2024) 
+### [Retro Ship Event 2024]({{< ref "/wiki/" >}}Retro-Ship-Event-2024)
 
 Retro_Apocalypse-icon.png|[Retro Apocalypse]({{< ref "/wiki/" >}}Retro-Apocalypse) Retro_Avalon-icon.png|[Retro Avalon]({{< ref "/wiki/" >}}Retro-Avalon) Retro_Bastion-icon.png|[Retro Bastion]({{< ref "/wiki/" >}}Retro-Bastion) Retro_Nemesis-icon.png|[Retro Nemesis]({{< ref "/wiki/" >}}Retro-Nemesis) Retro_Slipstream-icon.png|[Retro Slipstream]({{< ref "/wiki/" >}}Retro-Slipstream) Retro_Sovereign-icon.png|[Retro Sovereign]({{< ref "/wiki/" >}}Retro-Sovereign) Retro_Spectre-icon.png|[Retro Spectre]({{< ref "/wiki/" >}}Retro-Spectre) Retro_Vanguard-icon.png|[Retro Vanguard]({{< ref "/wiki/" >}}Retro-Vanguard)
 
@@ -520,11 +522,11 @@ Retro_Apocalypse-icon.png|[Retro Apocalypse]({{< ref "/wiki/" >}}Retro-Apocalyps
 
 2018 Ship-icon.png|[2018 Ship]({{< ref "/wiki/" >}}2018-Ship) 3D Printed Warlock-icon.png|[3D Printed Warlock]({{< ref "/wiki/" >}}3D-Printed-Warlock) Alpha Ship-icon.png|[Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship) Discordite Cluster-icon.png|[Discordite Cluster]({{< ref "/wiki/" >}}Discordite-Cluster) Sakala-icon.png|[Sakala]({{< ref "/wiki/" >}}Sakala) 3D Printed Apocalypse-icon.png|[3D Printed Apocalypse]({{< ref "/wiki/" >}}3D-Printed-Apocalypse)
 
-### Hidden Events 
+### Hidden Events
 
 Blue Torp Wasp-icon.png|[Blue Torp Wasp]({{< ref "/wiki/" >}}Blue-Torp-Wasp) Disruptor-icon.png|[Disruptor]({{< ref "/wiki/" >}}Disruptor) Heartbreaker-icon.png|[Heartbreaker]({{< ref "/wiki/" >}}Heartbreaker) Prototype X-3-icon.png|[Prototype X-3]({{< ref "/wiki/" >}}Prototype-X-3) United States of Razor-icon.png|[United States of Razor]({{< ref "/wiki/" >}}United-States-of-Razor) Widowmaker-icon.png|[Widowmaker]({{< ref "/wiki/" >}}Widowmaker) Revylation Overview.png|[Revylation 🦍]({{< ref "/wiki/" >}}Revylation-🦍) Bombe-icon.png|[Bombe]({{< ref "/wiki/" >}}Bombe) ReklfarIcon.png|[Reklfar 🇫🇷]({{< ref "/wiki/" >}}Reklfar-🇫🇷)
 
-### yname Birthday Event 
+### yname Birthday Event
 
 yname-icon.png|[Yname (ship)]({{< ref "/wiki/" >}}<Yname-(ship)> "wikilink")
 
@@ -534,13 +536,13 @@ C Class-icon.png|[C Class]({{< ref "/wiki/" >}}C-Class) Lykos-icon.png|[Lykos]({
 
 _(Advanced ships and NPC ships will be under the Special Classes Section and will not be listed here.)_
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Limited]({{< ref "/categories/" >}}limited-ships). 
+### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Limited]({{< ref "/categories/" >}}limited-ships).
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Advanced Ships 
+## Advanced Ships
 
 <div class="mw-collapsible-content">
 
@@ -550,13 +552,13 @@ _(Advanced ships and NPC ships will be under the Special Classes Section and wil
 
 Nightmare-icon.png|[Nightmare]({{< ref "/wiki/" >}}Nightmare) Zhen-icon.png|[Zhen]({{< ref "/wiki/" >}}Zhen) Atheon-icon.png|[Atheon]({{< ref "/wiki/" >}}Atheon) Imperator-icon.png|[Imperator]({{< ref "/wiki/" >}}Imperator) Helios-icon.png|[Helios]({{< ref "/wiki/" >}}Helios) Osiris-icon.png|[Osiris]({{< ref "/wiki/" >}}Osiris) Slipstream-icon.png|[Slipstream]({{< ref "/wiki/" >}}Slipstream) Borealis-icon.png|[Borealis]({{< ref "/wiki/" >}}Borealis)
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Advanced Ship]({{< ref "/categories/" >}}advanced-ships). 
+### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Advanced Ship]({{< ref "/categories/" >}}advanced-ships).
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## Stealth Ships 
+## Stealth Ships
 
 <div class="mw-collapsible-content">
 
@@ -564,17 +566,17 @@ Nightmare-icon.png|[Nightmare]({{< ref "/wiki/" >}}Nightmare) Zhen-icon.png|[Zhe
 
 Stealth Recon-icon.png|[Stealth Recon]({{< ref "/wiki/" >}}Stealth-Recon) Stealth B-2-icon.png|[Stealth B-2]({{< ref "/wiki/" >}}Stealth-B-2) Stealth One-icon.png|[Stealth One]({{< ref "/wiki/" >}}Stealth-One)
 
-### Limited Ships 
+### Limited Ships
 
 Ghost-icon.png|[Ghost]({{< ref "/wiki/" >}}Ghost) SR-71-icon.png|[SR-71]({{< ref "/wiki/" >}}SR-71)
 
-### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Stealth Ship]({{< ref "/categories/" >}}stealth-ships). 
+### **<span style="color:yellow">Any ships not listed here will be in</span>** [:Category:Stealth Ship]({{< ref "/categories/" >}}stealth-ships).
 
 </div>
 </div>
 <div class="tococolours mw-collapsible mw-collapsed">
 
-## AI Class 
+## AI Class
 
 <div class="mw-collapsible-content">
 
@@ -582,7 +584,7 @@ The AI Class encompasses various ships that can spawn naturally or via quest whi
 
 More information can be found on the page [AI]({{< ref "/wiki/" >}}AI), and the pages [U.N.E]({{< ref "/wiki/" >}}U.N.E), [Pirates]({{< ref "/wiki/" >}}Pirates) and [Aliens]({{< ref "/wiki/" >}}Aliens). While event AI Ships can be found on their respective event pages.
 
-### **<span style="color:yellow">AI ships are listed here in</span>** [:Category:AI]({{< ref "/categories/" >}}npc-ships). 
+### **<span style="color:yellow">AI ships are listed here in</span>** [:Category:AI]({{< ref "/categories/" >}}npc-ships).
 
 <div class="tococolours mw-collapsible mw-collapsed">
 </div>

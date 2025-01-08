@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/How-To-Play-Galaxy
+  - /wiki/How-To-Play-Galaxy
 categories:
-- Getting_Started
+  - Getting_Started
 title: How To Play Galaxy
----<div class="cardcontainer">
+---
+
+<div class="cardcontainer">
 # How To Play Galaxy
 
 Getting started is easy! You are going to need to make some credits and gather materials to build some awesome new warships, freighters, and miners. You start with a small mining ship called the [Wasp]({{< ref "/wiki/" >}}Wasp) and a small freighter, the [Wyrm]({{< ref "/wiki/" >}}Wyrm). Stand near the center of a [Starbase]({{< ref "/wiki/" >}}Starbase) and click on the OPEN MENU button that appears near the bottom of your screen.

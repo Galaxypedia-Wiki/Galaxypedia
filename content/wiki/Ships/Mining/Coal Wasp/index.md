@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Coal-Wasp
+  - /wiki/Coal-Wasp
 categories:
-- Mining Ships
-- Christmas Event 2017
-- Limited Ships
-- Reskins
-- Ships
+  - Mining Ships
+  - Christmas Event 2017
+  - Limited Ships
+  - Reskins
+  - Ships
 title: Coal Wasp
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Coal Wasp_** is a Limited Event version of the [Wasp]({{< ref "/wiki/" >}}Wasp) known for its incredible speed. 
+The **_Coal Wasp_** is a Limited Event version of the [Wasp]({{< ref "/wiki/" >}}Wasp) known for its incredible speed.
 
 ## Description
 
@@ -45,7 +45,7 @@ Like the Wasp, the **Coal Wasp** has little interior.
 - Treat this ship like a trophy.
 - Ask someone if they wanted coal for Christmas. They'll love this piece of coal.
 
-## Version History 
+## Version History
 
 - Added in Update .60a.
 - Received a buff in Update .60d that boosted Top Speed from 175 to 500.

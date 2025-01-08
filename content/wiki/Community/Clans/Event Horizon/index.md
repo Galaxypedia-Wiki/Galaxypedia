@@ -1,18 +1,16 @@
 ---
 aliases:
-- /wiki/Event-Horizon
+  - /wiki/Event-Horizon
 categories:
-- Galaxy Lore Pages
-- Clans
+  - Galaxy Lore Pages
+  - Clans
 title: Event Horizon
----<div align="justify" class="cardcontainer" style="font-size: 14px; line-height: 24px;">
+---
+
+<div align="justify" class="cardcontainer" style="font-size: 14px; line-height: 24px;">
 # Event Horizon
 
-***Event Horizon*** is a small group of shipbuilders and veteran
-players, founded, owned, and led by Galaxy Modeler
-[Starforce6000](https://roblox-galaxy-official.fandom.com/wiki/User:Starforce6000).
-It is comprised of aspiring and established shipbuilders as well as
-players who have proved their worth through combat.
+**_Event Horizon_** is a small group of shipbuilders and veteran players, founded, owned, and led by Galaxy Modeler [Starforce6000](https://roblox-galaxy-official.fandom.com/wiki/User:Starforce6000). It is comprised of aspiring and established shipbuilders as well as players who have proved their worth through combat.
 
 **Event Horizon is now Open. Invite is within the Galaxy Official Discord.**
 

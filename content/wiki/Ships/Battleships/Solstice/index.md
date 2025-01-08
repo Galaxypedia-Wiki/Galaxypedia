@@ -1,24 +1,24 @@
 ---
 aliases:
-- /wiki/Solstice
+  - /wiki/Solstice
 categories:
-- Ships
-- Limited Ships
-- Battleships
-- Christmas Event 2021
-- Siege Ships
-- Hull breakers
-- Avellians= Ships and Stations
+  - Ships
+  - Limited Ships
+  - Battleships
+  - Christmas Event 2021
+  - Siege Ships
+  - Hull breakers
+  - Avellians= Ships and Stations
 title: Solstice
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The Solstice is a Battleship that is part of the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
-_This article describes the player-owned ship. For the NPC ship with the same model, see **[Cranefly]({{< ref "/wiki/" >}}Alien-Cranefly)**._ 
+_This article describes the player-owned ship. For the NPC ship with the same model, see **[Cranefly]({{< ref "/wiki/" >}}Alien-Cranefly)**._
 
 ## Description
 
@@ -51,7 +51,7 @@ The interior is a box, with a red pilot seat.
 - **Avoid** shield breakers like the [Zeus]({{< ref "/wiki/" >}}Zeus), [Warden]({{< ref "/wiki/" >}}Warden), and [Sagittarius]({{< ref "/wiki/" >}}Sagittarius).
 - Do not sustain heavy fire; if you do, retreat to your nearest own or allied base.
 
-## Version History 
+## Version History
 
 - Got a box interior in version .75a1; The seat was previously on top of the ship.
 - Turret line of sight fixed, and spinals heavily nerfed: 8 Large Cannons un-multigunned and merged into a single barrel of 4 Medium Cannons and 4 Medium Phasers(resulting in a large reduction to hull damage output), in version .75a1.

@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Inquisitor
+  - /wiki/Inquisitor
 categories:
-- Cruisers
-- Ships
-- Support Ships
-- PVP Ships
+  - Cruisers
+  - Ships
+  - Support Ships
+  - PVP Ships
 title: Inquisitor
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Inquisitor_**is a balanced **[Cruiser]({{< ref "/categories/" >}}cruisers)** with good firepower and a low cost. 
+The **_Inquisitor_**is a balanced **[Cruiser]({{< ref "/categories/" >}}cruisers)** with good firepower and a low cost.
 
 ## Description
 
@@ -42,7 +42,7 @@ The interior of this ship is very small and plain, contrary to its decorated ext
 
 - Make use of [Spinals]({{< ref "/wiki/" >}}Spinals) for full effectiveness.
 
-## Version History 
+## Version History
 
 - Spinal barrel count increased from 1/1 to 2/2 in version .66b.
 - Randomly taken offsale twice in (unknown version please add) with no explanation.

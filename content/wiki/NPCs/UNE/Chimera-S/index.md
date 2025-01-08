@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Chimera-S
+  - /wiki/Chimera-S
 categories:
-- NPC Ships
-- U.N.E
-- Ships
+  - NPC Ships
+  - U.N.E
+  - Ships
 title: Chimera-S
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 _This article describes the NPC ship. for the weaker, player-obtainable vessel, see [Chimera]({{< ref "/wiki/" >}}Chimera)._
 

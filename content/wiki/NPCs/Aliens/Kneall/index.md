@@ -1,12 +1,14 @@
 ---
 aliases:
-- /wiki/Kneall
+  - /wiki/Kneall
 categories:
-- Galaxy Lore Pages
-- Alien Ships and Stations
-- NPC Ships
+  - Galaxy Lore Pages
+  - Alien Ships and Stations
+  - NPC Ships
 title: Kneall
----_Not to be confused with the [Slarfie]({{< ref "/wiki/" >}}Slarfie), the Kneall's peaceful counterpart._
+---
+
+_Not to be confused with the [Slarfie]({{< ref "/wiki/" >}}Slarfie), the Kneall's peaceful counterpart._
 
 <div style="float:middle">
 
@@ -21,7 +23,7 @@ They are the race responsible for the current war with the [U.N.E]({{< ref "/wik
 
 A past event called the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event) features this race's advancing invasion towards [U.N.E]({{< ref "/wiki/" >}}United-Nations-of-Earth).
 
-_More information about their ships can be found at the page [Aliens]({{< ref "/wiki/" >}}Aliens)._ 
+_More information about their ships can be found at the page [Aliens]({{< ref "/wiki/" >}}Aliens)._
 
 ## Lore
 

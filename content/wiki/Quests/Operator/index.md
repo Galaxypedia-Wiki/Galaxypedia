@@ -1,13 +1,15 @@
 ---
 aliases:
-- /wiki/Operator
-- /wiki/Aludra-Quest
+  - /wiki/Operator
+  - /wiki/Aludra-Quest
 categories:
-- Quests
-- NPCS
-- Christmas Event 2022
+  - Quests
+  - NPCS
+  - Christmas Event 2022
 title: Operator
----## Description
+---
+
+## Description
 
 Operator is the [quest]({{< ref "/wiki/" >}}Quests) NPC that builds the Ship [Aludra]({{< ref "/wiki/" >}}Aludra) in the [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
 
@@ -24,7 +26,7 @@ The quest is located above the [U.N.E Starbase]({{< ref "/wiki/" >}}U.N.E-Starba
 ![The U.N.E Research Station above its
 starbase](AlundraQuest1.png "The U.N.E Research Station above its starbase")
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Operator]: We're creating a weapon.</span>
 

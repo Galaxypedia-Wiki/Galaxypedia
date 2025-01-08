@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Retro-Avalon
+  - /wiki/Retro-Avalon
 categories:
-- Ships
-- Limited Ships
-- Dreadnoughts
-- Retro Ship Event 2024
+  - Ships
+  - Limited Ships
+  - Dreadnoughts
+  - Retro Ship Event 2024
 title: Retro Avalon
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The Retro Avalon is an Event Dreadnought for the [Retro Ship Event 2024]({{< ref "/wiki/" >}}Retro-Ship-Event-2024). 
+The Retro Avalon is an Event Dreadnought for the [Retro Ship Event 2024]({{< ref "/wiki/" >}}Retro-Ship-Event-2024).
 
 ## Description
 

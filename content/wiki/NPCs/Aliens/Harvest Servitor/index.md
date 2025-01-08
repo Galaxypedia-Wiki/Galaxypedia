@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Harvest-Servitor
-- /wiki/Alien-Harvest-Servitor
+  - /wiki/Harvest-Servitor
+  - /wiki/Alien-Harvest-Servitor
 categories:
-- Halloween 2018
-- NPC Ships
-- Removed From Game
-- Alien Ships and Stations
-- Ships
+  - Halloween 2018
+  - NPC Ships
+  - Removed From Game
+  - Alien Ships and Stations
+  - Ships
 title: Harvest Servitor
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 ## Description
 
@@ -29,7 +29,7 @@ Distractions with small, fast ships like the [Viper]({{< ref "/wiki/" >}}Viper) 
 
 Outside of using a simple and easy distraction ship, players may try to brute force the kill. Unfortunately, aside from [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts), not many ships could withstand the _full fire_ of a **Servitor** without having to retreat and heal. They could also use a Spinal-based ship to attack the servitor from a distance, the spinal based ship would constantly drift and fire while hoping not to get hit too many times. This strategy was best used with a [Razor Wing]({{< ref "/wiki/" >}}Razor-Wing).
 
-## Version History 
+## Version History
 
 - Seat reversed in an unknown version. (it was backwards upon release, allowing it to use Spinals while moving away from the player)
 - Removed in an unknown version.

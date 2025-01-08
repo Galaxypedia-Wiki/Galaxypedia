@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Shadowstrike
-- /wiki/Alien-Shadowmane
-- /wiki/Alien-Shadowstrike
+  - /wiki/Shadowstrike
+  - /wiki/Alien-Shadowmane
+  - /wiki/Alien-Shadowstrike
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
-- Avellians= Ships and Stations
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
+  - Avellians= Ships and Stations
 title: Shadowstrike
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **_Shadowstrike_** is an [Avellian]({{< ref "/wiki/" >}}Avellian) AI battleship that was introduced in the [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021).
 

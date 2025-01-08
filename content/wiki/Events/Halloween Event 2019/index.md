@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Halloween-Event-2019
+  - /wiki/Halloween-Event-2019
 categories:
-- Events
+  - Events
 title: Halloween Event 2019
----<div class="cardcontainer" style="font-size:15px; line-height:24px">
+---
+
+<div class="cardcontainer" style="font-size:15px; line-height:24px">
 
 # Overview
 

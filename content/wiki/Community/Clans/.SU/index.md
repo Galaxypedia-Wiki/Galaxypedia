@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/.SU
+  - /wiki/.SU
 categories:
-- Galaxy Lore Pages
-- Clans
+  - Galaxy Lore Pages
+  - Clans
 title: .SU
----![]({{< ref "/wiki/" >}}.su.png-".su.png")
+---
+
+![]({{< ref "/wiki/" >}}.su.png-".su.png")
 
 <div class="cardcontainer" align="justify" style="font-size: 14px; line-height: 24px;">
 # .SU (Skill Urself)

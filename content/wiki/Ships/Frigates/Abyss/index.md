@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Abyss
+  - /wiki/Abyss
 categories:
-- Ships
-- Frigates
-- PVP Ships
-- Support Ships
+  - Ships
+  - Frigates
+  - PVP Ships
+  - Support Ships
 title: Abyss
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Abyss_** is a powerful [Hull]({{< ref "/wiki/" >}}Hull)-shredding **[Frigate]({{< ref "/categories/" >}}frigates)**. 
+The **_Abyss_** is a powerful [Hull]({{< ref "/wiki/" >}}Hull)-shredding **[Frigate]({{< ref "/categories/" >}}frigates)**.
 
 ## Description
 
@@ -43,7 +43,7 @@ The **Abyss**effectively has no interior. There is a wooden chair that acts as a
 - Get a small group of these, 5 or 6, and attack [Starbases]({{< ref "/wiki/" >}}Starbase) when they get to low health. Don't attempt this on Starbases that still have [Shield]({{< ref "/wiki/" >}}Shields) health, as the **Abyss**can't break Shield very well.
 - Team up with either [Avengers]({{< ref "/wiki/" >}}Avenger) or [Spiders]({{< ref "/wiki/" >}}Spider) to dish out damage against Cruisers and Battlecruisers. They shred the shields, you shred the hull.
 
-## Version History 
+## Version History
 
 - Received a remodel in version ???
 - Remodel by Pleeber .75a27

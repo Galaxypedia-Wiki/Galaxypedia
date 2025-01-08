@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Prototype-X-4
+  - /wiki/Prototype-X-4
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Prototype X-4
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
-The **Prototype X-4** is an Admin-class ship, its model being an amalgamation of multiple mid Galaxy Beta-era ships. 
+The **Prototype X-4** is an Admin-class ship, its model being an amalgamation of multiple mid Galaxy Beta-era ships.
 
 ## Description
 
@@ -30,7 +30,7 @@ The Prototype X-4 is a unique admin-class ship with an unconventional model. It 
 
 - Use this ship as a flying meme, or to scare off inexperienced players.
 
-## Version History 
+## Version History
 
 - This carrier used to possess [Strikers]({{< ref "/wiki/" >}}Striker) and Vectors, both being removed from the ship and the former reworked into an actual [Fighter]({{< ref "/categories/" >}}fighters) in an unknown version.
 - Ship stats were made secret in version .75a5.

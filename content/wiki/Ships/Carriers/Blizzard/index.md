@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Blizzard
+  - /wiki/Blizzard
 categories:
-- Carriers
-- Support Ships
-- Ships
-- Limited Ships
-- Christmas Event 2017
-- Christmas Event 2022
-- Quests
-- Capital Ships
+  - Carriers
+  - Support Ships
+  - Ships
+  - Limited Ships
+  - Christmas Event 2017
+  - Christmas Event 2022
+  - Quests
+  - Capital Ships
 title: Blizzard
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Blizzard_** is a powerful [Carrier]({{< ref "/categories/" >}}carriers) that was introduced in the [Christmas Event 2017]({{< ref "/wiki/" >}}Christmas-Event-2017), but was re-introduced in the [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
 
@@ -36,7 +36,7 @@ Its interior sports a large room with many icy decorations like icicles on its c
 ## Advantages
 
 - Large health pool.
-- Despite it's size, it is fast with a top speed of 
+- Despite it's size, it is fast with a top speed of
 - Has very high firepower for a carrier, allowing it to destroy other large [Capital Ships]({{< ref "/categories/" >}}capital-ships) even without the assistance of its fighters.
 - Can support itself very well even without its Fighters.
 - Has long range turrets with a range of up to 6800.
@@ -57,7 +57,7 @@ Its interior sports a large room with many icy decorations like icicles on its c
 - If you have to fight, stay below and pointed at the enemy so majority of your turrets can fire, and take down [AA]({{< ref "/wiki/" >}}Galaxy-Slang) Ships with your turret firepower like the [Ampharos]({{< ref "/wiki/" >}}Ampharos) and [Hyron]({{< ref "/wiki/" >}}Hyron) which can shred your [Fighters]({{< ref "/wiki/" >}}IceFyre).
 - Beware of swarms of small [Ships]({{< ref "/wiki/" >}}Ships) that can overwhelm the Blizzard.
 
-## Version History 
+## Version History
 
 - The ship was renamed due to the quest being broken.
 - Received a remodel in .61e.

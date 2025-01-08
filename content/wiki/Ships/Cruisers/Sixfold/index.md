@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Sixfold
+  - /wiki/Sixfold
 categories:
-- Ships
-- Cruisers
-- Pirate Ships
-- PVP Ships
-- All-Rounder Ships
-- Support Ships
-- Incomplete Images
+  - Ships
+  - Cruisers
+  - Pirate Ships
+  - PVP Ships
+  - All-Rounder Ships
+  - Support Ships
+  - Incomplete Images
 title: Sixfold
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Sixfold_** is a uniquely shaped **[Cruiser]({{< ref "/categories/" >}}cruisers)** with high firepower but low health. 
+The **_Sixfold_** is a uniquely shaped **[Cruiser]({{< ref "/categories/" >}}cruisers)** with high firepower but low health.
 
 ## Description
 
@@ -47,7 +47,7 @@ The **Sixfold** has no interior, instead has a cockpit with glass that can be wa
 - Use its [Spinals]({{< ref "/wiki/" >}}Spinals) against bigger or slower ships to deal with massive hull damage.
 - If you can form a pack of these, it is possible to take down a [Starbase]({{< ref "/wiki/" >}}Starbase).
 
-## Version History 
+## Version History
 
 - In update .62a? the ship got a remodel which added more decor, a second floor, and a bedroom.
 - Hull increased from 500 to 700 in version .68e.

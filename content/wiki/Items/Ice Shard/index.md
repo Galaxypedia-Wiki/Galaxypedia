@@ -1,12 +1,14 @@
 ---
 aliases:
-- /wiki/Ice-Shard
+  - /wiki/Ice-Shard
 categories:
-- Event Items
-- Christmas Event 2022
-- Quests
+  - Event Items
+  - Christmas Event 2022
+  - Quests
 title: Ice Shard
----The **Ice Shard** is an [Event Item]({{< ref "/categories/" >}}event-items) used as a build material for the Event ships of [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022)
+---
+
+The **Ice Shard** is an [Event Item]({{< ref "/categories/" >}}event-items) used as a build material for the Event ships of [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022)
 
 Ice Shards used to be obtained by looting wrecks from [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022) [AI]({{< ref "/wiki/" >}}AI) Ships and conversion from [Remnant Spore]({{< ref "/wiki/" >}}Remnant-Spore).
 
@@ -20,7 +22,7 @@ Ship Amount
 
 : Ships that require Ice Shards to build.
 
-### NPC Ships 
+### NPC Ships
 
 Ship Amount
 
@@ -28,13 +30,13 @@ Ship Amount
 
 [Blizzard (Base)]({{< ref "/wiki/" >}}<Blizzard-(Base)> "wikilink") 40 [Blizzard Aludra]({{< ref "/wiki/" >}}Blizzard-Aludra) 4-6 [Arctic Fox]({{< ref "/wiki/" >}}Arctic-Fox) 1-4 [Frost]({{< ref "/wiki/" >}}Frost) 1-2
 
-## Removed Quests 
+## Removed Quests
 
 _The [Aludra]({{< ref "/wiki/" >}}Aludra) Quest can be found in the page [Operator]({{< ref "/wiki/" >}}Operator)._
 
-### Ice Shard -> Spore 
+### Ice Shard -> Spore
 
-**Requires:** 15 Ice Shard. **Reward:** 15 [Remnant Spore]({{< ref "/wiki/" >}}Remnant-Spore).  "Ice Shard -> Spore" is the [NPC]({{< ref "/categories/" >}}npcs) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #20221102.
+**Requires:** 15 Ice Shard. **Reward:** 15 [Remnant Spore]({{< ref "/wiki/" >}}Remnant-Spore). "Ice Shard -> Spore" is the [NPC]({{< ref "/categories/" >}}npcs) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #20221102.
 
 **Dialogue:**
 

@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Cruzin4Bruzin
+  - /wiki/Cruzin4Bruzin
 categories:
-- Ships
-- Battlecruisers
-- Incomplete Images
+  - Ships
+  - Battlecruisers
+  - Incomplete Images
 title: Cruzin4Bruzin
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/vipShip >}} 
+{{< notices/vipShip >}}
 
-The **_Cruzin4Bruzin_** is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** that costs 15 million credits and is exclusive to VIP players. 
+The **_Cruzin4Bruzin_** is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** that costs 15 million credits and is exclusive to VIP players.
 
 ## Description
 
@@ -42,7 +42,7 @@ The **Cruzin4Bruzin** is a bright yellow combination of the [Vigilance]({{< ref 
 - If you do have to use this ship, be <u>extremely</u> careful, as its quite likely the entire server will stop at nothing kill it, even going as far as nuking entire fleets.
 - It's a horrible idea, but if it's necessary to go into combat with this ship, warp out before you get hulled and try to use the **Cruzin4Bruzin's** high DPS and accuracy to take on smaller ships.
 
-## Version History 
+## Version History
 
 - Added in version .76d42?
 

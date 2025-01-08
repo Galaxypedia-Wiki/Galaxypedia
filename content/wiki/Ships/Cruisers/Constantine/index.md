@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Constantine
+  - /wiki/Constantine
 categories:
-- Ships
-- Cruisers
-- PVP Ships
-- Support Ships
+  - Ships
+  - Cruisers
+  - PVP Ships
+  - Support Ships
 title: Constantine
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Constantine_** is a fast, shield-focused [**Cruiser**]({{< ref "/categories/" >}}cruisers).
 
@@ -40,7 +40,7 @@ There is no interior, as the pilot sits on the orb at the back of the ship.
 - Since most ships have only topside turrets, get under your opponent and use your high turn speed to stay right below them, your pathetic shield dps will still be higher than your opponents 0.
 - Decent for countering small ships
 
-## Version History 
+## Version History
 
 - Remodeled in version .66d?
 

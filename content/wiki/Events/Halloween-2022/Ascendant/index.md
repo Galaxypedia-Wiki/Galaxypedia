@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Ascendant
+  - /wiki/Ascendant
 categories:
-- Ships
-- Halloween 2022
+  - Ships
+  - Halloween 2022
 title: Ascendant
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **Ascendant** is a event Dreadnought added in the [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022).
 
@@ -34,7 +34,7 @@ The interior of this ship is a green hallway, with a green orb at the end. In fr
 - The ship is prone to glitching and its advised not to use it.
 - Sluggish 45 speed.
 
-## Version history 
+## Version history
 
 - Added on 10/29/22
 - Heavy Spore Launcher range buffed 10/03/22

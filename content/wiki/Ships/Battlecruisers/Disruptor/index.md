@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Disruptor
+  - /wiki/Disruptor
 categories:
-- Ships
-- Battlecruisers
-- Limited Ships
-- Reskins
-- Pirate Ships
-- PVP Ships
-- Hidden Events
-- Support Ships
-- Alien Ships and Stations
+  - Ships
+  - Battlecruisers
+  - Limited Ships
+  - Reskins
+  - Pirate Ships
+  - PVP Ships
+  - Hidden Events
+  - Support Ships
+  - Alien Ships and Stations
 title: Disruptor
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Disruptor_**is the [Kneall]({{< ref "/wiki/" >}}Kneall) version of the [Razor Wing]({{< ref "/wiki/" >}}Razor-Wing), and was released following the hunt for the hidden [Prototype X-3]({{< ref "/wiki/" >}}Prototype-X-3). 
+The **_Disruptor_**is the [Kneall]({{< ref "/wiki/" >}}Kneall) version of the [Razor Wing]({{< ref "/wiki/" >}}Razor-Wing), and was released following the hunt for the hidden [Prototype X-3]({{< ref "/wiki/" >}}Prototype-X-3).
 
 ## Description
 
@@ -58,7 +58,7 @@ It can sometimes be confusing to try and get out of the Disruptor**,**as all the
 - Be extremely careful with this, as people will focus on you and go for the rare kill due to it having a [Limited]({{< ref "/categories/" >}}limited-ships) status and its expense.
 - The low health makes this an easy target for skilled players if not careful.
 
-## Version History 
+## Version History
 
 - Added in .66b after the hunt for the [Prototype X-3]({{< ref "/wiki/" >}}Prototype-X-3) (September 16th)
 - Spinals reduced from 7/7 to 6/6, minimap icon color changed to always be [Alien]({{< ref "/wiki/" >}}Aliens)-green in version .68e.

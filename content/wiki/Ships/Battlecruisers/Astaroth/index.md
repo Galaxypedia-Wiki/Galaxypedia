@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Astaroth
+  - /wiki/Astaroth
 categories:
-- Halloween 2019
-- Battlecruisers
-- Limited Ships
-- Ships
-- Support Ships
-- PVP Ships
+  - Halloween 2019
+  - Battlecruisers
+  - Limited Ships
+  - Ships
+  - Support Ships
+  - PVP Ships
 title: Astaroth
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Astaroth_** is a precursor [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) that is part of the Halloween Event 2019.
 
@@ -46,7 +46,7 @@ You enter to a teleport and takes you to a seat with a 3D holographic table with
 - Due to its low health, it is preferable to use in swarms.
 - Use it in hit and run sessions, occasionally annoying other players with your high damaging [Spinals]({{< ref "/wiki/" >}}Spinal-Weaponry).
 
-## Version History 
+## Version History
 
 - Added during the Halloween Event 2019 in version .66b.
 - 2 [Precursor Lasers]({{< ref "/wiki/" >}}Turrets) changed to 2 [Medium Lasers]({{< ref "/wiki/" >}}Turrets) in version .71b.

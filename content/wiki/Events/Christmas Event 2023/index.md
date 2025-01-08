@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Christmas-Event-2023
+  - /wiki/Christmas-Event-2023
 categories:
-- Events
-- Removed From Game
-- Christmas Event 2023
+  - Events
+  - Removed From Game
+  - Christmas Event 2023
 title: Christmas Event 2023
----  
+---
 
-{{< notices/removed >}} 
+{{< notices/removed >}}
 
 ## Description
 
@@ -34,7 +34,7 @@ The event introduced a new boss, The [Festive Kodiak]({{< ref "/wiki/" >}}Festiv
 
 The [Festive Kodiak]({{< ref "/wiki/" >}}Festive-Kodiak) was a hard-to-kill boss and required a large fleet to take down, the Festive Kodiak had a special ability where it and any of its fleet's ships that it killed would be reincarnated into a pirate ship to fight with the fleet, this caused a lot of expensive ships to be lost under the time of several days.
 
-## Other Changes 
+## Other Changes
 
 Other changes that the event included was:
 

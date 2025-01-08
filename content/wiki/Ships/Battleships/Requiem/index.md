@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Requiem
+  - /wiki/Requiem
 categories:
-- Ships
-- Battleships
-- Limited Ships
-- Halloween 2021
-- Capital Ships
+  - Ships
+  - Battleships
+  - Limited Ships
+  - Halloween 2021
+  - Capital Ships
 title: Requiem
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **Requiem** is a Battleship that is part of the second stage of the [2021 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2021). 
+The **Requiem** is a Battleship that is part of the second stage of the [2021 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2021).
 
 ## Description
 
@@ -54,9 +54,9 @@ The interior is cramped, and only has a black seat inside.
 
 • Finish off hulled opponents.
 
-## Version History 
+## Version History
 
-- Fixed super cramped seat in ____ (someone please put the version this was changed in)
+- Fixed super cramped seat in \_\_\_\_ (someone please put the version this was changed in)
 
 ## Trivia
 

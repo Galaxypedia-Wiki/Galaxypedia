@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Armored-Plating
-- /wiki/Steel-Plates
+  - /wiki/Armored-Plating
+  - /wiki/Steel-Plates
 categories:
-- Items
+  - Items
 title: Armored Plating
----## Description
+---
+
+## Description
 
 The **Armored Plating** is an item used for making various ships and quest items.
 

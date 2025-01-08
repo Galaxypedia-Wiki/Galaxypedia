@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Borealis
+  - /wiki/Borealis
 categories:
-- Carriers
-- Ships
-- Support Ships
-- Capital Ships
-- Advanced Ships
+  - Carriers
+  - Ships
+  - Support Ships
+  - Capital Ships
+  - Advanced Ships
 title: Borealis
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/advancedShip >}} 
+{{< notices/advancedShip >}}
 
 The **_Borealis_** is an extremely powerful [Advanced]({{< ref "/categories/" >}}advanced-ships) [Carrier]({{< ref "/categories/" >}}carriers).
 
@@ -52,7 +52,7 @@ The **Borealis** has a rather industrial look and has a mostly greyscale colour 
 - Go to the bottom of the map, right at the border and release the fighters from below your enemy. Do this because majority of your turrets are on top of the ship so you can fire on anyone who attempts to attack you.
 - Warp in, release all your fighters and then warp out as soon as you can to your nearest or strongest Starbase if you don't want to risk your ship.
 
-## Version History 
+## Version History
 
 - One of the ships to receive an event remodel during the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018). The remodel is known as the [Skeletal Ghostealis]({{< ref "/wiki/" >}}Skeletal-Ghostealis).
 - Shields reduced from 12000 to 9000, 4 [Light Gatling Lasers]({{< ref "/wiki/" >}}Turrets) and 2 [Medium Cannons]({{< ref "/wiki/" >}}Turrets) replaced with 2 [Heavy Flak Cannons]({{< ref "/wiki/" >}}Turrets) and 7 [Quantum Cannons]({{< ref "/wiki/" >}}Turrets), [Blitz]({{< ref "/wiki/" >}}Blitz) spawns reduced from 16 to 6, re-classified as an [Advanced Ship]({{< ref "/categories/" >}}advanced-ships) and received a remodel in version .69e

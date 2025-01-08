@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/A---Brawler
-- /wiki/A---Bionicle
+  - /wiki/A---Brawler
+  - /wiki/A---Bionicle
 categories:
-- Ships
-- Fighters
-- PVP Ships
-- Alien Ships and Stations
+  - Ships
+  - Fighters
+  - PVP Ships
+  - Alien Ships and Stations
 title: A - Brawler
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 _This article describes the fighter, not an actual NPC vessel, nor the Player owned battleship. For the NPC boss with the same model, see [Kneall Brawler]({{< ref "/wiki/" >}}Kneall-Brawler), for the player owned battleship, see [Brawler]({{< ref "/wiki/" >}}Brawler)_.
 
@@ -45,7 +45,7 @@ The **<u>Interior</u>** is a simple black box with a black seat on the front, th
 - Get a skilled player inside the Brawler, as AI Fighters shoot spinals inconsistently and turn their backs sometimes, losing half of its firepower.
 - Avoid going head-to-head against a dreadnought or higher class ship if you aren't planning to sacrifice yourself yet.
 
-## Version History 
+## Version History
 
 - Added in version .75a10
 - Health nerfed to 300/300 until the duration of the ongoing [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event)

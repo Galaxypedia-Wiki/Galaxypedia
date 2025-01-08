@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Starbase-Fury
+  - /wiki/Starbase-Fury
 categories:
-- Ships
-- Fighters
-- Support Ships
+  - Ships
+  - Fighters
+  - Support Ships
 title: Starbase Fury
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Starbase Fury_** is a more powerful variant of the [Fury]({{< ref "/wiki/" >}}Fury) [**Fighter**]({{< ref "/categories/" >}}fighters) found only in Starbases.
 
@@ -39,7 +39,7 @@ The **Starbase Fury's** interior is entered through its cockpit window. Inside, 
 - Deal as much damage as possible before being destroyed by your target. Fire your [Spinals]({{< ref "/wiki/" >}}Spinals) as often as possible.
 - If your base is being attacked and you don't want to risk any of your ships, use one of these as they will respawn and you lose nothing if they get destroyed.
 
-## Version History 
+## Version History
 
 - Nerfed in version .68b---top speed reduced from 400 to 200.
 - Speed fixed in version .69a1---decreased from 400 to 275.

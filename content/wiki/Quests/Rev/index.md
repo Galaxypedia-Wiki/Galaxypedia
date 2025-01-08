@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Rev
+  - /wiki/Rev
 categories:
-- Quests
-- NPCS
+  - Quests
+  - NPCS
 title: Rev
----**_Rev_** is an NPC that gives multiple [Quests]({{< ref "/wiki/" >}}Quests). 
+---
+
+**_Rev_** is an NPC that gives multiple [Quests]({{< ref "/wiki/" >}}Quests).
 
 ## Description
 
@@ -15,13 +17,13 @@ Rev is dressed in a historic Earth uniform that bears some likeness to those see
 
 ## Quests
 
-### [Rev's Irresistable Offer]({{< ref "/wiki/" >}}Rev's-Irresistable-Offer) 
+### [Rev's Irresistable Offer]({{< ref "/wiki/" >}}Rev's-Irresistable-Offer)
 
 ### [Spooky]({{< ref "/wiki/" >}}Rev4)
 
-### [THE KNEALL]({{< ref "/wiki/" >}}THE-KNEALL) 
+### [THE KNEALL]({{< ref "/wiki/" >}}THE-KNEALL)
 
-### [Hide and Seek]({{< ref "/wiki/" >}}Hide-and-Seek) 
+### [Hide and Seek]({{< ref "/wiki/" >}}Hide-and-Seek)
 
 ## Trivia
 

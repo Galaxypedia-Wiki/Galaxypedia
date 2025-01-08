@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Stealth-B-2
+  - /wiki/Stealth-B-2
 categories:
-- Ships
-- Battleships
-- Stealth Ships
+  - Ships
+  - Battleships
+  - Stealth Ships
 title: Stealth B-2
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/outdatedInfo >}} 
+{{< notices/outdatedInfo >}}
 
-The **_Stealth B-2_** is a Stealth **[Battleship]({{< ref "/categories/" >}}battleships)** and the second ship of its class. 
+The **_Stealth B-2_** is a Stealth **[Battleship]({{< ref "/categories/" >}}battleships)** and the second ship of its class.
 
 ## Description
 
@@ -57,7 +57,7 @@ The Interior is a small, empty room with a seat on the middle, but is difficult 
 - Powerful for [Pirating]({{< ref "/wiki/" >}}Pirating) because of its invisibilty, high [Alpha Damage]({{< ref "/wiki/" >}}Galaxy-Slang) and speed.
 - Whenever you must make an escape from combat however, warp far into empty space _(but not near the map borders)_ to make your position unpredictable to any enemies that may try to chase you. Note that this strategy may not work well if there is a spy on your team.
 
-## Version History 
+## Version History
 
 - Remodeled in Version ??? by MastroyPro.
 - Torpedo count increased from 4/4 to 5/5, shield increased from 750 to 900, hull halved from 1000 to 500 in version .75a3

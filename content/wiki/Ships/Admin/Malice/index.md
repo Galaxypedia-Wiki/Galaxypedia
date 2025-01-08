@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Malice
+  - /wiki/Malice
 categories:
-- Admin Ships
-- Ships
-- Removed From Game
+  - Admin Ships
+  - Ships
+  - Removed From Game
 title: Malice
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Malice_** was [Lordmoneymonkey]({{< ref "/wiki/" >}}Galaxy-Staff)'s personal **[Admin Ship]({{< ref "/categories/" >}}admin-ships)**.
 
@@ -34,7 +34,7 @@ The interior is nothing but a small gray room, a blue screen, and a small pilot 
 - No weapons.
 - Very large and easy to hit.
 
-## Version History 
+## Version History
 
 - Removed along with most of the admin ships in version .62a1.
 - Brought back in an unknown version.

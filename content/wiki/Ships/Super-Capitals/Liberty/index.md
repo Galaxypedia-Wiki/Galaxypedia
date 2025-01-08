@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Liberty
+  - /wiki/Liberty
 categories:
-- Limited Ships
-- Ships
-- Super Capital Ships
-- Fourth of July 2021
+  - Limited Ships
+  - Ships
+  - Super Capital Ships
+  - Fourth of July 2021
 title: Liberty
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Liberty_** is an American-themed [**Super Capital**]({{< ref "/categories/" >}}super-capital-ships) briefly released during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021). 
+The **_Liberty_** is an American-themed [**Super Capital**]({{< ref "/categories/" >}}super-capital-ships) briefly released during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021).
 
 ## Description
 
@@ -39,7 +39,7 @@ The interior of the **Liberty** is based on a patriotic recolor of the Prototype
 - Use this ship on stationary targets as the turret and spinal positioning is very delicate.
 - This ship's limited availability and large size makes it a prime target; only use it in well-defended, controlled situations or to it show off.
 
-## Version History 
+## Version History
 
 - "Moth-balled" in version .72f1, effectively rendering the ship unusable (for those who still have it, open a ticket in the Official Galaxy Discord to request a refund).
 

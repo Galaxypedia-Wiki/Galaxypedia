@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Blue-Torp-Wasp
+  - /wiki/Blue-Torp-Wasp
 categories:
-- Limited Ships
-- Reskins
-- Frigates
-- PVP Ships
-- Ships
-- Hidden Events
+  - Limited Ships
+  - Reskins
+  - Frigates
+  - PVP Ships
+  - Ships
+  - Hidden Events
 title: Blue Torp Wasp
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Blue Torp Wasp_** is a small **[Frigate]({{< ref "/categories/" >}}frigates)** built by [The Blue Torpedo Cult]({{< ref "/wiki/" >}}Blue-Torpedo-Cult). It is an armored [Wasp]({{< ref "/wiki/" >}}Wasp) with 2 Unique [Torpedoes]({{< ref "/wiki/" >}}Spinals).
 
@@ -44,7 +44,7 @@ The **Blue Torp Wasp** has no interior. The exterior is simply a reskinned wasp.
 - Group up with more **Blue Torp Wasps** to unleash your Torpedo fury!
 - Never fight alone.
 
-## Version History 
+## Version History
 
 - Removed from the build menu in version .66b (August 19, 2019).
 -

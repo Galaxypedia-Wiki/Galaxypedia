@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Soul
+  - /wiki/Soul
 categories:
-- Event Items
+  - Event Items
 title: Soul
----The **Soul** is an [:Category:Event Item]({{< ref "/categories/" >}}event-items) used to build numerous event ships from the [Halloween Event 2021]({{< ref "/wiki/" >}}Halloween-Event-2021).
+---
+
+The **Soul** is an [:Category:Event Item]({{< ref "/categories/" >}}event-items) used to build numerous event ships from the [Halloween Event 2021]({{< ref "/wiki/" >}}Halloween-Event-2021).
 
 NPC Amount
 

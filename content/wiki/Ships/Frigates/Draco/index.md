@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Draco
+  - /wiki/Draco
 categories:
-- Frigates
-- Ships
+  - Frigates
+  - Ships
 title: Draco
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Draco_** is a small and fast [**Frigate**]({{< ref "/categories/" >}}frigates). 
+The **_Draco_** is a small and fast [**Frigate**]({{< ref "/categories/" >}}frigates).
 
 ## Description
 
@@ -41,7 +41,7 @@ The **Draco** has a detailed interior space for a ship its size. Its cockpit has
 - Avoid ships with a lot of Light [Turrets]({{< ref "/wiki/" >}}Turrets) or [Gatlings]({{< ref "/wiki/" >}}Turrets) in order to prevent damage.
 - In dogfighting, keys Q, E, A, & D, your speed, and your tiny spinal weaponry are your friends. Strafe and drift to land more hits on smaller [ships]({{< ref "/wiki/" >}}ships).
 
-## Version History 
+## Version History
 
 - Was disabled during parts of version .62 due to model errors.
 - The [Galaxy VIP Gamepass]({{< ref "/wiki/" >}}Galaxy-VIP-Gamepass) was needed for the Draco, but as of .62b?, the [Frigate]({{< ref "/categories/" >}}frigates) is no longer limited to [VIP]({{< ref "/wiki/" >}}Galaxy-VIP-Gamepass) players only.

@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Scout
-- /wiki/Alien-Scout
+  - /wiki/Scout
+  - /wiki/Alien-Scout
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
-- Avellians= Ships and Stations
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
+  - Avellians= Ships and Stations
 title: Scout
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **_Scout_** is an AI [**Alien**]({{< ref "/wiki/" >}}Aliens) ship made by the **[Kneall]({{< ref "/wiki/" >}}Kneall)**.
 

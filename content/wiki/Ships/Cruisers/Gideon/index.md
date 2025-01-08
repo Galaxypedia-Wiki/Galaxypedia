@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Gideon
+  - /wiki/Gideon
 categories:
-- Ships
-- Cruisers
-- Pirate Ships
-- Support Ships
-- PVP Ships
+  - Ships
+  - Cruisers
+  - Pirate Ships
+  - Support Ships
+  - PVP Ships
 title: Gideon
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Gideon_** is a [Turret]({{< ref "/wiki/" >}}Turrets)-focused **[Cruiser]({{< ref "/categories/" >}}cruisers)**.  ![Old Gideon
+The **_Gideon_** is a [Turret]({{< ref "/wiki/" >}}Turrets)-focused **[Cruiser]({{< ref "/categories/" >}}cruisers)**. ![Old Gideon
 Model](2EE38A07-1556-400D-B636-751E963AA793.png "Old Gideon Model")
 
 ## Description
@@ -52,7 +52,7 @@ The interior contains a pilot's seat that you will see if you go through the ent
 - Good for killing [Aliens]({{< ref "/wiki/" >}}Aliens).
 - Try and get underneath enemy ships as most of your [Turrets]({{< ref "/wiki/" >}}Turrets) are located on the top of the ship.
 
-## Version History 
+## Version History
 
 - Buffed In Version .52, got 1 [Flak Cannon]({{< ref "/wiki/" >}}Turrets) and a mobility boost.
 - Nerfed in .54 with the removal of a light [Laser Turret]({{< ref "/wiki/" >}}Turrets).

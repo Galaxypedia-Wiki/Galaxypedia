@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Retro-Ship-Event-2021
+  - /wiki/Retro-Ship-Event-2021
 categories:
-- Events
+  - Events
 title: Retro Ship Event 2021
----<div class="cardcontainer" style="font-size:15px; line-height:24px">
+---
+
+<div class="cardcontainer" style="font-size:15px; line-height:24px">
 # Overview
 
 The **Retro Ship Event 2021** started on August 2^nd^, 2021 and ended on August 7^th^, 2021. The first part of the event added three "retro" ships, complete with their old models and upgraded stats. The ships also cost more than their current counterparts, as is the trend with most event ships.

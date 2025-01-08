@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Hallow
+  - /wiki/Hallow
 categories:
-- Battlecruisers
-- Limited Ships
-- Halloween 2019
-- Ships
-- Halloween 2022
+  - Battlecruisers
+  - Limited Ships
+  - Halloween 2019
+  - Ships
+  - Halloween 2022
 title: Hallow
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Hallow_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) from the [Halloween 2019 Event]({{< ref "/wiki/" >}}Halloween-Event-2019) 
+The **_Hallow_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) from the [Halloween 2019 Event]({{< ref "/wiki/" >}}Halloween-Event-2019)
 
 ## Description
 
@@ -48,7 +48,7 @@ The **Hallow** is a fast and slim ship which resembles the [Zhen]({{< ref "/wiki
 - Effective in swarms.
 - Use in hit-and-run tactics.
 
-## Version History 
+## Version History
 
 - Received a remodel in version .66m
 - Saying ":Cost Hallow" started showing the cost for this ship in an unknown version.

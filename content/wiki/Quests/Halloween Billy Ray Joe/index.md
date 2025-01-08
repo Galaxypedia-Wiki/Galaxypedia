@@ -1,14 +1,16 @@
 ---
 aliases:
-- /wiki/Halloween-Billy-Ray-Joe
+  - /wiki/Halloween-Billy-Ray-Joe
 categories:
-- Halloween 2017
-- Quests
-- Limited Ships
-- Removed From Game
-- NPCS
+  - Halloween 2017
+  - Quests
+  - Limited Ships
+  - Removed From Game
+  - NPCS
 title: Halloween Billy Ray Joe
----**_Halloween Billy Ray Joe_** is the Halloween counterpart of **[Billy Ray Joe]({{< ref "/wiki/" >}}Billy-Ray-Joe)**.
+---
+
+**_Halloween Billy Ray Joe_** is the Halloween counterpart of **[Billy Ray Joe]({{< ref "/wiki/" >}}Billy-Ray-Joe)**.
 
 ## Description
 

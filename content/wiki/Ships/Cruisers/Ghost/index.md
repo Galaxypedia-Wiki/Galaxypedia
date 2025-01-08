@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Ghost
+  - /wiki/Ghost
 categories:
-- Limited Ships
-- Reskins
-- PVP Ships
-- Halloween 2018
-- Ships
-- Cruisers
-- Pirate Ships
-- Stealth Ships
+  - Limited Ships
+  - Reskins
+  - PVP Ships
+  - Halloween 2018
+  - Ships
+  - Cruisers
+  - Pirate Ships
+  - Stealth Ships
 title: Ghost
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 ## Description
 
@@ -52,7 +52,7 @@ This ship excels at being a support ship for Sieges and Fleet battles. It is als
 - Always try to hit your spinals, they account for a huge portion of your DPS.
 - Avoid going too close to a Capital Ship, as you will have a hard time hitting your Spinals and their Turrets will shred you.
 
-## Version History 
+## Version History
 
 - Added in .65a.
 - Now Stealth. Shield -> 0 Hull -> 1000 Gains custom sniper turret _(So cold...)_ in an unknown version.

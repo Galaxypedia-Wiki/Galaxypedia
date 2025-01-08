@@ -1,23 +1,23 @@
 ---
 aliases:
-- /wiki/Shadowmane
+  - /wiki/Shadowmane
 categories:
-- Ships
-- Capital Ships
-- Battleships
-- Limited Ships
-- Christmas Event 2021
-- Avellians= Ships and Stations
+  - Ships
+  - Capital Ships
+  - Battleships
+  - Limited Ships
+  - Christmas Event 2021
+  - Avellians= Ships and Stations
 title: Shadowmane
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The Shadowmane is a [Battleship]({{< ref "/categories/" >}}battleships) that is part of the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
-_This article describes the player-owned ship. For the AI Alien ship with the same model, see **[Shadowstrike]({{< ref "/wiki/" >}}Shadowstrike)**._ 
+_This article describes the player-owned ship. For the AI Alien ship with the same model, see **[Shadowstrike]({{< ref "/wiki/" >}}Shadowstrike)**._
 
 ## Description
 
@@ -47,7 +47,7 @@ Its interior is a box.
 - Don't try to tank in this ship, it isn't capable of taking a beating unlike ships like the [Sovereign]({{< ref "/wiki/" >}}Sovereign) or [Cutlass]({{< ref "/wiki/" >}}Cutlass).
 - Keep moving fast in this ship during a battle, it's one of the key things that helps this ship survive.
 
-## Version History 
+## Version History
 
 - In .75a3, Shadowmane's top speed was increased to 145 after being 135. It's acceleration was increased from 45 and was changed to 55. Lastly, It's turn speed was increased from .4 and was changed to .5.
 - Explosion size 250 ----> 510 .75a12

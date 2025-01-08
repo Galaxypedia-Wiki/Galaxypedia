@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Xenophile
+  - /wiki/Xenophile
 categories:
-- Fighters
-- Support Ships
-- Ships
+  - Fighters
+  - Support Ships
+  - Ships
 title: Xenophile
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Xenophile_** is a very fast but fragile **[Fighter]({{< ref "/categories/" >}}fighters)**, being one of the 3 fighters to spawn in [Frion]({{< ref "/wiki/" >}}Frion), the others being the [Striker]({{< ref "/wiki/" >}}Striker) and [Nighthawk]({{< ref "/wiki/" >}}Nighthawk).
 
@@ -39,7 +39,7 @@ Like all fighter class ships, the **Xenophile** has little in the way of an inte
 - Avoid ships with high-accuracy or high rate-of-fire turrets (Gatlings), as they can deal significant damage to fighters and will destroy them if given the chance.
 - Use your insane speed to distract weapon fire while others rake down the target.
 
-## Version History 
+## Version History
 
 - Remodeled in version ??
 

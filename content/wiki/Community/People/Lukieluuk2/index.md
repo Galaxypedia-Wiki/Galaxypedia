@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Lukieluuk2
+  - /wiki/Lukieluuk2
 categories:
-- Biographies
+  - Biographies
 title: Lukieluuk2
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 Infamous Galaxy Exploiter and creator of popular Galaxy automine exploit Galaxy Helper.
 

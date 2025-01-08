@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Worm
+  - /wiki/Worm
 categories:
-- Frigates
-- Ships
-- Incomplete Images
+  - Frigates
+  - Ships
+  - Incomplete Images
 title: Worm
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Worm_**is a small **[Frigate]({{< ref "/categories/" >}}frigates)** modelled after the [Wyrm]({{< ref "/wiki/" >}}Wyrm). 
+The **_Worm_**is a small **[Frigate]({{< ref "/categories/" >}}frigates)** modelled after the [Wyrm]({{< ref "/wiki/" >}}Wyrm).
 
 ## Description
 
@@ -48,7 +48,7 @@ The **Worm** looks nearly identical to the _Wyrm_ from the outside. The pilot's 
 - Use this ship for Pirating.
 - Don't forget that if you shoot another ship before docking at Mega Base, you will be in hostile mode.
 
-## Version History 
+## Version History
 
 - Received a remodel in .65b
 - Cargo Hold nerfed from 250 to 100 in an unknown version.

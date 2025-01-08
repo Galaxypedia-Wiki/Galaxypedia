@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Devastation
-- /wiki/Devestation
+  - /wiki/Devastation
+  - /wiki/Devestation
 categories:
-- Ships
-- Battlecruisers
-- Support Ships
+  - Ships
+  - Battlecruisers
+  - Support Ships
 title: Devastation
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Devastation_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) class ship with heavy [turrets]({{< ref "/wiki/" >}}turrets). 
+The **_Devastation_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) class ship with heavy [turrets]({{< ref "/wiki/" >}}turrets).
 
 ## Description
 
@@ -46,7 +46,7 @@ Currently the model is slightly broken, with some parts being [Partshifted]({{< 
 - Use [Spinals]({{< ref "/wiki/" >}}Spinals) for extra shield damage.
 - Best used against other [Battlecruisers]({{< ref "/categories/" >}}battlecruisers) and/or larger ships as the [Heavy Turrets]({{< ref "/wiki/" >}}Turrets) struggle to hit smaller ships, though larger Cruisers like the [Gryphon]({{< ref "/wiki/" >}}Gryphon) and [Spectre]({{< ref "/wiki/" >}}Spectre) are an exception depending on the range.
 
-## Version History 
+## Version History
 
 - Name fixed in .69d.
 - 1 [Heavy Cannon]({{< ref "/wiki/" >}}Turrets) replaced with 1 [Dual Medium Cannon]({{< ref "/wiki/" >}}Turrets) in version .71b.

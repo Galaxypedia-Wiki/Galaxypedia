@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Incarnate
+  - /wiki/Incarnate
 categories:
-- Ships
-- Dreadnoughts
-- Halloween 2020
+  - Ships
+  - Dreadnoughts
+  - Halloween 2020
 title: Incarnate
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Incarnate_** is an event [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) from phase three of the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020). 
+The **_Incarnate_** is an event [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) from phase three of the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020).
 
 ## Description
 
@@ -44,7 +44,7 @@ Not much in the way of an interior simply a teleporter pad very close to the dri
 - Use this ship only against bigger ships.
 - Make sure to check the map/leaderboard once in awhile while using this ship to watch out for raids to kill your ship; limited dreadnoughts are both a blessing of a powerful ship and a curse of trophy hunting.
 
-## Version History 
+## Version History
 
 - 2 [Huge Cannons]({{< ref "/wiki/" >}}Spinal-Weaponry) removed in version .70b2.
 - Reverted the Huge Cannon amount back to 4 in version .72d.

@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Osprey
+  - /wiki/Osprey
 categories:
-- Ships
-- Frigates
-- PVP Ships
-- Support Ships
-- All-Rounder Ships
+  - Ships
+  - Frigates
+  - PVP Ships
+  - Support Ships
+  - All-Rounder Ships
 title: Osprey
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Osprey_** is a **[Frigate]({{< ref "/categories/" >}}frigates)** class ship with decent cargo and overall firepower for its class.
 
@@ -44,7 +44,7 @@ The interior of the **Osprey** is small, containing a bed, a chair with a comput
 - Make sure to use your agility to your advantage and constantly move around to throw players off.
 - Assemble a swarm for amazing power against larger ships.
 
-## Version History 
+## Version History
 
 - Received a remodel in an unknown version.
 - 4 [Tiny Cannons]({{< ref "/wiki/" >}}Turrets) and 2 [Tiny Lasers]({{< ref "/wiki/" >}}Turrets) added in version .72c29

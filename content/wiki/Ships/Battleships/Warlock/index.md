@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Warlock
+  - /wiki/Warlock
 categories:
-- Battleships
-- Ships
-- PVP Ships
-- Support Ships
-- Siege Ships
+  - Battleships
+  - Ships
+  - PVP Ships
+  - Support Ships
+  - Siege Ships
 title: Warlock
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Warlock_** is a powerful [**Battleship**]({{< ref "/categories/" >}}battleships) with a unique design and many [Medium Turrets]({{< ref "/wiki/" >}}Turrets).
 
@@ -47,7 +47,7 @@ The interior of the **Warlock** is the exact same as the interior of the [Witch]
 - Try to move slowly behind [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) during a siege, let them tank, while you use your firepower.
 - When attacking larger and slower ships, always stay underneath them or in a blind-spot using the Warlock's speed.
 
-## Version History 
+## Version History
 
 - The **Warlock**received a remodel in .51a.
 - Received a test remodel in .62a1 (there was also a bug that removed the [Spinal Cannons]({{< ref "/wiki/" >}}Spinals))

@@ -1,16 +1,18 @@
 ---
 aliases:
-- /wiki/Snowflake
+  - /wiki/Snowflake
 categories:
-- Limited Ships
-- Christmas Event 2017
-- Quests
-- Christmas Event 2018
-- Removed From Game
-- Christmas Event 2019
-- Event Items
+  - Limited Ships
+  - Christmas Event 2017
+  - Quests
+  - Christmas Event 2018
+  - Removed From Game
+  - Christmas Event 2019
+  - Event Items
 title: Snowflake
----**Snowflakes** are used to create all event ships from all the Christmas events.
+---
+
+**Snowflakes** are used to create all event ships from all the Christmas events.
 
 ## 2021
 
@@ -18,9 +20,9 @@ title: Snowflake
 
 The Snowflakes in this event are also used to trade for credits via 2 Quests, which are listed below.
 
-### Snowflakes, 100 
+### Snowflakes, 100
 
-**Requires:** 100 Snowflakes. **Reward:** 40000 Credits.  "Snowflake" is the [NPC]({{< ref "/categories/" >}}npcs) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #2021122401.
+**Requires:** 100 Snowflakes. **Reward:** 40000 Credits. "Snowflake" is the [NPC]({{< ref "/categories/" >}}npcs) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #2021122401.
 
 **Dialogue:**
 
@@ -50,9 +52,9 @@ _When speaking with Snowflake again_
 
 _If player has the required items, they will receive 40000 Credits as a reward._
 
-### Snowflakes, 1k 
+### Snowflakes, 1k
 
-**Requires:** 1000 Snowflakes. **Reward:** 400000 Credits.  "Snowflake" is the [NPC]({{< ref "/categories/" >}}npcs) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #2021122402.
+**Requires:** 1000 Snowflakes. **Reward:** 400000 Credits. "Snowflake" is the [NPC]({{< ref "/categories/" >}}npcs) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #2021122402.
 
 **Dialogue:**
 
@@ -82,7 +84,7 @@ _When speaking with Snowflake again_
 
 _If player has the required items, they will receive 400000 Credits as a reward._
 
-## 2020 
+## 2020
 
 **Snowflakes** are once again physical objects just as they were back in 2018 and earlier. These **Snowflakes** can be found in [Mega Base]({{< ref "/wiki/" >}}Mega-Base) and [Aqueous]({{< ref "/wiki/" >}}Aqueous) in certain spawning locations. In order for any **Snowflakes** to spawn in a private server, at least 4 people need to be present. Additionally, a minimum of 6 players are required for snowflakes to spawn at Aqueous.
 
@@ -103,11 +105,11 @@ Aqueous Spawning Locations:
 - Near another doorway on a level one base, or out in the snow on an upgraded base
 - In a cave near terminals D and E
 
-## 2019 
+## 2019
 
 The source of **Snowflakes** for the previous Christmas Event, the [Christmas Event 2019]({{< ref "/wiki/" >}}Christmas-Event-2019), are the [Aliens]({{< ref "/wiki/" >}}Aliens), which have been redesigned for the event. [Alien Swarmers]({{< ref "/wiki/" >}}Swarmer) drop 1 Snowflake and [Alien Punishers]({{< ref "/wiki/" >}}Punisher) drop 20.
 
-## 2018 and Earlier 
+## 2018 and Earlier
 
 **Snowflakes** were previously physical objects found in-game. They were used in the 2017[Ice Monster]({{< ref "/wiki/" >}}The-Ice-Monster) quest to create the [Blizzard]({{< ref "/wiki/" >}}Blizzard) and the 2018 Christmas Event to create ships. These neon-blue objects were found at every base except for [Frion]({{< ref "/wiki/" >}}Frion) & [Military HQ]({{< ref "/wiki/" >}}Military-HQ). They only spawned when a minimum of 6 people were in a server during the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018) (Public Server or Private Server).
 

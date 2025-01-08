@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Festive-Wyrm
+  - /wiki/Festive-Wyrm
 categories:
-- Limited Ships
-- Reskins
-- Ships
-- Christmas Event 2018
-- Freighters
+  - Limited Ships
+  - Reskins
+  - Ships
+  - Christmas Event 2018
+  - Freighters
 title: Festive Wyrm
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Festive Wyrm_** is a [**Limited Event**]({{< ref "/categories/" >}}limited-ships)**[Freighter]({{< ref "/categories/" >}}freighters)** that was released on December 31st, 2018. It is a redesigned version of the old [Wyrm]({{< ref "/wiki/" >}}Wyrm).
 
@@ -41,7 +41,7 @@ The **Festive Wyrm** has the same tiny interior as the [Wyrm]({{< ref "/wiki/" >
 - Use your speed to get to loot and run away before [Pirates]({{< ref "/wiki/" >}}Pirating) can even get to you.
 - Use your high speed and tiny size to dodge enemy fire.
 
-## Version History 
+## Version History
 
 - Added in .65b.
 - Fixed part-shift .75a12

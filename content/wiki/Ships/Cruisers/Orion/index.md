@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Orion
+  - /wiki/Orion
 categories:
-- Ships
-- Cruisers
-- Pirate Ships
-- PVP Ships
-- Support Ships
-- U.N.E
+  - Ships
+  - Cruisers
+  - Pirate Ships
+  - PVP Ships
+  - Support Ships
+  - U.N.E
 title: Orion
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **Orion** is a heavy Cruiser, borderline battlecruiser made by the [U.N.E.]({{< ref "/wiki/" >}}United-Nations-of-Earth) that has very high health for a Cruiser, decent [Spinal]({{< ref "/wiki/" >}}Spinals) damage, and light [turrets]({{< ref "/wiki/" >}}turrets) in case any small ships attack. 
+The **Orion** is a heavy Cruiser, borderline battlecruiser made by the [U.N.E.]({{< ref "/wiki/" >}}United-Nations-of-Earth) that has very high health for a Cruiser, decent [Spinal]({{< ref "/wiki/" >}}Spinals) damage, and light [turrets]({{< ref "/wiki/" >}}turrets) in case any small ships attack.
 
 ## Description
 
@@ -44,7 +44,7 @@ On the back of the **Orion** is a teleporter that leads to a small room which co
 - Moderately effective against a single [Alien Swarmer]({{< ref "/wiki/" >}}Swarmer), but does not fare well against larger groups.
 - Use your [Spinals]({{< ref "/wiki/" >}}Spinals) to deal damage to capital ships, and your [Turrets]({{< ref "/wiki/" >}}Turrets) to attack small ships.
 
-## Version History 
+## Version History
 
 - Gains 2 [Light Gatling Cannons]({{< ref "/wiki/" >}}Turrets) replacing its [Light Cannon]({{< ref "/wiki/" >}}Turrets) and [Light Flak Cannon]({{< ref "/wiki/" >}}Turrets) and gained 1 [Dual Medium Laser]({{< ref "/wiki/" >}}Turrets) replacing 1 [Small Cannon]({{< ref "/wiki/" >}}Spinals) in version .75a3.
 - Added 2 [Medium Phasers]({{< ref "/wiki/" >}}Spinals) ("G" Spinal) and changed [Medium Laser]({{< ref "/wiki/" >}}Turrets) to [Dual Medium Laser]({{< ref "/wiki/" >}}Turrets) in version .65b.

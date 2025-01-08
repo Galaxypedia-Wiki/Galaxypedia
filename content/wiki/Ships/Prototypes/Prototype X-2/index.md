@@ -1,23 +1,23 @@
 ---
 aliases:
-- /wiki/Prototype-X-2
+  - /wiki/Prototype-X-2
 categories:
-- Ships
-- Capital Ships
-- Support Ships
-- PVP Ships
-- Super Capital Ships
-- Prototypes
-- Quests
-- Alien Ships and Stations
+  - Ships
+  - Capital Ships
+  - Support Ships
+  - PVP Ships
+  - Super Capital Ships
+  - Prototypes
+  - Quests
+  - Alien Ships and Stations
 title: Prototype X-2
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/prototypeShip >}} 
+{{< notices/prototypeShip >}}
 
-The **_Prototype X-2_** is a [**Prototype**]({{< ref "/categories/" >}}prototypes) that was made by the [Kneall]({{< ref "/wiki/" >}}Kneall). 
+The **_Prototype X-2_** is a [**Prototype**]({{< ref "/categories/" >}}prototypes) that was made by the [Kneall]({{< ref "/wiki/" >}}Kneall).
 
 ## Description
 
@@ -66,7 +66,7 @@ The exterior has the green and purple glowing parts of the other [Kneall]({{< re
 - Use the extremely high firepower to destroy [capital ships]({{< ref "/categories/" >}}capital-ships) like [Battleships]({{< ref "/categories/" >}}battleships) or [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) in ridiculous speed.
 - Be very careful with this ship. Despite the immense power, it is extremely expensive, currently costing many millions of credits along with special quest items and parts from bosses, so you cannot afford to lose it.
 
-## Version History 
+## Version History
 
 - Received a remodel in an unknown version.
 - [Shields]({{< ref "/wiki/" >}}Shields) were buffed by 2,500 in an unknown version.
@@ -96,7 +96,7 @@ The exterior has the green and purple glowing parts of the other [Kneall]({{< re
 - Spinals changed from 7/7 Huge Phasers/Huge Cannons to 7/9 Huge Phasers/Huge Cannons in an unknown version.
 - Removed from the limited ship build menu in version .75a5.
 - Spinals changed again from 7/9 Huge Phasers/Huge Cannons to 7/6 Huge Phasers/Huge Cannons in an unknown version.
-- Readded to the limited ship build menu in version .75a5, from 1/22/2021-1/25/2021 due to a third [Prototype]({{< ref "/categories/" >}}prototypes)-class ship dying after the **Prototype X-2** and [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) were taken off sale. 
+- Readded to the limited ship build menu in version .75a5, from 1/22/2021-1/25/2021 due to a third [Prototype]({{< ref "/categories/" >}}prototypes)-class ship dying after the **Prototype X-2** and [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) were taken off sale.
 - [Shield]({{< ref "/wiki/" >}}Shields) health reduced from 16,000 to 15,900, [Hull]({{< ref "/wiki/" >}}Hull) health reduced from 12,250 to 12,000, Turrets changed (please list the full set of changes done to the turret weaponry), and Spinals changed to 6/6 Huge Phasers/Huge Cannons with 0.1 interval in an unknown version (please put version[s] here).
 - HP Buffed 15,900/12,000 -> 17,500/13,000 Version .75a25
 - Turret loadout changed from 2 Kneall Exterminators, 1 Kneall Obliterator, 2 Kneall Lasers, 2 Kneall Multilasers, 2 Kneall Hypercannons, and 1 Kneall Subcannon to 2 Kneall Assault Lasers, 4 Kneall Assault Cannons, 1 Kneall Subcannon, and 1 Kneall Multilaser in an unknown version.
@@ -110,8 +110,8 @@ The exterior has the green and purple glowing parts of the other [Kneall]({{< re
 - The only player ownable ship in the game that is capable of utilizing Plasma-type ([alien]({{< ref "/categories/" >}}alien-ships-and-stations)) turret weaponry, through it's unique [module]({{< ref "/wiki/" >}}Ship-Modules) ("Kneall Munitions").
 - Has unique sounds for [Spinals]({{< ref "/wiki/" >}}Spinal-Weaponry).
 - Old Description: The X-2 Prototype is a warship that requires level 5 security clearance to even view the files on it. Engineered with tech from the Kneall. It's extremely experimental, use at your own peril.
-- Players used to receive an additional 500,000 credits for destroying a **Prototype X-2**. 
-- This ship had the same amount of [Spinals]({{< ref "/wiki/" >}}Spinals) as the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) when it released. 
+- Players used to receive an additional 500,000 credits for destroying a **Prototype X-2**.
+- This ship had the same amount of [Spinals]({{< ref "/wiki/" >}}Spinals) as the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) when it released.
 - In the interior, there is a crudely drawn smiley face behind the monitors that sit in front of the pilot's seat.
 - There are two of the same messages on both sides of the back of the **Prototype X-2** in the Alien script.
 - In mid beta, LordZeloxy and Cronotious conducted tests involving the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) and the **Prototype X-2** and which ship would come out on top in a battle. One test was purely DPS and the other was an actual battle, however these tests went to Zeloxy's head, and he later lost his ship. Since then, as of 7/31/2021 seehyadued52 and greenninja010 have done an updated battle.

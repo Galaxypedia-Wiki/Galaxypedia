@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Ø₴łⱤł₴-ⱠɆ₲łØ₦
+  - /wiki/Ø₴łⱤł₴-ⱠɆ₲łØ₦
 categories:
-- Halloween 2022
+  - Halloween 2022
 title: Ø₴łⱤł₴ ⱠɆ₲łØ₦
----  
+---
 
-{{< notices/removed >}} 
+{{< notices/removed >}}
 
 Ai starbase that appeared in [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022).
 

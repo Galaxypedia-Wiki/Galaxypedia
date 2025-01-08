@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Mastodon
+  - /wiki/Mastodon
 categories:
-- Admin Ships
-- Removed From Game
-- Ships
+  - Admin Ships
+  - Removed From Game
+  - Ships
 title: Mastodon
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The**_Mastodon_** was an **[Admin Ship]({{< ref "/categories/" >}}admin-ships)** that had non-functional [Turrets]({{< ref "/wiki/" >}}Turrets).
 
@@ -38,7 +38,7 @@ Unknown.
 - <s>It was basically invincible, so destroy anything you want.</s>
 - <s>Show off to people.</s>
 
-## Version History 
+## Version History
 
 - Removed along with most of the [Admin Ships]({{< ref "/categories/" >}}admin-ships) in version .62a1.
 

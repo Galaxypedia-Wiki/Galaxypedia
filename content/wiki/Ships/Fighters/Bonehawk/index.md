@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Bonehawk
+  - /wiki/Bonehawk
 categories:
-- Limited Ships
-- Fighters
-- Halloween 2018
-- Ships
+  - Limited Ships
+  - Fighters
+  - Halloween 2018
+  - Ships
 title: Bonehawk
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Bonehawk_** is an exclusive [Fighter]({{< ref "/categories/" >}}fighters) only found on the [Kapisi]({{< ref "/wiki/" >}}Kapisi).
 

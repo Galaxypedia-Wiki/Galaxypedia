@@ -1,14 +1,16 @@
 ---
 aliases:
-- /wiki/Galaxy-Private-Servers
-- /wiki/Galaxy-VIP-Servers
-- /wiki/Private-Servers
-- /wiki/Vip-server
-- /wiki/VIP-Servers
+  - /wiki/Galaxy-Private-Servers
+  - /wiki/Galaxy-VIP-Servers
+  - /wiki/Private-Servers
+  - /wiki/Vip-server
+  - /wiki/VIP-Servers
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Galaxy Private Servers
----![Galaxy VIP Servers]({{< ref "/wiki/" >}}VIP-server.JPG-"Galaxy-VIP-Servers")
+---
+
+![Galaxy VIP Servers]({{< ref "/wiki/" >}}VIP-server.JPG-"Galaxy-VIP-Servers")
 
 ## Description
 
@@ -16,7 +18,7 @@ title: Galaxy Private Servers
 
 Private servers allowed easy money gain and a much lower risk of you losing your ships to [pirating players]({{< ref "/wiki/" >}}Pirating). [Aliens]({{< ref "/wiki/" >}}Aliens) and [Pirates]({{< ref "/wiki/" >}}Pirates) still spawned on private servers, which was extremely dangerous if you were playing alone. It allowed a maximum of 50 players and the owner could name the server however they wish.
 
-## Before joining a Server 
+## Before joining a Server
 
 **Before you enter one of these Private servers, make sure you have the setting shown in the image below is set to _Everyone_** ![]({{< ref "/wiki/" >}}Priv.png-"Priv.png")
 
@@ -24,7 +26,7 @@ This setting can be found by scrolling down in this [section.](https://www.roblo
 
 Or else an error known as **Error Code 524** will be shown when joining a server.
 
-## Discontinued Servers 
+## Discontinued Servers
 
 - [1999 Hee-Ho Summer! ^(Galaxy Server #3)^](https://www.roblox.com/games/200330616?privateServerLinkCode=35833736991648007124118786290192)
 - [Galaxy Server #1](https://www.roblox.com/games/200330616?privateServerLinkCode=76235091260025399685485885444892)

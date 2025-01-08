@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Zodiac
+  - /wiki/Zodiac
 categories:
-- Ships
-- Cruisers
-- PVP Ships
+  - Ships
+  - Cruisers
+  - PVP Ships
 title: Zodiac
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Zodiac_** is an alien-like [Cruiser]({{< ref "/categories/" >}}cruisers) that wields long-ranged turrets, decent spinal armament and is durable. 
+The **_Zodiac_** is an alien-like [Cruiser]({{< ref "/categories/" >}}cruisers) that wields long-ranged turrets, decent spinal armament and is durable.
 
 ## Description
 
@@ -41,7 +41,7 @@ The **_Zodiac_** is a dark navy, box-like ship with blue neon lights outlining i
 - Get to max speed before warping into a fight so you don't take damage while accelerating.
 - Take advantage of the long range on your turrets to keep out of the thick of firefights that could be hazardous to this ship.
 
-## Version History 
+## Version History
 
 - No logged changes (?)
 

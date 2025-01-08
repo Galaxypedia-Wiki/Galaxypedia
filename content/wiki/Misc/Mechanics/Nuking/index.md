@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Nuking
+  - /wiki/Nuking
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Nuking
----  
+---
 
-{{< notices/outdatedInfo >}} 
+{{< notices/outdatedInfo >}}
 
 If you haven't already seen the summary of this strategy on the [Strategies]({{< ref "/wiki/" >}}Strategies) page, please click [here]({{< ref "/wiki/" >}}Strategies#Nuking). In short: **Nuking** is the act of purposefully using ships with high explosion values to destroy the ship, and to use the nuke upon ship explosion to try to take other ships with you.
 
-### Nuking Damage Mechanics 
+### Nuking Damage Mechanics
 
 Currently, nuke damage works as stated below: (Excerpt from Update Log channel in Galaxy Official Discord:)"--Nuke Changes 1) Resistance now applies to nukes. 2) Max nuke damage (0% resistance) is Radius x 4. (WAS Radius x 2 tho ignored resistance) 3) Shield takes 50% nuke damage 4) Bases take 50% nuke damage 5) Nuke damage is also proportional to range (e.g. 2k range, if 1k out will recieve 50% of the damage) 6) ALL Base Nukes Deal extra 2x nuke damage (Nuke radius x 8 = max damage)" The information below was sourced from a Galaxy Developer ([yname]({{< ref "/wiki/" >}}User:Wingy)):
 
@@ -24,7 +24,7 @@ If you didn't understand this all the above information, an explanation may help
 configuration settings for explosions in an in-game script by
 yname](NukeDmgConfig.png "Image of configuration settings for explosions in an in-game script by yname")
 
-### Nuking Effectively 
+### Nuking Effectively
 
 For starters, nuking bases is a bad idea. On top of them having decently high resistance to damage, they also have an extra 50% resistance against nuke damage. Throwing Nyx nukes at a level 5 [Starbase]({{< ref "/wiki/" >}}Starbase) even from point blank makes it take a very long time to destroy it with nukes alone(would take 4 point-blank Nyx nukes to just destroy the shield!). Likewise, base nukes are dangerous because they do twice the damage of ship nukes(Explosion Radius×8). For example, a level 5 [Mothership]({{< ref "/wiki/" >}}Mothership) nuke comes out to an astonishing total damage of 114,320 base damage(14,290×8=114,320). Even tanking the nuke from half of the maximum distance is enough to kill any Dreadnought in the game instantly regardless of being full health; it is only [Super Capitals]({{< ref "/categories/" >}}super-capital-ships), and durable [Carriers]({{< ref "/categories/" >}}carriers) that are able to tank the nuke from half of the maximum range. With that out of the way, here are a few points about nuking:
 
@@ -32,7 +32,7 @@ For starters, nuking bases is a bad idea. On top of them having decently high re
 - [Warp]({{< ref "/wiki/" >}}Warp-Drive) away from large size nukes, **especially [Base]({{< ref "/wiki/" >}}Starbase) nukes**, as they do a lot of damage.
 - If you find a crippled capital ship trying to limp back home and it's obvious that the pilot isn't paying much attention to their surroundings, you can try to nuke them using a cheap throw-away nuke like the [M Class]({{< ref "/wiki/" >}}M-Class). However, it's more effective to use a combat ship to destroy said crippled ship in most cases.
 
-## Version History 
+## Version History
 
 - Explosion radius size was changed from explosion radius value × 10, to explosion radius value × 9 (i.e. a value of 1000 for explosion radius has 9000 range now, not 10,000) in an unknown version.
 

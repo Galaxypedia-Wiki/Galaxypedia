@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Nisos
+  - /wiki/Nisos
 categories:
-- Battleships
-- PVP Ships
-- Support Ships
-- Siege Ships
-- Capital Ships
-- Ships
-- U.N.E
+  - Battleships
+  - PVP Ships
+  - Support Ships
+  - Siege Ships
+  - Capital Ships
+  - Ships
+  - U.N.E
 title: Nisos
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Nisos_** is a balanced ship, mostly used in [**Battleship**]({{< ref "/categories/" >}}battleships) sieges. 
+The **_Nisos_** is a balanced ship, mostly used in [**Battleship**]({{< ref "/categories/" >}}battleships) sieges.
 
 ## Description
 
@@ -46,7 +46,7 @@ You walk onto a teleporter, which leads to a small room with a desk, a chair, 3 
 - Remember to back down and retreat if you encounter a [Dread]({{< ref "/categories/" >}}dreadnoughts) or [Battleship]({{< ref "/categories/" >}}battleships) mostly based on hull.
 - Using spinals are necessary to unlock this ship's full potential.
 
-## Version History 
+## Version History
 
 - 2 [Heavy Power Defense Lasers]({{< ref "/wiki/" >}}Turrets) were changed to 2 [Super Power Defense Lasers]({{< ref "/wiki/" >}}Turrets) in version .75a3.
 - Remodeled in an unknown version.

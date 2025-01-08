@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Galaxy-Rules
+  - /wiki/Galaxy-Rules
 categories:
-- Staff-Only Pages
+  - Staff-Only Pages
 title: Galaxy Rules
----<div class="TDiv">
+---
+
+<div class="TDiv">
 # Galaxy Rules created by [Rcouret]({{< ref "/wiki/" >}}Rcouret)
 
 ^**These rules also apply to galaxy arcade, just with milder punishments.**^

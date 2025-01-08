@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Mothership
+  - /wiki/Mothership
 categories:
-- Starbases
+  - Starbases
 title: Mothership
----## Description
+---
+
+## Description
 
 The **_Mothership_** was the strongest (and most tanky) [Starbase]({{< ref "/wiki/" >}}Starbase) in the game. You are able to upgrade it to level 5 and it even has its own custom [Turrets]({{< ref "/wiki/" >}}Turrets). At level 5, these build up to a massive arsenal of 8 [Mothership Miniguns]({{< ref "/wiki/" >}}Turrets), 4 [Mothership Lasers]({{< ref "/wiki/" >}}Turrets), 2 [Mothership Cannons]({{< ref "/wiki/" >}}Turrets), 6 [Mothership Railguns]({{< ref "/wiki/" >}}Turrets) and 1 [Mothership Large Railgun]({{< ref "/wiki/" >}}Turrets). It has a total of 40,000 health without upgrades. 20,000 shield and 20,000 hull. It has a <u>**massive explosion size**</u>.
 
@@ -26,4 +28,4 @@ alarm|none](Mothership_Alarm.ogg "Loud Mothership alarm|none")
 - There used to be a screen in the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) that referenced the **Mothership**.
 - For whatever reason unknown, whether it be better ships or a lesser explosion, the Mothership death seems to be less deadly as of version .66b. Compared to before when it could kill a full health leviathan, a Lucifer can take the explosion from 8.5k studs away and only have half of its shield removed.
 - There is a teleporter in the unconstructed part of the mothership. The use is unknown as it functions like trying to go in the door of the kneall embassy, sending you to the Mega Base. If truly needed, this place can be used as a last ditch effort for despawning a ship.
-- A fair amount of people out there may want to do something called a 'revenge kill' on the Mothership, most often meaning that the Mothership explosion destroyed their (possibly expensive) ship at least once.![]({{< ref "/wiki/" >}}<Screenshot-(80).png> "Screenshot_(80).png")![]({{< ref "/wiki/" >}}Me-taking-a-mothership-explosion---Galaxy---Roblox-"Me-taking-a-mothership-explosion---Galaxy---Roblox"){width="301" height="301"}
+- A fair amount of people out there may want to do something called a 'revenge kill' on the Mothership, most often meaning that the Mothership explosion destroyed their (possibly expensive) ship at least once.![]({{< ref "/wiki/" >}}<Screenshot-(80).png> "Screenshot\_(80).png")![]({{< ref "/wiki/" >}}Me-taking-a-mothership-explosion---Galaxy---Roblox-"Me-taking-a-mothership-explosion---Galaxy---Roblox"){width="301" height="301"}

@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/DrWhoInTARDIS
+  - /wiki/DrWhoInTARDIS
 categories:
-- Biographies
+  - Biographies
 title: DrWhoInTARDIS
----Well known spreadsheet master and extremely lucky ship stat guesser in the Galaxy community, currently a Trusted user in Galaxy.
+---
+
+Well known spreadsheet master and extremely lucky ship stat guesser in the Galaxy community, currently a Trusted user in Galaxy.
 
 ## Story
 

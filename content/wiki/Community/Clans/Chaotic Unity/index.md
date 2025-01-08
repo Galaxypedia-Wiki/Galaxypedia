@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Chaotic-Unity
+  - /wiki/Chaotic-Unity
 categories:
-- Galaxy Lore Pages
-- Clans
+  - Galaxy Lore Pages
+  - Clans
 title: Chaotic Unity
----<div class="cardcontainer" align="justify" style="font-size: 14px; line-height: 24px;">
+---
+
+<div class="cardcontainer" align="justify" style="font-size: 14px; line-height: 24px;">
 
 ![]({{< ref "/wiki/" >}}375px-CU-Icon.png-"375px-CU-Icon.png")
 

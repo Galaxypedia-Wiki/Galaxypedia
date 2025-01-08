@@ -1,26 +1,26 @@
 ---
 aliases:
-- /wiki/Necromancer
+  - /wiki/Necromancer
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Halloween 2020
-- Bosses
-- Ships
+  - Alien Ships and Stations
+  - NPC Ships
+  - Halloween 2020
+  - Bosses
+  - Ships
 title: Necromancer
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-The **_Necromancer_** is a boss [**AI**]({{< ref "/categories/" >}}npc-ships) ship added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) 
+The **_Necromancer_** is a boss [**AI**]({{< ref "/categories/" >}}npc-ships) ship added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020)
 
 ## Description
 
 The **Necromancer** is the latest iteration of Halloween event bosses. Reports from players suggest that it is equivalent to a Prototype (such as the [Kneall Prototype]({{< ref "/wiki/" >}}Kneall-Prototype)), which is supported by its Super-Capital Class map icon. It has a much higher turn speed than player [Prototypes]({{< ref "/categories/" >}}prototypes), making exploiting its blindspots more difficult.
 
-## Spawn Conditions 
+## Spawn Conditions
 
 The **Necromancer** will be capable of spawning when a server has at least 6 players, and the round time passes 60 minutes.
 
@@ -42,7 +42,7 @@ Unlike previous bosses, distractions with small, fast ships like the [Viper]({{<
 
 - Currently appears to be broken. 1111 Silicate, 731 Carbon, 568 Iridium, 77 Adamantite, 110 Palladium, 87 Titanium, 87 Quantium, 23 Uranium, and 0 pumpkins. This data was gathered from [this video](https://www.youtube.com/watch?v=8GIIp3X_nlA).
 
-## Version History 
+## Version History
 
 - Gamma pumpkin drop rate nerfed in version .69b1 (? -> ?)
 - AI updated in version .69b1---should no longer go out of bounds, should no longer attack safe dock ships, should no longer be distracted by player ships.

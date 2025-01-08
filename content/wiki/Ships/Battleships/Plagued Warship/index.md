@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Plagued-Warship
+  - /wiki/Plagued-Warship
 categories:
-- Halloween 2019
-- Battleships
-- Ships
-- PVP Ships
-- Support Ships
+  - Halloween 2019
+  - Battleships
+  - Ships
+  - PVP Ships
+  - Support Ships
 title: Plagued Warship
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Plagued Warship_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) that was introduced in the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019). It was formerly the [Genesis]({{< ref "/wiki/" >}}Genesis)'s limited counterpart before its remodel. 
+The **_Plagued Warship_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) that was introduced in the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019). It was formerly the [Genesis]({{< ref "/wiki/" >}}Genesis)'s limited counterpart before its remodel.
 
 ## Description
 
@@ -22,7 +22,7 @@ The **Plagued Warship** is a [Halloween Event 2019]({{< ref "/wiki/" >}}Hallowee
 
 ## Appearance
 
-The interior is a detailed box, with a nice seat and a display in front of it. The display says "29~##024aA4 SYTEM STATUS: BETTER THAN EVER 0Km(4##_-pR".
+The interior is a detailed box, with a nice seat and a display in front of it. The display says "29~##024aA4 SYTEM STATUS: BETTER THAN EVER 0Km(4##\_-pR".
 
 ## Advantages
 
@@ -43,7 +43,7 @@ The interior is a detailed box, with a nice seat and a display in front of it. T
 - Use your [Spinals]({{< ref "/wiki/" >}}Spinals), as they provide massive output DPS and will obliterate the opponent's [Shields]({{< ref "/wiki/" >}}Shields), then you can rely more on the [Turrets]({{< ref "/wiki/" >}}Turrets) and Cannons to finish the target off.
 - Get in the ship's weak spot and focus with [Spinals]({{< ref "/wiki/" >}}Spinals).
 
-## Version History 
+## Version History
 
 - Medium Cannon spinal barrel count increased from 4 to 5, Quad Advanced Medium Cannons' positions shifted such that the turrets are "orbital" in version .72d.
 - Explosion size 80 ----> 600 .75a12

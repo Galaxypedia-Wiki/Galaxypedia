@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Freedom-General
+  - /wiki/Freedom-General
 categories:
-- Ships
-- PVP Ships
-- Battleships
-- Capital Ships
-- Limited Ships
-- Reskins
-- Fourth of July 2021
+  - Ships
+  - PVP Ships
+  - Battleships
+  - Capital Ships
+  - Limited Ships
+  - Reskins
+  - Fourth of July 2021
 title: Freedom General
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Freedom General_** is an agile PvP event **[Battleship.]({{< ref "/categories/" >}}battleships)** 
+The **_Freedom General_** is an agile PvP event **[Battleship.]({{< ref "/categories/" >}}battleships)**
 
 ## Description
 
@@ -41,7 +41,7 @@ The **Freedom General** has a seat positioned in front of the two control panels
 
 - Use this carefully; don't get baited. Always travel with a fleet.
 
-## Version History 
+## Version History
 
 - Recolored in version .72f
 

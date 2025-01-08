@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Unarmed-Envoy
+  - /wiki/Unarmed-Envoy
 categories:
-- Fighters
-- Ships
+  - Fighters
+  - Ships
 title: Unarmed Envoy
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Unarmed Envoy_** was a small, limited remake of the [Dropship]({{< ref "/wiki/" >}}Dropship) [Destroyer]({{< ref "/categories/" >}}destroyers) that uses a reskinned old model, and is a [Destroyer]({{< ref "/categories/" >}}destroyers)-[Fighter]({{< ref "/categories/" >}}fighters) hybrid, eventually removed once it stopped spawning on the Lucifer Station.
 
@@ -33,7 +33,7 @@ The back of The **Unarmed Envoy** has two large benches containing six seats in
 
 - Use the Fighter's manageable speed to scout out enemy bases or distract enemy ships.
 
-## Version History 
+## Version History
 
 - Received a buff in .64d? that increased this Fighter's [Hull]({{< ref "/wiki/" >}}Hull) and [Shields]({{< ref "/wiki/" >}}Shields) by 300 each, and another buff that gave it one [Light Flak Cannon]({{< ref "/wiki/" >}}Turrets), which made the name confusing.
 - Started spawning on Lucifer Station in .65b.

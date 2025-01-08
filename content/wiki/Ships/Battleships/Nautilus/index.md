@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Nautilus
+  - /wiki/Nautilus
 categories:
-- Ships
-- Battleships
-- Limited Ships
+  - Ships
+  - Battleships
+  - Limited Ships
 title: Nautilus
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Nautilus_** is a unique **[Battleship]({{< ref "/categories/" >}}battleships)** added unexpectedly on April 5th, 2020.
 
@@ -51,7 +51,7 @@ The **Interior** starts with a cylinder shaped teleporter, which leads into a sm
 - Only use it when you do not have Battleship loyalty or need a more maneuverable ship, since most Dreadnoughts and even high DPS Battleships like the [Panther]({{< ref "/wiki/" >}}Panther) can be more effective.
 - Use your cannons to easily finish off [Hulled]({{< ref "/wiki/" >}}Galaxy-Slang) targets or steal kills.
 
-## Version History 
+## Version History
 
 - Taken offsale in an unknown version.
 - Both spinals received an additional Large Cannon (for a total of 3 Large Cannons per spinal) in version .72e1

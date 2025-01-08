@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Tempura
+  - /wiki/Tempura
 categories:
-- Ships
-- Freighters
+  - Ships
+  - Freighters
 title: Tempura
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Tempura_** is a light **[Freighter]({{< ref "/categories/" >}}freighters)**.
 
@@ -42,7 +42,7 @@ The **Tempura's** interior is quite large for a [Freighter]({{< ref "/categories
 - Check how far away the closest [Alien]({{< ref "/wiki/" >}}Aliens) is and where it is heading.
 - Go to high-ore wrecks and head to [Mega Base]({{< ref "/wiki/" >}}Mega-Base) or your base for a good profit.
 
-## Version History 
+## Version History
 
 - Received a buff in .61e4 that doubled [Hull]({{< ref "/wiki/" >}}Hull) and [Shields]({{< ref "/wiki/" >}}Shields) and gave the ship *some*damage resistance.
 - Cargo Hold buffed in .65b from 500 to 750, price increased slightly.

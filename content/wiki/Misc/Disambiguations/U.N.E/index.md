@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/U.N.E
-- /wiki/UNE
+  - /wiki/U.N.E
+  - /wiki/UNE
 categories:
-- Disambiguations
+  - Disambiguations
 title: U.N.E
----- [United Nations of Earth]({{< ref "/wiki/" >}}United-Nations-of-Earth), A Passive [AI]({{< ref "/wiki/" >}}AI) Faction found in public servers.
+---
+
+- [ [United Nations of Ear]({{< ref "/wiki/" >}}United-Nations-of-Earth), A Passive [ []({{< ref "/wiki/" >}}AI) Faction found in public servers.
 
 <!-- -->
 

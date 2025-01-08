@@ -1,5 +1,7 @@
 ---
 aliases:
-- /wiki/Alien-Monitor
+  - /wiki/Alien-Monitor
 title: Alien Monitor
----![]({{< ref "/wiki/" >}}Placeholder.png-"Placeholder.png")
+---
+
+![]({{< ref "/wiki/" >}}Placeholder.png-"Placeholder.png")

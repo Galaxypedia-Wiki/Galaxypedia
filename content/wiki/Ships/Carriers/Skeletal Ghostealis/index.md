@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Skeletal-Ghostealis
+  - /wiki/Skeletal-Ghostealis
 categories:
-- Limited Ships
-- Halloween 2018
-- Carriers
-- Capital Ships
-- Support Ships
-- Ships
-- Reskins
+  - Limited Ships
+  - Halloween 2018
+  - Carriers
+  - Capital Ships
+  - Support Ships
+  - Ships
+  - Reskins
 title: Skeletal Ghostealis
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Skeletal Ghostealis_** is an event reskin of the [Borealis]({{< ref "/wiki/" >}}Borealis) that was released when the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018) update came out.
 
@@ -54,7 +54,7 @@ The **<u>Interior</u>** of the **Skeletal Ghostealis**is taken up entirely by th
 - **Never** use as your main ship. This is a high kill for [Pirates]({{< ref "/wiki/" >}}Pirating).
 - **NEVER**use this ship for tanking damage. The rarity of it alone makes it a massive target.
 
-## Version History 
+## Version History
 
 - Added in .65a.
 - 4 [Light Gatling Lasers]({{< ref "/wiki/" >}}Turrets) and 2 [Dual Medium Cannons]({{< ref "/wiki/" >}}Turrets) replaced with 2 [Heavy Flak Cannons]({{< ref "/wiki/" >}}Turrets), 2 [Heavy Point Defense Lasers]({{< ref "/wiki/" >}}Turrets), 4 [Skeletal Cannons]({{< ref "/wiki/" >}}Turrets) and 2 [Skeletal Lasers]({{< ref "/wiki/" >}}Turrets), [Wraith]({{< ref "/wiki/" >}}Wraith) spawns reduced from 16 to 6 and received a remodel in version .69e.

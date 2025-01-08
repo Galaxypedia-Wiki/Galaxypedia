@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Revenant
+  - /wiki/Revenant
 categories:
-- Ships
-- Limited Ships
-- Battleships
-- Halloween 2021
-- Support Ships
+  - Ships
+  - Limited Ships
+  - Battleships
+  - Halloween 2021
+  - Support Ships
 title: Revenant
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **Revenant** is a [Battleship]({{< ref "/categories/" >}}battleships) added during the first part of the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021). 
+The **Revenant** is a [Battleship]({{< ref "/categories/" >}}battleships) added during the first part of the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021).
 
 ## Description
 
@@ -47,7 +47,7 @@ The **Interior** appears to be gold in color has some kind of writing inside _([
 - Use in a swarm with other **_Revenants_** and [Valkeracs]({{< ref "/wiki/" >}}Valkerac) to create a truly terrifying storm of shield-obliteration.
 - Use this as a very powerful shield breaker if you do not want to use anything larger, since most people don't know much about it and will lose their shields too quickly to retaliate. Be very careful however, since it is limited.
 
-## Version History 
+## Version History
 
 - Souls required reduced from 150 to 100, accidentally moved into the limited build menu (with a Class D Permit) in version .74a9. Shortly moved back to the normal build menu, as its respective event was not over.
 - Explosion size 300 ----> 500 .75a12

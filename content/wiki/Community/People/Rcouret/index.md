@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Rcouret
+  - /wiki/Rcouret
 categories:
-- Biographies
+  - Biographies
 title: Rcouret
----Robbie Couret, also known as [rcouret](https://www.roblox.com/users/48107074/profile), is a business programmer, game developer, and a father that has developed Field Of Battle and Galaxy, both of which are popular and well-known games with more than a million visits.
+---
+
+Robbie Couret, also known as [rcouret](https://www.roblox.com/users/48107074/profile), is a business programmer, game developer, and a father that has developed Field Of Battle and Galaxy, both of which are popular and well-known games with more than a million visits.
 
 He has been on Galaxy to play with players many times. He is currently working on Galaxy and trying to increase its popularity among newer players. His popularity has mostly come from Field of Battle, which has more than 64 million visits. While Galaxy has 19+ million visits.
 

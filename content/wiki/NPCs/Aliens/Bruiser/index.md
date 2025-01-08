@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Bruiser
-- /wiki/Kneall-Bruiser
+  - /wiki/Bruiser
+  - /wiki/Kneall-Bruiser
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
 title: Bruiser
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **_Bruiser_** is an [**Alien**]({{< ref "/categories/" >}}alien-ships-and-stations) [AI]({{< ref "/categories/" >}}npc-ships) ship roughly equivalent to a [Destroyer]({{< ref "/categories/" >}}destroyers).
 

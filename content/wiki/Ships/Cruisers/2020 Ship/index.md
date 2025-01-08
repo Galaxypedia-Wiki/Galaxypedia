@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/2020-Ship
+  - /wiki/2020-Ship
 categories:
-- Christmas Event 2019
-- Limited Ships
-- Quests
-- Cruisers
-- Ships
-- PVP Ships
+  - Christmas Event 2019
+  - Limited Ships
+  - Quests
+  - Cruisers
+  - Ships
+  - PVP Ships
 title: 2020 Ship
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_2020 Ship_** is a New Year's themed [**Cruiser**]({{< ref "/categories/" >}}cruisers) released during the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
@@ -47,7 +47,7 @@ This **2020 Ship** has quite a small but nicely-decorated interior. Inside, play
 - Only spawn it to show off to people.
 - If used against large targets, fly into areas that will maximize the absorption of the unique Spinal pattern.
 
-## Version History 
+## Version History
 
 - Taken off-sale on January 4, 2020.
 - Spinal cooldown heavily increased in unknown version.

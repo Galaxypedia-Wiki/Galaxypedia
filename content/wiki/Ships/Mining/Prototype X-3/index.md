@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Prototype-X-3
+  - /wiki/Prototype-X-3
 categories:
-- Ships
-- Limited Ships
-- Hidden Events
-- Mining Ships
-- Reskins
+  - Ships
+  - Limited Ships
+  - Hidden Events
+  - Mining Ships
+  - Reskins
 title: Prototype X-3
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Prototype X-3_** is a [Miner-Class]({{< ref "/categories/" >}}mining-ships) April Fools' ship.
 
@@ -44,7 +44,7 @@ The **Prototype X-3**'s design resembles the Wasp but has a unique, more militar
 - If you're going to use it, try to only fight big targets which can't hit you due to your 300 speed and small size.
 - Fly near your targets so your turrets can hit them, otherwise they will often miss.
 
-## Version History 
+## Version History
 
 - Released in version .65b for 2 weeks as part of a "potential" April Fool's Day prank. The April Fool's Day prank was later confirmed true within a week of its announcement through the obtaining of it via a small rectangular container located a distance of 146k to 150k studs directly above the [Mega Base]({{< ref "/wiki/" >}}Mega-Base).
 - Re-added for a limited time in version .66b, nobody managed to get it within that period.

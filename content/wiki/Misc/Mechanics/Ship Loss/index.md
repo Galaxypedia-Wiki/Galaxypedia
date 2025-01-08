@@ -1,19 +1,21 @@
 ---
 aliases:
-- /wiki/Ship-Loss
-- /wiki/Avoiding-ship-loss
+  - /wiki/Ship-Loss
+  - /wiki/Avoiding-ship-loss
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Ship Loss
----## Description
+---
+
+## Description
 
 Losing ships is an annoying and frustrating event. Here are some tips on how to avoid ship loss, and some specific scenarios that may lead to ship loss. However, since a recent update, you get a partial refund through "[Galactic Insurance]({{< ref "/wiki/" >}}Galactic-Insurance)" if your ship is destroyed. Players receive between 25%-45% of the ship's material value for combat ships, and 65%-70% for [Miners]({{< ref "/categories/" >}}mining-ships) and [Freighters]({{< ref "/categories/" >}}freighters).
 
-## Golden Rules 
+## Golden Rules
 
 The [Golden Rules]({{< ref "/wiki/" >}}Golden-Rules) are a set of tips and general advice that players can follow to help avoid ship loss.
 
-## Specific Scenarios that lead to Ship Loss 
+## Specific Scenarios that lead to Ship Loss
 
 _Note that all of these scenarios fall within the general category of ship loss by PvP, excluding the case of being AFK._
 
@@ -29,7 +31,7 @@ _Note that all of these scenarios fall within the general category of ship loss 
 
 - This scenario simply involves a player looking away from the game for too long, and they neglect to notice that their ship is under fire. This can happen quite often with [Alien]({{< ref "/wiki/" >}}Aliens) or NPC attacks, and some players have lost extremely expensive [Ships]({{< ref "/wiki/" >}}Ships) in this unfortunate manner.
 
-### Team Bail 
+### Team Bail
 
 - In this scenario, ships are in a siege/squad, and team members suddenly leave without warning. The unfortunate player that is last to leave is often quickly swarmed by enemies that take advantage of the confusion.
 
@@ -41,10 +43,10 @@ _Note that all of these scenarios fall within the general category of ship loss 
 
 - [Ships]({{< ref "/wiki/" >}}Ships) are flung when the [Warp]({{< ref "/wiki/" >}}Warp-Drive) system goes haywire or when the ship is warped into a solid object, causing glitches that fling players outside of the map boundaries. In earlier versions of Galaxy, being outside of map boundaries caused constant damage to ship shields and hull. It is also effectively impossible to warp while outside of the map boundaries, making them a dangerous place to get stuck, especially for ships with low maneuverability. Sometimes, big ships like [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) can get stuck in the vertical border if flung, causing the ship to be unable to move or warp out. The only way to fix this is to reset and wait for the cooldown.
 
-### Dock Blocked 
+### Dock Blocked
 
 - **DOCK BLOCKING IS A BANNABLE OFFENSE.** In this scenario, another ship, regardless of [Faction]({{< ref "/wiki/" >}}Player-Factions), attempts to or blocks another ship from being able to fully dock and despawn, thus leaving it vulnerable to enemy fire. Provided players have evidence, ships lost in this way are often refundable, and the offender may be banned for violation of the [Galaxy Rules]({{< ref "/wiki/" >}}Galaxy-Rules).
 
-### Border Ambush 
+### Border Ambush
 
 - When you are just wandering near the border or running for your life, a random ship hidden from the mini map border close to you will come and cripple you. These ambushes are usually [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts), and [Super Capital Ships]({{< ref "/categories/" >}}super-capital-ships). Another way they do this is they [Warp]({{< ref "/wiki/" >}}Warp-Drive) along the border toward your location. This is a pretty uncommon way to lose your ship, but it happened to somebody because a [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) was hiding in the border.

@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/U.N.E-Lore
+  - /wiki/U.N.E-Lore
 categories:
-- Galaxy Lore Pages
-- U.N.E
+  - Galaxy Lore Pages
+  - U.N.E
 title: U.N.E Lore
----# Lore
+---
+
+# Lore
 
 Written by Sean Morabito.![The U.N.E.
 Flag](UNE_FLAG.png "The U.N.E. Flag"){width="432" height="432"}
@@ -68,7 +70,7 @@ Flag](KNEALL_FLAG_Higher_Quality.png "The Kneall Flag"){width="442" height="442"
 ![The Slarfie
 Flag|center](SLARFIE_FLAG.png "The Slarfie Flag|center"){width="427" height="427"}
 
-# United Nations of Earth 
+# United Nations of Earth
 
 By the year 3383, the Earth had been ravaged of its natural resources. Scarcely any of the planet's mines had been left untouched. The Earth was bled dry, pits and shafts stretching deep into the crust, bare of any minerals or fuel. Many industries on Earth fell into ruin, unable to support themselves due to excessive energy costs and pitifully low production rates. The crisis continued to intensify at an alarming rate, but just as the worst economic and resource depression in history loomed at the edges of human society, a spark of hope shone from NASA: An asteroid system filled with countless valuable resources had just been discovered not far from Earth. Every pure element humanity could have ever needed could be found there, and even some that humanity never thought they may need. Thus, a new age dawned on Earth. Soon after this amazing news, frivolous work and research were started on interstellar space travel, beginning with the initiation of NASA's Interstellar Space Program, also known as the I.S.P. After the economic collapse, crowds of people desperate for work flocked from all around the globe. This immense workforce allowed the first mission of the I.S.P., Project Constellation, to be launched just a few years after the program's initiation. Project Constellation saw enormous success. This gave NASA a glimpse of the true potential in continuing such advancements in technology, inspiring them to redouble their effort in research and engineering. A mere decade later, fully equipped mining and cargo ships were ready to launch towards the asteroid field. Christened "The Voyager Armada," all ships within the fleet were equipped with brand new warp drives, which had been developed only a few years prior. This huge technological advancement shortened the original travel time to the asteroid field from 36 years to mere hours.
 
@@ -134,7 +136,7 @@ Myriad](Myriad "wikilink")](MoonaroundMyriad.png "centre|thumb|282x282px|The Pla
 </div>
 # Year 3688 and further
 
-[U.N.E] Command Center SuperComputer: V.99.41 0*/*2/*3407 TIME: 21:05 Unidentified fleet warped into restricted airspace & were unresponsive to diversion warnings. Targets flew in steady formation towards Facility shooting down an escort drone. Targets were now considered hostile. Hostile Targets flew in range of Radar and contained 4 Unknown Classed Ships along with 30 Unknown Fighters. Base defense Satellites were destroyed instantaneously and the base was left vulnerable. Head officer of defense declared STARBASE CONDITION RED: HOSTILES IN FACILITY --- At this time facility has been put on lockdown. Targets successfully breached containment doors and entered the control room.
+[U.N.E] Command Center SuperComputer: V.99.41 0*/*2/\*3407 TIME: 21:05 Unidentified fleet warped into restricted airspace & were unresponsive to diversion warnings. Targets flew in steady formation towards Facility shooting down an escort drone. Targets were now considered hostile. Hostile Targets flew in range of Radar and contained 4 Unknown Classed Ships along with 30 Unknown Fighters. Base defense Satellites were destroyed instantaneously and the base was left vulnerable. Head officer of defense declared STARBASE CONDITION RED: HOSTILES IN FACILITY --- At this time facility has been put on lockdown. Targets successfully breached containment doors and entered the control room.
 
 Targets set off explosions on main generators knocking power down for 60 seconds. Scanners showed up as negative upon scanning for human lifeforms inside the facility. Starbase operating on emergency nuclear power: Estimated run time:[6Years_4Months_12Days]
 
@@ -149,33 +151,33 @@ Computer](Computer.png "The Abandoned U.N.E Starbase Computer"){width="532" heig
 
 The U.N.E. was furious. They suspected the Kneall had damaged their base. They immediately began construction on a ship unlike any other. A ship that could take on fleets of fleets of enemies and emerge unscathed. After 4 years of building, the U.N.E. Subjugator was born. With secondary shields deflecting anything that dared touch it, it was the ultimate defense ship with advanced turret weaponry.
 
-## The Kneall War of Sector 552 
+## The Kneall War of Sector 552
 
 The Kneall had indeed destroyed the Facility, and the U.N.E. was oblivious to the fact that they would start a war. In Myriad, they had restored a Kneall communications radar and sent a war declaration. In order to avoid the destruction of other Starbases, and ultimately, the Mega Base, they battled in sector 552. The Kneall were successfully driven back, with the help of the U.N.E. Subjugator and a few Hevnetiers supplied by the Slarfie. Most ships were destroyed during the battle, the rest of it remaining history.
 
-## Uncovering Frion 
+## Uncovering Frion
 
 After the battle, many pirates scourged the wrecks for loot. They were not disappointed. They had found a new artifact left behind by the Kneall: a Core unlike any other. So shiny! They had to keep it. But during a U.N.E. raid on the Pirates' Starbase, it was taken away for investigation. Soon, people began finding more and more of these so-called Kneall Cores, and eventually, they had a use: to make ships that crossed the limits of what U.N.E. once thought was impossible. It didn't take long for the U.N.E. to get their hands on one, and with new, dangerous ships such as the Osiris, Zhen, and the Atheon, the U.N.E. decided to build a ship based on the precursor technology from a Kneall Core. After 3 years of manufacturing, trial and error, and scourging the wrecks once again, they built the Obliterator: a restored Kneall warship that would restore peace at the disposal of the U.N.E. With this, they also discovered a map of the Galaxy, and later, they would find a burning-hot planet called Frion.
 
-## New Alliances Begin 
+## New Alliances Begin
 
 With more new technology being found, bounties were placed on Kneall ships. Soon, the Kneall rarely appeared to attack, much less raid. But the Kneall were secretly making a ship worthy of legend. Soon it was finished. But it wouldn't be long before the U.N.E. found out about the project with a Slarfie spy. The Eradicator was coming. The general public was also making new, humongous manufacturing companies for warships, freighters, and miners. One of them in particular, Event Horizon Manufacturing, to be exact, signed a deal to make a ship that mirrored or at least countered the strength of the Eradicator. Soon, the Astraeus was mass-produced, and the U.N.E. was once again prepared for battle.
 
-## The Second Kneall-U.N.E. War 
+## The Second Kneall-U.N.E. War
 
 During the second Kneall-U.N.E. War, The Eradicator's weapons and comrades were able to take an Astraeus out within a matter of minutes. There were simply too many Kneall, and the small fleet of Astraeus was overwhelmed. U.N.E. Command decided to deploy the _Prototype X-1_, as the Astraeus-Class was clearly not up to par with the Eradicator. The _Prototype X-1_ was the only ship the U.N.E. had that could come close to the sheer firepower that the Eradicator possessed. U.N.E. also deployed their Subjugator-Class Super Capitol, but it had little impact on the fight due to it's emphasis on durability, and it had substantially less firepower than ships it's size. As the tide was turning against the U.N.E, the Pirates realized that the U.N.E was the only thing protecting them from the Kneall. The Pirates made the decision to assist the U.N.E, and they came well prepared to the battle with their Kodiak, which ironically was stolen from the U.N.E. The U.N.E. and the Pirates won in an unlikely team, and they were able to take out the Eradicator. However, the U.N.E.'s superweapon, the _Prototype X-1_ was lost in the fight. This was a massive setback for the Odin Program and Humanity as a whole. The U.N.E. and the Pirates later signed the treaty of peace (ToP), preventing war between the two factions. But as time past, relations broke down between the Pirates and U.N.E, and skirmishes and fights between them became common as they once were. After the Kneall's defeat in The Second Kneall-U.N.E. War, the Kneall retreated away from U.N.E. space, but sometimes they do quick excursions to raid Human and Pirate Outposts. ![]({{< ref "/wiki/" >}}Kneall-shooting-proto.png-"Kneall-shooting-proto.png"){width="927" height="927"} ![]({{< ref "/wiki/" >}}Kodiak-Obliterating-Viper.png){width="927" height="927"} ![]({{< ref "/wiki/" >}}Pirate-Wreck.png-"Pirate-Wreck.png"){width="906" height="906"}
 
-# Current U.N.E. Fleet 
+# Current U.N.E. Fleet
 
 The current U.N.E. fleet is made up of the following ships; _Chimera-S_, _Orion-X_, _Nisos_, _Sovereign-X_, _Judgement_, and _Subjugator_. Some are manufactured by U.N.E. itself, while others are produced by 3rd parties and bought by the U.N.E.
 
-## Chimera-S 
+## Chimera-S
 
 The _Chimera-S_ is the military-grade variant of the commonly known _Chimera_-Class Destroyer. It packs a greatly enhanced shield generator to assist the _Chimera-S_ in tackling the Kneall _Punisher's_ Large Torpedo. In addition, it also has a larger cargo hold than it's civilian counterpart, allowing for increased scrap-looting ability. Both variants of the _Chimera_ do not have spinal weaponry, and to compensate, have more turrets than other ships of it's size. The civilian _Chimera_ has been on the market for a long time, but with upgrades the _Chimera-S_ has been able to remain relevant and a threat to the Kneall. These upgrades have led to the _Chimera-S_ being identified as a Cruiser, despite the _Chimera_ being identified as a destroyer. However, these upgrades also come at a cost, as the _Chimera-S_ is much slower, less maneuverable, and more costly than the non-military variant.
 
 The _Chimera-s_ is currently used very heavily by the U.N.E., as it's a flexible and cheap destroyer, able to accomplish various tasks, such as fleet support and scouting. The U.N.E. used to use the civilian variant, the _Chimera_ as it was even cheaper and better for scouting because of it's higher speed. But as the U.N.E.'s doctrine went from area coverage to sheer firepower, the U.N.E. needed a destroyer capable of taking down larger Kneall ships. The _Chimera-S_ can take down Kneall _Bruisers_ and can deal serious damage to Kneall _Outriders_. Multiple _Chimera-S's_ can even take down the feared Kneall _Punisher_. It also performs well in fleets, able to take down smaller ships fast and can deal considerable damage to Kneall capitol ships.
 
-## Orion-X 
+## Orion-X
 
 The _Orion_ was originally created as a cheap, non-military escort ship. Like the _Chimera-S_, the _Orion-X_ is the military version of the outdated cruiser. Instead of making a new ship platform, U.N.E. High Command decided to reuse the Orion platform in an effort to save money for the Odin Program. Despite being outdated, the _Orion_ has very strong weapons for it's size, which presumably led to the U.N.E. seeing potential in upgrading the ship. The _Orion-X_ has multiple railguns, making it effective for pestering capitol ships at long range, while the laser turrets make quick work of ships at closer ranges. Unlike the _Chimera_-Class, the _Orion_-Class does have spinal cannons, enabling it's pilots to deal incredible damage to targets with shields down. The _Orion-X_ has almost double the protection and armor of the civilian variant, while boasting similar speed and handling. But the extra engine power required led to the _Orion-X_ lacking a cargo hold, and led to slightly less firepower. The large amount of armor that the _Orion-X_ possesses means that the _Orion-X_ is classified as a Battlecruiser, while it's civilian counterpart is classified as a Cruiser.
 
@@ -187,7 +189,7 @@ The _Nisos_-Class Battleship is a relatively new addition to the U.N.E. fleet. I
 
 Due to the _Nisos_ recent appearance on the battlefield, it's still only used in small numbers. While their numbers may be small, they have had a huge impact on the invading _Punishers_ and _Decimators_. The _Nisos_ is used mostly in fleets, and is rarely seen alone, as the _Nisos_ has trouble dealing significant hull damage, so other ships such as the _Chimera-S_ or _Orion-X_ are used to support the _Nisos_ against targets with disabled shields. The _Nisos_ has plenty of range, due to it's state-of-the-art energy lances, but it struggles against small targets as it lacks light weaponry. The _Nisos_ is utilized by the U.N.E. in fleets to take out large, high priority targets such as _Punishers_. While still a new sight on the battlefield, the Kneall have quickly learned not to underestimate this battleship.
 
-## Sovereign-X 
+## Sovereign-X
 
 The _Sovereign-X_ is a remastered version of the _Sovereign_-Class Battleship, remastered by the original creator of the _Sovereign_, Event Horizon Shipyards. The original _Sovereign_ was designed by the U.N.E. to counter the rising firepower of Kneall warships. The U.N.E. hired the famous Event Horizon Shipyards to build their new warship. The _Sovereign_ was in huge demand on the markets due to its very respectable firepower and amazing durability, while it's compact shape led to lower costs. The _Sovereign-X_ has received many upgrades from its original design, which means the _Sovereign-X_ is classified as a Dreadnought, rather than the Battleship classification of the original Sovereign. The newer _Sovereign-X_ only is slightly more durable than the original counterpart, despite being considered a Dreadnought. The _Sovereign-X's_ weapons are also not much better than the original _Sovereign_, with some even calling them worse. It's total damage output is slightly less than the original version on paper, but the _Sovereign-X_ uses more high-accuracy turrets, which helps it counter swarms of Kneall. The _Sovereign-X_ does have an ace up it's sleeve however, as it's top speed is 66% higher and it's turn speed is twice as fast. This allows the _Sovereign-X_ to dodge a substantial number of high-caliber shots from Kneall Capitol Ships. This great speed comes at the cost of an extremely small cargo hold for it's class.
 

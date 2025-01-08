@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Patriotic-Sixfold
+  - /wiki/Patriotic-Sixfold
 categories:
-- Ships
-- Cruisers
-- Fourth of July 2021
-- Limited Ships
-- Reskins
+  - Ships
+  - Cruisers
+  - Fourth of July 2021
+  - Limited Ships
+  - Reskins
 title: Patriotic Sixfold
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Patriotic Sixfold_** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** variant of the [Sixfold]({{< ref "/wiki/" >}}Sixfold) with high firepower but relatively low health. 
+The **_Patriotic Sixfold_** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** variant of the [Sixfold]({{< ref "/wiki/" >}}Sixfold) with high firepower but relatively low health.
 
 ## Description
 
@@ -38,7 +38,7 @@ The Interior is the same as the [Sixfold]({{< ref "/wiki/" >}}Sixfold) besides a
 
 - Use it like a [Sixfold]({{< ref "/wiki/" >}}Sixfold) but use it more cautiously since it is a **[Limited]({{< ref "/categories/" >}}limited-ships)**
 
-## Version History 
+## Version History
 
 - Removed from the game along with the majority of other Limited recolors in version .75a5.
 

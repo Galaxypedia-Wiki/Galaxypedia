@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Freedom-Base
+  - /wiki/Freedom-Base
 categories:
-- Starbases
+  - Starbases
 title: Freedom Base
----## Description
+---
+
+## Description
 
 The **Freedom Base** is a [Starbase]({{< ref "/categories/" >}}starbases) that was added during the [Galaxy Star Wars Event]({{< ref "/wiki/" >}}Galaxy-Star-Wars-Event) update. It has 7500 shield and 7500 hull while being unarmed, even at Level 3. Its behavior is the same as all other [Starbases]({{< ref "/categories/" >}}starbases).
 
@@ -17,7 +19,7 @@ The Freedom Base has 8 terminals and 3 floors. On the 1st floor, there are 4 Com
 - [Nautilus Blueprint Quest]({{< ref "/wiki/" >}}Strange-Character)
 - [Material Scrap Quests]({{< ref "/wiki/" >}}Material-Scrap)
 
-## Version History 
+## Version History
 
 - Fixed the hole left by [Uncle Sam]({{< ref "/wiki/" >}}Uncle-Sam) in version 75a12.
 - Received a remodel and overhaul at the same time as the [2022 Fourth of July Event]({{< ref "/wiki/" >}}Fourth-of-July-2022) in 75a12.

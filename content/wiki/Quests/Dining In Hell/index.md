@@ -1,20 +1,22 @@
 ---
 aliases:
-- /wiki/Dining-In-Hell
+  - /wiki/Dining-In-Hell
 categories:
-- Quests
+  - Quests
 title: Dining In Hell
----_This page could do with some pictures. It would be appreciated if anyone added some._
+---
+
+_This page could do with some pictures. It would be appreciated if anyone added some._
 
 ## Description
 
 This quest is one of the quests you need to do to obtain the [Kraken]({{< ref "/wiki/" >}}Kraken).
 
-## Starting the Quest 
+## Starting the Quest
 
 The quest is started after you talk to a scientist named Jack Kendall, which is aboard Lucifer Station. You can find Jack in his lab by going through the waste disposal system in the kitchen or by using the security door ([VIP]({{< ref "/wiki/" >}}Galaxy-VIP-Gamepass) required).
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <u>Jack Kendall</u>: Hm? Ah, hello! You must be the merc I requested.
 
@@ -52,6 +54,6 @@ The quest is started after you talk to a scientist named Jack Kendall, which is 
 
 _Quest started: Dining In Hell_
 
-## Completing the Quest 
+## Completing the Quest
 
 After you talk to the scientist, the [Kodiak]({{< ref "/wiki/" >}}Kodiak) will spawn and roam the map (only if the spawn cooldown is inactive). Killing the [Kodiak]({{< ref "/wiki/" >}}Kodiak) will have it drop Kodiak Armor Pieces, 3 of which and 800k credits are required to complete the quest. After you finish the quest, the [Kodiak]({{< ref "/wiki/" >}}Kodiak) spawn cooldown will start. The quest also gives the Kodiak Activator, which is used in [Depthbreaker]({{< ref "/wiki/" >}}Depthbreaker). Only spawn the [Kodiak]({{< ref "/wiki/" >}}Kodiak) if you are prepared and have a team ready, as it can destroy a [Level 2 Starbase]({{< ref "/wiki/" >}}Starbase) and many [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) alone.

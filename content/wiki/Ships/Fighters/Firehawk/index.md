@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Firehawk
+  - /wiki/Firehawk
 categories:
-- Ships
-- Fighters
-- Limited Ships
+  - Ships
+  - Fighters
+  - Limited Ships
 title: Firehawk
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Firehawk_** is a powerful fighter found in the [Sakala]({{< ref "/wiki/" >}}Sakala).
 
@@ -35,7 +35,7 @@ The Firehawk is a unique fighter that is exclusive to the [Sakala]({{< ref "/wik
 - Deploy from a [Sakala]({{< ref "/wiki/" >}}Sakala) that is far away to avoid its destruction. The fighter's great speed will make up for the distance.
 - Avoid ships like the [Ampharos]({{< ref "/wiki/" >}}Ampharos), as their AA armament can easily make quick work of your Firehawks.
 
-## Version History 
+## Version History
 
 - Added along with the current [Sakala]({{< ref "/wiki/" >}}Sakala) remodel in an unknown update.
 - 3 Tiny Phasers and 3 Tiny Cannons increased to 3 Small Phasers and 3 Small Cannons in version .72f1.

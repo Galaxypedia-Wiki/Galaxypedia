@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Apogee
+  - /wiki/Apogee
 categories:
-- Battlecruisers
-- Limited Ships
-- Ships
+  - Battlecruisers
+  - Limited Ships
+  - Ships
 title: Apogee
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **Apogee** is a limited Battlecruiser, and a part of the [Halloween Event 2023]({{< ref "/wiki/" >}}Halloween-Event-2023). 
+The **Apogee** is a limited Battlecruiser, and a part of the [Halloween Event 2023]({{< ref "/wiki/" >}}Halloween-Event-2023).
 
 ## Description
 
@@ -43,7 +43,7 @@ The Apogee is very small, especially for its class. It has a similar style to th
 - Don't get too close to anything that could seriously damage you; just snip with your missiles.
 - Support fleets by using missiles to hunt down frigates, destroyers, and small fighters.
 
-## Version History 
+## Version History
 
 - Added in version .77a31 as a quest ship costing 55,000 credits.
 

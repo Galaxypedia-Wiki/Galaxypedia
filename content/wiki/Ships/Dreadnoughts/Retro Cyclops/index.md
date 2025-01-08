@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Retro-Cyclops
+  - /wiki/Retro-Cyclops
 categories:
-- Ships
-- Dreadnoughts
-- Retro Ship Event 2020
-- Capital Ships
-- Siege Ships
-- Hull breakers
-- Limited Ships
+  - Ships
+  - Dreadnoughts
+  - Retro Ship Event 2020
+  - Capital Ships
+  - Siege Ships
+  - Hull breakers
+  - Limited Ships
 title: Retro Cyclops
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Retro Cyclops_** is a replica of the original** **[Cyclops-class]({{< ref "/wiki/" >}}Cyclops) **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** added during the [Retro Ship Event 2020]({{< ref "/wiki/" >}}Retro-Ship-Event-2020). 
+The **_Retro Cyclops_** is a replica of the original\*\* **[Cyclops-class]({{< ref "/wiki/" >}}Cyclops) **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)\*\* added during the [Retro Ship Event 2020]({{< ref "/wiki/" >}}Retro-Ship-Event-2020).
 
 ## Description
 
@@ -48,7 +48,7 @@ The interior of the **Retro Cyclops** consists of two nice-looking rooms. One 
 - Siege [Starbases]({{< ref "/wiki/" >}}Starbase) from afar (8k) with your [Heavy Alpha Railguns]({{< ref "/wiki/" >}}Turrets).
 - Use it as you would use an [Apocalypse]({{< ref "/wiki/" >}}Apocalypse).
 
-## Version History 
+## Version History
 
 - Hull increased from 4000 to 6900 in version .68e.
 - Explosion Size 125 ----> 900 .75a12

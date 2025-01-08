@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Osiris-Legion
+  - /wiki/Osiris-Legion
 categories:
-- Clans
-- Galaxy Lore Pages
+  - Clans
+  - Galaxy Lore Pages
 title: Osiris Legion
----*This page is about the Shipyards. If you're looking for the Halloween NPC Base, see [Ø₴łⱤł₴ ⱠɆ₲łØ₦]({{< ref "/wiki/" >}}Ø₴łⱤł₴*ⱠɆ₲łØ₦)._ ![]({{< ref "/wiki/" >}}<OL-(1).jpg> "OL_(1).jpg")
+---
+
+*This page is about the Shipyards. If you're looking for the Halloween NPC Base, see [Ø₴łⱤł₴ ⱠɆ₲łØ₦]({{< ref "/wiki/" >}}Ø₴łⱤł₴*ⱠɆ₲łØ₦)._ ![]({{< ref "/wiki/" >}}<OL-(1).jpg> "OL_(1).jpg")
 
 (Any available members should add information) 
 
@@ -20,9 +22,9 @@ title: Osiris Legion
 - The [Theia]({{< ref "/wiki/" >}}Theia) was originally designed by the **Osiris Legion** Shipyards,[^9] before it was modified by the shipyards of [Event Horizon]({{< ref "/wiki/" >}}Event-Horizon).
 - The [Borealis]({{< ref "/wiki/" >}}Borealis) is a carrier that was built on the same planet as the [Hyperion]({{< ref "/wiki/" >}}Hyperion)[^10].
 
-## **Osiris Legion** Ships: 
+## **Osiris Legion** Ships:
 
-### Super Capital 
+### Super Capital
 
 <File:Prototype> X-1-icon.png|[Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) _(Built by Osiris Legion for [U.N.E]({{< ref "/wiki/" >}}U.N.E))_ <File:Hyperion-icon.png>|[Hyperion]({{< ref "/wiki/" >}}Hyperion) <File:Theia-icon.png>|[Theia]({{< ref "/wiki/" >}}Theia) <File:Oblivion-icon.png>|[Oblivion]({{< ref "/wiki/" >}}Oblivion)
 

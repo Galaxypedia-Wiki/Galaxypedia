@@ -1,8 +1,10 @@
 ---
 aliases:
-- /wiki/Tutorial-Speedruns
+  - /wiki/Tutorial-Speedruns
 title: Tutorial Speedruns
----: This page contains a leaderboard dedicated to Tutorial Speedruns. You may be looking for [Tutorial]({{< ref "/wiki/" >}}Tutorial).
+---
+
+: This page contains a leaderboard dedicated to Tutorial Speedruns. You may be looking for [Tutorial]({{< ref "/wiki/" >}}Tutorial).
 
 ## Requirements
 
@@ -27,7 +29,7 @@ Time ROBLOX Username ROBLOX User ID Timer Verification Key Discord ID YouTube Li
 
 46.90s S_xnthia 123723078 4c5bd6 482635592065089536 [<span style="color:#ff0000;">Click Here</span>](https://youtu.be/FBOmrbHTh9o) 0m 0s ROBLOX 1 000000 00000000 [<span style="color:#ff0000;">Click Here</span>](https://www.youtube.com)
 
-## Legacy Leaderboard 
+## Legacy Leaderboard
 
 Time ROBLOX Username ROBLOX User ID Timer Verification Key Discord ID YouTube Link
 

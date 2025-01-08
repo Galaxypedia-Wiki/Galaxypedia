@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Chimera-N
+  - /wiki/Chimera-N
 categories:
-- Support Ships
-- U.N.E
-- Fighters
-- Ships
+  - Support Ships
+  - U.N.E
+  - Fighters
+  - Ships
 title: Chimera-N
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 ## Description
 
@@ -41,7 +41,7 @@ The interior is a replica of the [Chimera]({{< ref "/wiki/" >}}Chimera) interior
 - Stay with the [Conqueror]({{< ref "/wiki/" >}}Conqueror) and help defend it or help engage other targets. When all [Fighters]({{< ref "/categories/" >}}fighters) are used alongside the carrier, they form a very formidable mini-fleet.  
 - Make sure to work together with your carrier, as it can provide support against much bigger and stronger ships that may pose a threat to you.
 
-## Version History 
+## Version History
 
 - Added on 2024/04/12, but not logged in an actual version. The most recent version after its implementation is .77d22.
 

@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Battleship-Weekly-Dealer
+  - /wiki/Battleship-Weekly-Dealer
 categories:
-- Quests
+  - Quests
 title: Battleship Weekly Dealer
----  
+---
 
-{{< notices/removed >}} 
+{{< notices/removed >}}
 
 ![]({{< ref "/wiki/" >}}Battleshipweeklydealerbetter.png-"Battleshipweeklydealerbetter.png") The Battleship Weekly Dealer (Shadiris' Apprentice) is ship dealer added on June 10 2022
 
@@ -18,7 +18,7 @@ Weekly Dealer (Shadiris' Apprentice) sells players 1 random [Battleship]({{< ref
 
 Battleship Weekly Dealer (Shadiris' Apprentice) is located in the Megabase near the Terminal E teleporter and Game Rules
 
-## Quest Dialogue 
+## Quest Dialogue
 
 Shadiris' Apprentice: I can get you battleships at a discount through my secret method
 
@@ -34,7 +34,7 @@ Player: Anything else I need to know?
 
 Shadiris' Apprentice: Make sure you don't have a (Shipname) already, or I will take your credits without compensation
 
-### Ending Dialouge 
+### Ending Dialouge
 
 Weekly Dealer (Shadiris): Ready to receive your (Shipname)?
 

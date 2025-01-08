@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Prototype-X-1
+  - /wiki/Prototype-X-1
 categories:
-- Ships
-- Frigates
-- Hidden Events
-- Reskins
+  - Ships
+  - Frigates
+  - Hidden Events
+  - Reskins
 title: Prototype X_1
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Prototype X/1_**is a battlecruiser which is a downsized replica of the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) created by the [U.N.E]({{< ref "/wiki/" >}}United-Nations-of-Earth) and the [Osiris Shipyards]({{< ref "/wiki/" >}}Osiris-Legion). 
+The **_Prototype X/1_**is a battlecruiser which is a downsized replica of the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) created by the [U.N.E]({{< ref "/wiki/" >}}United-Nations-of-Earth) and the [Osiris Shipyards]({{< ref "/wiki/" >}}Osiris-Legion).
 
 ## Description
 
@@ -47,7 +47,7 @@ The interior matches the original Prototype X-1, with a miniature hallway leadin
 - Using its high speed and agility, one should get into the blind spot of the enemy ship and use the hit and run strategy, where you shoot and you get out of its range.
 - This ship is off-sale and permanently unobtainable, so it should be kept as a trophy rather than a combat craft.
 
-## Version History 
+## Version History
 
 - Added in version .75
 - Removed from the game a couple of days later in .75

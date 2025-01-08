@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Galaxy-Staff
+  - /wiki/Galaxy-Staff
 title: Galaxy Staff
----# Galaxy Staff Team
+---
+
+# Galaxy Staff Team
 
 <div style="line-height: 19px;">
 
 **These are the official Staff Members for Galaxy as of April 28th, 2023.**
 
-Discord ban appeals can be filed in #general-support in the [Galaxy Support Server](https://support.robloxgalaxy.wiki/).
-Game ban appeals can be filed in #admin-support in the [Galaxy Support Server](https://support.robloxgalaxy.wiki/).
-You can request help from Galaxypedia Staff in #galaxypedia-support in the Galaxy Support Server or by messaging them in the [Galaxypedia Discord server](https://discord.robloxgalaxy.wiki/).
+Discord ban appeals can be filed in #general-support in the [Galaxy Support Server](https://support.robloxgalaxy.wiki/). Game ban appeals can be filed in #admin-support in the [Galaxy Support Server](https://support.robloxgalaxy.wiki/). You can request help from Galaxypedia Staff in #galaxypedia-support in the Galaxy Support Server or by messaging them in the [Galaxypedia Discord server](https://discord.robloxgalaxy.wiki/).
 
 **PLEASE NOTE:** <u>Discord ToS requires that users are 13+ years of age.</u> If you do not meet this requirement, please resort to other contact methods.
 
@@ -32,8 +32,7 @@ You can request help from Galaxypedia Staff in #galaxypedia-support in the Galax
 
 </div>
 
-<i>[rcouret](https://www.roblox.com/users/48107074/profile)</i>
-rcouret
+<i>[rcouret](https://www.roblox.com/users/48107074/profile)</i> rcouret
 
 Original Game Creator
 
@@ -45,8 +44,7 @@ Original Game Creator
 
 </div>
 
-<i>[yname](https://www.roblox.com/users/34250563/profile)</i>
-yname
+<i>[yname](https://www.roblox.com/users/34250563/profile)</i> yname
 
 Game Owner
 
@@ -58,8 +56,7 @@ Game Owner
 
 </div>
 
-<i>[Jaxumi92](https://www.roblox.com/users/91712810/profile)</i>
-niozicoi
+<i>[Jaxumi92](https://www.roblox.com/users/91712810/profile)</i> niozicoi
 
 Administrator Director
 
@@ -71,8 +68,7 @@ Administrator Director
 
 </div>
 
-<i>[Shadiris](https://www.roblox.com/users/151456222/profile)</i>
-shadiris
+<i>[Shadiris](https://www.roblox.com/users/151456222/profile)</i> shadiris
 
 Co-Administrator Director
 
@@ -84,8 +80,7 @@ Co-Administrator Director
 
 </div>
 
-<i>[GodrevyD](https://www.roblox.com/users/117623636/profile)</i>
-godrevyd
+<i>[GodrevyD](https://www.roblox.com/users/117623636/profile)</i> godrevyd
 
 Developer Director
 
@@ -97,8 +92,7 @@ Developer Director
 
 </div>
 
-<i>[SeaswimmerTheFsh](https://www.roblox.com/users/165815530/profile)</i>
-seasw.
+<i>[SeaswimmerTheFsh](https://www.roblox.com/users/165815530/profile)</i> seasw.
 
 Discord Manager/Moderator Manager/ /Developer/Administrator
 
@@ -110,8 +104,7 @@ Discord Manager/Moderator Manager/ /Developer/Administrator
 
 </div>
 
-<i>[AvHunterr](https://www.roblox.com/users/57886751/profile)</i>
-seraphasami
+<i>[AvHunterr](https://www.roblox.com/users/57886751/profile)</i> seraphasami
 
 Community Advisor
 
@@ -129,8 +122,7 @@ Community Advisor
 
 </div>
 
-<i>[Rekuri](https://www.roblox.com/users/8079908/profile)</i>
-rekuri
+<i>[Rekuri](https://www.roblox.com/users/8079908/profile)</i> rekuri
 
 Developer/Shipmaster/Administrator
 
@@ -142,8 +134,7 @@ Developer/Shipmaster/Administrator
 
 </div>
 
-<i>[Sean_MorabitoYT](https://www.roblox.com/users/37576706/profile)</i>
-sean_morabitoyt
+<i>[Sean_MorabitoYT](https://www.roblox.com/users/37576706/profile)</i> sean_morabitoyt
 
 Developer/Loremaster
 
@@ -155,8 +146,7 @@ Developer/Loremaster
 
 </div>
 
-<i>[Starforce6000](https://www.roblox.com/users/100808212/profile)</i>
-i_am_solaris
+<i>[Starforce6000](https://www.roblox.com/users/100808212/profile)</i> i_am_solaris
 
 Developer/Administrator
 
@@ -168,8 +158,7 @@ Developer/Administrator
 
 </div>
 
-<i>[PataNautic](https://www.roblox.com/users/653013850/profile)</i>
-patanautic
+<i>[PataNautic](https://www.roblox.com/users/653013850/profile)</i> patanautic
 
 Developer
 
@@ -181,8 +170,7 @@ Developer
 
 </div>
 
-<i>[GalaxyOrigins](https://www.roblox.com/users/158313340/profile)</i>
-galaxyorigins
+<i>[GalaxyOrigins](https://www.roblox.com/users/158313340/profile)</i> galaxyorigins
 
 Developer/Administrator
 
@@ -194,8 +182,7 @@ Developer/Administrator
 
 </div>
 
-<i>[xLuk2](https://www.roblox.com/users/94780495/profile)</i>
-xluk33
+<i>[xLuk2](https://www.roblox.com/users/94780495/profile)</i> xluk33
 
 Developer/Administrator
 
@@ -213,8 +200,7 @@ Developer/Administrator
 
 </div>
 
-<i>[RockSchool2](https://www.roblox.com/users/351425987/profile)</i>
-rockSchool
+<i>[RockSchool2](https://www.roblox.com/users/351425987/profile)</i> rockSchool
 
 Administrator
 
@@ -226,8 +212,7 @@ Administrator
 
 </div>
 
-<i>[Blameful](https://www.roblox.com/users/5564259/profile)</i>
-jesseburr
+<i>[Blameful](https://www.roblox.com/users/5564259/profile)</i> jesseburr
 
 Administrator
 
@@ -239,8 +224,7 @@ Administrator
 
 </div>
 
-<i>[xLi_amx](https://www.roblox.com/users/61393734/profile)</i>
-li_am
+<i>[xLi_amx](https://www.roblox.com/users/61393734/profile)</i> li_am
 
 Administrator/Developer Advisor
 
@@ -252,8 +236,7 @@ Administrator/Developer Advisor
 
 </div>
 
-<i>[XPainkilla](https://www.roblox.com/users/46898444/profile)</i>
-SilverLight#5275
+<i>[XPainkilla](https://www.roblox.com/users/46898444/profile)</i> SilverLight#5275
 
 Administrator
 
@@ -265,8 +248,7 @@ Administrator
 
 </div>
 
-<i>[ManleyChance](https://www.roblox.com/users/81410231/profile)</i>
-_butterdog_
+<i>[ManleyChance](https://www.roblox.com/users/81410231/profile)</i> _butterdog_
 
 Administrator
 
@@ -278,8 +260,7 @@ Administrator
 
 </div>
 
-<i>[Xentheta](https://www.roblox.com/users/118530577/profile)</i>
-Xentheta
+<i>[Xentheta](https://www.roblox.com/users/118530577/profile)</i> Xentheta
 
 Administrator
 
@@ -297,8 +278,7 @@ Administrator
 
 </div>
 
-<i>[O_zumi](https://www.roblox.com/users/97126030/profile)</i>
-spodnik
+<i>[O_zumi](https://www.roblox.com/users/97126030/profile)</i> spodnik
 
 Developer Advisor
 
@@ -310,8 +290,7 @@ Developer Advisor
 
 </div>
 
-<i>[ChipsOmen](https://www.roblox.com/users/421164608/profile)</i>
-chipsomen
+<i>[ChipsOmen](https://www.roblox.com/users/421164608/profile)</i> chipsomen
 
 Modeler
 
@@ -323,8 +302,7 @@ Modeler
 
 </div>
 
-<i>[Brilunee](https://www.roblox.com/users/3183232722/profile)</i>
-brilune
+<i>[Brilunee](https://www.roblox.com/users/3183232722/profile)</i> brilune
 
 Developer Advisor
 
@@ -336,8 +314,7 @@ Developer Advisor
 
 </div>
 
-<i>[Preauri](https://www.roblox.com/users/139080892/profile)</i>
-preauri
+<i>[Preauri](https://www.roblox.com/users/139080892/profile)</i> preauri
 
 Developer Advisor/Loremaster
 
@@ -349,8 +326,7 @@ Developer Advisor/Loremaster
 
 </div>
 
-<i>[biokari](https://www.roblox.com/users/337106531/profile)</i>
-biokari
+<i>[biokari](https://www.roblox.com/users/337106531/profile)</i> biokari
 
 Modeler
 
@@ -362,8 +338,7 @@ Modeler
 
 </div>
 
-<i>[robloxgold14](https://www.roblox.com/users/80916464/profile)</i>
-consumerofbagels
+<i>[robloxgold14](https://www.roblox.com/users/80916464/profile)</i> consumerofbagels
 
 Modeler
 
@@ -375,8 +350,7 @@ Modeler
 
 </div>
 
-<i>Sachiho Vanihalla</i>
-sachihovanihalla
+<i>Sachiho Vanihalla</i> sachihovanihalla
 
 Modeler
 
@@ -388,8 +362,7 @@ Modeler
 
 </div>
 
-<i>[lightning9160](https://www.roblox.com/users/17435935/profile)</i>
-lightningkitten
+<i>[lightning9160](https://www.roblox.com/users/17435935/profile)</i> lightningkitten
 
 Modeler
 
@@ -401,8 +374,7 @@ Modeler
 
 </div>
 
-<i>[mxdanger](https://www.roblox.com/users/48291647/profile)</i>
-mxdanger
+<i>[mxdanger](https://www.roblox.com/users/48291647/profile)</i> mxdanger
 
 Modeler
 
@@ -414,8 +386,7 @@ Modeler
 
 </div>
 
-<i>[Duck_Blox](https://www.roblox.com/users/430298692/profile)</i>
-voroo
+<i>[Duck_Blox](https://www.roblox.com/users/430298692/profile)</i> voroo
 
 Modeler
 

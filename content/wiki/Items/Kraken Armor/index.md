@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Kraken-Armor
-- /wiki/Special-Armor
+  - /wiki/Kraken-Armor
+  - /wiki/Special-Armor
 categories:
-- Items
+  - Items
 title: Kraken Armor
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 The [Kraken Armor]({{< ref "/wiki/" >}}Kraken-Armor) is an item acquired via the [Collins]({{< ref "/wiki/" >}}Collins) and used to build the [Kraken]({{< ref "/wiki/" >}}Kraken). ![[Frion]({{< ref "/wiki/" >}}Frion)](Galaxy_Frion-Collins-NPC.png "Frion"){width="518" height="518"}
 
-## How to get aquire: 
+## How to get aquire:
 
 To find the vendor for **Kraken Armor** you must go to [Frion]({{< ref "/wiki/" >}}Frion). Use the teleporter labeled "Reactor", then the one labeled "Garden". Behind a wall is another teleporter labled "Unknown" This will bring you to the cave with all of the NPCs. ![NPC:
 [Collins]({{< ref "/wiki/" >}}Collins)](Galaxy_Collins-NPC.png "NPC: Collins") You will need:
@@ -20,7 +20,7 @@ To find the vendor for **Kraken Armor** you must go to [Frion]({{< ref "/wiki/" 
 - 2 [Kodiak Plating]({{< ref "/wiki/" >}}Kodiak-Plating)
 - 30 [Armored Plating]({{< ref "/wiki/" >}}Armored-Plating)
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Collins]: Hey there.</span>
 

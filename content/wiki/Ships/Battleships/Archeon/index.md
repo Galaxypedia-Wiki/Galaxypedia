@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Archeon
+  - /wiki/Archeon
 categories:
-- Ships
-- Battleships
-- Siege Ships
-- Support Ships
-- Capital Ships
+  - Ships
+  - Battleships
+  - Siege Ships
+  - Support Ships
+  - Capital Ships
 title: Archeon
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Archeon_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) class ship designed specifically for sieging [Starbases]({{< ref "/wiki/" >}}Starbase).
 
-_Not to be confused with the [Atheon]({{< ref "/wiki/" >}}Atheon)._ 
+_Not to be confused with the [Atheon]({{< ref "/wiki/" >}}Atheon)._
 
 ## Description
 
@@ -54,7 +54,7 @@ The interior of the Archeon consists of a small but detailed box with 4 chairs o
 - When paired with a [Shield]({{< ref "/wiki/" >}}Shields) breaker, you can decimate anything large and slow.
 - Try to stay close to [Ships]({{< ref "/wiki/" >}}Ships) like the [Ampharos]({{< ref "/wiki/" >}}Ampharos), since they can get rid of small [Ships]({{< ref "/wiki/" >}}Ships) for you.
 
-## Version History 
+## Version History
 
 - Received a remodel in .61g. The older model is seen below.
 - Medium Laser replaced with Heavy Railgun in version .65b.

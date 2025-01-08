@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Pleasant-isle
+  - /wiki/Pleasant-isle
 categories:
-- Ships
-- Battleships
+  - Ships
+  - Battleships
 title: Pleasant isle
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 ## Description
 
@@ -42,7 +42,7 @@ The **Pleasant Isle's** interior resembles that of the [Judgement]({{< ref "/wik
 - This ship is best suited for [pest control]({{< ref "/wiki/" >}}Archetypes) and [fleet support]({{< ref "/wiki/" >}}Archetypes) if used, as its turrets have a good fire rate, accuracy, and damage output.
 - Pitch slightly downwards to overcome the blindspot caused by the Volcano .
 
-## Version History 
+## Version History
 
 - Explosion size 100 ----> 400 .75a12
 

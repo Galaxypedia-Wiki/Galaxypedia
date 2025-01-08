@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Halloween-Ship
+  - /wiki/Halloween-Ship
 categories:
-- Admin Ships
-- Ships
-- Halloween 2016
+  - Admin Ships
+  - Ships
+  - Halloween 2016
 title: Halloween Ship
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
-The **_Halloween Ship_** is an early **[Admin Ship]({{< ref "/categories/" >}}admin-ships)**. 
+The **_Halloween Ship_** is an early **[Admin Ship]({{< ref "/categories/" >}}admin-ships)**.
 
 ## Description
 
@@ -44,7 +44,7 @@ The interior of the **Halloween Ship** is simple. It has a large dance floor and
 - Lure players onto your ship and then drop them into the abyss by de-spawning your ship as they dance on the dance floor.
 - You can make friends by letting them party on your ship. However, since you're an **[Admin]({{< ref "/wiki/" >}}Galaxy-Staff)**, you'll already be getting lots of attention.
 
-## Version History 
+## Version History
 
 - Removed along with most of the **[Admin Ships]({{< ref "/categories/" >}}admin-ships)** in version .62a1.
 - Remodeled into s0phied's [Egg]({{< ref "/wiki/" >}}Egg).

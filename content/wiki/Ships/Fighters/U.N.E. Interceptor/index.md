@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/U.N.E.-Interceptor
+  - /wiki/U.N.E.-Interceptor
 categories:
-- Support Ships
-- U.N.E
-- Fighters
-- Ships
-- Stubs
+  - Support Ships
+  - U.N.E
+  - Fighters
+  - Ships
+  - Stubs
 title: U.N.E. Interceptor
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 ## Description
 
@@ -40,7 +40,7 @@ The U.N.E. Interceptor has a similar appearance to the [Fury]({{< ref "/wiki/" >
 - Avoid accurate ships as they will shred you at close range.
 - Attack small, fast ships that you are able to hit with spinals, clearing them up so that the carrier can attack larger targets.
 
-## Version History 
+## Version History
 
 - Added on 2024/04/12, but not logged in an actual version. The most recent version after its implementation is .77d22.
 

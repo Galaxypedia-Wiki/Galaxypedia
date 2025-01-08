@@ -1,8 +1,10 @@
 ---
 aliases:
-- /wiki/Smallketchup82-Fiverr-Event
+  - /wiki/Smallketchup82-Fiverr-Event
 title: Smallketchup82 Fiverr Event
----On 08/01/2022, Galaxy Developer smallketchup82 paid someone on fiverr to read out a famous [Galaxy Copypasta]({{< ref "/wiki/" >}}Copypasta)
+---
+
+On 08/01/2022, Galaxy Developer smallketchup82 paid someone on fiverr to read out a famous [Galaxy Copypasta]({{< ref "/wiki/" >}}Copypasta)
 
 ## Overview
 

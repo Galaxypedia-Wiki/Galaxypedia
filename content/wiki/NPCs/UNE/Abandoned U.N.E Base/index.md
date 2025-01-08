@@ -1,14 +1,15 @@
 ---
 aliases:
-- /wiki/Abandoned-U.N.E-Base
+  - /wiki/Abandoned-U.N.E-Base
 categories:
-- Starbases
-- Christmas Event 2017
-- Galaxy Lore Pages
-- U.N.E
+  - Starbases
+  - Christmas Event 2017
+  - Galaxy Lore Pages
+  - U.N.E
 title: Abandoned U.N.E Base
----_This content has been disabled and replaced with the [U.N.E Starbase]({{< ref "/wiki/" >}}U.N.E-Starbase)_
-_Not to be confused with [U.N.E Starbase 12]({{< ref "/wiki/" >}}U.N.E-Starbase-12)._
+---
+
+_This content has been disabled and replaced with the [U.N.E Starbase]({{< ref "/wiki/" >}}U.N.E-Starbase)_ _Not to be confused with [U.N.E Starbase 12]({{< ref "/wiki/" >}}U.N.E-Starbase-12)._
 
 ## Description
 

@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Jupiter
+  - /wiki/Jupiter
 categories:
-- Reskins
-- Ships
-- Dreadnoughts
-- Halloween 2020
-- Halloween 2022
+  - Reskins
+  - Ships
+  - Dreadnoughts
+  - Halloween 2020
+  - Halloween 2022
 title: Jupiter
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Jupiter_** is [**Limited**]({{< ref "/categories/" >}}limited-ships) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020). 
+The **_Jupiter_** is [**Limited**]({{< ref "/categories/" >}}limited-ships) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020).
 
 ## Description
 
@@ -41,7 +41,7 @@ The **Jupiter** has no interior; it's just a black box with a purple seat and te
 
 - Focus on shielded ships to deal as much damage as possible.
 
-## Version history 
+## Version history
 
 - Cargo Hold increased from 0 to 250 in version .69b1
 - Explosion Size 750 ----> 880 .75a12

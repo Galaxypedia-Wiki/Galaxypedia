@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Delta-Ship
+  - /wiki/Delta-Ship
 categories:
-- Ships
+  - Ships
 title: Delta Ship
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **Delta Ship** was created for Galaxy Delta when it reached 1 million visits.
 
@@ -36,7 +36,7 @@ The Delta Ship's appearance is in the shape of a triangle. The middle is hollowe
 
 There aren't really any strategies for this ship.
 
-## Version History 
+## Version History
 
 Added in .77c20
 

@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Red-Diamond
+  - /wiki/Red-Diamond
 categories:
-- Items
+  - Items
 title: Red Diamond
----The **Red Diamond** is a special item that currently has no use.
+---
+
+The **Red Diamond** is a special item that currently has no use.
 
 It can only be obtained through Galaxy Creator [Rcouret]({{< ref "/wiki/" >}}Rcouret)'s ship wrecks with a random chance to acquire when looting.
 

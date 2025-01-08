@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Lament
+  - /wiki/Lament
 categories:
-- Ships
-- NPC Ships
+  - Ships
+  - NPC Ships
 title: Lament
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The Lament was an NPC ship added for the 2021 Halloween event, It has a fast speed and strong turrets

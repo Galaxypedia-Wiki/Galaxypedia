@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Naglfar
+  - /wiki/Naglfar
 categories:
-- Ships
-- Dreadnoughts
-- PVP Ships
-- Support Ships
-- Capital Ships
+  - Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Support Ships
+  - Capital Ships
 title: Naglfar
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Naglfar_** is a [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with high maneuverability and speed.
 
@@ -50,7 +50,7 @@ Its interior is just a grey box.
 - Never tank in a siege. A Starbase will make short work of your shields.
 - Work closely with your team when defending - have a teammate use a ship that's great against shields to strip a target's shields before firing a spinal salvo to kill the target or at least force it to warp out to disengage.
 
-## Version History 
+## Version History
 
 - Remodeled in .61h1
 - Shield health raised to 7000, Spinal size increased to huge and given an extra cannon barrel in version .68e.

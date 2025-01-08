@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Odyssey
+  - /wiki/Odyssey
 categories:
-- Ships
-- Halloween 2023
+  - Ships
+  - Halloween 2023
 title: Odyssey
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Odyssey_** is a limited [battleship]({{< ref "/categories/" >}}battleships) which was added in the [Halloween Event 2023]({{< ref "/wiki/" >}}Halloween-Event-2023).
 
@@ -46,7 +46,7 @@ module.](Fired-Module_Odyssey.png "Thrusters of Odyssey while on module.")
 - Together with its [module]({{< ref "/wiki/" >}}Ship-Modules), you can avoid shots much more with the bonus speed, which is a big advantage to avoiding alpha shots. (note: please time the [module]({{< ref "/wiki/" >}}Ship-Modules) so you can maximize the usage and effectivity of the [module]({{< ref "/wiki/" >}}Ship-Modules))!
 - Use the module, large profile, and high speed to speed tank the enemy if needed.
 
-## Version History 
+## Version History
 
 possibly released within Version .77a31-32 along with Theseus because the event broke after being "released" by one of the developers. (accidental release).
 

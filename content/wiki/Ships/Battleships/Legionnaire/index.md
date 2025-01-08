@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Legionnaire
+  - /wiki/Legionnaire
 categories:
-- Ships
-- Battleships
-- Pirate Ships
-- Support Ships
-- Siege Ships
-- PVP Ships
-- Capital Ships
+  - Ships
+  - Battleships
+  - Pirate Ships
+  - Support Ships
+  - Siege Ships
+  - PVP Ships
+  - Capital Ships
 title: Legionnaire
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Legionnaire_** is a small [Battleship]({{< ref "/categories/" >}}battleships) with a wide arrangement of [Turrets]({{< ref "/wiki/" >}}Turrets), making it effective in both short and long range combat. 
+The **_Legionnaire_** is a small [Battleship]({{< ref "/categories/" >}}battleships) with a wide arrangement of [Turrets]({{< ref "/wiki/" >}}Turrets), making it effective in both short and long range combat.
 
 ## Description
 
@@ -47,7 +47,7 @@ You enter the interior by using a bridge on the right side of the ship that lead
 - This ship isn't that great at holding its own in a fight against bigger [Ships]({{< ref "/wiki/" >}}Ships), so try and accompany larger [Ships]({{< ref "/wiki/" >}}Ships) like [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) into battle to help them destroy the enemy.
 - This ship is somewhat of a [Glass-Cannon]({{< ref "/wiki/" >}}Archetypes), so dish out damage while remaining safe.
 
-## Version History 
+## Version History
 
 - Received a slight buff in version .63h.
 - Heavy Cannon changed to a Triple Heavy Cannon in .65b.

@@ -1,8 +1,10 @@
 ---
 aliases:
-- /wiki/Cancelled-Updates
+  - /wiki/Cancelled-Updates
 title: Cancelled Updates
----<div class="TDiv">
+---
+
+<div class="TDiv">
 # Cancelled Updates
 
 <div>
@@ -221,9 +223,9 @@ remodel](Mothership_Remodel_Interior_hq.webp "The one released screenshot of the
 
 - **Release Date:** Cancelled, due to the lead modeler of the project Envoy001 leaving.
 - **Description:** "As you know when you attack an NPC base it explodes and high part count builds can lag and even crash a server if it explodes. A mothership remodel is being done and we ran into a problem.
-  
+
   The model would be way too detailed to remain as a starbase so pretty much this poll is about if you would rather have a very detailed Mothership Remodel that also has a massively detailed interior that would be classed as a planet or would you rather stick to it being as starbase but it being not as detailed and having a lot of interior stripped. It is your choice. " - SeanMorabitoYT"
-  
+
   "Mothership and Freedom base remodels are no longer being worked on. They have been abandoned or completely considered out because there are far more beneficial planned updates. As of now we are no longer taking requests to remodel these bases either." - Uglycar
 
 The Freedom Base would eventually receive a [remodel](https://discord.com/channels/204965774618656769/543578215181058059/992969715976781935) in late 2022, unrelated to the one proposed previously.

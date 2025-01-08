@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/DylanTheVillain101
+  - /wiki/DylanTheVillain101
 categories:
-- Biographies
+  - Biographies
 title: DylanTheVillain101
----_Also known in short as "Dylan" or "Gerton"_ Well-known player & staff member in the Galaxy community. He served as Mod Supervisor and Admin for some time before retiring. In March 2023, he nuked most of his valuable ships.
+---
+
+_Also known in short as "Dylan" or "Gerton"_ Well-known player & staff member in the Galaxy community. He served as Mod Supervisor and Admin for some time before retiring. In March 2023, he nuked most of his valuable ships.
 
 ## Story
 

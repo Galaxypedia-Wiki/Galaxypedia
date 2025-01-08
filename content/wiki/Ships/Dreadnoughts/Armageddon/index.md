@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Armageddon
+  - /wiki/Armageddon
 categories:
-- Dreadnoughts
-- Capital Ships
-- Ships
-- Support Ships
-- Siege Ships
+  - Dreadnoughts
+  - Capital Ships
+  - Ships
+  - Support Ships
+  - Siege Ships
 title: Armageddon
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Armageddon_** is a hull-focused [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with powerful weaponry but low maneuverability. 
+The **_Armageddon_** is a hull-focused [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with powerful weaponry but low maneuverability.
 
 ## Description
 
@@ -47,7 +47,7 @@ The interior is a simple but detailed room containing a teleporter from the fron
 - Avoid Hull-breaker ships such as the [Ridgebreaker]({{< ref "/wiki/" >}}Ridgebreaker), [Avalon]({{< ref "/wiki/" >}}Avalon), and the [Osiris]({{< ref "/wiki/" >}}Osiris) as they have anti-Hull weaponry that can easily shred through the Hull of the **Armageddon**.
 - The **Armageddon** is very powerful but has many large drawbacks that require careful positioning and situational awareness. This makes the **Armageddon** not very well suited for new players learning how to use dreadnoughts.
 
-## Version History 
+## Version History
 
 - Max Hull increased from 10000, Medium Lasers upgraded to Dual Medium Lasers, Turn rate increased from 0.04 to 0.05 in version .65b.
 - Remodeled in version .67c.

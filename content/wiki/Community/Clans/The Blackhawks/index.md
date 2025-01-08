@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/The-Blackhawks
-- /wiki/Blackhawks
+  - /wiki/The-Blackhawks
+  - /wiki/Blackhawks
 categories:
-- Clans
+  - Clans
 title: The Blackhawks
----**The Blackhawks** (Abbreviated BH) is a Galaxy clan known for their activity, members, and extreme toxicity in the Beta stages of Galaxy. It was founded by [teentitansgohomee]({{< ref "/wiki/" >}}teentitansgohomee) and was managed by his friend minecraftninja5. BH had a large amount of kill logs during their time active. Around the time that Galaxy Gamma released, BH saw a huge wave of inactivity and the faction as a whole decided to quit Galaxy and move to other games.
+---
+
+**The Blackhawks** (Abbreviated BH) is a Galaxy clan known for their activity, members, and extreme toxicity in the Beta stages of Galaxy. It was founded by [teentitansgohomee]({{< ref "/wiki/" >}}teentitansgohomee) and was managed by his friend minecraftninja5. BH had a large amount of kill logs during their time active. Around the time that Galaxy Gamma released, BH saw a huge wave of inactivity and the faction as a whole decided to quit Galaxy and move to other games.
 
 ## Synopsis
 

@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Nemesis
+  - /wiki/Nemesis
 categories:
-- Support Ships
-- Ships
-- Dreadnoughts
-- PVP Ships
-- Siege Ships
-- All-Rounder Ships
-- Capital Ships
+  - Support Ships
+  - Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Siege Ships
+  - All-Rounder Ships
+  - Capital Ships
 title: Nemesis
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Nemesis_** is a powerful [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with both [Spinal]({{< ref "/wiki/" >}}Spinals) and [Turret]({{< ref "/wiki/" >}}Turrets) capabilities.
 
@@ -22,15 +22,15 @@ The **Nemesis** is a [Dreadnought]({{< ref "/categories/" >}}dreadnoughts)-cla
 
 ## Appearance
 
-### New Interior 
+### New Interior
 
 You enter the ship through a teleporter that takes you to a staircase. Go up the staircase, behind you is the captain's chair and in front of you is a picture of the ship's creator, Pleeber.
 
-### Old-ish Interior 
+### Old-ish Interior
 
 The current interior is still in its unfinished state. As it is currently, the exterior teleporter is now located on the rear right engine. This teleporter takes players to a moderately sized room with moderate detail. The room has detailed walls and a large square in the center that serves as the pilot's seat. There is nothing else to the interior currently that players can access, but if you rotate the camera through the hull of the ship while sitting in the pilot's seat you can see the beginnings of a small meeting room and stairs leading down to it, however, there is currently no way to get to this area.
 
-### Old Interior 
+### Old Interior
 
 There are two ways to enter the ship. The first is by using the teleporter, which takes a player straight to the bridge. If the player chooses to go through the door just past the teleporter, they will enter a hallway that branches directly to the left and right. Both sides of the hallway lead to a balcony overlooking a large table with lordmoneymonkey's roblox character decal on it and surrounded by seats. The balconies converge at the other side of the room at a staircase leading down to the meeting room. Just before the staircase, there is an airlock on either side that enters the bridge.
 
@@ -58,7 +58,7 @@ The bridge is a highly decorated room with an elevated captain's chair at the ce
 - Attack targets from below while pointed at them to maximize the turret line of sight and spinal positioning.
 - Never let any ships with high mobility, such as the [Black Flare]({{< ref "/wiki/" >}}Black-Flare), etc. get under you. They will most likely stay under you and will be able to shoot you with you not being able to defend.
 
-## Version History 
+## Version History
 
 - Remodeled in .61h1.
 - Max [Hull]({{< ref "/wiki/" >}}Hull) increased from 4500 to 5500, Max [Shield]({{< ref "/wiki/" >}}Shields) increased from 5600 to 5650 in version .65b.

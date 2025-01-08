@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Christmas-Event-2021
+  - /wiki/Christmas-Event-2021
 categories:
-- Christmas Event 2021
+  - Christmas Event 2021
 title: Christmas Event 2021
----  
+---
 
-{{< notices/removed >}} 
+{{< notices/removed >}}
 
 **Christmas Event 2021** is a limited time event that was held on the 25th of December, 2021. This year, the event ships comprise of those from the [Christmas Event 2020]({{< ref "/wiki/" >}}Christmas-Event-2020), and several new event ships.
 

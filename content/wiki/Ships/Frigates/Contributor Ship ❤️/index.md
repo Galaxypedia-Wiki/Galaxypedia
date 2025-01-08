@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Contributor-Ship-❤️
+  - /wiki/Contributor-Ship-❤️
 categories:
-- Frigates
-- Ships
-- Limited Ships
+  - Frigates
+  - Ships
+  - Limited Ships
 title: Contributor Ship ❤️
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The Contributor ship is an exclusive frigate for contributor of the game.
 

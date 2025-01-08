@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Grim
+  - /wiki/Grim
 categories:
-- Limited Ships
-- Halloween 2018
-- Quests
-- Battleships
-- Pirate Ships
-- PVP Ships
-- Capital Ships
-- Ships
+  - Limited Ships
+  - Halloween 2018
+  - Quests
+  - Battleships
+  - Pirate Ships
+  - PVP Ships
+  - Capital Ships
+  - Ships
 title: Grim
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Grim_** is a unique **[Battleship]({{< ref "/categories/" >}}battleships)**that was obtained by completing the Event Quest "[Death Incarnate]({{< ref "/wiki/" >}}Death-Incarnate)."
 
@@ -41,7 +41,7 @@ A teleporter just on the outside leads you straight to the cockpit. The pilot's 
 - Must be good at aiming spinals since it makes up the majority of the DPS.
 - The most expensive battleship in the game (but only because of the Class B Permit).
 
-## Version History  
+## Version History 
 
 - 4 Skull Turrets replaced with 2 [Advanced Medium Autocannons]({{< ref "/wiki/" >}}Turrets) and 2 [Advanced Medium Autolasers]({{< ref "/wiki/" >}}Turrets) in an unknown version.
 - [Hull]({{< ref "/wiki/" >}}Hull) reduced from 6666 to 3333, 8 [Medium Phasers]({{< ref "/wiki/" >}}Spinals) changed to 8 [Large Phasers]({{< ref "/wiki/" >}}Spinals) and 4 [Large Cannons]({{< ref "/wiki/" >}}Spinals) changed to 4 [Huge Cannons]({{< ref "/wiki/" >}}Spinals) in version .68d.

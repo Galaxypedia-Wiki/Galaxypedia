@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Deity
+  - /wiki/Deity
 categories:
-- Super Capital Ships
-- PVP Ships
-- Capital Ships
-- Ships
+  - Super Capital Ships
+  - PVP Ships
+  - Capital Ships
+  - Ships
 title: Deity
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/superCapitalShip >}} 
+{{< notices/superCapitalShip >}}
 
 The **_Deity_** is an extremely maneuverable [Super Capital Ship]({{< ref "/categories/" >}}super-capital-ships) that is extremely adept at brawling against other capital ships.
 
@@ -56,7 +56,7 @@ The Interior consists of two rooms, one is the bridge found in the middle of the
 - When fighting against large ships such as other [Super Capitals]({{< ref "/categories/" >}}super-capital-ships) or [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts), take advantage of your superior mobility and warp underneath them.
 - This ship is great at [diving]({{< ref "/wiki/" >}}Galaxy-Terminology), so use that to your advantage.
 
-## Version History 
+## Version History
 
 - Added in version .65b
 - Turn speed buffed from 0.08 to 0.1 in version .66b

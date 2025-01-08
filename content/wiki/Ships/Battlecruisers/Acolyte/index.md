@@ -1,23 +1,23 @@
 ---
 aliases:
-- /wiki/Acolyte
+  - /wiki/Acolyte
 categories:
-- Halloween 2020
-- Battlecruisers
-- Ships
-- PVP Ships
-- Pirate Ships
-- All-Rounder Ships
+  - Halloween 2020
+  - Battlecruisers
+  - Ships
+  - PVP Ships
+  - Pirate Ships
+  - All-Rounder Ships
 title: Acolyte
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Acolyte_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during Part 2 of the [Halloween 2020 Event]({{< ref "/categories/" >}}halloween-2020). 
+The **_Acolyte_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during Part 2 of the [Halloween 2020 Event]({{< ref "/categories/" >}}halloween-2020).
 
 ## Description
 
@@ -46,7 +46,7 @@ The **Acolyte** has a decently detailed interior, including a single co-pilot se
 - Have the front of the ship face the center of the target from at least 2k studs away so that all of the turrets are able to fire.
 - For hulled targets, prioritize landing your large cannons, as the turrets deal bad hull damage.
 
-## Version History 
+## Version History
 
 - No logged changes.
 

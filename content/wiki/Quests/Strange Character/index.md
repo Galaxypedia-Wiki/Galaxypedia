@@ -1,13 +1,15 @@
 ---
 aliases:
-- /wiki/Strange-Character
-- /wiki/Mythical-Blueprint
-- /wiki/Strange-Character(NPC)
+  - /wiki/Strange-Character
+  - /wiki/Mythical-Blueprint
+  - /wiki/Strange-Character(NPC)
 categories:
-- Quests
-- NPCS
+  - Quests
+  - NPCS
 title: Strange Character
----The **_Strange Character_** is an NPC that allows players to start the "Mythical Blueprint" quest. 
+---
+
+The **_Strange Character_** is an NPC that allows players to start the "Mythical Blueprint" quest.
 
 ## Description
 
@@ -25,7 +27,7 @@ _Note: Strange Character only gives the quest in Public Servers and not in Priva
 
 Strange Character is found inside [Freedom Base]({{< ref "/wiki/" >}}Freedom-Base), on the top level and stands in a corner inside one of 2 rooms.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 _Note: The Player must choose the correct dialogue sequence as shown below, or else the quest cannot be initiated._
 
@@ -49,7 +51,7 @@ _Note: The Player must choose the correct dialogue sequence as shown below, or e
 
 Quest #203 "Mythical Blueprints" is given.
 
-### Quest Completion Dialogue 
+### Quest Completion Dialogue
 
 <span style="color:#ee7600">Strange Character: "Got the goods?"</span>
 

@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Hyron
+  - /wiki/Hyron
 categories:
-- Ships
-- Battlecruisers
-- Hull breakers
+  - Ships
+  - Battlecruisers
+  - Hull breakers
 title: Hyron
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Hyron_** was a support AA [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) that was focused on shredding small ships. 
+The **_Hyron_** was a support AA [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) that was focused on shredding small ships.
 
 ## Description
 
@@ -46,7 +46,7 @@ The interior was very unique; it was bright and heavenly with a huge white scree
 - Use it as AA in a siege group, just one AA ship ( like the **Hyron** ) can go a long way.
 - When attacking ships, begin by angling downward from them to allow the [Gatling Lasers]({{< ref "/wiki/" >}}Turrets) to fire - then, when the opponent is hulled, angle upwards to allow the medium flak to hit.
 
-## Version History 
+## Version History
 
 - Added in an unknown version
 - Removed in an unknown version

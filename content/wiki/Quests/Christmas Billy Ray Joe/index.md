@@ -1,15 +1,17 @@
 ---
 aliases:
-- /wiki/Christmas-Billy-Ray-Joe
+  - /wiki/Christmas-Billy-Ray-Joe
 categories:
-- NPCS
-- Quests
-- Christmas Event 2017
-- Limited Ships
-- Removed From Game
-- Christmas Event 2018
+  - NPCS
+  - Quests
+  - Christmas Event 2017
+  - Limited Ships
+  - Removed From Game
+  - Christmas Event 2018
 title: Christmas Billy Ray Joe
----**_Christmas Billy Ray Joe_** is the Christmas version of [**Billy Ray Joe**]({{< ref "/wiki/" >}}Billy-Ray-Joe). 
+---
+
+**_Christmas Billy Ray Joe_** is the Christmas version of [**Billy Ray Joe**]({{< ref "/wiki/" >}}Billy-Ray-Joe).
 
 ## Description
 

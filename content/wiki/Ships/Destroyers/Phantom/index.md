@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Phantom
+  - /wiki/Phantom
 categories:
-- Ships
-- Destroyers
-- Pirate Ships
-- PVP Ships
+  - Ships
+  - Destroyers
+  - Pirate Ships
+  - PVP Ships
 title: Phantom
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Phantom_** is cheap **[Destroyer]({{< ref "/categories/" >}}destroyers)** with powerful shield damage.
 
@@ -37,7 +37,7 @@ At the cockpit, there is another terminal with a blank screen and the driver's c
 - Can't do much damage against hull.
 - It's model appearance is very limited.
 
-## Version History 
+## Version History
 
 - Received a health buff and nerf in an unknown version that buffed shields from 550 to 900, and nerfed hull from 550 to 200.
 

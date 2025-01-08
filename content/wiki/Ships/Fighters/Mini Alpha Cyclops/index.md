@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Mini-Alpha-Cyclops
+  - /wiki/Mini-Alpha-Cyclops
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Mini Alpha Cyclops
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Mini Alpha Cyclops_** is a [Fighter-class]({{< ref "/categories/" >}}fighters) ship found in the [Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship).
 

@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Ghost-Pumpkin
+  - /wiki/Ghost-Pumpkin
 categories:
-- Quests
-- Halloween 2018
-- Limited Ships
-- Removed From Game
-- Event Items
+  - Quests
+  - Halloween 2018
+  - Limited Ships
+  - Removed From Game
+  - Event Items
 title: Ghost Pumpkin
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 The **_Ghost Pumpkin_** is a special item that was dropped by the [Harvest King]({{< ref "/wiki/" >}}Harvest-King) during the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018), which was used to build the "true ship" given to you in a quest from the [Grim Reaper (NPC)]({{< ref "/wiki/" >}}<Grim-Reaper-(NPC)> "wikilink"). They can be looted from Alien [Harvest Kings]({{< ref "/wiki/" >}}Harvest-King) (25 [Space Pumpkins]({{< ref "/wiki/" >}}Space-Pumpkin) and 1 **Ghost Pumpkin** each).
 

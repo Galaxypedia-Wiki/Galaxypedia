@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Antimatter-Shard
+  - /wiki/Antimatter-Shard
 categories:
-- Items
+  - Items
 title: Antimatter Shard
----## Description
+---
+
+## Description
 
 **Antimatter Shards** are one of the 3 [Artifacts]({{< ref "/wiki/" >}}Artifacts) in the game.
 

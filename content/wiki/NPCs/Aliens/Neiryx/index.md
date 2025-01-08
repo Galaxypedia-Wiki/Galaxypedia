@@ -1,13 +1,15 @@
 ---
 aliases:
-- /wiki/Neiryx
-- /wiki/Advanced-Systems
+  - /wiki/Neiryx
+  - /wiki/Advanced-Systems
 categories:
-- NPCS
-- Quests
-- Alien Ships and Stations
+  - NPCS
+  - Quests
+  - Alien Ships and Stations
 title: Neiryx
----## Description
+---
+
+## Description
 
 **_Neiryx_** is an [Alien]({{< ref "/categories/" >}}alien-ships-and-stations) NPC that allows players to start the "Advanced Systems" quest.
 
@@ -25,7 +27,7 @@ The Items that the quest needs to build the Advanced Systems are the following:
 **Neiryx** is found reading a book called _"No Comment, a Guide to Building Suspense"_ in the Terminal A [Library] inside the [Mega Base]({{< ref "/wiki/" >}}Mega-Base). ![Where Neiryx is
 located.](Advancedsystems1.png "Where Neiryx is located."){width="400"}
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">Neiryx: shh, i'm busy</span>
 

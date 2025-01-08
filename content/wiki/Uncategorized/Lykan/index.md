@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Lykan
+  - /wiki/Lykan
 title: Lykan
----  
+---
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/outdatedInfo >}} 
+{{< notices/outdatedInfo >}}
 
-The ***Lykan**'' was the fighter of the [carrier]({{< ref "/categories/" >}}carriers),***[Lykos]({{< ref "/wiki/" >}}Lykos)**'' which was going to be awarded to the first-place winner of the Galaxy Tournament?
+The **\*Lykan**'' was the fighter of the [carrier]({{< ref "/categories/" >}}carriers),**\*[Lykos]({{< ref "/wiki/" >}}Lykos)**'' which was going to be awarded to the first-place winner of the Galaxy Tournament?
 
 # Description
 
@@ -31,7 +31,7 @@ Unknown
 
 - Use this to brag how you won the tournament
 
-# Version History 
+# Version History
 
 - Removed in version .69a2, due to the cancellation of the tournament.
 

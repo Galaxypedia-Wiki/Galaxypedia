@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Leviathan
+  - /wiki/Leviathan
 categories:
-- Ships
-- Dreadnoughts
-- PVP Ships
-- Support Ships
-- Pirate Ships
-- All-Rounder Ships
-- Capital Ships
+  - Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Support Ships
+  - Pirate Ships
+  - All-Rounder Ships
+  - Capital Ships
 title: Leviathan
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Leviathan_** is a **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** class ship, the first of its kind to be added to Galaxy.
 
@@ -48,7 +48,7 @@ The interior of the **Leviathan** is a small room containing little more than t
 - Use your quick turn speed and speed to your advantage to make sure ships do not go under you.
 - Do not waste your spinals, more than half of your hull DPS comes from them.
 
-## Version History 
+## Version History
 
 - The **Leviathan** received a remodel and a buff in .58c, affecting its firepower, mobility, and a massive price change.
 - Triple Heavy Cannon replaced with Rapid Fire Cannon and another price change in version .66b

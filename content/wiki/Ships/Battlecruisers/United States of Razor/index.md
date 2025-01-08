@@ -1,23 +1,23 @@
 ---
 aliases:
-- /wiki/United-States-of-Razor
+  - /wiki/United-States-of-Razor
 categories:
-- Ships
-- Limited Ships
-- Pirate Ships
-- PVP Ships
-- Battlecruisers
-- Hidden Events
-- Fourth of July 2020
-- Reskins
+  - Ships
+  - Limited Ships
+  - Pirate Ships
+  - PVP Ships
+  - Battlecruisers
+  - Hidden Events
+  - Fourth of July 2020
+  - Reskins
 title: United States of Razor
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_United States of Razor_** is a limited edition remodel of the old [Razor Wing]({{< ref "/wiki/" >}}Razor-Wing) for the President's Day Event.  
+The **_United States of Razor_** is a limited edition remodel of the old [Razor Wing]({{< ref "/wiki/" >}}Razor-Wing) for the President's Day Event.
 
 ## Description
 
@@ -46,7 +46,7 @@ The general layout of the interior is the same as the [Razor Wing]({{< ref "/wik
 - You can shoot bigger ships with its powerful [Spinal]({{< ref "/wiki/" >}}Spinals) weapons.
 - Treat this as a trophy. Never use it and only spawn it to show off to other players.
 
-## Version History 
+## Version History
 
 - Received a nerf that removed its [Flak Cannons]({{< ref "/wiki/" >}}Turrets) in an unknown version
 - Received a buff on its July 4th re-release, gaining two additional medium cannons as well as two small patriotic Gatling turrets. Also received a remodel in an unknown version.

@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Icarus
+  - /wiki/Icarus
 categories:
-- Carriers
-- Ships
-- Support Ships
-- PVP Ships
-- Pirate Ships
-- All-Rounder Ships
-- Siege Ships
-- Capital Ships
+  - Carriers
+  - Ships
+  - Support Ships
+  - PVP Ships
+  - Pirate Ships
+  - All-Rounder Ships
+  - Siege Ships
+  - Capital Ships
 title: Icarus
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Icarus_** is a large, combat-based, defensive [**Carrier**]({{< ref "/categories/" >}}carriers).  
+The **_Icarus_** is a large, combat-based, defensive [**Carrier**]({{< ref "/categories/" >}}carriers). 
 
 ## Description
 
@@ -50,7 +50,7 @@ The ship is entered through the [Fighter]({{< ref "/categories/" >}}fighters) ba
 - Make sure to approach from below so your [Turrets]({{< ref "/wiki/" >}}Turrets) can be used.
 - With having [Valkyrie]({{< ref "/wiki/" >}}Valkyrie) fighters, it is beneficial to take advantage of them as they have great DPS and speed.
 
-## Version History 
+## Version History
 
 - Most of the interior was removed in an unknown version.
 - Received a Turret loadout rework, a health buff, switch of Fighters, and a Cargo Hold buff in .65b.

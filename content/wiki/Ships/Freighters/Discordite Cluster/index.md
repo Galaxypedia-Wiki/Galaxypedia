@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Discordite-Cluster
+  - /wiki/Discordite-Cluster
 categories:
-- Freighters
-- Ships
-- Limited Ships
-- Promotion/Raffles
+  - Freighters
+  - Ships
+  - Limited Ships
+  - Promotion/Raffles
 title: Discordite Cluster
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Discordite Cluster_** is a unique **[Freighter]({{< ref "/categories/" >}}freighters)** given to people that boosted the [Galaxy Discord Server](https://discordapp.com/invite/FCGGXvk). 
+The **_Discordite Cluster_** is a unique **[Freighter]({{< ref "/categories/" >}}freighters)** given to people that boosted the [Galaxy Discord Server](https://discordapp.com/invite/FCGGXvk).
 
 ## Description
 
@@ -41,7 +41,7 @@ There is a seat inside the comet which a driver can sit on.
 - Only use this in specific situations, use a regular Freighter for regular activities.
 - Utilize this ship's tiny hitbox and incredible mobility to go close to enemy [Starbases]({{< ref "/wiki/" >}}Starbase) and loot wrecks. Do not try that strategy on players, due to the likelihood of it being dived.
 
-## Version History 
+## Version History
 
 - Added on 6/19/19 with a post on the Official Discord Server showing how to obtain it.
 - Stopped being distributed on 8/18/20 due to conflicts with the Roblox ToS.
@@ -53,4 +53,4 @@ There is a seat inside the comet which a driver can sit on.
 - The only way to obtain this ship is "for those that have Nitro Boosted the [discord server](https://discordapp.com/invite/FCGGXvk)".
 - The first player to have their **Discordite Cluster** destroyed was Nighthunter313 to a VC fleet.
 - Only one of these was given to someone who did not boost the discord server, and that was u00854, who was the first person that found the [Remains of U.N.E Starbase 12]({{< ref "/wiki/" >}}Remains-of-U.N.E-Starbase-12).
-- Selling the **Discordite Cluster*** grants the player 127,303 credits.*
+- Selling the **Discordite Cluster\*** grants the player 127,303 credits.\*

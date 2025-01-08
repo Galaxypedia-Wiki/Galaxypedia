@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Obliterator
+  - /wiki/Obliterator
 categories:
-- Ships
-- Dreadnoughts
-- Capital Ships
-- PVP Ships
-- Alien Ships and Stations
+  - Ships
+  - Dreadnoughts
+  - Capital Ships
+  - PVP Ships
+  - Alien Ships and Stations
 title: Obliterator
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Obliterator_** is an extremely powerful [Alien]({{< ref "/wiki/" >}}Aliens)-themed [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
 
@@ -52,7 +52,7 @@ The Interior of the **Obliterator** is well-detailed and consists of a pilot sea
 - Watch out for swarms of small ships, as the ship is very vulnerable to them due to the inaccurate turrets.
 - Don't be reckless with this ship; due to its power and expense, it is a high priority target.
 
-## Version History 
+## Version History
 
 - Spinal firing interval nerfed from 0.1 seconds to 0.2 seconds on both spinals shortly after the release of the ship in an unknown version.
 - Health buffed from 8500 shields to 9000 shields and hull from 6000 to 7000. In return, the obliterator lost 2 auto Kneall lasers but gained 2 huge spinal phasers and 2 huge spinal cannons in an unknown version

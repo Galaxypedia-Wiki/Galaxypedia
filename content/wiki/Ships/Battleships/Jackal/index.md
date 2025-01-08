@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Jackal
+  - /wiki/Jackal
 categories:
-- Ships
-- PVP Ships
-- Pirate Ships
-- Battleships
-- Support Ships
-- Capital Ships
-- Siege Ships
-- Hull breakers
+  - Ships
+  - PVP Ships
+  - Pirate Ships
+  - Battleships
+  - Support Ships
+  - Capital Ships
+  - Siege Ships
+  - Hull breakers
 title: Jackal
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Jackal_**is a powerful [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Battleship.**]({{< ref "/categories/" >}}battleships)
 
@@ -51,7 +51,7 @@ The **Jackal's **interior is a small but incredibly detailed hallway leading u
 - A very good anti-siege ship as it can snipe bigger targets with ease.
 - Utilize vertical [Drifting]({{< ref "/wiki/" >}}Strategies#Drifting) while facing opponents, this can make it tougher for them to hit your ship.
 
-## Version History 
+## Version History
 
 - Received a buff in update .60d that buffed Hull by 400 and Shields by 600. While also increased slightly in cost to build. The buff was reversed shortly after.
 - Buffed in .63h to add 500 Shield, 100 Hull, and increased the price.

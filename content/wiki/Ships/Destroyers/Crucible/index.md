@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Crucible
+  - /wiki/Crucible
 categories:
-- PVP Ships
-- Pirate Ships
-- Support Ships
-- Destroyers
-- Ships
+  - PVP Ships
+  - Pirate Ships
+  - Support Ships
+  - Destroyers
+  - Ships
 title: Crucible
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Crucible_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Destroyer**]({{< ref "/categories/" >}}destroyers). 
+The **_Crucible_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Destroyer**]({{< ref "/categories/" >}}destroyers).
 
 ## Description
 
@@ -43,7 +43,7 @@ The interior of this ship is very small. With only a small pilot seat and a scre
 - Hunt for larger targets or in groups as you are very unlikely to be hit by larger turrets.
 - Use the speed, along with the quick reloading Spinals to [pirate]({{< ref "/wiki/" >}}Pirating) small miners effectively.
 
-## Version History 
+## Version History
 
 - Added in .65a.
 - Tiny Cannon spinal count reduced from 6 to 4 in version .65b.

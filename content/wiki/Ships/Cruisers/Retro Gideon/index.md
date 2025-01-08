@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Retro-Gideon
+  - /wiki/Retro-Gideon
 categories:
-- Ships
-- Limited Ships
-- Cruisers
-- Black Friday 2019
-- Retro Ship Event 2019
+  - Ships
+  - Limited Ships
+  - Cruisers
+  - Black Friday 2019
+  - Retro Ship Event 2019
 title: Retro Gideon
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Retro Gideon_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Gideon]({{< ref "/wiki/" >}}Gideon) that features its original model and armament. 
+The **_Retro Gideon_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Gideon]({{< ref "/wiki/" >}}Gideon) that features its original model and armament.
 
 ## Description
 
@@ -45,7 +45,7 @@ The interior of the **Retro Gideon** is practically the same as the current [Gid
 - Use its agility to exploit larger ships' blindspots.
 - All the turrets are on top, so if the line of sight is blocked, you can rotate the ship to make sure they all hit.
 
-## Version History 
+## Version History
 
 - Received a buff in .66b shortly after the event ended.
 - Gained 3 Retro Small Lasers and 2 Retro Light Flak Cannons in [version .73a3.]({{< ref "/wiki/" >}}Update-Log)

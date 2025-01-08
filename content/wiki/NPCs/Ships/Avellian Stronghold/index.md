@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Avellian-Stronghold
+  - /wiki/Avellian-Stronghold
 categories:
-- Avellians= Ships and Stations
-- Starbases
-- NPC Ships
-- Christmas Event 2021
+  - Avellians= Ships and Stations
+  - Starbases
+  - NPC Ships
+  - Christmas Event 2021
 title: Avellian Stronghold
----  
+---
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 ## **Description**
 

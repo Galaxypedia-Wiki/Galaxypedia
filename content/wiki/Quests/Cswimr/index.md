@@ -1,20 +1,22 @@
 ---
 aliases:
-- /wiki/Cswimr
-- /wiki/Scwimr
+  - /wiki/Cswimr
+  - /wiki/Scwimr
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Cswimr
----**_Cswimr_** is an NPC who offers powerful [Kneall]({{< ref "/wiki/" >}}Kneall) ships.
+---
+
+**_Cswimr_** is an NPC who offers powerful [Kneall]({{< ref "/wiki/" >}}Kneall) ships.
 
 ## Description
 
 **Cswimr** is a mysterious merchant with brown hair and a friendly smile, dressed in a Trench coat, who lurks within the **Lucifer station's** ventilation system in front of an eerily glowing red panel, emerging from his hidden location to offer passing customers his collection of [Kneall]({{< ref "/wiki/" >}}Kneall) alien ships.
 
-## Kneall Ships For Sale 
+## Kneall Ships For Sale
 
-### [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2) 
+### [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2)
 
 ### [Annihilator]({{< ref "/wiki/" >}}Annihilator)
 
@@ -29,7 +31,7 @@ title: Cswimr
 **Cswimr** can be found in **Lucifer Station** by using the [Lucifer] teleporter from the [Frion]({{< ref "/wiki/" >}}Frion)'s spawn point. Once there, head to the station's farthest room, which is a café area - you'll find him inside the open vents located beside the stove. ![Lucifer Station
 Vents](Galaxy_Frion.png-LuciferStation-Vents2.png "Lucifer Station Vents")
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[cswimr]: " Looking to buy a Kneall ship? "</span>
 

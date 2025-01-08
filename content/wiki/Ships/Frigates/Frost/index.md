@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Frost
+  - /wiki/Frost
 categories:
-- Ships
-- NPC Ships
-- Christmas Event 2022
-- Frigates
+  - Ships
+  - NPC Ships
+  - Christmas Event 2022
+  - Frigates
 title: Frost
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/removed >}}   
+{{< notices/removed >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **Frost** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Frigate]({{< ref "/categories/" >}}frigates) that spawned during the duration of the [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
 

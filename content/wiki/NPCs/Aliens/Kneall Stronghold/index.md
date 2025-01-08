@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Kneall-Stronghold
+  - /wiki/Kneall-Stronghold
 categories:
-- Starbases
-- Alien Ships and Stations
+  - Starbases
+  - Alien Ships and Stations
 title: Kneall Stronghold
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 ## Description
 
@@ -100,7 +100,7 @@ The stronghold can also be looted the regular way, although this can only happen
   - 2 [Swarmer]({{< ref "/wiki/" >}}Swarmer)
   - 2 [Bruiser]({{< ref "/wiki/" >}}Bruiser)
 
-## Version History 
+## Version History
 
 - Health increased substantially in version .69f
 - Temporary removed for repairs in version .69f

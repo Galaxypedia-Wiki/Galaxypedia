@@ -1,14 +1,16 @@
 ---
 aliases:
-- /wiki/Grim-Reaper-(NPC)
-- /wiki/Death-Incarnate
+  - /wiki/Grim-Reaper-(NPC)
+  - /wiki/Death-Incarnate
 categories:
-- NPCS
-- Quests
-- Halloween 2018
-- Removed From Game
+  - NPCS
+  - Quests
+  - Halloween 2018
+  - Removed From Game
 title: Grim Reaper (NPC)
----The **_Grim Reaper_**was an **[NPC]({{< ref "/categories/" >}}npcs)** that was added during the [**Halloween Event 2018**]({{< ref "/wiki/" >}}Halloween-Event-2018).
+---
+
+The **_Grim Reaper_**was an **[NPC]({{< ref "/categories/" >}}npcs)** that was added during the [**Halloween Event 2018**]({{< ref "/wiki/" >}}Halloween-Event-2018).
 
 ## Description
 
@@ -18,7 +20,7 @@ The **Grim Reaper** is the [NPC]({{< ref "/categories/" >}}npcs) that would give
 
 The **Grim Reaper** is located in the [Halloween Mega Base]({{< ref "/wiki/" >}}Halloween-Mega-Base) in the pumpkin field.
 
-## Quest Dialog 1 
+## Quest Dialog 1
 
 <u>Grim Reaper</u>: Hey, want to do me a favor?
 
@@ -44,11 +46,11 @@ The **Grim Reaper** is located in the [Halloween Mega Base]({{< ref "/wiki/" >}}
 
 _Player obtains quest: Death Incarnate_
 
-## Completing the Quest (continued) 
+## Completing the Quest (continued)
 
 The player then needs to obtain 5 [Ghost Pumpkins]({{< ref "/wiki/" >}}Ghost-Pumpkin) and 100 [Space Pumpkins]({{< ref "/wiki/" >}}Space-Pumpkin) by defeating a stage 3 [Harvest King]({{< ref "/wiki/" >}}Harvest-King). This can be extremely difficult as the [Harvest King]({{< ref "/wiki/" >}}Harvest-King) can take on multiple [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) if distractions such as the [Draco]({{< ref "/wiki/" >}}Draco) and [Viper]({{< ref "/wiki/" >}}Viper) are not present. Once destroyed there will probably be many vultures, so stay alert. Each stage 3 [Harvest King]({{< ref "/wiki/" >}}Harvest-King) drops 1 [Ghost Pumpkin]({{< ref "/wiki/" >}}Ghost-Pumpkin) and 25 [Space Pumpkins]({{< ref "/wiki/" >}}Space-Pumpkin). Since a [Harvest King]({{< ref "/wiki/" >}}Harvest-King) only spawns once per round, the player must hop servers if they wish to continue. After obtaining the requirements the player must head back to the **Grim Reaper** to turn in the pumpkins for their prize.
 
-## Quest Dialog 2 
+## Quest Dialog 2
 
 <u>Grim Reaper:</u> You got all the pumpkins?
 

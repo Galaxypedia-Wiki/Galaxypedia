@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Grievion
+  - /wiki/Grievion
 categories:
-- Ships
-- Battlecruisers
-- Pirate Ships
-- PVP Ships
-- Support Ships
-- All-Rounder Ships
+  - Ships
+  - Battlecruisers
+  - Pirate Ships
+  - PVP Ships
+  - Support Ships
+  - All-Rounder Ships
 title: Grievion
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Grievion_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) designed for ship-to-ship combat.
 
@@ -48,7 +48,7 @@ The **Grievion's** interior is split by a ramp up and a ramp down from the entry
 - Use its high mobility to ensure that enemy ships cannot reach its exposed bottom.
 - Use your small and medium turrets to kill smaller ships. Or use your 8 small cannons to eat hull on bigger ships.
 
-## Version History 
+## Version History
 
 - The **Grievion** was subject to a major nerf in .47. It had 1 [Railgun]({{< ref "/wiki/" >}}Turrets) and 8 [Small Phasers]({{< ref "/wiki/" >}}Spinals) removed, as well as a mobility nerf down from 155 / ? / 0.6.
 - Its Speed was further nerfed to 100 in a later version.

@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Serv
-- /wiki/Alien-Serv
+  - /wiki/Serv
+  - /wiki/Alien-Serv
 categories:
-- NPC Ships
-- Halloween 2020
-- Alien Ships and Stations
-- Ships
+  - NPC Ships
+  - Halloween 2020
+  - Alien Ships and Stations
+  - Ships
 title: Serv
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **_Serv_** (also known as **Alien Serv**) was a unique [**AI**]({{< ref "/categories/" >}}npc-ships) ship added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020)
 
@@ -43,7 +43,7 @@ All of those strategies above have become near-impossible when it gained the abi
 - The same ores as a [Alien Swarmer]({{< ref "/wiki/" >}}Alien-Swarmer), 14 Silicate 13 Carbon, 2 Iridium 2 Adamantite 2 Palladium, 2 Titanium, 2 Quantium, 75 Uranium
 - 2 [Gamma Pumpkins]({{< ref "/wiki/" >}}Gamma-Pumpkin).
 
-## Version History 
+## Version History
 
 - Gamma pumpkin drop rate nerfed in version .69b1 (3 -> 2).
 - Gained the ability to call aliens in version .69[?][?] (past version .69b5).

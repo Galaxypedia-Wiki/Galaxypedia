@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Wasp-
+  - /wiki/Wasp-
 categories:
-- Ships
-- Fighters
-- April Fool\'s Event 2022
+  - Ships
+  - Fighters
+  - April Fool\'s Event 2022
 title: Wasp_
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Wasp?_** is a "[**Fighter**]({{< ref "/categories/" >}}fighters)" that spawns in the [Waspinator]({{< ref "/wiki/" >}}Waspinator).
 
@@ -38,7 +38,7 @@ The **Wasp?** is very similar if not identical to the [Wasp]({{< ref "/wiki/" >}
 - Distract enemy turret fire as other warships attack your target.
 - Mine away Starbases at a whopping 9,000 studs away.
 
-## Version History 
+## Version History
 
 - Added in the [April Fool's Event 2022]({{< ref "/wiki/" >}}April-Fool's-Event-2022).
 

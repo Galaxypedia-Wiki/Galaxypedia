@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Mega-Base
+  - /wiki/Mega-Base
 categories:
-- Starbases
-- Game Mechanics
+  - Starbases
+  - Game Mechanics
 title: Mega Base
----<div class="cardcontainer" style="font-size:15px; line-height:24px">
+---
+
+<div class="cardcontainer" style="font-size:15px; line-height:24px">
 
 Mega Base Stats
 
@@ -49,13 +51,13 @@ Sad-os view.png|A photo of SAD-OS Sad-os chat.png|SAD-OS's dialogue
 
 [Luca Sky]({{< ref "/wiki/" >}}Luca-Sky) and [Billy Ray Joe]({{< ref "/wiki/" >}}Billy-Ray-Joe) are at the center of mega base. Luca stands at the top of a pillar between terminal B and C while Billy Ray Joe stands next to the rules board.
 
-# Mega Base Announcements 
+# Mega Base Announcements
 
 About every ?? minutes in the **Mega Base**, you can hear what sounds like a robot speaking on an intercom throughout the Mega Base. These are all of the sentences she says:
 
 <File:Mega> base sleeping pods.ogg|[Sleeping pod announcement](https://mega.nz/file/ZRAmWSDL#OvN1XnWwUWdzkXEszVJbQsJ0lU6VC7NqdL53kYS3FVQ) <File:Mega> base weapons and fire arms.ogg|[Weapons announcement](https://mega.nz/file/ZRAmWSDL#OvN1XnWwUWdzkXEszVJbQsJ0lU6VC7NqdL53kYS3FVQ) <File:Mega> base ship refund.ogg|[Ship refund announcement](https://mega.nz/file/ZRAmWSDL#OvN1XnWwUWdzkXEszVJbQsJ0lU6VC7NqdL53kYS3FVQ) <File:Mega> base search.ogg|[Cargo search announcement](https://mega.nz/file/ZRAmWSDL#OvN1XnWwUWdzkXEszVJbQsJ0lU6VC7NqdL53kYS3FVQ) <File:Mega> base information desk.ogg|[Information desk announcement](https://mega.nz/file/ZRAmWSDL#OvN1XnWwUWdzkXEszVJbQsJ0lU6VC7NqdL53kYS3FVQ) <File:Mega> base alien population.ogg|[Alien population announcement](https://mega.nz/file/ZRAmWSDL#OvN1XnWwUWdzkXEszVJbQsJ0lU6VC7NqdL53kYS3FVQ) <File:Mega> base capital ship.ogg|[Capital Ship announcement](https://mega.nz/file/ZRAmWSDL#OvN1XnWwUWdzkXEszVJbQsJ0lU6VC7NqdL53kYS3FVQ)
 
-# Tips and tricks 
+# Tips and tricks
 
 - If you plan to transfer items or sell and buy items at **Mega Base**, make sure you are not at [War]({{< ref "/wiki/" >}}War). Pirates normally do some [Pirating]({{< ref "/wiki/" >}}Pirating) at Mega Base and normally attack any enemy ship they see, mainly [Miners]({{< ref "/categories/" >}}mining-ships) and [Freighters]({{< ref "/categories/" >}}freighters).
 
@@ -67,13 +69,13 @@ About every ?? minutes in the **Mega Base**, you can hear what sounds like a rob
 
 - Smaller Pirates always stay within 30,000 studs of the Mega Base, so be careful when trading and keep an eye on the Minimap.
 
-# Getting Inside 
+# Getting Inside
 
 As is commonly known, if you warp perfectly, you can enter **Mega Base**. It takes some practice, but it gets pretty easy over time. But, two players named [FRJRyanYT]({{< ref "/wiki/" >}}User:FRJRyanYT) and **Parzi3l** have found a new way to get inside. Where the terminals connect to the Mega Base, there is a small, rhombus-shaped, hole that is just big enough to fit, maybe 3 [Wasps]({{< ref "/wiki/" >}}Wasp) going through at once. All testing to enter using **Frigates** has shown us that most **Frigates** are too big to enter using our area, but to be honest, we only tested two Frigates. Photos of the entrance will be shown below.
 
 Vibing in mega.png|Inside Mega Base Entrance to mega.png|One of four entrances into the Mega Base. Exit to mega.png|One of four exits out of the Mega Base.
 
-# Developer Cave 
+# Developer Cave
 
 ![Video showing the location and contents of the
 cave.](Mega_base-developer-cave.mov "Video showing the location and contents of the cave.")

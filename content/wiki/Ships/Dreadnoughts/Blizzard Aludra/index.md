@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Blizzard-Aludra
+  - /wiki/Blizzard-Aludra
 categories:
-- NPC Ships
-- Christmas Event 2022
-- Dreadnoughts
-- Ships
+  - NPC Ships
+  - Christmas Event 2022
+  - Dreadnoughts
+  - Ships
 title: Blizzard Aludra
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/removed >}}   
+{{< notices/removed >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 _This page is about the [AI]({{< ref "/wiki/" >}}AI) Battleship. If you're looking for the playable variant, see [Aludra]({{< ref "/wiki/" >}}Aludra)._
 

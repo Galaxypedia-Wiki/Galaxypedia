@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Retro-Hercules
+  - /wiki/Retro-Hercules
 categories:
-- Ships
-- Limited Ships
-- Freighters
-- Black Friday 2019
-- Retro Ship Event 2019
+  - Ships
+  - Limited Ships
+  - Freighters
+  - Black Friday 2019
+  - Retro Ship Event 2019
 title: Retro Hercules
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Retro Hercules_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Hercules]({{< ref "/wiki/" >}}Hercules) that features its original model.
 
@@ -45,7 +45,7 @@ The Retro Hercules is a limited version of the [Hercules]({{< ref "/wiki/" >}}He
 - Make sure to see that area you are heading to is all clear.
 - If you do decide to use it during war, use its high speed to quickly dock at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) before any [pirates]({{< ref "/wiki/" >}}pirates) can get to you.
 
-## Version History 
+## Version History
 
 - Added in .66b, along with the [Retro Ship Event 2019]({{< ref "/wiki/" >}}Retro-Ship-Event-2019).
 - Received a buff along with all other retro event ships in version .66b shortly after the event ended.

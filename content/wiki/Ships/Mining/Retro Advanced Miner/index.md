@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Retro-Advanced-Miner
+  - /wiki/Retro-Advanced-Miner
 categories:
-- Ships
-- Limited Ships
-- Mining Ships
-- Black Friday 2019
-- Retro Ship Event 2019
+  - Ships
+  - Limited Ships
+  - Mining Ships
+  - Black Friday 2019
+  - Retro Ship Event 2019
 title: Retro Advanced Miner
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Retro Advanced Miner_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Advanced Miner]({{< ref "/wiki/" >}}Advanced-Miner) that features its original model and loadout.
 
@@ -47,7 +47,7 @@ The interior of the ship is a large room which leads to a ladder. This ladder wi
 - When mining if an alien targets you quickly warp away, aliens can kill you before you fill up your ore hold.
 - If a [Punisher]({{< ref "/wiki/" >}}Punisher) warps to your [Starbase]({{< ref "/wiki/" >}}Starbase), **DO NOT DOCK.** Your low health will let it kill you before you even despawn, instead warp 18k away from the [Starbase]({{< ref "/wiki/" >}}Starbase).
 
-## Version History 
+## Version History
 
 - Added in version .66b, along with the retro ships of the retro ships limited event.
 - Received a buff in version .66b, when the Retro ship event ended.
@@ -64,6 +64,6 @@ The interior of the ship is a large room which leads to a ladder. This ladder wi
 
 - The second limited remodel of the [Advanced Miner]({{< ref "/wiki/" >}}Advanced-Miner).
 - It's the only miner to use the Old Mining Laser Sounds.
-- Many players were disappointed with this ship a bit of time after the buff of the ship, as the **Retro Advanced Miner**received a big nerf. 
+- Many players were disappointed with this ship a bit of time after the buff of the ship, as the **Retro Advanced Miner**received a big nerf.
 - The miner was originally 80,000 credits or so, soon after being buffed to 300,000 credits, meaning players could profit off of selling this.
 - After RC's Turret standardization to stop overpowered ships in the game, this ship is now basically an [Advanced Miner]({{< ref "/wiki/" >}}Advanced-Miner) but with 5000 ore hold.

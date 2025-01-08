@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Katana
+  - /wiki/Katana
 categories:
-- Battleships
-- Ships
-- Capital Ships
-- PVP Ships
-- Pirate Ships
+  - Battleships
+  - Ships
+  - Capital Ships
+  - PVP Ships
+  - Pirate Ships
 title: Katana
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Katana_** is an agile PvP **[Battleship]({{< ref "/categories/" >}}battleships)** that shares a model with the [Plagued Warship]({{< ref "/wiki/" >}}Plagued-Warship). 
+The **_Katana_** is an agile PvP **[Battleship]({{< ref "/categories/" >}}battleships)** that shares a model with the [Plagued Warship]({{< ref "/wiki/" >}}Plagued-Warship).
 
 ## Description
 
@@ -51,7 +51,7 @@ The **Katana's** interior is a small undecorated square with a teleporter, a nor
 - Use your spinals, as they boost your combined DPS from 122 to 239 (not including damage shield boosts or any other damage boosts)(DPS amount has been fixed.)
 - Don't take risks during war, especially if your warring a strong faction, as they can easily swarm and kill you.
 
-## Version History 
+## Version History
 
 - Buffed in .66b, making its shield go from 4000 to 4500 and its two Dual Medium Cannons became two Triple Heavy Cannons.
 - [Shields]({{< ref "/wiki/" >}}Shields) reduced to 3500 in version .69a1.

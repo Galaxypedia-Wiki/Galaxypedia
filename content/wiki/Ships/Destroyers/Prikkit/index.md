@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Prikkit
+  - /wiki/Prikkit
 categories:
-- Ships
-- Destroyers
-- Limited Ships
-- Halloween 2021
+  - Ships
+  - Destroyers
+  - Limited Ships
+  - Halloween 2021
 title: Prikkit
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/removed >}} 
+{{< notices/removed >}}
 
 The **Prikkit** is a Destroyer that is part of the second stage of the [2021 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2021).
 
@@ -58,7 +58,7 @@ The interior is cramped, circular, and it's seat is a bright yellow version of t
 
 • Use it's high hull dps to finish off anyone that is hulled.
 
-## Version History 
+## Version History
 
 - Speed increased (230 -> 270) .75a12
 

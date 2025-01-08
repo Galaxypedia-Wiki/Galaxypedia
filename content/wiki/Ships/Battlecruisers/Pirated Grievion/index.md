@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Pirated-Grievion
+  - /wiki/Pirated-Grievion
 categories:
-- Limited Ships
-- Halloween 2018
-- Ships
-- Battlecruisers
-- Pirate Ships
-- PVP Ships
-- All-Rounder Ships
-- Reskins
+  - Limited Ships
+  - Halloween 2018
+  - Ships
+  - Battlecruisers
+  - Pirate Ships
+  - PVP Ships
+  - All-Rounder Ships
+  - Reskins
 title: Pirated Grievion
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Pirated Grievion_** is a limited [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018) remodel of the [Grievion]({{< ref "/wiki/" >}}Grievion). ![]({{< ref "/wiki/" >}}Screenshot-2019-02-28-at-3.48.47-PM.png-"Screenshot-2019-02-28-at-3.48.47-PM.png"){width="221" height="221"}
 
@@ -42,7 +42,7 @@ The interior of the **Pirated Grievion** is similar to the layout of the [Grievi
 
 - Use this to pirate isolated Miners or Freighters, but be weary when doing so as you are an attention-grabbing target.
 
-## Version History 
+## Version History
 
 - Added in the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018). (version .65a)
 - Received a remodel, health increased from 1,700/1,650 Shield/Hull HP to 3,100/2,900, turret loadout changed from 4 Light Flak Cannons, 2 Light Lasers, and 2 Medium Lasers to 5 Light Hijacked Gatling Cannons, 1 Pirated Heavy Laser, 1 Pirated Medium laser, and 1 Pirated Light Laser, Spinals changed from 6 Medium Cannons to 12 Small Cannons, Spinal firing interval adjusted to 0.05 seconds, Top Speed increased from 110 to 200, Acceleration increased from 10 to 25, and Turn Speed increased from 0.45 to 0.58 in version .75a5.

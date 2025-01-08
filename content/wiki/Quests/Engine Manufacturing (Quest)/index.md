@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Engine-Manufacturing-(Quest)
+  - /wiki/Engine-Manufacturing-(Quest)
 categories:
-- Quests
-- NPCS
+  - Quests
+  - NPCS
 title: Engine Manufacturing (Quest)
----## Description
+---
+
+## Description
 
 The **Engine Manufacturing** is a quest that gives the item "[Thrust Component]({{< ref "/wiki/" >}}Thrust-Component)", and is currently the only source.
 
@@ -23,7 +25,7 @@ The Items that the quest needs to make 15 Thrust Components are the following:
 **_Leviathan Engineering Station,_** the Quest-Giver for "Thrust Component", is found as one of the wrecks in [U.N.E Battle of Sector 552 Wreckage]({{< ref "/wiki/" >}}U.N.E-Battle-of-Sector-552-Wreckage). The Wreckage cluster is ~60k-80k away from [Mega Base]({{< ref "/wiki/" >}}Mega-Base) and it is recommended to set your graphical settings to max to see it far away. ![Where "Leviathan" is
 located.](Battle_wrecks.PNG "Where "Leviathan" is located."){width="400"}
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Leviathan Engineering Station]: [ BOOTING UP... ]</span>
 

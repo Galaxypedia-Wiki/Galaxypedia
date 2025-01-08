@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Kneall-Tractor-Beam
+  - /wiki/Kneall-Tractor-Beam
 categories:
-- Event Items
-- Kneall Events
+  - Event Items
+  - Kneall Events
 title: Kneall Tractor Beam
----The **Kneall Tractor Beam** is an [Event Item]({{< ref "/categories/" >}}event-items) used as a material for making the [Annihilator]({{< ref "/wiki/" >}}Annihilator) Blueprint, which is crafted via a quest during the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event). After the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event), it was used to trade in for credits from the leftovers of this item.
+---
+
+The **Kneall Tractor Beam** is an [Event Item]({{< ref "/categories/" >}}event-items) used as a material for making the [Annihilator]({{< ref "/wiki/" >}}Annihilator) Blueprint, which is crafted via a quest during the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event). After the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event), it was used to trade in for credits from the leftovers of this item.
 
 The [Devastator]({{< ref "/wiki/" >}}Devastator) is the only source of this item, at 16 Tractor Beams per wreck during the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event).
 
@@ -13,11 +15,11 @@ The [Devastator]({{< ref "/wiki/" >}}Devastator) is the only source of this item
 
 The list of [Quests]({{< ref "/wiki/" >}}Quests) where the Kneall Tractor Beam is used.
 
-### [Reverse Engineering]({{< ref "/wiki/" >}}Reverse-Engineering) 
+### [Reverse Engineering]({{< ref "/wiki/" >}}Reverse-Engineering)
 
-### Kneall Tractor Beams, 10 
+### Kneall Tractor Beams, 10
 
-**Requires:** 10 Kneall Tractor Beams. **Reward:** 60500 Credits.  "Tractor Beams" is the [NPC]({{< ref "/categories/" >}}npcs) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #20202603.
+**Requires:** 10 Kneall Tractor Beams. **Reward:** 60500 Credits. "Tractor Beams" is the [NPC]({{< ref "/categories/" >}}npcs) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #20202603.
 
 **Dialogue:**
 

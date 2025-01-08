@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Coldfront
+  - /wiki/Coldfront
 categories:
-- Cruisers
-- Christmas Event 2019
-- Limited Ships
-- Ships
-- PVP Ships
+  - Cruisers
+  - Christmas Event 2019
+  - Limited Ships
+  - Ships
+  - PVP Ships
 title: Coldfront
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Coldfront_** is a [**Cruiser**]({{< ref "/categories/" >}}cruisers) added during the second stage of the [2019 Christmas event]({{< ref "/wiki/" >}}Christmas-Event-2019). 
+The **_Coldfront_** is a [**Cruiser**]({{< ref "/categories/" >}}cruisers) added during the second stage of the [2019 Christmas event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
 ## Desription 
 
@@ -44,7 +44,7 @@ The interior of the **Coldfront** features a non-collidable glass cover and two 
 
 - Use your speed to avoid getting hit by larger ships, and try to get into the blind spots of larger ships where you can deal a lot of damage, and if they move you can accelerate fast enough that they might not hit you that much.
 
-## Version History 
+## Version History
 
 - 2 Small Cannons buffed to 2 Medium Cannons in version .68e.
 

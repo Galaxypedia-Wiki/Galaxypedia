@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Pleb's-Kodiak
+  - /wiki/Pleb's-Kodiak
 categories:
-- Super Capital Ships
-- Alien Ships and Stations
-- NPC Ships
-- Ships
+  - Super Capital Ships
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
 title: Pleb's Kodiak
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-The **_Pleb's Kodiak_** is an **[Alien]({{< ref "/wiki/" >}}Aliens) [AI]({{< ref "/categories/" >}}npc-ships)** ship that mimics the [Kodiak]({{< ref "/wiki/" >}}Kodiak). It can only be spawned by an admin. 
+The **_Pleb's Kodiak_** is an **[Alien]({{< ref "/wiki/" >}}Aliens) [AI]({{< ref "/categories/" >}}npc-ships)** ship that mimics the [Kodiak]({{< ref "/wiki/" >}}Kodiak). It can only be spawned by an admin.
 
 ## Description
 
@@ -31,7 +31,7 @@ Do not charge head in against a Pleb's Kodiak, even with the most powerful Super
 
 ## Loot
 
-## Version History 
+## Version History
 
 - No logged changes?
 

@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Hellkeeper
+  - /wiki/Hellkeeper
 categories:
-- Halloween 2021
-- NPC Ships
-- Ships
+  - Halloween 2021
+  - NPC Ships
+  - Ships
 title: Hellkeeper
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-The **_Hellkeeper_** is a Pirate [**AI**]({{< ref "/categories/" >}}npc-ships) Boss added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021). 
+The **_Hellkeeper_** is a Pirate [**AI**]({{< ref "/categories/" >}}npc-ships) Boss added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021).
 
 ## Description
 
@@ -37,7 +37,7 @@ The **Hellkeeper** is similar to the [Kodiak]({{< ref "/wiki/" >}}Kodiak) in tha
 - Use ships with high [Hull]({{< ref "/wiki/" >}}Hull) health such as [Armageddon]({{< ref "/wiki/" >}}Armageddon) and [Blackgate]({{< ref "/wiki/" >}}Blackgate), because the **Hellkeeper** is a shield-breaking ship. _(Avoid the spinals for less [Hull]({{< ref "/wiki/" >}}Hull) damage)_
 - The **Hellkeeper** has a huge blind spot right below it. Try to stay in that spot as much as you can, just be aware of the speed of it.
 
-## Version History 
+## Version History
 
 - Added during the **[2021 Halloween Event.]({{< ref "/categories/" >}}halloween-2021)**
 - Minimum amount of players required for it to spawn reduced from 7 to 4 in version .74a10.

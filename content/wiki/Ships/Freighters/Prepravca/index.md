@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Prepravca
+  - /wiki/Prepravca
 categories:
-- Freighters
-- Ships
+  - Freighters
+  - Ships
 title: Prepravca
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Prepravca_** is the third largest buildable **[Freighter]({{< ref "/categories/" >}}freighters)** in the game behind the [Constellation]({{< ref "/wiki/" >}}Constellation) and the [E Class]({{< ref "/wiki/" >}}E-Class).
 
@@ -43,7 +43,7 @@ The **Prepravca's** interior is identical to that of the [Prospector]({{< ref "/
 - Bring this to a [Starbase]({{< ref "/wiki/" >}}Starbase) post-siege and you will most likely be able to loot the [Starbase]({{< ref "/wiki/" >}}Starbase) in one run. If possible, try to fly in a "fleet" of [Freighters]({{< ref "/categories/" >}}freighters).
 - When looting a siege, be extremely careful and always have an escort whenever possible, even when docking at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base).
 
-## Version History 
+## Version History
 
 - Rebalanced in .52d, gaining 500 extra Cargo Hold, but losing 100 [Shields]({{< ref "/wiki/" >}}Shields) and a bit of mobility.
 - In update .53, according to [Trello](https://trello.com/b/E0bIEAyS/galaxy), it was reduced by 800 parts due to the lag it caused during warp. It now docks relatively fast and is more optimized.
@@ -57,7 +57,7 @@ The **Prepravca's** interior is identical to that of the [Prospector]({{< ref "/
 
 ## Trivia
 
-- In etymology, the name derives from the Slovak word, '*Prepravca***' which** means 'the transporter', which is a fitting name for this large [Freighter]({{< ref "/categories/" >}}freighters) ship.
+- In etymology, the name derives from the Slovak word, '\*Prepravca**\*' which** means 'the transporter', which is a fitting name for this large [Freighter]({{< ref "/categories/" >}}freighters) ship.
 - The current model of **Prepravca** is similar to a [Bulk Ship](https://en.wikipedia.org/wiki/Bulk_carrier). A common ship used by merchants for trading Ores.
 - Its current model looks like an elongated [Prospector]({{< ref "/wiki/" >}}Prospector) or one half of a [D Class]({{< ref "/wiki/" >}}D-Class).
 - **_Please update the images for old models - Drivethecar54_**

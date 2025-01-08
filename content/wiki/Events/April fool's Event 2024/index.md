@@ -1,12 +1,14 @@
 ---
 aliases:
-- /wiki/April-fool's-Event-2024
+  - /wiki/April-fool's-Event-2024
 categories:
-- Removed From Game
-- Events
-- April Fool\'s Event 2024
+  - Removed From Game
+  - Events
+  - April Fool\'s Event 2024
 title: April fool's Event 2024
----## Main Info 
+---
+
+## Main Info
 
 The April fools event 2024 saw a massive ship change where every model is either a [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2) or a [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1), This was also swapped with the models themselves! A limited button on the setting tab was added so you could change whenever you wanted the models to be swapped or not.
 

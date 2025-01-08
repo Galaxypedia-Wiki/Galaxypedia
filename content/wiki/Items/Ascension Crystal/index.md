@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Ascension-Crystal
+  - /wiki/Ascension-Crystal
 categories:
-- Items
+  - Items
 title: Ascension Crystal
----## Description
+---
+
+## Description
 
 **Ascension Crystals** are one of the 3 [Artifacts]({{< ref "/wiki/" >}}Artifacts) in the game.
 

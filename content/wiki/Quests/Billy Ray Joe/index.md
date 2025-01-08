@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Billy-Ray-Joe
+  - /wiki/Billy-Ray-Joe
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Billy Ray Joe
----**_Billy Ray Joe_** is a quest NPC first implemented alongside [**Luca Sky**]({{< ref "/wiki/" >}}Luca-Sky) in the [**Galaxy Star Wars Event**]({{< ref "/wiki/" >}}Galaxy-Star-Wars-Event) to give players a promotional item quest. 
+---
+
+**_Billy Ray Joe_** is a quest NPC first implemented alongside [**Luca Sky**]({{< ref "/wiki/" >}}Luca-Sky) in the [**Galaxy Star Wars Event**]({{< ref "/wiki/" >}}Galaxy-Star-Wars-Event) to give players a promotional item quest.
 
 ## Description
 
@@ -17,7 +19,7 @@ As of the latest version, completion of Quest #2 rewards players with 1,750 [Cre
 
 **Billy Ray Joe** can be found beside the update board and in front of the Alien Embassy in the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) between terminals A and B.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <u>Billy Ray Joe</u>: "Hey are you a miner?"
 

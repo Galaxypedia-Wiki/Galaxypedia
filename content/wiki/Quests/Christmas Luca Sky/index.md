@@ -1,15 +1,17 @@
 ---
 aliases:
-- /wiki/Christmas-Luca-Sky
+  - /wiki/Christmas-Luca-Sky
 categories:
-- Quests
-- NPCS
-- Limited Ships
-- Christmas Event 2017
-- Removed From Game
-- Christmas Event 2018
+  - Quests
+  - NPCS
+  - Limited Ships
+  - Christmas Event 2017
+  - Removed From Game
+  - Christmas Event 2018
 title: Christmas Luca Sky
----**_Christmas Luca Sky_** is the Christmas variant of **[Luca Sky]({{< ref "/wiki/" >}}Luca-Sky)**.
+---
+
+**_Christmas Luca Sky_** is the Christmas variant of **[Luca Sky]({{< ref "/wiki/" >}}Luca-Sky)**.
 
 ## Description
 

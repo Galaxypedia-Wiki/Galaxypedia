@@ -1,23 +1,23 @@
 ---
 aliases:
-- /wiki/Halloween-Hawklight
+  - /wiki/Halloween-Hawklight
 categories:
-- Halloween 2016
-- Battleships
-- Limited Ships
-- Pirate Ships
-- PVP Ships
-- Capital Ships
-- All-Rounder Ships
-- Support Ships
-- Removed From Game
-- Ships
+  - Halloween 2016
+  - Battleships
+  - Limited Ships
+  - Pirate Ships
+  - PVP Ships
+  - Capital Ships
+  - All-Rounder Ships
+  - Support Ships
+  - Removed From Game
+  - Ships
 title: Halloween Hawklight
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Halloween Hawklight_** was a limited time change to the [Hawklight]({{< ref "/wiki/" >}}Hawklight) to celebrate the [Halloween Event 2016]({{< ref "/wiki/" >}}Halloween-Event-2016). 
+The **_Halloween Hawklight_** was a limited time change to the [Hawklight]({{< ref "/wiki/" >}}Hawklight) to celebrate the [Halloween Event 2016]({{< ref "/wiki/" >}}Halloween-Event-2016).
 
 ##  Description
 
@@ -42,7 +42,7 @@ Had the same interior as the original?
 
 - This ship is a great all-rounder PvP ship. Use it to your advantage.
 
-## Version History 
+## Version History
 
 - Added in an unknown version.
 - Removed in an unknown version.

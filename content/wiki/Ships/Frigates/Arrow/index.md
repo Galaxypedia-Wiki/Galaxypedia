@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Arrow
+  - /wiki/Arrow
 categories:
-- Ships
-- Frigates
-- Incomplete Information
+  - Ships
+  - Frigates
+  - Incomplete Information
 title: Arrow
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/vipShip >}} 
+{{< notices/vipShip >}}
 
-The **_Arrow_** is a small and balanced [Frigate]({{< ref "/categories/" >}}frigates). 
+The **_Arrow_** is a small and balanced [Frigate]({{< ref "/categories/" >}}frigates).
 
 ## Description
 
@@ -40,7 +40,7 @@ The **Arrow**has a simple interior consisting of two monitors with targeting inf
 - Drifting is the most effective way to play this ship so that you are always moving at top speed but still have your cannon facing your opponent.
 - Avoid ships with many high accuracy turrets like the [Mjolnheimr]({{< ref "/wiki/" >}}Mjolnheimr) and the [Ampharos]({{< ref "/wiki/" >}}Ampharos).
 
-## Version History 
+## Version History
 
 - Arrow's speed buffed to 160
 - Arrow's speed changed to 260 in an unknown version

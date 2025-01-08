@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Data-Archive
+  - /wiki/Data-Archive
 categories:
-- Items
+  - Items
 title: Data Archive
----## Description
+---
+
+## Description
 
 **Data Archives** are one of the 3 [Artifacts]({{< ref "/wiki/" >}}Artifacts) in the game. They are also used in a quest that gives credits in the [Quest]({{< ref "/wiki/" >}}Quests) [Crazy Secret]({{< ref "/wiki/" >}}Richard-Kavar).
 

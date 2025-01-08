@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Prototype-X-1
+  - /wiki/Prototype-X-1
 categories:
-- Ships
-- Siege Ships
-- Super Capital Ships
-- Quests
-- PVP Ships
-- Support Ships
-- Hull breakers
-- U.N.E
+  - Ships
+  - Siege Ships
+  - Super Capital Ships
+  - Quests
+  - PVP Ships
+  - Support Ships
+  - Hull breakers
+  - U.N.E
 title: Prototype X-1
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/prototypeShip >}} 
+{{< notices/prototypeShip >}}
 
 The **_Prototype X-1_**is a [**Prototype**]({{< ref "/categories/" >}}prototypes) created by the [U.N.E]({{< ref "/wiki/" >}}United-Nations-of-Earth).
 
@@ -70,7 +70,7 @@ The interior of the ship is fairly large, having volumetric displays of ships an
 - If your team is having difficulty chasing down and destroying crippled enemy ships, loiter around the enemy's base/planet with your Bastion Module active (but be careful to not sustain too much damage). Eventually, your team should be able to deal enough damage to your target that they are forced to attempt to dock at their base, which is the perfect opportunity for you to finish them off.
   - If your enemy has multiple bases, try to reduce their despawn options by sieging weaker, poorly defended bases/planets with the Bastion Module active, and destroying/capturing them, if possible.
 
-## Version History 
+## Version History
 
 - Received a nerf in version .???.
 - Received a slight buff in .60h.

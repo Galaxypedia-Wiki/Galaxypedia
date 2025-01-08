@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Enigma
+  - /wiki/Enigma
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Enigma
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/removed >}} 
+{{< notices/removed >}}
 
 The **Enigma** is a **[Developer-only Ship]({{< ref "/categories/" >}}admin-ships)** comprised of an amalgamation of now-removed features.''
 
@@ -37,7 +37,7 @@ The interior is a rectangular Myriad, containing two admin ships which is the ol
 
 - ???
 
-## Version History 
+## Version History
 
 - ???
 

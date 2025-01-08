@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Retro-Aegis
+  - /wiki/Retro-Aegis
 categories:
-- Ships
-- Battleships
-- Support Ships
-- Capital Ships
-- Retro Ship Event 2021
+  - Ships
+  - Battleships
+  - Support Ships
+  - Capital Ships
+  - Retro Ship Event 2021
 title: Retro Aegis
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The Retro Aegis is the retro version of the [Aegis]({{< ref "/wiki/" >}}Aegis), a very powerful shield-shredding Limited [Battleship]({{< ref "/wiki/" >}}Ships).
 
@@ -56,7 +56,7 @@ The **Retro Aegis** starts with a walkway into a large hallway with many windows
 - Much like it's normal counterpart, it's hull is fragile so disengage from a fight before you're hulled(ideally 1k or 1.5k shield HP).
 - If you see a shield breaker like the [Warden]({{< ref "/wiki/" >}}Warden) or [Zeus]({{< ref "/wiki/" >}}Zeus) approaching you, run as fast as you can back to the nearest neutral or friendly starbase.
 
-## Version History 
+## Version History
 
 - Added in version .73a3 as part of the 2021 Retro Ship Event.
 - Gained teleporters and Shields/Hull increased from 4000/700 to 5000/1500 after the event ended.

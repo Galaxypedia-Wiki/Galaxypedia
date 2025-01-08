@@ -1,12 +1,14 @@
 ---
 aliases:
-- /wiki/Shady-Alien-Dealer
+  - /wiki/Shady-Alien-Dealer
 categories:
-- NPCS
-- Quests
-- Limited Ships
+  - NPCS
+  - Quests
+  - Limited Ships
 title: Shady Alien Dealer
----_Current content on the page will not be finished for a while due to the last remaining recording of dialogue being deleted back in early April, my bad -ThunderJimmy_
+---
+
+_Current content on the page will not be finished for a while due to the last remaining recording of dialogue being deleted back in early April, my bad -ThunderJimmy_
 
 ## Description
 
@@ -16,7 +18,7 @@ The **_Shady Alien Dealer_** was one of the two [NPC]({{< ref "/categories/" >}}
 
 Just like with the [Shady Dealer]({{< ref "/wiki/" >}}Shady-Dealer), the **Shady Alien Dealer** can be found somewhere in [Myriad]({{< ref "/wiki/" >}}Myriad) through a teleporter in the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) (left door of the Alien Embassy). The teleporter itself becomes active after [Myriad]({{< ref "/wiki/" >}}Myriad) is upgraded to Starbase level 3.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 [To Be Added Soon]
 

@@ -1,8 +1,10 @@
 ---
 aliases:
-- /wiki/Enigma-Cache
+  - /wiki/Enigma-Cache
 title: Enigma Cache
----## V1
+---
+
+## V1
 
 The **Enigma Cache** is a secret quest giver for [Quest]({{< ref "/categories/" >}}quests) #89 found deep inside [Frion]({{< ref "/wiki/" >}}Frion). It is a mysterious octahedron-shaped device that gives you a quest to "activate it". The quest requires 1 Dimensional Alloy, and awards you 500K for completing it. The quest is repeatable. ![]({{< ref "/wiki/" >}}Quest89.png-"Quest89.png")
 

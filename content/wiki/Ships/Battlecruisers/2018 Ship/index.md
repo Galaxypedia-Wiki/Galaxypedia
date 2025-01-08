@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/2018-Ship
+  - /wiki/2018-Ship
 categories:
-- Ships
-- Limited Ships
-- Battlecruisers
-- Promotion/Raffles
+  - Ships
+  - Limited Ships
+  - Battlecruisers
+  - Promotion/Raffles
 title: 2018 Ship
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_2018 Ship_** is the first (and only) raffle ship in Galaxy.
 
@@ -41,7 +41,7 @@ The **2018 Ship** has no interior.
 - <u>**Never**</u> spawn it during a [War]({{< ref "/wiki/" >}}War).
 - Only spawn to show off to people.
 
-## Version History 
+## Version History
 
 - Max Speed was buffed in .60d.
 

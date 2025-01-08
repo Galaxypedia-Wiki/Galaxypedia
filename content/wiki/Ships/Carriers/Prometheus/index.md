@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Prometheus
+  - /wiki/Prometheus
 categories:
-- Carriers
-- Capital Ships
-- Siege Ships
-- Support Ships
-- Ships
+  - Carriers
+  - Capital Ships
+  - Siege Ships
+  - Support Ships
+  - Ships
 title: Prometheus
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Prometheus_** is a Super-[**Carrier**]({{< ref "/categories/" >}}carriers), known for its devastating [Nuke]({{< ref "/wiki/" >}}Nuking) and 4 powerful [Fighters]({{< ref "/categories/" >}}fighters).
 
@@ -47,7 +47,7 @@ The **Prometheus** has a small but detailed interior. There is a set of three te
 - Typically, release your [Fighters]({{< ref "/categories/" >}}fighters) AFTER you engage a [Starbase]({{< ref "/wiki/" >}}Starbase) or a target [Ship]({{< ref "/wiki/" >}}Ships). The blind spot can counter the Prometheus turret firepower, so instead you must rely on your massive health pool to keep you alive while you draw the attention of enemies, while your [Fighters]({{< ref "/categories/" >}}fighters) deal heavy damage.
 - Use your 800 explosion radius nuke as a last resort if you know you are going to die.
 
-## Version History  
+## Version History 
 
 - Received trails in version .66b.
 - Shield increased from 10000 to 16000 in version .68d.

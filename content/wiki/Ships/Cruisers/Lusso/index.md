@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Lusso
+  - /wiki/Lusso
 categories:
-- Cruisers
-- Ships
-- Pirate Ships
-- Support Ships
-- PVP Ships
+  - Cruisers
+  - Ships
+  - Pirate Ships
+  - Support Ships
+  - PVP Ships
 title: Lusso
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Lusso_** is a speedy, luxurious **[Cruiser]({{< ref "/categories/" >}}cruisers)**. 
+The **_Lusso_** is a speedy, luxurious **[Cruiser]({{< ref "/categories/" >}}cruisers)**.
 
 ## Description
 
@@ -46,7 +46,7 @@ The **Lusso** has a very luxurious interior, with various paintings, art-like st
 - Work with a hull shredding ship for maximum effectiveness.
 - Be sure to avoid any ship that is larger than it.
 
-## Version History 
+## Version History
 
 - Small interior changes in an unknown version.
 - Turret bug fix in an unknown version.

@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Sakala
+  - /wiki/Sakala
 categories:
-- Carriers
-- Ships
-- Support Ships
-- Capital Ships
-- Pirate Ships
-- Promotion/Raffles
+  - Carriers
+  - Ships
+  - Support Ships
+  - Capital Ships
+  - Pirate Ships
+  - Promotion/Raffles
 title: Sakala
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/premiumShip >}} 
+{{< notices/premiumShip >}}
 
 The **_Sakala_**is an exclusive[ ]({{< ref "/wiki/" >}}:category:carrier)[Carrier]({{< ref "/categories/" >}}carriers) available for 5000 robux, or can be won during a giveaway.
 
@@ -49,7 +49,7 @@ The interior of the **Sakala** is a small metal box with a pilot's seat and 7 t
 - Avoid [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) and [Super Capital]({{< ref "/categories/" >}}super-capital-ships) ships.
 - Don't use this as your everyday [Carrier]({{< ref "/categories/" >}}carriers). It is a limited ship. Treat it as such to avoid losing it.
 
-## Version History 
+## Version History
 
 - Remodeled in an unknown version.
 - Fighters changed from [Sanguine]({{< ref "/wiki/" >}}Sanguine) to [Firehawk]({{< ref "/wiki/" >}}Firehawk) in .65a.

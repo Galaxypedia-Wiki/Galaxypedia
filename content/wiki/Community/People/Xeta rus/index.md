@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Xeta-rus
+  - /wiki/Xeta-rus
 categories:
-- Biographies
+  - Biographies
 title: Xeta rus
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 Well known Galaxy player from BETA stage.
 

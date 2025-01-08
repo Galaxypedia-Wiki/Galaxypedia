@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/SR-71
+  - /wiki/SR-71
 categories:
-- Ships
-- Limited Ships
-- Dreadnoughts
-- Stealth Ships
-- Capital Ships
+  - Ships
+  - Limited Ships
+  - Dreadnoughts
+  - Stealth Ships
+  - Capital Ships
 title: SR-71
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **SR-71** is an extremely fast [Limited]({{< ref "/categories/" >}}limited-ships) [Stealth]({{< ref "/categories/" >}}stealth-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) released during the [Fourth of July 2022]({{< ref "/wiki/" >}}Fourth-of-July-2022) event. 
+The **SR-71** is an extremely fast [Limited]({{< ref "/categories/" >}}limited-ships) [Stealth]({{< ref "/categories/" >}}stealth-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) released during the [Fourth of July 2022]({{< ref "/wiki/" >}}Fourth-of-July-2022) event.
 
 ## Description
 
@@ -62,7 +62,7 @@ The Interior has a small cockpit where the player sits, with two small pilots' s
 
 The SR-71 could be obtained via the [Quest]({{< ref "/categories/" >}}quests) #20220701 [Something Special]({{< ref "/wiki/" >}}Something-Special), during the [Fourth of July 2022]({{< ref "/wiki/" >}}Fourth-of-July-2022) event.
 
-## Version History 
+## Version History
 
 - Added in the [Fourth of July 2022]({{< ref "/wiki/" >}}Fourth-of-July-2022) Event in version .75a12.
 - Added to LBM for a C permit .75a20

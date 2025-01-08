@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Dramiel
+  - /wiki/Dramiel
 categories:
-- Cruisers
-- PVP Ships
-- Ships
-- Pirate Ships
-- Support Ships
+  - Cruisers
+  - PVP Ships
+  - Ships
+  - Pirate Ships
+  - Support Ships
 title: Dramiel
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Dramiel_** is a small, fast, and damaging **[Cruiser]({{< ref "/categories/" >}}cruisers)** with a focus on [Spinal]({{< ref "/wiki/" >}}Spinals) firepower.
 
@@ -51,7 +51,7 @@ The **Dramiel** has a very sparse interior with few decorations, apart from some
 - Use multiple in swarms to unleash PURE SPINAL FURY!
 - Use your fast speed drift close around medium-large size ships
 
-## Version History 
+## Version History
 
 - Received a remodel in version .67e?
 

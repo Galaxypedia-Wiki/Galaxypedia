@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Duck-Blox
+  - /wiki/Duck-Blox
 categories:
-- Biographies
+  - Biographies
 title: Duck Blox
----Duck_Blox is a modeler and ship builder for galaxy.
+---
+
+Duck_Blox is a modeler and ship builder for galaxy.
 
 ## Story
 

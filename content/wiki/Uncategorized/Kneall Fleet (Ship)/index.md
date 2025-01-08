@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Kneall-Fleet-(Ship)
+  - /wiki/Kneall-Fleet-(Ship)
 title: Kneall Fleet (Ship)
----  
+---
 
-{{< notices/removed >}}   
+{{< notices/removed >}}
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 The Kneall Fleet Ship was a Alien ship that was introduced around the time of [Halloween 2018]({{< ref "/categories/" >}}halloween-2018), The same time that the [Kneall Prototype]({{< ref "/wiki/" >}}Kneall-Prototype) came out. The Kneall Fleet ship's function was to be the backbone of a fleet of aliens and basically be the captain of all the other ships, Meaning that where ever it went the rest followed.
 

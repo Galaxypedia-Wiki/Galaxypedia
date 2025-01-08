@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Ishkur
+  - /wiki/Ishkur
 categories:
-- Ships
-- Frigates
-- PVP Ships
-- Support Ships
-- Pirate Ships
+  - Ships
+  - Frigates
+  - PVP Ships
+  - Support Ships
+  - Pirate Ships
 title: Ishkur
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Ishkur_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Frigate**]({{< ref "/categories/" >}}frigates).
 
@@ -45,7 +45,7 @@ The **Ishkur** has no interior. Almost the entire space that could be devoted to
 - Useful for getting under [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) and annoying them. Also decent for low loyalty [Pirating]({{< ref "/wiki/" >}}Pirating).
 - High speed and decent health makes it effective in attacking many large [ships]({{< ref "/wiki/" >}}ships).
 
-## Version History 
+## Version History
 
 - The ship received a major nerf in .62d7 that lowered its [Shield]({{< ref "/wiki/" >}}Shields)/[Hull]({{< ref "/wiki/" >}}Hull) from 450/450 to 290/290. This change also lowered the explosive range from 45 to 2, although its explosive damage remains the same.
 

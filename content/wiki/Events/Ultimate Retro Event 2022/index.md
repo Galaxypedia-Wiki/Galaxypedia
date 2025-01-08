@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Ultimate-Retro-Event-2022
+  - /wiki/Ultimate-Retro-Event-2022
 categories:
-- Events
-- Ultimate Retro Ship Event 2022
+  - Events
+  - Ultimate Retro Ship Event 2022
 title: Ultimate Retro Event 2022
----The **_Ultimate Retro Event 2022_** was an event that started in August 25, 2022 and concluded at September 8, 2022.
+---
+
+The **_Ultimate Retro Event 2022_** was an event that started in August 25, 2022 and concluded at September 8, 2022.
 
 ## Overview
 
@@ -45,7 +47,7 @@ Retro Andromeda-icon.png|[Retro Andromeda]({{< ref "/wiki/" >}}Retro-Andromeda) 
 
 Retro Nyx-icon.png|[Retro Nyx]({{< ref "/wiki/" >}}Retro-Nyx)
 
-### NPC Ships 
+### NPC Ships
 
 _Note that Stimulant NPC Ships only spawn in Public Servers._
 

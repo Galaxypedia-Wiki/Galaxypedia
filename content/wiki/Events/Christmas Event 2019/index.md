@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Christmas-Event-2019
+  - /wiki/Christmas-Event-2019
 categories:
-- Events
+  - Events
 title: Christmas Event 2019
----<div class="cardcontainer" style="font-size:15px; line-height:24px">
+---
+
+<div class="cardcontainer" style="font-size:15px; line-height:24px">
 
 # Stage 1
 

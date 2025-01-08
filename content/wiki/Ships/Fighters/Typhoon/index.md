@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Typhoon
+  - /wiki/Typhoon
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Typhoon
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
-The **Typhoon** is a fast fighter-class ship that is carried aboard the **[Stormbringer]({{< ref "/wiki/" >}}Stormbringer)**. 
+The **Typhoon** is a fast fighter-class ship that is carried aboard the **[Stormbringer]({{< ref "/wiki/" >}}Stormbringer)**.
 
 ## Description
 
@@ -39,7 +39,7 @@ The **Typhoon**'s appearance is similarly styled to that of its parent ship, spo
 - The **Typhoon** replaced the **[Wrath]({{< ref "/wiki/" >}}Wrath)** upon its addition in the 3rd remodel of the **Stormbringer**, the **Wrath** belonging to the 2nd.
 - A storm becomes a Typhoon if it becomes powerful enough, which explains the name of the fighter.
 
-## Version History 
+## Version History
 
 - Added in version (?), replacing the **Wrath** as the **Stormbringer's** unique fighter following the latter's 3rd remodel.
 - Health increased (250/250 -> 300/300) .75a12

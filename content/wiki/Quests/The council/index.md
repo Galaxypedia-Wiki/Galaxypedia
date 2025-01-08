@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/The-council
+  - /wiki/The-council
 categories:
-- Quests
-- April Fool\'s Event 2022
+  - Quests
+  - April Fool\'s Event 2022
 title: The council
----**_The council_** is a quest NPC first implemented in the [[April Fool's Event 2022] to give players the Miner Carrier [Waspinator]({{< ref "/wiki/" >}}Waspinator).
+---
+
+**_The council_** is a quest NPC first implemented in the [[April Fool's Event 2022] to give players the Miner Carrier [Waspinator]({{< ref "/wiki/" >}}Waspinator).
 
 ## Description
 
@@ -17,7 +19,7 @@ Adadda.png|The quest itself Waspcouncil.png|The Council
 
 The **Entrance** can be found in Terminal A in the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) inside the roof behind the library, then the player is teleported to a large area which is 650k studs away from Mega Base making it hard for the player to move around, the player then has to overcome a small obby before entrance in the "Wasp Heaven" can be achieved.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <u>Quest Wasp</u>: "Who are you..."
 

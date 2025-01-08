@@ -1,27 +1,27 @@
 ---
 aliases:
-- /wiki/Frankenemi
+  - /wiki/Frankenemi
 categories:
-- Limited Ships
-- Reskins
-- Ships
-- Support Ships
-- PVP Ships
-- Siege Ships
-- Dreadnoughts
-- Pirate Ships
-- Halloween 2017
-- All-Rounder Ships
-- Capital Ships
-- Black Friday 2019
+  - Limited Ships
+  - Reskins
+  - Ships
+  - Support Ships
+  - PVP Ships
+  - Siege Ships
+  - Dreadnoughts
+  - Pirate Ships
+  - Halloween 2017
+  - All-Rounder Ships
+  - Capital Ships
+  - Black Friday 2019
 title: Frankenemi
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **Frankenemi** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** version of the [Nemesis]({{< ref "/wiki/" >}}Nemesis) **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** that was made for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).  
+The **Frankenemi** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** version of the [Nemesis]({{< ref "/wiki/" >}}Nemesis) **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** that was made for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).
 
 ## Description
 
@@ -63,7 +63,7 @@ Also contains a generator room at the back of the main room of the ship. The gen
 
 - The **Frankenemi** is a good choice for sieging, as it has good acceleration and powerful [Turrets]({{< ref "/wiki/" >}}Turrets) that allow it to quickly enter a chase and destroy a target that is above it.
 
-## Version History 
+## Version History
 
 - Received buffs in .60d1 that boosted Shields by 500 and Hull by 500.
 - Received multiple changes during the [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) rebalance. Speed was nerfed, (however, not as much as on the regular [Nemesis]({{< ref "/wiki/" >}}Nemesis)) and shields were increased by 1950, while hull was increased by 2450. Turning and acceleration were lowered similarly to all other [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts), but the exact values are not known to the author.

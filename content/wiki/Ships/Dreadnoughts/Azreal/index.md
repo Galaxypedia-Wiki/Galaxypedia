@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Azreal
+  - /wiki/Azreal
 categories:
-- Limited Ships
-- Dreadnoughts
-- Ships
-- Capital Ships
-- PVP Ships
-- Halloween 2019
+  - Limited Ships
+  - Dreadnoughts
+  - Ships
+  - Capital Ships
+  - PVP Ships
+  - Halloween 2019
 title: Azreal
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 This page is
 
@@ -29,7 +29,7 @@ This ship excels at providing firepower support in fleets against capital ships 
 
 The Azrael is a very futuristic and slim [dreadnought]({{< ref "/categories/" >}}dreadnoughts) with many fins jutting out of the ship, similar to the [Abaddon]({{< ref "/wiki/" >}}Abaddon). At the front are its 6 Spinal Barrels which gives off an effect. The Ship's design somewhat resembles an aquatic creature.
 
-The **Azrael** shares the same interior as the [Abaddon]({{< ref "/wiki/" >}}Abaddon) and [Lucifer]({{< ref "/wiki/" >}}Lucifer), with a black, foggy hallway. At the front, there is a yellow glowing orb with electricity coming out of it, and in front of it there is yellow text that says <span style="color:#50e1f8">*"**_SANCTION AZREAL ONLINE_**"*</span>. This is not a typo, the ship used to be called the *Azreal*, spelled wrong, but was later changed. ![Ambience of
+The **Azrael** shares the same interior as the [Abaddon]({{< ref "/wiki/" >}}Abaddon) and [Lucifer]({{< ref "/wiki/" >}}Lucifer), with a black, foggy hallway. At the front, there is a yellow glowing orb with electricity coming out of it, and in front of it there is yellow text that says <span style="color:#50e1f8">_"***SANCTION AZREAL ONLINE***"_</span>. This is not a typo, the ship used to be called the _Azreal_, spelled wrong, but was later changed. ![Ambience of
 the Azrael|none](HalloweenAmbienceII.mp4 "Ambience of the Azrael|none")
 
 ## Advantages
@@ -55,7 +55,7 @@ the Azrael|none](HalloweenAmbienceII.mp4 "Ambience of the Azrael|none")
 - It cannot support itself well without a fleet, so try staying in a fleet.
 - Avoid swarms of small, agile ships; your turrets aren't accurate enough to hit and destroy them, on top of your size and maneuverability making easy for the swarms to stay in your blind-spots. Bring support ships if possible to protect yourself.
 
-## Version History 
+## Version History
 
 - DPS lowered by 40% in version .66b
 - 3 [Large Cannons]({{< ref "/wiki/" >}}Spinals) and 3 [Large Phasers]({{< ref "/wiki/" >}}Spinals) changed to huge variants in version .69a2.

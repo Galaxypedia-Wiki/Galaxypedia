@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Retro-Ridgebreaker
+  - /wiki/Retro-Ridgebreaker
 categories:
-- Ships
-- Limited Ships
-- Dreadnoughts
-- Black Friday 2019
-- Capital Ships
-- Retro Ship Event 2019
-- Ultimate Retro Ship Event 2022
-- Siege Ships
-- PVP Ships
+  - Ships
+  - Limited Ships
+  - Dreadnoughts
+  - Black Friday 2019
+  - Capital Ships
+  - Retro Ship Event 2019
+  - Ultimate Retro Ship Event 2022
+  - Siege Ships
+  - PVP Ships
 title: Retro Ridgebreaker
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 ## Summary
 
@@ -44,7 +44,7 @@ Key Characteristics:
 - Best used as a part of organized fleet assaults against difficult to destroy, high-value [capital ships]({{< ref "/categories/" >}}capital-ships), as well as [sieging]({{< ref "/wiki/" >}}Sieging).
 - Avoid isolating yourself, as this ship is a high-value target and can easily be swarmed.
 
-## Version History 
+## Version History
 
 Version Changes Date (UTC)
 

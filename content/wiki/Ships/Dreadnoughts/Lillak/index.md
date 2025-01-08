@@ -1,23 +1,23 @@
 ---
 aliases:
-- /wiki/Lillak
+  - /wiki/Lillak
 categories:
-- Ships
-- Limited Ships
-- Dreadnoughts
-- PVP Ships
-- Support Ships
-- Capital Ships
+  - Ships
+  - Limited Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Support Ships
+  - Capital Ships
 title: Lillak
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **Lillak** is a Dreadnought that is part of the second stage of the [2021 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2021). 
+The **Lillak** is a Dreadnought that is part of the second stage of the [2021 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2021).
 
 ## Interior
 
@@ -49,7 +49,7 @@ The interior is a simple grey box with the seat in the center; It is located on 
 
 • Avoid shield breakers like the Sagittarius or the Crescendo.
 
-## Version History 
+## Version History
 
 - Explosion Size 200 ----> 845 .75a12
 

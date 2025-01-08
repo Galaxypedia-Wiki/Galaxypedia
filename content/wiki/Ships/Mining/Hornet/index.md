@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Hornet
+  - /wiki/Hornet
 categories:
-- Mining Ships
-- Ships
+  - Mining Ships
+  - Ships
 title: Hornet
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Hornet_** is a medium-small sized **[Miner-class ship]({{< ref "/categories/" >}}mining-ships)**. 
+The **_Hornet_** is a medium-small sized **[Miner-class ship]({{< ref "/categories/" >}}mining-ships)**.
 
 ## Description
 
@@ -41,7 +41,7 @@ The interior is simple. Upon entry of the tiny yellow control room, there is a s
 - Never mine during [Wars]({{< ref "/wiki/" >}}War).
 - Retreat to base if [War]({{< ref "/wiki/" >}}War) is declared.
 
-## Version History 
+## Version History
 
 - .61h1? - [Warp Drive]({{< ref "/wiki/" >}}Warp-Drive) added.
 - Received a remodel in version .65b.

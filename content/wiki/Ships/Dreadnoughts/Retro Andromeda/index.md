@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Retro-Andromeda
+  - /wiki/Retro-Andromeda
 categories:
-- Dreadnoughts
-- Limited Ships
-- PVP Ships
-- Ships
-- Retro Ship Event 2021
+  - Dreadnoughts
+  - Limited Ships
+  - PVP Ships
+  - Ships
+  - Retro Ship Event 2021
 title: Retro Andromeda
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Retro Andromeda_** is a replica of the original [Andromeda Model]({{< ref "/wiki/" >}}Andromeda) **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** added during the [Retro Ship Event 2021]({{< ref "/wiki/" >}}Retro-Ship-Event-2020). 
+The **_Retro Andromeda_** is a replica of the original [Andromeda Model]({{< ref "/wiki/" >}}Andromeda) **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** added during the [Retro Ship Event 2021]({{< ref "/wiki/" >}}Retro-Ship-Event-2020).
 
 ## Description
 
@@ -45,7 +45,7 @@ The interior of the **Retro Andromeda** consists of a sleek but simple corridor 
 - Use the long range of the Huge Spinals to outrange ships with low range such as the [Tempest]({{< ref "/wiki/" >}}Tempest).
 - Use it as you would use a [Jackal]({{< ref "/wiki/" >}}Jackal).
 
-## Version History 
+## Version History
 
 - Description changed in .73a3.
 - Cannon spinals increased from 7 to 10, Phaser spinals increased from 6 to 7, Cannon spinal Interval reduced to 0, Phaser spinal Interval reduced to 0.1, turn speed increased to 0.21 after the event ended.

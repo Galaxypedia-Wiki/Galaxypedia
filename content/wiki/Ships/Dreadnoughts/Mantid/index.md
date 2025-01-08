@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Mantid
+  - /wiki/Mantid
 categories:
-- Ships
-- Limited Ships
-- Dreadnoughts
-- Christmas Event 2021
-- Avellians= Ships and Stations
+  - Ships
+  - Limited Ships
+  - Dreadnoughts
+  - Christmas Event 2021
+  - Avellians= Ships and Stations
 title: Mantid
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The Mantid is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) from the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021). 
+The Mantid is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) from the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
 ## Description
 
@@ -50,7 +50,7 @@ The Interior is simplistic; there is one long hallway with a pilot's seat and he
 - Target ships that are large or sluggish, and if possible abuse their blindspots for the most effectiveness in PvP.
 - Stay where you are comfortable in fights: don't take risks, as being hulled can quickly spell doom for this ship.
 
-## Version History 
+## Version History
 
 - Mantid's cargo hold was at 0 but then changed to 200 in .75a1.
 - 8 Tiny Phasers and 8 Tiny Cannons changed to 2 Large Cannons, then currently 4 Huge Cannons in version .75a1.

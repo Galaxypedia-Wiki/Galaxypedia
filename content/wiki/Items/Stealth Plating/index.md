@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Stealth-Plating
+  - /wiki/Stealth-Plating
 categories:
-- Stealth Ships
-- Items
+  - Stealth Ships
+  - Items
 title: Stealth Plating
----## Description
+---
+
+## Description
 
 The **Stealth Plating** is a special item used to make [Stealth Ships.]({{< ref "/categories/" >}}stealth-ships)
 

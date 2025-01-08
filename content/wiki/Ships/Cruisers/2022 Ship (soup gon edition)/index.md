@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/2022-Ship-(soup-gon-edition)
+  - /wiki/2022-Ship-(soup-gon-edition)
 categories:
-- Ships
-- Cruisers
-- Christmas Event 2021
+  - Ships
+  - Cruisers
+  - Christmas Event 2021
 title: 2022 Ship (soup gon edition)
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_2022 Ship_** is a limited [**Cruiser**]({{< ref "/categories/" >}}cruisers) released during the [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
@@ -38,7 +38,7 @@ There is no interior, the seat where the pilot sits is located directly on top o
 
 - Use its comedic capabilities to make the enemy laugh in respect.
 
-## Version History 
+## Version History
 
 - Added on January 1st, 2022.
   - Redboxed later in the same day.

@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Permafrost
+  - /wiki/Permafrost
 categories:
-- Ships
-- Limited Ships
-- Christmas Event 2019
-- Destroyers
+  - Ships
+  - Limited Ships
+  - Christmas Event 2019
+  - Destroyers
 title: Permafrost
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Permafrost_** is a [**Destroyer-class**]({{< ref "/categories/" >}}destroyers) ship added during Galaxy's [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019). 
+The **_Permafrost_** is a [**Destroyer-class**]({{< ref "/categories/" >}}destroyers) ship added during Galaxy's [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
 ## Description
 
@@ -56,7 +56,7 @@ The interior is a small cockpit with a detailed, icy chair, and 2 control panels
 - Be wary when attacking ships larger than Dreadnoughts as their powerful weaponry could easily tear you apart.
 - Know when to retreat, this ship is very costly for its class and isn't worth losing.
 
-## Version History 
+## Version History
 
 - Permafrost health increased to 1000/1000, spinals upclassed to Small, turret damage and range adjusted, speed increased in version .72f
 

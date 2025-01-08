@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Spinal-Weaponry
-- /wiki/Spinals
+  - /wiki/Spinal-Weaponry
+  - /wiki/Spinals
 categories:
-- Weapons
-- Game Mechanics
+  - Weapons
+  - Game Mechanics
 title: Spinal Weaponry
----  
+---
 
-{{< notices/outdatedInfo >}} 
+{{< notices/outdatedInfo >}}
 
 **Spinal Weaponry, **informally **'Spinals',** are manual weapons that are found on most combat ships. **Spinals** can be classified into 3 types: *Phasers*, _Cannons_, *Torpedoes*.
 

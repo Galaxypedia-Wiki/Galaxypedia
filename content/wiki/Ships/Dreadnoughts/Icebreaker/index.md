@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Icebreaker
+  - /wiki/Icebreaker
 categories:
-- Ships
-- Dreadnoughts
-- Limited Ships
-- Reskins
-- Fourth of July 2021
+  - Ships
+  - Dreadnoughts
+  - Limited Ships
+  - Reskins
+  - Fourth of July 2021
 title: Icebreaker
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 ## Description
 
@@ -44,7 +44,7 @@ The Icebreaker's interior is a small black box with a teleporter and a very simp
 - Get under your opponents and try to get in the opponents blindspots.
 - Stay in a fleet allowing you to be defended by your teammates.
 
-## Version History 
+## Version History
 
 - Spinal counts swapped (3 Phasers, 2 Cannons to 3 Cannons, 2 Phasers) in version .72e4
 - Spinal count lowered from 3 cannons to two cannons in version .72e4

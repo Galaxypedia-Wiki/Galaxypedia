@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Toyota-AE85
+  - /wiki/Toyota-AE85
 categories:
-- Admin Ships
-- Ships
-- Removed From Game
+  - Admin Ships
+  - Ships
+  - Removed From Game
 title: Toyota AE85
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **Toyota (AE85)** is an [**Admin Ship**]({{< ref "/categories/" >}}admin-ships).
 
@@ -38,7 +38,7 @@ The **Toyota AE85**'s interior looks like a regular car interior. The pilot seat
 - Make every pilot jealous that you have a car in Galaxy.
 - Fly around at the speed of light dodging every laser that tries to hit you.
 
-## Version History 
+## Version History
 
 - Removed along with most of the **[Admin Ships]({{< ref "/categories/" >}}admin-ships)** in version .62a1.
 - Added back in .73a1, with a reduction to its maximum speed due to speed restrictions

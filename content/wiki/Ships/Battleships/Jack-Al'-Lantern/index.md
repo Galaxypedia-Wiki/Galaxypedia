@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Jack-Al'-Lantern
+  - /wiki/Jack-Al'-Lantern
 categories:
-- Ships
-- Limited Ships
-- Reskins
-- Battleships
-- Halloween 2020
-- Halloween 2022
+  - Ships
+  - Limited Ships
+  - Reskins
+  - Battleships
+  - Halloween 2020
+  - Halloween 2022
 title: Jack-Al'-Lantern
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Jack-Al'-Lantern_** is a powerful [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**Battleship**]({{< ref "/categories/" >}}battleships). 
+The **_Jack-Al'-Lantern_** is a powerful [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**Battleship**]({{< ref "/categories/" >}}battleships).
 
 ## Description
 
@@ -47,7 +47,7 @@ The interior of the **Jack-Al'-Lantern** is identical to its counterpart, except
 
 - Use this Ship's relatively small profile and high mobility to avoid fire and drift around the enemy.
 
-## Version History 
+## Version History
 
 - 3 [Huge Cannons]({{< ref "/wiki/" >}}Spinal-Weaponry) downsized to large variants in version .71b.
 - Large cannon count increased to 4 in version .72c20

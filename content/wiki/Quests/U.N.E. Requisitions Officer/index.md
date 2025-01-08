@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/U.N.E.-Requisitions-Officer
+  - /wiki/U.N.E.-Requisitions-Officer
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: U.N.E. Requisitions Officer
----**_U.N.E. Requisitions Officer_** is an NPC who offers powerful [U.N.E]({{< ref "/wiki/" >}}United-Nations-of-Earth) ships.
+---
+
+**_U.N.E. Requisitions Officer_** is an NPC who offers powerful [U.N.E]({{< ref "/wiki/" >}}United-Nations-of-Earth) ships.
 
 ## Description
 
@@ -13,11 +15,11 @@ The **U.N.E. Requisitions Officer** is a serious, efficient security officer who
 
 While not much is known about this specific NPC's background or personal history, their stern, professional demeanor and important custodial duties within the **U.N.E.** starbase's armory imply they are a disciplined, reliable, and essential member of this organization's infrastructure and security operations.
 
-Screenshot_1525.png Screenshot_1526.jpg Screenshot 1527.jpg Screenshot_(1521).png
+Screenshot*1525.png Screenshot_1526.jpg Screenshot 1527.jpg Screenshot*(1521).png
 
-## Ships For Sale 
+## Ships For Sale
 
-### [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) 
+### [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1)
 
 ### [Conqueror]({{< ref "/wiki/" >}}Conqueror)
 
@@ -31,7 +33,7 @@ Screenshot_1525.png Screenshot_1526.jpg Screenshot 1527.jpg Screenshot_(1521).pn
 
 The **U.N.E. Requisitions Officer** can be found at the [U.N.E]({{< ref "/wiki/" >}}United-Nations-of-Earth). Starbase. Their specific location is at the center of the starbase, situated between **Terminal B** and **Terminal C**, in a room designated as the "Armory".
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[U.N.E. Requisitions Officer]: " Looking to buy a ship? "</span>
 

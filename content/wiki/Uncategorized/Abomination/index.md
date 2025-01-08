@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Abomination
+  - /wiki/Abomination
 categories:
-- Ships
-- Capital Ships
-- Titans
+  - Ships
+  - Capital Ships
+  - Titans
 title: Abomination
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **L科科約科科約希吉科約希吉約希希吉科約希吉約希吉**, otherwise known as the **Abomination** is a [Titan]({{< ref "/categories/" >}}titans) class ship. 
+The **L科科約科科約希吉科約希吉約希希吉科約希吉約希吉**, otherwise known as the **Abomination** is a [Titan]({{< ref "/categories/" >}}titans) class ship.
 
 ## Description
 

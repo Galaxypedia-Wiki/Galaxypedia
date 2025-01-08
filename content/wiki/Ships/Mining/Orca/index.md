@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Orca
+  - /wiki/Orca
 categories:
-- Mining Ships
-- Ships
+  - Mining Ships
+  - Ships
 title: Orca
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **Orca** is a heavy [Miner]({{< ref "/categories/" >}}mining-ships)-Class ship. 
+The **Orca** is a heavy [Miner]({{< ref "/categories/" >}}mining-ships)-Class ship.
 
 ## Description
 
@@ -51,7 +51,7 @@ The Orca is one of the few Miners in the game to feature a proper interior. Feat
 - Find large ore fields to fill your ore hold quickly.
 - Warp away from aliens, as they sometimes chase you. If it is a Punisher, your best bet would be to rush back to your Starbase and despawn. The Starbase can finish it off, even if it is level 1.
 
-## Version History 
+## Version History
 
 - Explosion Damage nerfed in an unknown version without any further notice.
 - Explosion Damage nerfed even further in an unknown version without any further notice.

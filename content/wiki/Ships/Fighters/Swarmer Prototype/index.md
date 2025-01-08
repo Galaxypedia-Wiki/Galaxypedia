@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Swarmer-Prototype
+  - /wiki/Swarmer-Prototype
 categories:
-- Ships
-- Fighters
-- Support Ships
-- PVP Ships
-- Alien Ships and Stations
-- Galaxy Lore Pages
+  - Ships
+  - Fighters
+  - Support Ships
+  - PVP Ships
+  - Alien Ships and Stations
+  - Galaxy Lore Pages
 title: Swarmer Prototype
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Swarmer Prototype_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) and was the first player-operable Alien-built ship.
 
@@ -39,7 +39,7 @@ Like all fighter class ships, the **Swarmer Prototype** has little in the way of
 - _Swarm_ enemies and stay in their blind spots.
 - Distract large ships and destroy small ships with this ship while defending Myriad.
 
-## Version History 
+## Version History
 
 - Wings removed at some point due to model glitches.
 - Received a [Shields]({{< ref "/wiki/" >}}Shields) and [Hull]({{< ref "/wiki/" >}}Hull) buff in version .65b.

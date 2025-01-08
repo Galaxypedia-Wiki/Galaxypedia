@@ -1,24 +1,26 @@
 ---
 aliases:
-- /wiki/Kneall-Harbor-Master
+  - /wiki/Kneall-Harbor-Master
 categories:
-- NPCS
-- Quests
-- Limited Ships
+  - NPCS
+  - Quests
+  - Limited Ships
 title: Kneall Harbor Master
----The **Kneall Harbour Master** is the quest giver NPC for Quest #6 -- "Give Kneall Harbour Master 2 million credits for the [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2)." As made obvious by the quest title, the main function of the **Kneall Harbour Master** is to give players the [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2) through a quest it assigns. The **Kneall Harbour Master** has a similar appearance to the aliens found in the [Mega Base's]({{< ref "/wiki/" >}}Mega-Base) alien embassy. ![centre|thumb|720x720px]({{< ref "/wiki/" >}}Kneall-Harbor-Master.png-"centre|thumb|720x720px")
+---
+
+The **Kneall Harbour Master** is the quest giver NPC for Quest #6 -- "Give Kneall Harbour Master 2 million credits for the [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2)." As made obvious by the quest title, the main function of the **Kneall Harbour Master** is to give players the [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2) through a quest it assigns. The **Kneall Harbour Master** has a similar appearance to the aliens found in the [Mega Base's]({{< ref "/wiki/" >}}Mega-Base) alien embassy. ![centre|thumb|720x720px]({{< ref "/wiki/" >}}Kneall-Harbor-Master.png-"centre|thumb|720x720px")
 
 ## Location
 
 The **Kneall Harbor Master** can be found on the planet [Aqueous]({{< ref "/wiki/" >}}Aqueous) (level 3). A teleporter is located near a rock that spawns only if [Aqueous]({{< ref "/wiki/" >}}Aqueous) is at level 3 close to terminal D. Aqueous levels 1 and 2 contain alien characters that, if translated, reveal a more precise location. ![]({{< ref "/wiki/" >}}Aqueous-Alien-Text.png-"Aqueous-Alien-Text.png"){width="400" height="400"} ![]({{< ref "/wiki/" >}}Aqueouss3.png-"Aqueouss3.png"){width="400" height="400"}
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <u>Kneall Harbour Master:</u> "I see you know the language of the Ancients."
 
 <u>Player:</u> "Who are you?"
 
-<u>Kneall Harbour Master:</u> "I am the [Kneall Harbour Master]*"
+<u>Kneall Harbour Master:</u> "I am the [Kneall Harbour Master]\*"
 
 <u>Player:</u> "I've heard about your kind, you kill everyone."
 
@@ -46,7 +48,7 @@ The **Kneall Harbor Master** can be found on the planet [Aqueous]({{< ref "/wiki
 
 Q*uest #6 - "Prototype X-2 Quest" appears in Quest Menu*
 
-_*Actual quest text says "KNEALL HarbourMaster."_
+_\*Actual quest text says "KNEALL HarbourMaster."_
 
 "//" = _new line / chatbox_
 

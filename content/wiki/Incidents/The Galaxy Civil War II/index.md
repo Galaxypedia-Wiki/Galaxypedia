@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/The-Galaxy-Civil-War-II
-- /wiki/Enigma-Cache-Incident
+  - /wiki/The-Galaxy-Civil-War-II
+  - /wiki/Enigma-Cache-Incident
 categories:
-- Incidents
+  - Incidents
 title: The Galaxy Civil War II
----  
+---
 
-{{< notices/communityIncident >}} 
+{{< notices/communityIncident >}}
 
 The **Galaxy Civil War II**, also known as the **Enigma Cache Incident**, is known as the worst bug/mistake to have existed in Galaxy and the second biggest incident in Galaxy. Second only to the [Confinium Pay-to-win Incident]({{< ref "/wiki/" >}}Confinium-Pay-to-win-Incident).
 
@@ -66,7 +66,7 @@ A few days later, a **highly controversial rule was added saying that insults we
 
 ---
 
-After yet another period of peace and silence, [DylanTheVillan101]({{< ref "/wiki/" >}}DylanTheVillain101), a moderator at the time, was **demoted and banned** for quoting Jeffenator and editing the image to portray Jeff as a p*do. This led to **another riot in the community and a sweeping 30-minute slowmode lasting well over SIX hours.**
+After yet another period of peace and silence, [DylanTheVillan101]({{< ref "/wiki/" >}}DylanTheVillain101), a moderator at the time, was **demoted and banned** for quoting Jeffenator and editing the image to portray Jeff as a p\*do. This led to **another riot in the community and a sweeping 30-minute slowmode lasting well over SIX hours.**
 
 During this riot, people got very angry about the fact that Dylan was demoted and banned, people started to insult the staff and most of the Galaxy Community agreed that they lost the "last good moderator". This was said because Dylan was not nearly as disliked as SmokeyJoe38 and Jeffenator, as the both of them often gave very unreasonable moderations and were generally strict.
 
@@ -74,11 +74,9 @@ While Dylan was banned and the riot was ongoing, Sugondese, a well known member 
 
 The warning system at the time did not have a 30 day ban punishment listed in it - Sugons punishment **was actually an act of admin abuse** by purple.
 
-The image that got Dylan demoted and banned:
-![]({{< ref "/wiki/" >}}Jeffenator-image.png-"Jeffenator-image.png")
+The image that got Dylan demoted and banned: ![]({{< ref "/wiki/" >}}Jeffenator-image.png-"Jeffenator-image.png")
 
-The message that got Sugondese banned:
-![]({{< ref "/wiki/" >}}Sugonban.png-"Sugonban.png")
+The message that got Sugondese banned: ![]({{< ref "/wiki/" >}}Sugonban.png-"Sugonban.png")
 
 </div>
 

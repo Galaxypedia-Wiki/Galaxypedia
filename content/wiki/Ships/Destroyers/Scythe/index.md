@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Scythe
+  - /wiki/Scythe
 categories:
-- Destroyers
-- Support Ships
-- PVP Ships
-- Ships
-- Pirate Ships
+  - Destroyers
+  - Support Ships
+  - PVP Ships
+  - Ships
+  - Pirate Ships
 title: Scythe
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Scythe_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class ship commonly used as an interceptor against large targets getting jobs done fast. 
+The **_Scythe_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class ship commonly used as an interceptor against large targets getting jobs done fast.
 
 ##  Description
 
@@ -41,7 +41,7 @@ The **Scythe** has a small pass-through door in the back with a cross-brace over
 
 - Stay away from AA (point defence) ships such as the [Ampharos]({{< ref "/wiki/" >}}Ampharos) or [Tempest]({{< ref "/wiki/" >}}Tempest), whose armaments will easily destroy your **Scythe**.
 
-## Version History 
+## Version History
 
 - Explosion/docking fixed in version ??? (6/19/2018 & 3/26/2018)
 - Trails and appearance changed in version ??? (9/24/2018)

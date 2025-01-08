@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Stimulant-Centurion
+  - /wiki/Stimulant-Centurion
 categories:
-- NPC Ships
-- Ultimate Retro Ship Event 2022
-- Cruisers
-- Ships
+  - NPC Ships
+  - Ultimate Retro Ship Event 2022
+  - Cruisers
+  - Ships
 title: Stimulant Centurion
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-The **Stimulant Centurion** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Cruiser]({{< ref "/categories/" >}}cruisers) that spawned during the duration of the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022). 
+The **Stimulant Centurion** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Cruiser]({{< ref "/categories/" >}}cruisers) that spawned during the duration of the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022).
 
 ## Description
 

@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Festive-Kodiak
+  - /wiki/Festive-Kodiak
 categories:
-- Bosses
-- Christmas Event 2023
+  - Bosses
+  - Christmas Event 2023
 title: Festive Kodiak
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/removed >}}   
+{{< notices/removed >}}
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 ## Description
 

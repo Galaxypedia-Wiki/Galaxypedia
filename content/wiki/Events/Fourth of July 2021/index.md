@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Fourth-of-July-2021
+  - /wiki/Fourth-of-July-2021
 categories:
-- Events
+  - Events
 title: Fourth of July 2021
----<div class="TDiv">
+---
+
+<div class="TDiv">
 # Part 1
 
 The 2021 Fourth of July Event started around midnight (EST) on the Fourth of July. The initial release included an updated Mega Base skin and two new [Miner-class]({{< ref "/categories/" >}}mining-ships) ships. Later ship additions follow soon after. The ships added in this part of the event included:

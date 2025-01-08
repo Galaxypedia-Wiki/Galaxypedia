@@ -1,10 +1,9 @@
 ---
 aliases:
-- /wiki/White-Collar-Society
+  - /wiki/White-Collar-Society
 categories:
-- Clans
+  - Clans
 title: White Collar Society
----  
+---
 
-{{< notices/underConstruction >}} 
-
+{{< notices/underConstruction >}}

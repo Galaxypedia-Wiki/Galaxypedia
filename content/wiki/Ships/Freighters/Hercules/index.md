@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Hercules
+  - /wiki/Hercules
 categories:
-- Ships
-- Freighters
+  - Ships
+  - Freighters
 title: Hercules
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Hercules_** is a [**Freighter**]({{< ref "/categories/" >}}freighters) with the 5th highest cargo hold of all non-limited freighters currently in the game. 
+The **_Hercules_** is a [**Freighter**]({{< ref "/categories/" >}}freighters) with the 5th highest cargo hold of all non-limited freighters currently in the game.
 
 ## Description
 
@@ -45,7 +45,7 @@ The interior of the **Hercules** is contained inside a small room jutting up fro
 - Make sure to retreat to the nearest ally base if a war is declared on your faction.
 - You could use this to vulture swiftly and get out before pirates can get to you.
 
-## Version History 
+## Version History
 
 - The Hercules has had 3 remodels during its existence. The 1st and 2nd ones were the most similar, having the same fish-like design.
 - Buffed in .65b - Shield increased from 1500 to 2000, Cargo Hold increased from 1500 to 2750, price increased significantly. Also received a remodel.

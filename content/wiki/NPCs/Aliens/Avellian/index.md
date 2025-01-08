@@ -1,13 +1,15 @@
 ---
 aliases:
-- /wiki/Avellian
-- /wiki/The-Avellian-Armada
+  - /wiki/Avellian
+  - /wiki/The-Avellian-Armada
 categories:
-- Alien Ships and Stations
-- Galaxy Lore Pages
-- Avellians= Ships and Stations
+  - Alien Ships and Stations
+  - Galaxy Lore Pages
+  - Avellians= Ships and Stations
 title: Avellian
----![centre|thumb|432x432px|Flag of the
+---
+
+![centre|thumb|432x432px|Flag of the
 Avellians](AVELLIANFLAG.png "centre|thumb|432x432px|Flag of the Avellians") The Avellians are an alien race from the same species as the [Kneall]({{< ref "/wiki/" >}}Kneall) and [Slarfie]({{< ref "/wiki/" >}}Slarfie) but are a **Rogue**, split off from the 2 Mentioned Factions and are hostile to any Factions that isn't Avellian. They possess advanced technologies and powerful ships.
 
 Like the [Kneall]({{< ref "/wiki/" >}}Kneall), they are a vicious, warlike alien race that seeks to destroy every life, including the [Kneall]({{< ref "/wiki/" >}}Kneall), and played a major role in the [Christmas Event 2021]({{< ref "/wiki/" >}}Christmas-Event-2021), with [Kneall]({{< ref "/wiki/" >}}Kneall) Ships being replaced by their own ships like the [Shadowstrike]({{< ref "/wiki/" >}}Shadowstrike) or [Adversary]({{< ref "/wiki/" >}}Adversary).

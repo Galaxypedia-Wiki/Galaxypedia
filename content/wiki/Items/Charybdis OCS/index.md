@@ -1,13 +1,15 @@
 ---
 aliases:
-- /wiki/Charybdis-OCS
+  - /wiki/Charybdis-OCS
 categories:
-- Items
+  - Items
 title: Charybdis OCS
----The Charybdis OCS is an item acquired via the Charybdis OCS [quest]({{< ref "/wiki/" >}}Quests) and used to build the [Kraken]({{< ref "/wiki/" >}}Kraken) ![Location of the pirate tinkerer at
+---
+
+The Charybdis OCS is an item acquired via the Charybdis OCS [quest]({{< ref "/wiki/" >}}Quests) and used to build the [Kraken]({{< ref "/wiki/" >}}Kraken) ![Location of the pirate tinkerer at
 Derelict](<RobloxScreenShot20220205_183821641_(2)_(1).png> "Location of the pirate tinkerer at Derelict"){width="518" height="518"}
 
-## How to get aquire: 
+## How to get aquire:
 
 To get the Charybdis OCS you must travel to the [derelict station]({{< ref "/wiki/" >}}Derelict-Station) where a hole in the exterior of the station is located. Inside you will find the Pirate Tinkerer who will give you the quest. ![Pirate
 Tinkerer](RobloxScreenShot20220205_183830400.png "Pirate Tinkerer") You will need:
@@ -18,7 +20,7 @@ Tinkerer](RobloxScreenShot20220205_183830400.png "Pirate Tinkerer") You will nee
 - 1 Antimatter Shard
 - 10 plasma batteries
 
-## Quest Dialogue 
+## Quest Dialogue
 
 [Pirate tinkerer]: Hi
 

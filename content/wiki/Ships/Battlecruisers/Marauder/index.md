@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Marauder
+  - /wiki/Marauder
 categories:
-- Ships
-- Battlecruisers
-- PVP Ships
-- Pirate Ships
+  - Ships
+  - Battlecruisers
+  - PVP Ships
+  - Pirate Ships
 title: Marauder
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Marauder_**is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** designed to be well-rounded. 
+The **_Marauder_**is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** designed to be well-rounded.
 
 ## Description
 
@@ -41,7 +41,7 @@ The interior is simple, with a teleporter pad that takes you into a room that ha
 - Don't attack ships that have lots of small Turrets.
 - Avoid Shield breakers.
 
-## Version History 
+## Version History
 
 - Name fixed in .69d.
 - Rebalanced in .75a5.

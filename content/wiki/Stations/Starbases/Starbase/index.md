@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Starbase
+  - /wiki/Starbase
 categories:
-- Starbases
-- Game Mechanics
+  - Starbases
+  - Game Mechanics
 title: Starbase
----  
+---
 
-{{< notices/outdatedInfo >}} 
+{{< notices/outdatedInfo >}}
 
 _This page details faction-generated Starbases. For a general list of all starbase structures found in Galaxy, go to the [Starbase Category]({{< ref "/categories/" >}}starbases) page._ ![The
 current Starbase
@@ -17,41 +17,41 @@ Menu](Starbase_menu3.png "The current Starbase Menu"){width="336" height="336"} 
 
 **Starbases** serve as both the main target and main point of resistance during [Sieges]({{< ref "/wiki/" >}}Sieging). All **Starbases** have turrets, but higher-level **Starbases** are significantly more powerful. **Starbases** also generate [Fighters]({{< ref "/categories/" >}}fighters) that players can use to defend, with [Furies]({{< ref "/wiki/" >}}Starbase-Fury) at level 1 and 5, and [Starhunters]({{< ref "/wiki/" >}}Starhunter) at level 3. From most ranges, **Starbases** deal significant damage to both [Shield]({{< ref "/wiki/" >}}Shields) and [Hull]({{< ref "/wiki/" >}}Hull), but at long range, a **Starbase** generally deals less damage to Hull than to Shield (which is why many [Siege ships]({{< ref "/categories/" >}}siege-ships) like the [Ridgebreaker]({{< ref "/wiki/" >}}Ridgebreaker) have more Hull health).
 
-## Starbase Levels 
+## Starbase Levels
 
 A **Starbase** can be one of 5 levels. Higher levels increase the stats and capabilities of the **Starbase**. Increasing the **Starbase** level also allows higher classes of ships to be spawned - Please note that the player must also have spent a certain amount of time in-game, and Supercapitals can only be spawned in Endgame.
 
-### **Level One** 
+### **Level One**
 
 A newly created faction will start off with a level one **Starbase**. At this level, the **Starbase** has four docking ports and can only house four players. The **Starbase** is armed with 2 [Heavy Lasers]({{< ref "/wiki/" >}}Turrets) and 2 [Heavy Cannons]({{< ref "/wiki/" >}}Turrets) mounted to the bottom of the base, as well as 2 [Point Defense Lasers]({{< ref "/wiki/" >}}Turrets) and 2 [Medium Flak Cannons]({{< ref "/wiki/" >}}Turrets) mounted on top. A level one **Starbase** has 25,000 shield health and 25,000 hull health and it is vulnerable against sieges if not protected.
 
-### **Level Two** 
+### **Level Two**
 
 This is the second level for a **Starbase**. The **Starbase** must have 5,000 base credits and the upgrade can only be performed by the leader of the faction. Level two **Starbases** gain four more docking ports and a second level, which can be accessed by a teleporting elevator. They can house a maximum of six players. A level two **Starbase** has 30,000 shield health and 30,000 hull health. It also gains 4 [Medium Flak Cannons]({{< ref "/wiki/" >}}Turrets) and 4 [Point Defense Lasers]({{< ref "/wiki/" >}}Turrets) mounted on top and increases the explosion radius to 195. A level two starbase can protect itself against weak sieges.
 
 This **Starbase** level enables the spawning of [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) and [Carriers]({{< ref "/categories/" >}}carriers).
 
-### **Level Three** 
+### **Level Three**
 
 This _used_ to be the last upgrade level for a **Starbase**. The **Starbase** must have 5,000 base credits, 500 silicate, 100 carbon, and 100 iridium to be upgraded. In addition to being able to house up to eight players, this upgrade also adds regenerating [Starhunter]({{< ref "/wiki/" >}}Starhunter) [fighters]({{< ref "/categories/" >}}fighters) to a hangar in the middle of the Starbase. A level three **Starbase** has 39,000 shield health and 39,000 hull health. Additional armaments added are 4 [Heavy LR Lasers]({{< ref "/wiki/" >}}Turrets), 2 [Capital Cannons]({{< ref "/wiki/" >}}Turrets) and 2 [Capital Lasers]({{< ref "/wiki/" >}}Turrets) to the top and increases the explosion radius to 254. A level three **Starbase** might be able to stop a medium-sized fleet if protected with its [Furies]({{< ref "/wiki/" >}}Starbase-Fury) and [Starhunters]({{< ref "/wiki/" >}}Starhunter).
 
 This **Starbase** level enables the spawning of [Super Capitals]({{< ref "/categories/" >}}super-capital-ships).
 
-### **Level Four** 
+### **Level Four**
 
 As of version .61f, **Starbases** can be upgraded to level four. This upgrade level requires 10,000 base credits, 1,000 silicate, 250 carbon, and 250 iridium. This level adds another 750 health to both stats, bringing the total up to 54,600 shield health and 54,600 hull health. As of version .68b, this level also adds an additional level to the Starbase, as well as teleporters at each terminal, meaning a maximum of 12 ships can be docked at once. This level also upgrades the damage output, adding 4 [Point Defense Lasers]({{< ref "/wiki/" >}}Turrets) and 4 [Medium Flak Cannons]({{< ref "/wiki/" >}}Turrets), and increases the explosion radius to 330. A level four **Starbase** might be able to stop big sized sieges if the [Starbase Furies]({{< ref "/wiki/" >}}Starbase-Fury), [Starhunters]({{< ref "/wiki/" >}}Starhunter) and the protectors work with cooperation.
 
-### **Level Five** 
+### **Level Five**
 
 As of version .68b, alongside receiving a remodel, **Starbases** can be upgraded to level five. This upgrade level requires 15,000 base credits, 2,000 silicate, 500 carbon, and 500 iridium. This level adds another 750 health to both stats, leaving the base with a maximum of 81,900 Shield and 81,900 Hull health each. This level also adds one final floor to the base, giving it a maximum of 16 docking points, rounding out the symmetry of the base. This upgrade adds 4 [Capital Lasers]({{< ref "/wiki/" >}}Turrets), 4 [Medium Railguns]({{< ref "/wiki/" >}}Turrets) and one [Triple Capital Cannon]({{< ref "/wiki/" >}}Turrets) at the top of the Starbase, and increases the explosion radius to 429. In addition, another hangar containing four [Starbase Furies]({{< ref "/wiki/" >}}Starbase-Fury) is added, leaving the **Starbase** with a grand total of 8 [Starbase Furies]({{< ref "/wiki/" >}}Starbase-Fury) and 2 [Starhunters]({{< ref "/wiki/" >}}Starhunter) for defense. At this level, a **Starbase **is incredibly powerful, capable of fending off powerful siege fleets if all fighters are used.
 
-## Making a Starbase Wealthy 
+## Making a Starbase Wealthy
 
 Rich **Starbases** can keep up with the [Economy]({{< ref "/wiki/" >}}Economy) and quickly level up. **Starbases** usually struggle to stay above 9000 base credits, so if your **Starbase** can consistently stay above this mark, it may be considered "rich". There are various ways to make a Starbase wealthy.
 
 The recommended method is to set **Orange Restrictions** and to **Trade** a lot while there are no bosses, and when a boss spawns, use the **Combat Rewards** method below.
 
-### Dumping Ore ( Mining ) 
+### Dumping Ore ( Mining )
 
 This method is the slowest method but effective. It's required to do this method first in order to do a really fast method: **Trading.**
 
@@ -78,7 +78,7 @@ The process of trading includes mining and dumping your ore. This method require
 - Fly your ship to the **Starbase** you decided on.
 - Sell the materials.
 
-### Combat Rewards 
+### Combat Rewards
 
 This method is <u>very</u> effective. Just one attempt gets your starbase to level 4.
 
@@ -91,7 +91,7 @@ This method is <u>very</u> effective. Just one attempt gets your starbase to lev
 - Let the **Starbase** kill the enemies and the **Starbase** receive the combat reward for killing the enemies. This will vary depending on how many ships it has killed.
 - You can loot wreckages to get valuable loot. Especially boss ships, which will likely have [Plasma Batteries]({{< ref "/wiki/" >}}Plasma-Battery) or [Armor Scraps]({{< ref "/wiki/" >}}Armor-Scrap).
 
-### Trade Restrictions 
+### Trade Restrictions
 
 This [strategy]({{< ref "/wiki/" >}}Strategies) is common throughout the world of Galaxy, not to mention easy.
 

@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Prototype-X-5
+  - /wiki/Prototype-X-5
 categories:
-- Ships
-- Capital Ships
-- Support Ships
-- PVP Ships
-- Dreadnoughts
+  - Ships
+  - Capital Ships
+  - Support Ships
+  - PVP Ships
+  - Dreadnoughts
 title: Prototype X-5
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Prototype X-5_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) released during New Year's 2023. 
+The **_Prototype X-5_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) released during New Year's 2023.
 
 ## Description
 
@@ -40,7 +40,7 @@ There is a detailed hallway leading to a glowing sphere (pilot's seat) and a bun
 
 - There is no real strategy to using this ship, as there are no consequences to losing it given its free price. Attack anything and everything.
 
-## Version History 
+## Version History
 
 - Added .75a37
 

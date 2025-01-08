@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Ghost-of-Christmas-Death
+  - /wiki/Ghost-of-Christmas-Death
 categories:
-- Ships
-- Limited Ships
-- Reskins
-- Destroyers
-- PVP Ships
-- Support Ships
-- Christmas Event 2018
+  - Ships
+  - Limited Ships
+  - Reskins
+  - Destroyers
+  - PVP Ships
+  - Support Ships
+  - Christmas Event 2018
 title: Ghost of Christmas Death
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Ghost of Christmas Death_**is a redesign of the [Phantom]({{< ref "/wiki/" >}}Phantom) made for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018). 
+The **_Ghost of Christmas Death_**is a redesign of the [Phantom]({{< ref "/wiki/" >}}Phantom) made for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018).
 
 ## Description
 
@@ -40,7 +40,7 @@ The **Ghost of Christmas Death**has gotten a holiday-themed interior with a fir
 - Don't use it unless you want to lose it.
 - <s>Spread the Christmas spirit around in this ship with the power of memes.</s>
 
-## Version History 
+## Version History
 
 - Added in Version .65b.
 - Removed in version .75a37

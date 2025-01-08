@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Retro-Ship-Event-2019
+  - /wiki/Retro-Ship-Event-2019
 categories:
-- Events
-- Black Friday 2019
+  - Events
+  - Black Friday 2019
 title: Retro Ship Event 2019
----<div class="TDiv">
+---
+
+<div class="TDiv">
 
 # Description
 

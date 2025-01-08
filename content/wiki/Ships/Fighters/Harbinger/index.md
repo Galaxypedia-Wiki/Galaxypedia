@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Harbinger
+  - /wiki/Harbinger
 categories:
-- Fighters
-- Ships
-- Support Ships
+  - Fighters
+  - Ships
+  - Support Ships
 title: Harbinger
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Harbinger_** is a large **[Fighter]({{< ref "/categories/" >}}fighters)** spawned by the [Prometheus]({{< ref "/wiki/" >}}Prometheus). 
+The **_Harbinger_** is a large **[Fighter]({{< ref "/categories/" >}}fighters)** spawned by the [Prometheus]({{< ref "/wiki/" >}}Prometheus).
 
 ## Description 
 
@@ -39,7 +39,7 @@ The interior is simple, with a teleporter pad that takes you into a room that ha
 - Support your fleet or [Carrier]({{< ref "/categories/" >}}carriers) with these Battlecruiser-Fighter hybrids. You can easily destroy [Super Capital Ships]({{< ref "/categories/" >}}super-capital-ships) when used along with the **[Prometheus]({{< ref "/wiki/" >}}Prometheus)**. 
 - Stay with the **[Prometheus]({{< ref "/wiki/" >}}Prometheus)** and help defend it or help engage other targets. When all [Fighters]({{< ref "/categories/" >}}fighters) are used alongside the carrier, they form a very formidable sub-fleet (squadron).  
 
-## Version History  
+## Version History 
 
 - Added in version .66b along with the [Prometheus]({{< ref "/wiki/" >}}Prometheus).
 - Max Speed increased from 115 to 140, Turn speed increased from 0.3 to 0.39, and Acceleration increased from 20 to 30 in version .72f1.

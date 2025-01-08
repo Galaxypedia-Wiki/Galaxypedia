@@ -1,12 +1,14 @@
 ---
 aliases:
-- /wiki/Weapons-Part
+  - /wiki/Weapons-Part
 categories:
-- Items
+  - Items
 title: Weapons Part
----The [Weapons Part]({{< ref "/wiki/" >}}Weapons-Part) is an item acquired via the [Rev's Irresistable Offer]({{< ref "/wiki/" >}}Rev's-Irresistable-Offer) and used to build the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) and [Borealis]({{< ref "/wiki/" >}}Borealis). ![[Frion]({{< ref "/wiki/" >}}Frion)](Galaxy_Frion-Collins-NPC.png "Frion"){width="518" height="518"}
+---
 
-## How to get aquire: 
+The [Weapons Part]({{< ref "/wiki/" >}}Weapons-Part) is an item acquired via the [Rev's Irresistable Offer]({{< ref "/wiki/" >}}Rev's-Irresistable-Offer) and used to build the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) and [Borealis]({{< ref "/wiki/" >}}Borealis). ![[Frion]({{< ref "/wiki/" >}}Frion)](Galaxy_Frion-Collins-NPC.png "Frion"){width="518" height="518"}
+
+## How to get aquire:
 
 To find the vendor for **Weapons Part** you must go to [Frion]({{< ref "/wiki/" >}}Frion). Use the teleporter labeled "Reactor", then the one labeled "Garden". Behind a wall is another teleporter labled "Unknown" This will bring you to the cave with all of the NPCs. ![NPC:
 [Rev]({{< ref "/wiki/" >}}Rev)](Galaxy_Rev.png "NPC: Rev") You will need:
@@ -15,7 +17,7 @@ To find the vendor for **Weapons Part** you must go to [Frion]({{< ref "/wiki/" 
 - 10 [Armored Plating]({{< ref "/wiki/" >}}Armored-Plating)
 - 185,000 Credits
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Rev]: Yo</span>
 

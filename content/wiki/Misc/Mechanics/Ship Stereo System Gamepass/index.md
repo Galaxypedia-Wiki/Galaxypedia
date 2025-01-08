@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Ship-Stereo-System-Gamepass
+  - /wiki/Ship-Stereo-System-Gamepass
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Ship Stereo System Gamepass
----## Description
+---
+
+## Description
 
 The **Ship Stereo System Gamepass** is a retired Gamepass that is no longer obtainable. If you own the Gamepass and have a ship spawned you can use the /music [command]({{< ref "/wiki/" >}}Commands) to play any song (Must be a Roblox Song ID) with your ship as the audio source.
 

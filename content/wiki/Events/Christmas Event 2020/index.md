@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Christmas-Event-2020
+  - /wiki/Christmas-Event-2020
 categories:
-- Events
+  - Events
 title: Christmas Event 2020
----<div class="cardcontainer" style="font-size:15px; line-height:24px">
+---
+
+<div class="cardcontainer" style="font-size:15px; line-height:24px">
 
 Galaxy's 2020 Christmas Event is a holiday-themed event that follows in the footsteps of past Christmas events. This event had three main parts: the first saw some minor changes and the re-introduction of snowflakes; the second came with the introduction of new ships; the third added another new ship and some changes to [Aqueous]({{< ref "/wiki/" >}}Aqueous).
 

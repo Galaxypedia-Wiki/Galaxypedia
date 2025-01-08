@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Theseus-U
+  - /wiki/Theseus-U
 categories:
-- Ships
-- Support Ships
-- Quests
-- Capital Ships
-- U.N.E
+  - Ships
+  - Support Ships
+  - Quests
+  - Capital Ships
+  - U.N.E
 title: Theseus-U
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **Theseus-U** is a [U.N.E]({{< ref "/categories/" >}}u.n.e) [Quest]({{< ref "/categories/" >}}quests) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) released during the [Halloween Event 2023]({{< ref "/wiki/" >}}Halloween-Event-2023).
 
@@ -43,7 +43,7 @@ The ship's profile is well defined, aside from it being clad in turrets. Its eng
 - While doing excursions within the Rift, help out your other squadron members if they have weaker ships by tanking some damage for them.
 - If using the ship outside of the Rift, be mindful that others may target it as it is very valuable.
 
-## Version History 
+## Version History
 
 - Released in unknown version.
 

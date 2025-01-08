@@ -1,14 +1,16 @@
 ---
 aliases:
-- /wiki/Terminology
-- /wiki/Abbreviations
-- /wiki/Galaxy-Slang
-- /wiki/Galaxy-Terminology
+  - /wiki/Terminology
+  - /wiki/Abbreviations
+  - /wiki/Galaxy-Slang
+  - /wiki/Galaxy-Terminology
 categories:
-- Game Mechanics
-- Getting Started
+  - Game Mechanics
+  - Getting Started
 title: Terminology
----This page explains the different archetypes and terminologies of information related to Galaxy and the purpose of these terminologies, as well as some individual examples of ships, players .etc that fall into each one. Many of these terms are also used by experienced players as slang or shorthand to make strategizing more efficient.
+---
+
+This page explains the different archetypes and terminologies of information related to Galaxy and the purpose of these terminologies, as well as some individual examples of ships, players .etc that fall into each one. Many of these terms are also used by experienced players as slang or shorthand to make strategizing more efficient.
 
 These terms may be seen as Galaxy Jargon to new players, but they save lots of time when communicating an overall strategy.
 

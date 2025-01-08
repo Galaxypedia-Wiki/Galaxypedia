@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Nimitz
+  - /wiki/Nimitz
 categories:
-- Carriers
-- PVP Ships
-- Support Ships
-- Ships
-- Capital Ships
+  - Carriers
+  - PVP Ships
+  - Support Ships
+  - Ships
+  - Capital Ships
 title: Nimitz
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Nimitz_** is a unique **[Carrier]({{< ref "/categories/" >}}carriers)** that has a major emphasis on [Fighters]({{< ref "/categories/" >}}fighters) and their firepower.
 
@@ -59,7 +59,7 @@ The Fighter deck spans almost the entirety of the ship deck, with multiple fight
 - Warp in, release all your fighters and warp out as soon as you can to your nearest or strongest Starbase.
 - If you think your ship will be destroyed, Warp your ship away as **far as possible** from your own fleet or starbase as the nuke has a whopping radius of 12,500 studs, and if possible, you can warp to the enemy's fleet or starbase to bring the nuke there instead.
 
-## Version History 
+## Version History
 
 - Remodeled & Buffed on December 19, 2021. All fighters were removed from the game and new ones were introduced. Nimitz's hull went to 10,000 buffing the 8,000 it had before. The version this happened is to be believed .75a1.
 - Remodeled on March 24, 2018, and upscaled slightly on the 26th.
@@ -76,7 +76,7 @@ The Fighter deck spans almost the entirety of the ship deck, with multiple fight
 
 ## Trivia
 
-- It's old model is based on the*[**Nimitz**]({{< ref "/wiki/" >}}wikipedia:USS-Nimitz)**class supercarrier,*** from which it also gets its name.
+- It's old model is based on the\*[**Nimitz**]({{< ref "/wiki/" >}}wikipedia:USS-Nimitz)**class supercarrier,\*** from which it also gets its name.
 - It's 3rd model is based on the [Drake Kraken](https://starcitizen.fandom.com/wiki/Kraken) from [Star Citizen]({{< ref "/wiki/" >}}wikipedia:Star-Citizen).
 - The [Carrier]({{< ref "/categories/" >}}carriers) that carries the second most Fighter variants, at a count of 3, only beaten by the [Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship), at a count of 6.
 - One of three [Carriers]({{< ref "/categories/" >}}carriers) to have [Fighters]({{< ref "/categories/" >}}fighters) docked on the exterior of the [Carrier]({{< ref "/categories/" >}}carriers), the others being the [Frostfires]({{< ref "/wiki/" >}}Frostfire) from the [Hailstorm]({{< ref "/wiki/" >}}Hailstorm) and the [Hunters]({{< ref "/wiki/" >}}Hunter) from the [Executioner]({{< ref "/wiki/" >}}Executioner).
@@ -84,4 +84,4 @@ The Fighter deck spans almost the entirety of the ship deck, with multiple fight
 - In an older version of the Nimitz, some of the [former Fighters]({{< ref "/wiki/" >}}Interceptor) on the ship occasionally will bug out and will only do loop-de-loops when piloted.
 - The previous model had a Hydra symbol on one of the screens.
 
-RobloxScreenShot20190225 125657130.png|Model 2 Bridge RobloxScreenShot20190225 125648631.png|Model 2 Below Bridge RobloxScreenShot20190225 125630699.png|Model 2 Interior Nimitz-interior.png|Interior Kraken_Privateer_-_art_(4).jpg|Drake Kraken From Star Citizen.
+RobloxScreenShot20190225 125657130.png|Model 2 Bridge RobloxScreenShot20190225 125648631.png|Model 2 Below Bridge RobloxScreenShot20190225 125630699.png|Model 2 Interior Nimitz-interior.png|Interior Kraken*Privateer*-_art_(4).jpg|Drake Kraken From Star Citizen.

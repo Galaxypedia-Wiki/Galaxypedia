@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Dont-use-or-banned
+  - /wiki/Dont-use-or-banned
 categories:
-- Ships
+  - Ships
 title: Dont use or banned
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
-The **_dont_use_or_banned_** is an [**Admin**]({{< ref "/categories/" >}}admin-ships) "Supercapital" ship briefly released on June 27th, 2021. 
+The **_dont_use_or_banned_** is an [**Admin**]({{< ref "/categories/" >}}admin-ships) "Supercapital" ship briefly released on June 27th, 2021.
 
 ## Description
 
@@ -35,7 +35,7 @@ that it is meant to be Admin-only and that it is offsale.
 
 - ?
 
-## Version History 
+## Version History
 
 - No logged changes.
 

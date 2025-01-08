@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Loyalty
+  - /wiki/Loyalty
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Loyalty
----**_Loyalty_** affects the amount of damage that you do. The time needed to gain a certain **Loyalty** can be calculated with the following formula:
+---
+
+**_Loyalty_** affects the amount of damage that you do. The time needed to gain a certain **Loyalty** can be calculated with the following formula:
 
 y=45x(x-1)-20
 

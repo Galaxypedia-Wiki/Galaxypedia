@@ -1,25 +1,25 @@
 ---
 aliases:
-- /wiki/Kneall-Eradicator
+  - /wiki/Kneall-Eradicator
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
-- Capital Ships
-- Support Ships
-- PVP Ships
-- Super Capital Ships
-- Prototypes
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
+  - Capital Ships
+  - Support Ships
+  - PVP Ships
+  - Super Capital Ships
+  - Prototypes
 title: Kneall Eradicator
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/npcShip >}}   
+{{< notices/npcShip >}}
 
-{{< notices/prototypeShip >}} 
+{{< notices/prototypeShip >}}
 
 The **_Kneall Eradicator_** is an [**Alien**]({{< ref "/categories/" >}}alien-ships-and-stations) [AI]({{< ref "/categories/" >}}npc-ships) ship roughly equivalent to a [Prototype]({{< ref "/categories/" >}}prototypes).
 
@@ -40,6 +40,6 @@ The **Kneall Eradicator** is a [Kneall]({{< ref "/wiki/" >}}Kneall) [Prototype](
 
 - [Punisher Weapon Salvage]({{< ref "/wiki/" >}}Punisher-Weapon-Salvage) (1%)
 
-## Version History 
+## Version History
 
 ## Trivia

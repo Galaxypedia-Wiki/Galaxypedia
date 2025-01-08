@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Office-Chair
+  - /wiki/Office-Chair
 categories:
-- Ships
+  - Ships
 title: Office Chair
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
-The **Office Chair** is an [**Admin**]({{< ref "/categories/" >}}admin-ships) ship created by smallketchup82. 
+The **Office Chair** is an [**Admin**]({{< ref "/categories/" >}}admin-ships) ship created by smallketchup82.
 
 ## Description
 
@@ -38,7 +38,7 @@ There is no interior, its an office chair.
 - Tank during sieges with this.
 - Laugh at everyone around you.
 
-## Version History 
+## Version History
 
 - Ambience was changed in .75a3.
 

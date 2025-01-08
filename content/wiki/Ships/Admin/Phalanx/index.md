@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Phalanx
+  - /wiki/Phalanx
 categories:
-- Admin Ships
-- Ships
-- Removed From Game
+  - Admin Ships
+  - Ships
+  - Removed From Game
 title: Phalanx
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Phalanx_** was [oShadowWarrioro]({{< ref "/wiki/" >}}Galaxy-Staff)'s personal [**Admin Ship**]({{< ref "/wiki/" >}}:category:admin).
 
@@ -37,7 +37,7 @@ The **Phalanx** was the Personal Admin Ship of [oShadowWarrioro]({{< ref "/wiki/
 - Dodge [Spinals]({{< ref "/wiki/" >}}Spinals) with grace with its abnormal turn rate.
 - Tank all damage with its absurd shield health.
 
-## Version History 
+## Version History
 
 - It's health used to be overpowered until V6, having had 260,000 before getting nerfed to 5000/5000, before getting another buff with the V8 Model that gave it 900,000.
 - The previous designs of this ship were the Ares, U.S.S. Enterprise (Star Trek: ToS), ASF Shiden II, and U.S.S. Vengeance (Star Trek: Into Darkness)

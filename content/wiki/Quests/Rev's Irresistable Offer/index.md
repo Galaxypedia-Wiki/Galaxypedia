@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Rev's-Irresistable-Offer
+  - /wiki/Rev's-Irresistable-Offer
 categories:
-- Quests
-- NPCS
+  - Quests
+  - NPCS
 title: Rev's Irresistable Offer
----## Description
+---
+
+## Description
 
 **"Rev's Irresistable Offer"** is a [quest]({{< ref "/wiki/" >}}Quests) that gives the item [Weapons Part]({{< ref "/wiki/" >}}Weapons-Part) used to make extremely powerful ships.
 
@@ -21,7 +23,7 @@ The Items that the quest needs to build the [Weapons Part]({{< ref "/wiki/" >}}W
 
 Rev can be found in the lower interior of [Frion]({{< ref "/wiki/" >}}Frion) near the cliff that [Collins]({{< ref "/wiki/" >}}Collins) stands on. As was the case with [Collins]({{< ref "/wiki/" >}}Collins), this quest may only be accessed once Frion is upgraded to level two, which enables a teleporter near the top tower that takes players to the interior space below the main starbase/spawning zone.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Rev]: "YO"
 

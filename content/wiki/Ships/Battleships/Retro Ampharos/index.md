@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Retro-Ampharos
+  - /wiki/Retro-Ampharos
 categories:
-- Ships
-- Battleships
-- Ultimate Retro Ship Event 2022
-- Support Ships
-- Capital Ships
-- Limited Ships
+  - Ships
+  - Battleships
+  - Ultimate Retro Ship Event 2022
+  - Support Ships
+  - Capital Ships
+  - Limited Ships
 title: Retro Ampharos
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Retro Ampharos_** is the retro version of the [Ampharos]({{< ref "/wiki/" >}}Ampharos), a very powerful pest control [Battleship]({{< ref "/categories/" >}}battleships), introduced in the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022).
 
@@ -46,7 +46,7 @@ TBA
 - Never travel alone and travel with a trusted guard.
 - Take on carriers with another capital ship to take on the carrier while you target the fighters from the carrier.
 
-## Version History 
+## Version History
 
 TBA
 

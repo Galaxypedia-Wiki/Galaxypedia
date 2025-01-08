@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Cyber-Prototype-X-1
-- /wiki/Varkonia
+  - /wiki/Cyber-Prototype-X-1
+  - /wiki/Varkonia
 categories:
-- Ships
+  - Ships
 title: Cyber Prototype X-1
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
-The **_Cyber Prototype X-1_** is an [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) created for ex-developer and Translation Manager Miru. 
+The **_Cyber Prototype X-1_** is an [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) created for ex-developer and Translation Manager Miru.
 
 ## Description
 
@@ -40,9 +40,9 @@ Identical to the X-1 interior, although there are a few hitbox differences. Iden
 - Use this to spectate battles as you can tank for a very long time.
 - <s>MAKE PEOPLE'S EARS BLEED</s>
 
-## Version History 
+## Version History
 
-- Name changed from ***Varkonia**'' to***Cyber Prototype X-1**'' in (unknown version please add).
+- Name changed from **\*Varkonia**'' to**\*Cyber Prototype X-1**'' in (unknown version please add).
 
 ## Trivia
 

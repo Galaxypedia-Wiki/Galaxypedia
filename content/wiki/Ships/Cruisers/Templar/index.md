@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Templar
+  - /wiki/Templar
 categories:
-- Ships
-- Cruisers
+  - Ships
+  - Cruisers
 title: Templar
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Templar_** is a cheap, turret-focused defense [**Cruiser**]({{< ref "/categories/" >}}cruisers).
 
@@ -34,7 +34,7 @@ The **Templar** has no interior. An invisible teleporter puts the player into a 
 - Use this ship in a siege to ward off Frigates, Destroyers, or Fighters when you don't have enough loyalty for more powerful options.
 - Stay below enemy [Ships]({{< ref "/wiki/" >}}Ships) to maximize turret line-of-sight.
 
-## Version History 
+## Version History
 
 - Received a remodel in version .67c
 - Team colors fixed in version .68e.

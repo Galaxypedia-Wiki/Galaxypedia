@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Derelict-Station
+  - /wiki/Derelict-Station
 categories:
-- Starbases
-- Quests
+  - Starbases
+  - Quests
 title: Derelict Station
----## Description
+---
+
+## Description
 
 The **Derelict Station** is a [starbase]({{< ref "/wiki/" >}}starbase) that was added during the [Galaxy Star Wars Event]({{< ref "/wiki/" >}}Galaxy-Star-Wars-Event) update. You could obtain the [Galactic Sun Hat](https://www.roblox.com/catalog/566778868/Galactic-Sun-Hat) and the Going Nuclear badge (now called Complete Quest 2) by delivering 20 [Uranium Ore]({{< ref "/wiki/" >}}Ores) to the station. Before public release of the [Galaxy Star Wars Event]({{< ref "/wiki/" >}}Galaxy-Star-Wars-Event), there used to be a button in the [starbase]({{< ref "/wiki/" >}}starbase) menu labeled **DO NOT PRESS.** If you selected that option, the station would blow up after a short amount of time. The **Derelict Station** has an explosive radius of 100. It can be upgraded once to Level 2.
 
@@ -13,7 +15,7 @@ The **Derelict Station** is a [starbase]({{< ref "/wiki/" >}}starbase) that was 
 
 The **Derelict Station** has only 4 terminals, the same amount as a level 1 [Starbase]({{< ref "/wiki/" >}}Starbase). The interior is mostly small with 2 hallways going to different rooms in the station, each connected to terminals. There is a quarters that players may spawn in with some knocked over chairs and tables. Near some of the terminals are green and purple teleporters that lead to the other side of the [Starbase]({{< ref "/wiki/" >}}Starbase).
 
-## Version History 
+## Version History
 
 - **Derelict Station** received a remodel in version .66b. It shared many of the same features, but was made more detailed than the original.
 - Became the home to one of many optional player quests added in version .66b

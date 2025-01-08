@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Thrust-Component
+  - /wiki/Thrust-Component
 categories:
-- Items
+  - Items
 title: Thrust Component
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 ## Description
 

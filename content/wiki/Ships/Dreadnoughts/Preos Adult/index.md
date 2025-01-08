@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Preos-Adult
-- /wiki/Plagued-Preos-Adult
+  - /wiki/Preos-Adult
+  - /wiki/Plagued-Preos-Adult
 categories:
-- Ships
-- Dreadnoughts
+  - Ships
+  - Dreadnoughts
 title: Preos Adult
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Preos Adult_** is the final stage of the [Preos Egg]({{< ref "/wiki/" >}}Preos-Egg)'s evolution questline, added in the [Halloween Event 2021]({{< ref "/categories/" >}}halloween-2021). It resembles the [Plagued Preos Adult]({{< ref "/wiki/" >}}Plagued-Preos-Adult) boss, which was required to be killed in order to make this ship.
 
@@ -43,7 +43,7 @@ The interior is identical to the interiors of the previous Preos ships: a purple
 - Avoid smaller ships, as your inaccurate turrets will be unable to hit them.
 - Pair up with a shield-breaker to maximize your combat effectivity.
 
-## Version History 
+## Version History
 
 - Spinals moved towards the center .75a12
 - Removed in version .75a37

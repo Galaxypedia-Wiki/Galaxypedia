@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/A---Bruiser
+  - /wiki/A---Bruiser
 categories:
-- Ships
-- Fighters
-- PVP Ships
-- Alien Ships and Stations
-- Support Ships
+  - Ships
+  - Fighters
+  - PVP Ships
+  - Alien Ships and Stations
+  - Support Ships
 title: A - Bruiser
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 _This article describes the fighter, not an actual NPC vessel. For the NPC with the same model, see [Bruiser]({{< ref "/wiki/" >}}Bruiser)._
 
@@ -50,7 +50,7 @@ The **<u>Interior</u>** is nonexistent and the pilot seat is instead, at the bac
 - Can fight both small and capital ships efficiently.
 - Focus on swarming and destroying [AA]({{< ref "/categories/" >}}aa) ships like the [Ampharos]({{< ref "/wiki/" >}}Ampharos) or [Hyron]({{< ref "/wiki/" >}}Hyron) first, as they will shred you if left alone.
 
-## Version History 
+## Version History
 
 - Added in version .75a10
 - Health nerfed to 200/100 until the duration of the ongoing [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event) in version .75a10

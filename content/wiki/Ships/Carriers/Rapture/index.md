@@ -1,18 +1,17 @@
 ---
 aliases:
-- /wiki/Rapture
+  - /wiki/Rapture
 categories:
-- Ships
-- Capital Ships
-- Carriers
-- Siege Ships
+  - Ships
+  - Capital Ships
+  - Carriers
+  - Siege Ships
 title: Rapture
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Rapture_** is a [Siege]({{< ref "/wiki/" >}}Sieging)-focused [**Carrier**]({{< ref "/categories/" >}}carriers)with Medium and Heavy [Turrets]({{< ref "/wiki/" >}}Turrets).
-_Not to be confused with the [Raptor]({{< ref "/wiki/" >}}Raptor)_ 
+The **_Rapture_** is a [Siege]({{< ref "/wiki/" >}}Sieging)-focused [**Carrier**]({{< ref "/categories/" >}}carriers)with Medium and Heavy [Turrets]({{< ref "/wiki/" >}}Turrets). _Not to be confused with the [Raptor]({{< ref "/wiki/" >}}Raptor)_
 
 ## Description
 
@@ -57,7 +56,7 @@ The bridge contains a big screen in front of the pilot's seat and a clear floor 
 - If you are far enough away, you can snipe people at ungodly ranges.
 - Use this ship's high alpha damage to decimate smaller [Freighters]({{< ref "/categories/" >}}freighters) or [Miners]({{< ref "/categories/" >}}mining-ships), since those have low resistance to damage.
 
-## Version history 
+## Version history
 
 - Health increased from 6000/6750 to 6500/9000, 2 [Heavy Lasers]({{< ref "/wiki/" >}}Turrets) replaced with 2 [Heavy Point Defense Lasers]({{< ref "/wiki/" >}}Turrets) in version .68d.
 - Heavy Point Defense Lasers replaced with Heavy LR Lasers, 2 Medium Railguns replaced with 2 Heavy Railguns, shield increased from 6500 to 7500 in version .73b3

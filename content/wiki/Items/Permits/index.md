@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Permits
-- /wiki/SC-Build-Permit
+  - /wiki/Permits
+  - /wiki/SC-Build-Permit
 categories:
-- Game Mechanics
-- Items
+  - Game Mechanics
+  - Items
 title: Permits
----  
+---
 
-{{< notices/removed >}} 
+{{< notices/removed >}}
 
 Permits were removed in favor of a different method. This method only allowing users to rebuild the limiteds that they lost after this update, version .77c22
 

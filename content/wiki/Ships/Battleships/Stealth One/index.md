@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Stealth-One
+  - /wiki/Stealth-One
 categories:
-- Ships
-- Battleships
-- Stealth Ships
+  - Ships
+  - Battleships
+  - Stealth Ships
 title: Stealth One
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Stealth One_** is a Stealth **[Battleship]({{< ref "/categories/" >}}battleships)** and the first ship of its class.
 
@@ -52,7 +52,7 @@ This ship has a somewhat large interior that can only be seen from inside, or ba
 - Use the high firepower on this ship to assault, chase down and finish off vulnerable or isolated capital ships.
 - Whenever you must make an escape from combat however, warp far into empty space _(but not near the map borders)_ to make your position unpredictable to any enemies that may try to chase you. Note that this strategy may not work well if there is a spy on your team.
 
-## Version History 
+## Version History
 
 - In an unknown version the cost was raised from 10 stealth plating to 15 stealth plating.
 - Now has 80% drift .75a12

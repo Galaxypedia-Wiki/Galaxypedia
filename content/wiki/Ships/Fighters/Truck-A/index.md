@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Truck-A
+  - /wiki/Truck-A
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Truck-A
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 **Truck-A** is a fighter disguised as a normal truck on Pyramus.
 
@@ -24,7 +24,7 @@ The **Truck-A** is designed to closely resemble a [M35 series](https://en.wikipe
 - No warp drive.
 - All of its DPS relies on spinals, meaning the pilot needs to know how to utilize spinals to unlock this ship's combat capabilities.
 
-# Version History 
+# Version History
 
 Added on version .75
 

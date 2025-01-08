@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Valkerac
+  - /wiki/Valkerac
 categories:
-- Halloween 2021
-- Battlecruisers
-- Ships
-- Limited Ships
+  - Halloween 2021
+  - Battlecruisers
+  - Ships
+  - Limited Ships
 title: Valkerac
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Valkerac_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021). 
+The **_Valkerac_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021).
 
 ## Description
 
@@ -41,7 +41,7 @@ None.
 - The Valkerac is just a tankier [Zhen]({{< ref "/wiki/" >}}Zhen) with less speed and cargohold
 - Use the Karaclaves to take down an enemy's shields, then the Medium Cannons to finish them off
 
-## Version History 
+## Version History
 
 - Fixed an issue where you would fall off when going in/out of it .75a12
 

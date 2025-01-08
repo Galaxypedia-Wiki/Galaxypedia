@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Mjolnheimr
+  - /wiki/Mjolnheimr
 categories:
-- Ships
-- Support Ships
-- PVP Ships
-- Battlecruisers
-- Pirate Ships
+  - Ships
+  - Support Ships
+  - PVP Ships
+  - Battlecruisers
+  - Pirate Ships
 title: Mjolnheimr
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The'Mjolnheimr***is a** [Battlecruiser]({{< ref "/wiki/" >}}:category:battlecruiser)**based on the [Slipstream]({{< ref "/wiki/" >}}Slipstream)**.*' 
+The'Mjolnheimr**\*is a** [Battlecruiser]({{< ref "/wiki/" >}}:category:battlecruiser)**based on the [Slipstream]({{< ref "/wiki/" >}}Slipstream)**.\*'
 
 ##  Description
 
@@ -42,7 +42,7 @@ The cockpit is quite simple, only having a few basic details.
 - Due to the low range of most of its Turrets, you have to get close or you won't be able to use all of them.
 - Good for countering [Carriers]({{< ref "/categories/" >}}carriers) because it can quickly kill most [Fighters]({{< ref "/categories/" >}}fighters).
 
-## Version History 
+## Version History
 
 - Rebalanced in .75a5.
 - Received 2 [Gatling Lasers]({{< ref "/wiki/" >}}Turrets) and 1 [Gatling Cannon]({{< ref "/wiki/" >}}Turrets) to replace 2 [Light Lasers]({{< ref "/wiki/" >}}Turrets) and 1 [Light Cannon]({{< ref "/wiki/" >}}Turrets) in .64d, as well as 200 more hull.

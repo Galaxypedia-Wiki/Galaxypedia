@@ -1,25 +1,25 @@
 ---
 aliases:
-- /wiki/3D-Printed-Warlock
+  - /wiki/3D-Printed-Warlock
 categories:
-- Limited Ships
-- Reskins
-- PVP Ships
-- Siege Ships
-- All-Rounder Ships
-- Ships
-- Capital Ships
-- Promotion/Raffles
-- Battleships
-- Hull breakers
+  - Limited Ships
+  - Reskins
+  - PVP Ships
+  - Siege Ships
+  - All-Rounder Ships
+  - Ships
+  - Capital Ships
+  - Promotion/Raffles
+  - Battleships
+  - Hull breakers
 title: 3D Printed Warlock
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/outdatedInfo >}}   
+{{< notices/outdatedInfo >}}
 
-{{< notices/premiumShip >}} 
+{{< notices/premiumShip >}}
 
 The **_3D Printed Warlock_** is a unique reskin of the **[Battleship-Class]({{< ref "/categories/" >}}battleships)** ship "[Warlock]({{< ref "/wiki/" >}}Warlock)."
 
@@ -55,7 +55,7 @@ There is a small teleporter pad that leads to a hallway stretching nearly the en
 - **DO NOT** use as an everyday ship for battling as you might lose it.
 - During a battle, try to keep your distance.
 
-## Version History 
+## Version History
 
 - Received a class promotion and health nerf in .65b2? that advanced the ship to the [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) class but lowered [Hull]({{< ref "/wiki/" >}}Hull) and [Shields]({{< ref "/wiki/" >}}Shields) to 4750 each. Later, its class was returned to Battleship again.
 - Remodeled in version .66k.

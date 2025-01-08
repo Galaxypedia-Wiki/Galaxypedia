@@ -1,24 +1,24 @@
 ---
 aliases:
-- /wiki/Blood-Wing
+  - /wiki/Blood-Wing
 categories:
-- Ships
-- Limited Ships
-- Reskins
-- Support Ships
-- Pirate Ships
-- Halloween 2017
-- PVP Ships
-- Battlecruisers
-- Black Friday 2019
+  - Ships
+  - Limited Ships
+  - Reskins
+  - Support Ships
+  - Pirate Ships
+  - Halloween 2017
+  - PVP Ships
+  - Battlecruisers
+  - Black Friday 2019
 title: Blood Wing
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Blood Wing_** is a limited edition ship for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017). 
+The **_Blood Wing_** is a limited edition ship for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).
 
 ## Description
 
@@ -66,7 +66,7 @@ You walk to the left and than you see a black black pilot seat
 
 - Utilise your high turn speed in order to exploit blind spots and unleash hell against your enemies. 
 
-## Version History 
+## Version History
 
 - Received buffs in .60d that boosted Shields by 500 and Hull by 600.
 

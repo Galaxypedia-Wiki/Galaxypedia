@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Luca-Sky
+  - /wiki/Luca-Sky
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Luca Sky
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 ![Luca Sky inside [Mega
 Base](Mega_Base "wikilink")](Luca_sky.png "Luca Sky inside Mega Base") **_Luca Sky_** is a Quest NPC added during the [**Galaxy Star Wars Event**]({{< ref "/wiki/" >}}Galaxy-Star-Wars-Event) alongside [**Billy Ray Joe**]({{< ref "/wiki/" >}}Billy-Ray-Joe).
@@ -24,7 +24,7 @@ Quests number 1 and 2 were disabled later on, though their respective quest NPCs
 
 **Luca Sky** can be found inside the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) between terminals C and D, beside the Alien translation board and in front of an ad display board.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <u>Luca Sky</u>: "Oh this is terrible! Someone please help me!"
 

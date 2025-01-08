@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗
+  - /wiki/An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗
 title: An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/removed >}} 
+{{< notices/removed >}}
 
 The An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗ is a Halloween Event 2022 AI Ship.
 

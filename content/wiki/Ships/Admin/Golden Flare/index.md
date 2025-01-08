@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Golden-Flare
+  - /wiki/Golden-Flare
 categories:
-- Admin Ships
-- Ships
-- Removed From Game
+  - Admin Ships
+  - Ships
+  - Removed From Game
 title: Golden Flare
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Golden Flare_** is an **[Admin Ship]({{< ref "/categories/" >}}admin-ships)** modeled after the [Black Flare]({{< ref "/wiki/" >}}Black-Flare).
 
@@ -37,7 +37,7 @@ The **Golden Flare**shares the same base design as the old model of the [Black F
 - Show off this awesome ship and make everyone jealous.
 - Zoom around dodging every laser volley that is fired at you.
 
-## Version History 
+## Version History
 
 - Removed along with most of the **[Admin Ships]({{< ref "/categories/" >}}admin-ships)** in version .62a1.
 

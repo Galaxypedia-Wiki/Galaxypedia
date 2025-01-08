@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Advanced-Miner
+  - /wiki/Advanced-Miner
 categories:
-- Ships
-- Mining Ships
+  - Ships
+  - Mining Ships
 title: Advanced Miner
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Advanced Miner_**is a relatively cheap **[Miner]({{< ref "/categories/" >}}mining-ships)** class ship with four [Small Mining Lasers]({{< ref "/wiki/" >}}Turrets).
 
@@ -37,7 +37,7 @@ The interior of the **Advanced Miner** is a small cockpit with a glass dome cove
 - Always mine in a faction that is not at [War]({{< ref "/wiki/" >}}War) with anyone so you can make sure you will be safe.
 - Stay near your base so that you can make it back quickly if someone declares War.
 
-## Version History 
+## Version History
 
 - Warp drive added in an unknown version (.61h1?)
 - Alongside the [Harvester]({{< ref "/wiki/" >}}Harvester), this ship was put off sale in version .75a10.

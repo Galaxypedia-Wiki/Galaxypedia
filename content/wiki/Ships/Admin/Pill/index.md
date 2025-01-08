@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Pill
+  - /wiki/Pill
 categories:
-- Admin Ships
-- Ships
-- Removed From Game
+  - Admin Ships
+  - Ships
+  - Removed From Game
 title: Pill
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Pill_** was O_Zumi's personal **[Admin Ship]({{< ref "/wiki/" >}}:category:admin)**.
 
@@ -35,7 +35,7 @@ The **Pill** does not need an interior to fly.
 
 - Go fast.
 
-## Version History 
+## Version History
 
 - Removed along with most of the **[Admin Ships]({{< ref "/categories/" >}}admin-ships)** in version .62a1.
 

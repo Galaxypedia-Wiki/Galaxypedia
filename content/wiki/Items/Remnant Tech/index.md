@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Remnant-Tech
+  - /wiki/Remnant-Tech
 categories:
-- Event Items
-- Halloween 2022
+  - Event Items
+  - Halloween 2022
 title: Remnant Tech
----The **Remnant Tech** is an [Event Item]({{< ref "/categories/" >}}event-items) used for making [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022) ships via [Quests]({{< ref "/categories/" >}}quests).
+---
+
+The **Remnant Tech** is an [Event Item]({{< ref "/categories/" >}}event-items) used for making [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022) ships via [Quests]({{< ref "/categories/" >}}quests).
 
 Remnant Techs can only be obtained by looting powerful NPC ships, which only spawn in public servers.
 
@@ -31,9 +33,9 @@ Ship Amount
 
 ## Quests
 
-### Spooky Item Trade 
+### Spooky Item Trade
 
-**Requires:** 10 Remnant Techs. **Reward:** ??? Credits.  "AvHunterr" is the [NPC]({{< ref "/categories/" >}}npcs) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #-32423491212.
+**Requires:** 10 Remnant Techs. **Reward:** ??? Credits. "AvHunterr" is the [NPC]({{< ref "/categories/" >}}npcs) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #-32423491212.
 
 **Dialogue:**
 

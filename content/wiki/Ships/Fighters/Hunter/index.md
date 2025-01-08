@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Hunter
+  - /wiki/Hunter
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Hunter
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Hunter_** is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)-[Fighter]({{< ref "/categories/" >}}fighters)** hybrid carried by the [Executioner]({{< ref "/wiki/" >}}Executioner). 
+The **_Hunter_** is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)-[Fighter]({{< ref "/categories/" >}}fighters)** hybrid carried by the [Executioner]({{< ref "/wiki/" >}}Executioner).
 
 ## Description
 
@@ -38,7 +38,7 @@ Similar to the [Vansnova]({{< ref "/wiki/" >}}Vansnova), it has no interior
 - Deal as much damage as possible while your carrier warps out.
 - Stay in battle for as long as possible, and nuke the fighter when your health gets low.
 
-## Version History 
+## Version History
 
 - Buffed in an unknown version
 - Turret loadout changed: 1 Medium Cannon, 2 Light Lasers -> 2 Light Cannons, 2 Light Lasers .75a12

@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/MLMLRS
-- /wiki/MRLS-Launcher-Launcher
+  - /wiki/MLMLRS
+  - /wiki/MRLS-Launcher-Launcher
 categories:
-- Ships
-- Battlecruisers
+  - Ships
+  - Battlecruisers
 title: MLMLRS
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_MLMLRS_** is a joke [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) released during the [April Fool's Event 2022]({{< ref "/wiki/" >}}April-Fool's-Event-2022). 
+The **_MLMLRS_** is a joke [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) released during the [April Fool's Event 2022]({{< ref "/wiki/" >}}April-Fool's-Event-2022).
 
 ## Description
 
@@ -42,7 +42,7 @@ This ship doesn't have much of an interior, featuring just a small cockpit in th
 - Go near targets for more accurate Torpedo hits.
 - Try to siege hulled bases with this ship from 9k away with the torpedo's.
 
-## Version History 
+## Version History
 
 - Added for the [April Fool's Event 2022]({{< ref "/wiki/" >}}April-Fool's-Event-2022) on March 31st.
 - Nerfed after the [April Fool's Event 2022]({{< ref "/wiki/" >}}April-Fool's-Event-2022) ended, losing its massive spinal count and downgrading its 4 Large Torpedoes to 4 Tiny Torpedoes.

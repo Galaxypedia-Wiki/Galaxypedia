@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Patriotic-Defiance
+  - /wiki/Patriotic-Defiance
 categories:
-- Ships
-- Destroyers
-- Limited Ships
-- Fourth of July 2019
-- Reskins
+  - Ships
+  - Destroyers
+  - Limited Ships
+  - Fourth of July 2019
+  - Reskins
 title: Patriotic Defiance
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Patriotic Defiance_**is a **[Limited]({{< ref "/categories/" >}}limited-ships)** 4th of July reskin of the [Defiance]({{< ref "/wiki/" >}}Defiance). 
+The **_Patriotic Defiance_**is a **[Limited]({{< ref "/categories/" >}}limited-ships)** 4th of July reskin of the [Defiance]({{< ref "/wiki/" >}}Defiance).
 
 ## Description
 
@@ -43,7 +43,7 @@ The **Patriotic Defiance** shares its interior with its regular counterpart, but
 - Make sure to exploit the blind spots of larger and less mobile ships in order to deal the most damage without dying.
 - The **Patriotic Defiance** is also useful for hunting [Aliens]({{< ref "/wiki/" >}}Aliens) with its many high-accuracy [Turrets]({{< ref "/wiki/" >}}Turrets).
 
-## Version History 
+## Version History
 
 - Added in version .65b on July 5th as part of the 2019 Fourth of July event.
 - Removed along with most other reskin ships in (unknown version please add).

@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Starblade
+  - /wiki/Starblade
 categories:
-- Ships
-- Frigates
-- PVP Ships
-- Support Ships
+  - Ships
+  - Frigates
+  - PVP Ships
+  - Support Ships
 title: Starblade
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Starblade_** is a cheap torpedo [**Frigate**]({{< ref "/categories/" >}}frigates). 
+The **_Starblade_** is a cheap torpedo [**Frigate**]({{< ref "/categories/" >}}frigates).
 
 ## Description
 
@@ -43,7 +43,7 @@ The interior of the **Starblade** is extremely small. It has the pilot seat in t
 - Move at full speed as much as possible to avoid getting hit.
 - Attack a starbase then warp away.
 
-## Version History 
+## Version History
 
 - Was remodeled in version .60d.
 - Was remodeled again in version .68d1.

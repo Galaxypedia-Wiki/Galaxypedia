@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Thubjugator
+  - /wiki/Thubjugator
 categories:
-- Ships
-- Capital Ships
-- Super Capital Ships
-- PVP Ships
+  - Ships
+  - Capital Ships
+  - Super Capital Ships
+  - PVP Ships
 title: Thubjugator
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 <div class="TemplateRevision" style="margin-bottom: 18px; border: 1px solid #171818; border-radius: 10px">
 <div class="container" style="display: block; border-color: #3FFF00; border-radius: 10px">
@@ -21,8 +21,7 @@ This ship is classified as a Super Capital. It is one of the most powerful Capit
 </div>
 </div>
 
-The **Thubjugator** is a [Theia]({{< ref "/wiki/" >}}Theia) with the durability
-and auxiliary shields of the [Subjugator]({{< ref "/wiki/" >}}Subjugator).
+The **Thubjugator** is a [Theia]({{< ref "/wiki/" >}}Theia) with the durability and auxiliary shields of the [Subjugator]({{< ref "/wiki/" >}}Subjugator).
 
 ## Description
 
@@ -61,6 +60,6 @@ The appearance is identical to that of the [Theia]({{< ref "/wiki/" >}}Theia), b
 - Has crazy combat reward of 3 million when killed.
 - Considered by some to be a "No-Lifer" achievement to obtain this ship, due to the amount of time needed to gain the required credits for it legitimately.
 
-## Version History 
+## Version History
 
 - Added in an unknown version.

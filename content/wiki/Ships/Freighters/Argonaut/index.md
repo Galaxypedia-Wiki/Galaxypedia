@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Argonaut
+  - /wiki/Argonaut
 categories:
-- Ships
-- Freighters
+  - Ships
+  - Freighters
 title: Argonaut
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Argonaut_** is a cheap but fragile **[Freighter]({{< ref "/categories/" >}}freighters)** that favors shield health.
 
@@ -45,7 +45,7 @@ The **Argonaut**has the same chair as many other freighters, as well as four tea
 - Always check your trade route, there could be a pirate waiting for you anywhere.
 - Good for trading at war, high speed makes it hard for most ships that could kill you in time to keep up, small price means lower target, though you may want to try a Tempura for this.
 
-## Version History 
+## Version History
 
 - Received a buff in .61e4 that doubled hull and shields and gave the ship _some_ damage resistance.
 - Cargo hold buffed from 750 to 1,250 in .65b, price increased, and received a remodel.

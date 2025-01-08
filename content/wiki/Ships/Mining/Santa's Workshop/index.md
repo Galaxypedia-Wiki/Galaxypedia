@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Santa's-Workshop
+  - /wiki/Santa's-Workshop
 categories:
-- Ships
-- Limited Ships
-- Mining Ships
-- Christmas Event 2020
-- Christmas Event 2021
-- Reskins
+  - Ships
+  - Limited Ships
+  - Mining Ships
+  - Christmas Event 2020
+  - Christmas Event 2021
+  - Reskins
 title: Santa's Workshop
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Santa's Workshop_** is a large reskin of the [**Miner-class**]({{< ref "/categories/" >}}mining-ships) [M Class]({{< ref "/wiki/" >}}M-Class) added during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020). 
+The **_Santa's Workshop_** is a large reskin of the [**Miner-class**]({{< ref "/categories/" >}}mining-ships) [M Class]({{< ref "/wiki/" >}}M-Class) added during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020).
 
 ## Description
 
@@ -53,7 +53,7 @@ The **Santa's Workshop** shares its interior with the M Class, except for some c
 - If you're being chased, warp towards a strong [Starbase]({{< ref "/wiki/" >}}Starbase) owned by your faction. The [Turrets]({{< ref "/wiki/" >}}Turrets) on a strong base often ward off attacking [ships]({{< ref "/wiki/" >}}ships). Failure to warp to a [Starbase]({{< ref "/wiki/" >}}Starbase) or the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) will most likely result in destruction.
 - Try not to become distracted while [Mining]({{< ref "/wiki/" >}}Mining). The ship will mine a full-size [Ores]({{< ref "/wiki/" >}}Ores) chunk in about 20 seconds.
 
-## Version History 
+## Version History
 
 - Shields increased from 1000 to 4000, Hull reduced from 3000 to 2500, Ore Hold increased from 4500 to 6500 and size increased in version .70a.
 - Top Speed buffed to 70 and Ore Hold reverted to 4500 to meet ship refund requirements.

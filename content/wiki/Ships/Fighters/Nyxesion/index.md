@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Nyxesion
-- /wiki/Retro-Nixesion
+  - /wiki/Nyxesion
+  - /wiki/Retro-Nixesion
 categories:
-- Ships
-- Fighters
-- Retro Ship Event 2021
+  - Ships
+  - Fighters
+  - Retro Ship Event 2021
 title: Nyxesion
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 _Not to be confused with the [Nixesion]({{< ref "/wiki/" >}}Nixesion), a fighter from the [Nyx]({{< ref "/wiki/" >}}Nyx)._
 
-The **_Nyxesion_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) unique to the [Retro Nyx]({{< ref "/wiki/" >}}Retro-Nyx). 
+The **_Nyxesion_** is a [**Fighter**]({{< ref "/categories/" >}}fighters) unique to the [Retro Nyx]({{< ref "/wiki/" >}}Retro-Nyx).
 
 ## Description
 
@@ -47,7 +47,7 @@ Like all fighter class ships, the Nyxesion has little in the way of an **Interio
 - Focus on swarming and destroying AA ships like the [Ampharos]({{< ref "/wiki/" >}}Ampharos) or [Hyron]({{< ref "/wiki/" >}}Hyron) first, as they will shred you if left alone.
 - Use the ship's high maneuverability to get into the blind spots of larger ships and deal heavy spinal damage.
 
-## Version History 
+## Version History
 
 - Added to the game on version .73a3 along with [the carrier]({{< ref "/wiki/" >}}Retro-Nyx) that contains these ships.
 - Name changed from Retro Nixesion to **Nyxesion** in version .75a1.

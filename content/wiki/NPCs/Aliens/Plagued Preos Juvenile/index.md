@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Plagued-Preos-Juvenile
+  - /wiki/Plagued-Preos-Juvenile
 categories:
-- Alien Ships and Stations
-- Halloween 2021
-- NPC Ships
-- Ships
+  - Alien Ships and Stations
+  - Halloween 2021
+  - NPC Ships
+  - Ships
 title: Plagued Preos Juvenile
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-The **_Plagued Preos Juvenile_** is an Alien ship added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021). 
+The **_Plagued Preos Juvenile_** is an Alien ship added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021).
 
 ## Description
 
@@ -35,6 +35,6 @@ The **Plagued Preos Juvenile** is similar to the [Plagued Preos Hatchling]({{< r
 - Use of a dreadnought is recommended to kill the Juvenile, but a skilled player may be able to solo it with a battleship
 - It's health is mainly composed of hull points so get a ship with dps slightly into hull shredding over shield.
 
-## Version History 
+## Version History
 
 ## Trivia

@@ -1,12 +1,14 @@
 ---
 aliases:
-- /wiki/Frion
-- /wiki/Frion-I
+  - /wiki/Frion
+  - /wiki/Frion-I
 categories:
-- Planets
-- Starbases
+  - Planets
+  - Starbases
 title: Frion
----**_Frion_** is a large [**Planet**]({{< ref "/categories/" >}}planets) in Galaxy and the first to be added since the removal of [Earth]({{< ref "/wiki/" >}}Earth).
+---
+
+**_Frion_** is a large [**Planet**]({{< ref "/categories/" >}}planets) in Galaxy and the first to be added since the removal of [Earth]({{< ref "/wiki/" >}}Earth).
 
 ## Description
 
@@ -14,11 +16,11 @@ title: Frion
 
 **Frion** can be upgraded twice. Level 2 costs 3,000 Credits, adding turrets and a large structure atop **Frion**. Level 3 costs 6,000 Credits, adding more turrets.
 
-### <u>Lucifer Station</u> 
+### <u>Lucifer Station</u>
 
 **Lucifer Station** is a small station that orbits **Frion**, which can be entered through a [Lucifer] teleporter in the main base. Upon entering the **Lucifer Station**, you'll be greeted by long open hallways and three different rooms, each decorated with furniture. In the corner of the Cafe, next to the stove, [cswimr]({{< ref "/wiki/" >}}cswimr) is revealed hiding inside the vents. He offers you a powerful [Kneall]({{< ref "/wiki/" >}}Kneall) ship in exchange for materials, Kneall parts, and credits.
 
-### <u>Communications tower/Temple</u> 
+### <u>Communications tower/Temple</u>
 
 The communications tower on top of **Frion** is a method of accessing the cavern in **Frion**. For it to appear, **Frion** must be level 2. Either by stepping on to the crack at top **Frion** or into one of the doors on the tower, you will be teleported to the cave.
 
@@ -34,7 +36,7 @@ No special or specific ores spawn here.
 
 Currently there are 3 quest that are active inside **Frion** and **Lucifer Station**.
 
-### [Rev's Irresistable Offer]({{< ref "/wiki/" >}}Rev's-Irresistable-Offer) 
+### [Rev's Irresistable Offer]({{< ref "/wiki/" >}}Rev's-Irresistable-Offer)
 
 - Location: **Frion** inside cave.
 - Rewards: [Weapons Part]({{< ref "/wiki/" >}}Weapons-Part).
@@ -57,7 +59,7 @@ Currently there are 3 quest that are active inside **Frion** and **Lucifer Stati
 
 The climate of **Frion** is not very special; The planet is barren and rocky and isn't able to support life. However, the pressurization required to sustain life in the Starbase appears to have leaked into a cave, as grass is growing under the lab.
 
-## Version History 
+## Version History
 
 - Added in version .56
 - Turrets replaced with 8 orbital turrets in .62a to reduce lag

@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Reklfar-🇫🇷
+  - /wiki/Reklfar-🇫🇷
 categories:
-- Ships
-- Limited Ships
-- Battleships
-- Capital Ships
+  - Ships
+  - Limited Ships
+  - Battleships
+  - Capital Ships
 title: Reklfar 🇫🇷
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Reklfar 🇫🇷_** is a joke [Battleship]({{< ref "/categories/" >}}battleships) added on the 14th of October 2022, the birthday of Rekuri, a Galaxy Developer.
 
@@ -36,7 +36,7 @@ It features the same model as the [Retro Naglfar]({{< ref "/wiki/" >}}Retro-Nagl
 
 -
 
-## Version History 
+## Version History
 
 -
 

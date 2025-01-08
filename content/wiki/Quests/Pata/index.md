@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Pata
+  - /wiki/Pata
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Pata
----**_Pata_** is an NPC who offers two services related to [Armor Scrap]({{< ref "/wiki/" >}}Armor-Scrap).
+---
+
+**_Pata_** is an NPC who offers two services related to [Armor Scrap]({{< ref "/wiki/" >}}Armor-Scrap).
 
 ## Description
 
@@ -17,9 +19,9 @@ Galaxy_Pata-CargoHold.webp Galaxy_Pata-Computer.webp Galaxy_Pata-Console.webp Ga
 
 ## Quest
 
-### 1. Converting [Armor Scrap]({{< ref "/wiki/" >}}Armor-Scrap) into [Armored Plating]({{< ref "/wiki/" >}}Armored-Plating). 
+### 1. Converting [Armor Scrap]({{< ref "/wiki/" >}}Armor-Scrap) into [Armored Plating]({{< ref "/wiki/" >}}Armored-Plating).
 
-### 2. Purchasing [Armor Scrap]({{< ref "/wiki/" >}}Armor-Scrap) from players in exchange for Credits. 
+### 2. Purchasing [Armor Scrap]({{< ref "/wiki/" >}}Armor-Scrap) from players in exchange for Credits.
 
 ## Location
 
@@ -28,9 +30,9 @@ Location](Galaxy_Pata-OverviewLocation.png "Overview Location") ![Entrance]({{< 
 
 **_Pata's location_** can be found nestled inside a hill, situated between the billboards marked "**TERMINAL D [SALES FLOOR]**" and "**TERMINAL A [LIBRARY]**". Inside this cozy cave workshop, a dismantled **Dragoon** vessel serves as the centerpiece of the room. Visitors will find **Pata** himself at the far end of the space, standing behind his desk where he manages his scrapping operation.
 
-## Quest Dialogue 
+## Quest Dialogue
 
-### Armored Plating 
+### Armored Plating
 
 <span style="color:#ee7600">[Pata]: " Hello there! I can sell or convert your Armor Scraps. What would you like to do? "</span>
 

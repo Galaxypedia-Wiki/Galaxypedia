@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Birthday-Ship
+  - /wiki/Birthday-Ship
 categories:
-- Ships
-- Frigates
+  - Ships
+  - Frigates
 title: Birthday Ship
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Birthday Ship_** is a limited [**Frigate**]({{< ref "/categories/" >}}frigates) given to Galaxy staff members on their birthday.
 
@@ -31,7 +31,7 @@ The **Birthday Ship** is a limited [Frigate]({{< ref "/categories/" >}}frigates)
 
 - Fly around in your birthday cake, but never at war
 
-## Version History 
+## Version History
 
 - Added in version .72a
 

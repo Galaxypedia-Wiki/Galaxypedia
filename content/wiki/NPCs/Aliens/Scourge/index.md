@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Scourge
-- /wiki/Alien-Scourge
+  - /wiki/Scourge
+  - /wiki/Alien-Scourge
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Halloween 2020
-- Ships
+  - Alien Ships and Stations
+  - NPC Ships
+  - Halloween 2020
+  - Ships
 title: Scourge
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **_Scourge_** was a unique [**AI**]({{< ref "/categories/" >}}npc-ships) ship added during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020)
 
@@ -40,7 +40,7 @@ It is relatively easy to brute force the kill with any ship, as there is a blind
 ![Alien
 Scourge](Roblox_Galaxy_-_Alien_Scourge_Ship_-_Observation "Alien Scourge"){width="293" height="293"}
 
-## Version History 
+## Version History
 
 - Gamma pumpkin drop rate nerfed in version .69a1 20 -> 15
 - Buffed in version .69b5, being able to call Alien Servs to help it against enemies.

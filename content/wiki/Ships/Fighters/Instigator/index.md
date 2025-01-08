@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Instigator
+  - /wiki/Instigator
 categories:
-- Ships
-- Fighters
-- Hull breakers
+  - Ships
+  - Fighters
+  - Hull breakers
 title: Instigator
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 _Not to be confused with the [**Cruiser-class**]({{< ref "/categories/" >}}cruisers) [Instigator-A]({{< ref "/wiki/" >}}Instigator-A)._
 
@@ -42,7 +42,7 @@ The Interior of the **Instigator **contains nothing more than the pilot's seat,
 - Utilize drifting and hit-and-run tactic to survive as long as possible while dealing the maximum amount of damage.
 - Avoid attacking any ship that can take down fighters easily, such as the Ampharos or the Mjolheimr.
 
-## Version History 
+## Version History
 
 - Removed from the Nimitz in an unknown version.
 - Nimitz remodel reverted, making this ship playable again in an unknown version.

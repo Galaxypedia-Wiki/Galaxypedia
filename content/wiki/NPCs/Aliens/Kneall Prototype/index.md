@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Kneall-Prototype
+  - /wiki/Kneall-Prototype
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
-- Bosses
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
+  - Bosses
 title: Kneall Prototype
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 _This article describes the former NPC Boss ship. For the Player-owned vessel with an almost identical appearance, see [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2)_
 

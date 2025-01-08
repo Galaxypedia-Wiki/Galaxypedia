@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Spectre
+  - /wiki/Spectre
 categories:
-- Ships
-- Cruisers
-- PVP Ships
-- Pirate Ships
-- Support Ships
-- All-Rounder Ships
+  - Ships
+  - Cruisers
+  - PVP Ships
+  - Pirate Ships
+  - Support Ships
+  - All-Rounder Ships
 title: Spectre
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Spectre_** is a [Cruiser]({{< ref "/categories/" >}}cruisers)-class ship with powerful [Spinals]({{< ref "/wiki/" >}}Spinals).
 
@@ -46,7 +46,7 @@ The **Spectre's** interior consists of nothing more than a short but detailed r
 - Use the spinals, as almost all of the firepower is in them.
 - Use in swarms of many [Ships]({{< ref "/wiki/" >}}Ships) at a time. Four or more **Spectre**'s can bring down a [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) with proper use.
 
-## Version History 
+## Version History
 
 - Received a slight remodel in an unknown update.
 - One Light Laser Turret removed in an unknown version.

@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Outlaw
+  - /wiki/Outlaw
 title: Outlaw
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 The [Outlaw]({{< ref "/wiki/" >}}Outlaw) was a boss used for Fourth of July event 2023 and [Fourth of July Event 2024]({{< ref "/wiki/" >}}Fourth-of-July-Event-2024).
 

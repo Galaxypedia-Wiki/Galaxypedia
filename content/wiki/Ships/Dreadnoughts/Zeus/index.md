@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Zeus
+  - /wiki/Zeus
 categories:
-- Ships
-- Dreadnoughts
-- PVP Ships
-- Support Ships
-- Capital Ships
+  - Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Support Ships
+  - Capital Ships
 title: Zeus
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Zeus_** is a [Shield]({{< ref "/wiki/" >}}Shields)-breaker **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** class ship.
 
@@ -55,7 +55,7 @@ The interior is just a very cramped box with a carpet square for a seat.
 - Know which ships are shield tanks when deciding which to attack. Ships with mainly shield health will often stand no chance against you.
 - Since it can't do much hull damage, the Zeus is better suited for defense, as it can scare off attackers by quickly removing their shields and leaving them vulnerable.
 
-## Version History 
+## Version History
 
 - Nerfed in .58b, removed a [Heavy Laser]({{< ref "/wiki/" >}}Turrets) and a [Light Flak Cannon]({{< ref "/wiki/" >}}Turrets) in exchange for a [Medium Laser]({{< ref "/wiki/" >}}Turrets).
 - Buffed in .58c, [Shield]({{< ref "/wiki/" >}}Shields) was boosted by 2000.

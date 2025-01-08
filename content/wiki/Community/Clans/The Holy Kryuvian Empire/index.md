@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/The-Holy-Kryuvian-Empire
+  - /wiki/The-Holy-Kryuvian-Empire
 categories:
-- Galaxy Lore Pages
-- Clans
+  - Galaxy Lore Pages
+  - Clans
 title: The Holy Kryuvian Empire
----<div align="justify" class="cardcontainer" style="font-size: 14px; line-height: 24px;">
+---
+
+<div align="justify" class="cardcontainer" style="font-size: 14px; line-height: 24px;">
 
 ![Flag]({{< ref "/wiki/" >}}800px-DC.png-"Flag")
 

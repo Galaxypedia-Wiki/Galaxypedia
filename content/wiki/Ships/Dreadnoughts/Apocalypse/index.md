@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Apocalypse
+  - /wiki/Apocalypse
 categories:
-- Ships
-- Siege Ships
-- Dreadnoughts
-- PVP Ships
-- Support Ships
-- Capital Ships
+  - Ships
+  - Siege Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Support Ships
+  - Capital Ships
 title: Apocalypse
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Apocalypse_** is a [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with powerful [Turret]({{< ref "/wiki/" >}}Turrets) firepower. 
+The **_Apocalypse_** is a [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with powerful [Turret]({{< ref "/wiki/" >}}Turrets) firepower.
 
 ## Description
 
@@ -45,7 +45,7 @@ The interior of the **Apocalypse** is very detailed, more so than most other shi
 - If dueling other Dreadnoughts, use your small and sleek body to dive under them and unleash your payload, they can't properly attack back. This is the most effective way of using this ship in both PvP and PvE.
 - If your turrets have no line of sight, warp under the enemy ship.
 
-## Version History 
+## Version History
 
 - Before it's remake, it carried 3 [Heavy Turrets]({{< ref "/wiki/" >}}Turrets),4 [Medium Railguns]({{< ref "/wiki/" >}}Turrets), and 2 [Flak Cannons]({{< ref "/wiki/" >}}Turrets). It was based on the **EVE Online** model.
 - Its [Heavy Lasers]({{< ref "/wiki/" >}}Turrets) and [Medium Railguns]({{< ref "/wiki/" >}}Turrets) were replaced with [Triple Heavy Lasers]({{< ref "/wiki/" >}}Turrets) and [Dual Medium Railguns]({{< ref "/wiki/" >}}Turrets) in .63h.

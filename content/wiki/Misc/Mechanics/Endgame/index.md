@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Endgame
+  - /wiki/Endgame
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Endgame
----  
+---
 
-{{< notices/outdatedInfo >}} 
+{{< notices/outdatedInfo >}}
 
 **_Endgame_** _is the final phase in a round of Galaxy. This is not the same as a "Final Round."_
 

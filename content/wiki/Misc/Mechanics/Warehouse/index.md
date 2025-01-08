@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Warehouse
+  - /wiki/Warehouse
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Warehouse
----## Description
+---
+
+## Description
 
 The **Warehouse** is where all materials for building ships are stored. Ships can be built at any outpost, but can only be built using materials in the **Warehouse**. Though the contents of the **Warehouse** can be seen in any location, ores can only be added to or removed from the **Warehouse** while players are inside of the [Mega Base]({{< ref "/wiki/" >}}Mega-Base). Materials can be put in the **Warehouse** by either:
 

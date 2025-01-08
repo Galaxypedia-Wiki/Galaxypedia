@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Eclipse
+  - /wiki/Eclipse
 categories:
-- Admin Ships
-- Ships
-- Removed From Game
+  - Admin Ships
+  - Ships
+  - Removed From Game
 title: Eclipse
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Eclipse_** is an [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) that mocks the size limits of a "[Cruiser]({{< ref "/categories/" >}}cruisers)".
 
@@ -22,7 +22,7 @@ The Eclipse is an Admin-restricted "[Cruiser]({{< ref "/categories/" >}}cruisers
 
 ???
 
-### Admin Lounge 
+### Admin Lounge
 
 In the Eclipse, there is a button that takes you to a room in the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) containing some chairs and the **[Admin's]({{< ref "/wiki/" >}}Galaxy-Staff)** profile pictures in portraits. The lounge is above the [VIP Lounge]({{< ref "/wiki/" >}}Galaxy-VIP-Lounge).
 
@@ -41,7 +41,7 @@ In the Eclipse, there is a button that takes you to a room in the [Mega Base]({{
 
 - Use the ship's high health and damage resistance to weather any attacks that may come.
 
-## Version History 
+## Version History
 
 - Received a remodel in an unknown version due to its large file size/part count.
 - Removed along with most of the **[Admin Ships]({{< ref "/categories/" >}}admin-ships)** in version .62a1.

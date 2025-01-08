@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Vigilance
+  - /wiki/Vigilance
 categories:
-- Ships
-- Battlecruisers
-- PVP Ships
-- Siege Ships
-- Broadsides
+  - Ships
+  - Battlecruisers
+  - PVP Ships
+  - Siege Ships
+  - Broadsides
 title: Vigilance
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Vigilance_** is a heavy [Turret]({{< ref "/wiki/" >}}Turrets)-focused [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers). 
+The **_Vigilance_** is a heavy [Turret]({{< ref "/wiki/" >}}Turrets)-focused [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers).
 
 ## Description
 
@@ -46,7 +46,7 @@ The interior is very basic, having a seat and various plain-looking neon control
 - Do not go head to head with a smaller more maneuverable ship like a [Fighter]({{< ref "/categories/" >}}fighters), as your slow maneuverability will leave you at a disadvantage.
 - Just like both the Osiris and [Behemoth]({{< ref "/categories/" >}}dreadnoughts), attack broadside for all your weapons to hit your enemy.
 
-## Version History 
+## Version History
 
 - Shield was buffed from 0 to 1250 in version .65b after it was added.
 - Broadside spinals added in version .66b

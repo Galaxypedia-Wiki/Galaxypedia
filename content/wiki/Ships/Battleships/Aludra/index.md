@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Aludra
+  - /wiki/Aludra
 categories:
-- Limited Ships
-- Battleships
-- PVP Ships
-- Siege Ships
-- Support Ships
-- Christmas Event 2022
-- Ships
+  - Limited Ships
+  - Battleships
+  - PVP Ships
+  - Siege Ships
+  - Support Ships
+  - Christmas Event 2022
+  - Ships
 title: Aludra
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 _This page is about the player-ownable vessel. If you're looking for the NPC variant, see [Blizzard Aludra]({{< ref "/wiki/" >}}Blizzard-Aludra)._
 
@@ -54,7 +54,7 @@ It's interior is just a grey box.
 - Use the high firepower on this ship to dive and chase down vulnerable or isolated Capital Ships.
 - Great for pirating because of its high DPS and [Alpha]({{< ref "/wiki/" >}}Galaxy-Terminology).
 
-## Version History 
+## Version History
 
 - Added in version .75a37 as Part 2 of the [<span style="color:#aef2fe;text-shadow: 1px 1px 10px #aef2fe;">Christmas Event 2022</span>]({{< ref "/wiki/" >}}Christmas-Event-2022).
 - Changed price, requiring a [Frost Core]({{< ref "/wiki/" >}}Frost-Core) to build in the same version as above.

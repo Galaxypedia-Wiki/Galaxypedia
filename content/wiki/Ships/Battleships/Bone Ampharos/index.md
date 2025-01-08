@@ -1,23 +1,23 @@
 ---
 aliases:
-- /wiki/Bone-Ampharos
+  - /wiki/Bone-Ampharos
 categories:
-- Ships
-- Limited Ships
-- Reskins
-- Battleships
-- PVP Ships
-- Pirate Ships
-- Support Ships
-- Halloween 2017
-- Capital Ships
-- Black Friday 2019
+  - Ships
+  - Limited Ships
+  - Reskins
+  - Battleships
+  - PVP Ships
+  - Pirate Ships
+  - Support Ships
+  - Halloween 2017
+  - Capital Ships
+  - Black Friday 2019
 title: Bone Ampharos
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Bone Ampharos_** is a limited edition version of the [Ampharos]({{< ref "/wiki/" >}}Ampharos) belonging to the Halloween Event 2017.
 
@@ -70,7 +70,7 @@ Unlike the normal [Ampharos]({{< ref "/wiki/" >}}Ampharos), the **Bone Ampharos
 - It is a good ship for pirating or escort, however, it is not as mobile as other combat ships such as [Sixfold]({{< ref "/wiki/" >}}Sixfold) or [Grievion]({{< ref "/wiki/" >}}Grievion).
 - Don't try to hit and run a [Starbase]({{< ref "/wiki/" >}}Starbase), you'll do little damage and the [Starbase]({{< ref "/wiki/" >}}Starbase) will leave you with a practically destroyed ship.
 
-## Version History 
+## Version History
 
 - Shield and Hull increased from 3500/3500 to 3750/3750, Light Flak Cannons upgraded to Medium Flak Cannons in version .65b.
 - Explosion size 80 ----> 450 .75a12

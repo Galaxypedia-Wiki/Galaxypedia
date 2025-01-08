@@ -1,23 +1,23 @@
 ---
 aliases:
-- /wiki/Alpha-Ship
+  - /wiki/Alpha-Ship
 categories:
-- Ships
-- Carriers
-- Capital Ships
-- Limited Ships
-- Promotion/Raffles
-- PVP Ships
-- Support Ships
-- Siege Ships
+  - Ships
+  - Carriers
+  - Capital Ships
+  - Limited Ships
+  - Promotion/Raffles
+  - PVP Ships
+  - Support Ships
+  - Siege Ships
 title: Alpha Ship
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Alpha Ship_**is a [**Carrier**]({{< ref "/categories/" >}}carriers) only available to [Alpha Players]({{< ref "/wiki/" >}}Galaxy-Badges). 
+The **_Alpha Ship_**is a [**Carrier**]({{< ref "/categories/" >}}carriers) only available to [Alpha Players]({{< ref "/wiki/" >}}Galaxy-Badges).
 
 ## Description
 
@@ -56,7 +56,7 @@ The **Alpha Ship**'s Interior consists of a detailed bridge with a pilot's seat
 - Warp in, deploy your Fighters, and warp out.
 - Siege bases using your Fighters.
 
-## Version History 
+## Version History
 
 - Health increased from 8000/8000 to 10000/9000 in version .68d.
 - Received a buff in version .71b, increasing its Hull from 9000 to 9001.

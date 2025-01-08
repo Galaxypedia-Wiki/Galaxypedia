@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Trading
+  - /wiki/Trading
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Trading
----  
+---
 
-{{< notices/outdatedInfo >}} 
+{{< notices/outdatedInfo >}}
 
 <div class="cardcontainer" style="font-size: 15px; line-height: 24px;" align="justify">
 # Trading Overview
@@ -112,11 +112,11 @@ To begin an **Item Trade**, players must:
 
 1.  Ask in the chat for an item(s) you want and set a decent price for it. Wait for someone to accept the trade request. (Likes the item the other player proposes and would trade the item the other player wants).
 2.  If the trade request is accepted, both players must dock a ship with a decent Cargo Hold, generally a [Freighter]({{< ref "/categories/" >}}freighters) at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base), so it can transfer items from the player's Warehouse to the ship. Other ways of trading items include killing a [Wyrm]({{< ref "/wiki/" >}}Wyrm) which holds the material, but this is risky since others can take the loot.
-3.  If both players are ready, they must Warp to a Starbase that has enough money to buy the traded items. (**Not** the [Mega Base]({{< ref "/wiki/" >}}Mega-Base), since it's linked across all servers and players can steal the items.) If there are other people at the starbase with docked ships, they can steal the items, so it's better to go to an NPC or Alien starbase to trade the items since nobody docks there.*
-4.  Once the desired items are in each player's Cargo Hold, both players must Warp back to the [Mega Base]({{< ref "/wiki/" >}}Mega-Base), at which they must transfer their items to their [Warehouses]({{< ref "/wiki/" >}}Warehouse).*
-5.  Repeat previous steps if necessary.*
+3.  If both players are ready, they must Warp to a Starbase that has enough money to buy the traded items. (**Not** the [Mega Base]({{< ref "/wiki/" >}}Mega-Base), since it's linked across all servers and players can steal the items.) If there are other people at the starbase with docked ships, they can steal the items, so it's better to go to an NPC or Alien starbase to trade the items since nobody docks there.\*
+4.  Once the desired items are in each player's Cargo Hold, both players must Warp back to the [Mega Base]({{< ref "/wiki/" >}}Mega-Base), at which they must transfer their items to their [Warehouses]({{< ref "/wiki/" >}}Warehouse).\*
+5.  Repeat previous steps if necessary.\*
 
-*At these steps, both players must watch out for [Aliens]({{< ref "/wiki/" >}}Aliens) and [Pirates]({{< ref "/wiki/" >}}Pirating). In case if the player's faction is at [War]({{< ref "/wiki/" >}}War), [Pirates]({{< ref "/wiki/" >}}Pirating) can destroy and steal the loot of the ships, and with it the items you were trading. Trading can cause you to lose money if you lose connection.
+\*At these steps, both players must watch out for [Aliens]({{< ref "/wiki/" >}}Aliens) and [Pirates]({{< ref "/wiki/" >}}Pirating). In case if the player's faction is at [War]({{< ref "/wiki/" >}}War), [Pirates]({{< ref "/wiki/" >}}Pirating) can destroy and steal the loot of the ships, and with it the items you were trading. Trading can cause you to lose money if you lose connection.
 
 </div>
 </div>

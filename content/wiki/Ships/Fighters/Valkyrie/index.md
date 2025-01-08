@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Valkyrie
+  - /wiki/Valkyrie
 categories:
-- Ships
-- Fighters
-- PVP Ships
-- Support Ships
+  - Ships
+  - Fighters
+  - PVP Ships
+  - Support Ships
 title: Valkyrie
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Valkyrie_** is one of the most powerful [Fighters]({{< ref "/categories/" >}}fighters) in Galaxy. It only spawns in the [Icarus]({{< ref "/wiki/" >}}Icarus), replacing its former two [Nixesions]({{< ref "/wiki/" >}}Nyxesion).
 
@@ -38,7 +38,7 @@ The **Valkyrie**'s interior is a small cockpit with a pilot seat.
 - Try to fly beside or below large ships and turn to hit it with your Spinals.
 - If you go in the blindspot or larger ships you may be able to get undamaged.
 
-## Version History 
+## Version History
 
 - Replaced the Icarus's two [Nixesions]({{< ref "/wiki/" >}}Nyxesion) in version .65b.
 - Remodeled in version .68e.

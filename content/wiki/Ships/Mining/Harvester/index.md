@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Harvester
+  - /wiki/Harvester
 categories:
-- Ships
-- Mining Ships
-- Off-Sale Ships
+  - Ships
+  - Mining Ships
+  - Off-Sale Ships
 title: Harvester
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/offsale >}} 
+{{< notices/offsale >}}
 
-The **_Harvester_** was the first **[Miner-class ship]({{< ref "/categories/" >}}mining-ships)** to ever have a [Warp Drive]({{< ref "/wiki/" >}}Warp-Drive). It later also gained a [Medium Mining Laser]({{< ref "/wiki/" >}}Medium-Mining-Laser) 
+The **_Harvester_** was the first **[Miner-class ship]({{< ref "/categories/" >}}mining-ships)** to ever have a [Warp Drive]({{< ref "/wiki/" >}}Warp-Drive). It later also gained a [Medium Mining Laser]({{< ref "/wiki/" >}}Medium-Mining-Laser)
 
 ## Description
 
@@ -46,7 +46,7 @@ The **Harvester** has no interior other than a simple pilot's seat set against a
 - Watch out if you're at [War]({{< ref "/wiki/" >}}War), you're likely to be ambushed.
 - Don't mine at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) if you are at [War]({{< ref "/wiki/" >}}War) and you aren't protected.
 
-## Version History 
+## Version History
 
 - Received a remodel in version .56b.
 - Nerfed in an unknown version, losing 175 Cargo Hold.

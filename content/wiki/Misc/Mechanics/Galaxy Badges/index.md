@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Galaxy-Badges
+  - /wiki/Galaxy-Badges
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Galaxy Badges
----## Badges
+---
+
+## Badges
 
 Players can earn a handful of Roblox Badges while playing Galaxy. These badges only apply to the main version of the game; the Arcade or Development versions have no badges.
 

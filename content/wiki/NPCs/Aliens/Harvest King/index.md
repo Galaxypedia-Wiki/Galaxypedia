@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Harvest-King
+  - /wiki/Harvest-King
 categories:
-- Halloween 2018
-- NPC Ships
-- Quests
-- Limited Ships
-- Removed From Game
-- Alien Ships and Stations
-- Bosses
-- Ships
+  - Halloween 2018
+  - NPC Ships
+  - Quests
+  - Limited Ships
+  - Removed From Game
+  - Alien Ships and Stations
+  - Bosses
+  - Ships
 title: Harvest King
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 ## Description
 
@@ -23,7 +23,7 @@ The **_Harvest King_** was a Boss [NPC]({{< ref "/categories/" >}}npcs) ship add
 
 The **Harvest King** was the primary source of [Space Pumpkins]({{< ref "/wiki/" >}}Space-Pumpkin) used to create event [Ships]({{< ref "/wiki/" >}}Ships), dropping around 30 after being destroyed. The **Harvest King** would also drop 1 [Ghost Pumpkin]({{< ref "/wiki/" >}}Ghost-Pumpkin) after being destroyed; this particular pumpkin was used in a quest given by the [Grim Reaper (NPC)]({{< ref "/wiki/" >}}<Grim-Reaper-(NPC)> "wikilink"). The **explosion** of the dying **Harvest King** could deal a whopping **2,500+** damage to ships as far as 4.5k (10k on its final form) studs away. Like with a destroyed [Mothership]({{< ref "/wiki/" >}}Mothership) or [Prototype]({{< ref "/categories/" >}}prototypes), it was recommended that all [Ships]({{< ref "/wiki/" >}}Ships) nearby warp away as soon as the explosions start.
 
-## Alien Harvest Servitors 
+## Alien Harvest Servitors
 
 The **Harvest King** arrived in the server with two or three [Servitors]({{< ref "/wiki/" >}}Alien-Harvest-Servitor) alongside it. These ships share the same symbol as [Alien Punishers]({{< ref "/wiki/" >}}Aliens), but with an orange coloring instead of light green. They cannot call other Aliens to their location, making soloing them a viable strategy. Most players will attempt to destroy these before engaging the **Harvest King.**
 
@@ -43,7 +43,7 @@ Another strategy is to let a decently fast enough [Frigate]({{< ref "/categories
 
 Ever since the **Harvest King** reached its final form, ships like the [Draco]({{< ref "/wiki/" >}}Draco) or the [Dragon]({{< ref "/wiki/" >}}Dragon) have become too slow, thus making them unsuitable to outrun the King.
 
-## Stage III/Final Form 
+## Stage III/Final Form
 
 On October 30, the **Harvest King** reached Stage III of its evolution, or its final form, at which the firepower of its [Turrets]({{< ref "/wiki/" >}}Turrets) and [Spinals]({{< ref "/wiki/" >}}Spinals) increased further. It became faster than ships like the [Viper]({{< ref "/wiki/" >}}Viper), so if you were trying to lure it, you had to warp constantly in the direction you were going so you didn't get outrun by it.
 

@@ -1,15 +1,16 @@
 ---
 aliases:
-- /wiki/Rocket-GotG
+  - /wiki/Rocket-GotG
 categories:
-- Biographies
+  - Biographies
 title: Rocket GotG
----_Rocket for short._ Past Galaxy Administrator and Galaxy Admin Director since 2021
-<[Galaxypedia Account]({{< ref "/wiki/" >}}User:Rocket-Raccoon)>
+---
+
+_Rocket for short._ Past Galaxy Administrator and Galaxy Admin Director since 2021 <[Galaxypedia Account]({{< ref "/wiki/" >}}User:Rocket-Raccoon)>
 
 <[Roblox Account](https://www.roblox.com/users/33641196/profile)>
 
-## Story (Written by Rocket himself) 
+## Story (Written by Rocket himself)
 
 Hello I am Rocket, defender of the galaxy with a small known gang, Guardians of the Galaxy.
 

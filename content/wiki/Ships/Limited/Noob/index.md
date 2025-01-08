@@ -1,14 +1,16 @@
 ---
 aliases:
-- /wiki/Noob
+  - /wiki/Noob
 categories:
-- Removed From Game
-- Limited Ships
-- Halloween 2018
-- NPCS
-- Christmas Event 2018
+  - Removed From Game
+  - Limited Ships
+  - Halloween 2018
+  - NPCS
+  - Christmas Event 2018
 title: Noob
----## Description
+---
+
+## Description
 
 **Noob** is a true noob. He has somehow found himself in the web of a giant Araneae. What became of him after [Halloween]({{< ref "/wiki/" >}}Halloween-Event-2018)? Well, he was found in the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) Observatory, still stuck in the web during the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018). However, he disappeared after the Event ended. He reappeared in the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019), only to vanish once again.
 

@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Yname-(ship)
+  - /wiki/Yname-(ship)
 categories:
-- Ships
-- Freighters
+  - Ships
+  - Freighters
 title: Yname (ship)
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **yname** is a free [Freighter]({{< ref "/categories/" >}}freighters) that was available on June 7th, 2022. 
+The **yname** is a free [Freighter]({{< ref "/categories/" >}}freighters) that was available on June 7th, 2022.
 
 ## Description
 
@@ -35,7 +35,7 @@ The ship has the appearance of a monkey, stood on all fours with its tail angled
 
 - return to monke
 
-## Version History 
+## Version History
 
 - Explosion radius reduced from 600 to 100 in version .75a11.
 - Class changed to Freighter in version .75a12.

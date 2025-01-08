@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Jormungand
+  - /wiki/Jormungand
 categories:
-- NPC Ships
-- Ships
-- Battlecruisers
-- Pirate Ships
+  - NPC Ships
+  - Ships
+  - Battlecruisers
+  - Pirate Ships
 title: Jormungand
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-The **_Jormungand_** is a Pirate **[AI]({{< ref "/categories/" >}}npc-ships) [Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** that acts as the big brother to the [Dragoon]({{< ref "/wiki/" >}}Dragoon). 
+The **_Jormungand_** is a Pirate **[AI]({{< ref "/categories/" >}}npc-ships) [Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** that acts as the big brother to the [Dragoon]({{< ref "/wiki/" >}}Dragoon).
 
 ## Description
 
@@ -37,7 +37,7 @@ One unusual factor about it that sets it unique from other [AI]({{< ref "/wiki/"
 
 10 [Armor Scrap]({{< ref "/wiki/" >}}Armor-Scrap), 50 [Material Scrap]({{< ref "/wiki/" >}}Material-Scrap) and ~5.5k in combat rewards.
 
-## Version History 
+## Version History
 
 - 4 Small Phasers on the [F] spinal changed to 3 Small Phasers, and 2 Phasers added as the [G] spinal in version ???.
 - 15 Armor Scraps added for loot in version .73c10.

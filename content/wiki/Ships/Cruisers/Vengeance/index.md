@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Vengeance
+  - /wiki/Vengeance
 categories:
-- Ships
-- Cruisers
-- PVP Ships
-- Support Ships
-- Pirate Ships
+  - Ships
+  - Cruisers
+  - PVP Ships
+  - Support Ships
+  - Pirate Ships
 title: Vengeance
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Vengeance_** is a Shield-heavy [**Cruiser**]({{< ref "/categories/" >}}cruisers) entirely focused on [Spinals]({{< ref "/wiki/" >}}Spinals). 
+The **_Vengeance_** is a Shield-heavy [**Cruiser**]({{< ref "/categories/" >}}cruisers) entirely focused on [Spinals]({{< ref "/wiki/" >}}Spinals).
 
 ## Description
 
@@ -44,7 +44,7 @@ The **Vengeance** has an extremely basic interior, with just one plain seat for 
 - Keep at range against small ships. If you do, the Phasers and Cannons will shred them.
 - Can be used as a pirate ship, due to its high spinal damage and cargo hold.
 
-## Version History 
+## Version History
 
 - This ship has not yet been changed yet.
 - Disabled and taken off sale until a remodel is available (version .69a2).

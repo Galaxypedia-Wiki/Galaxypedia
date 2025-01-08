@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/E-Class
+  - /wiki/E-Class
 categories:
-- Freighters
-- Ships
+  - Freighters
+  - Ships
 title: E Class
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_E Class_** is currently the largest**[Freighter]({{< ref "/categories/" >}}freighters) **in the game. 
+The **_E Class_** is currently the largest**[Freighter]({{< ref "/categories/" >}}freighters) **in the game.
 
 ## Description
 
@@ -50,7 +50,7 @@ The interior is largely confined to the cockpit. A hallway with a teleporter can
 - <s>This ship is an effective tool for VIP servers especially when trying to do a low player count eco server. Refer to the [trading tab]({{< ref "/wiki/" >}}Trading) on how to set one up.</s> Removed VIP servers in an unknown update.
 - If you get stuck in the Mega Base, **DO NOT MOVE** **AND DO NOT TRY TO DOCK as**it might cause your ship to fling. instead, calmly wait for your warp to charge, then warp away. If being attacked when becoming stuck, use a screen recorder, so you may provide your video to the Admins and potentially get your ship refunded if it is destroyed during the bug.
 
-## Version History 
+## Version History
 
 - Received a remodel by EvilPleeber119 in version .75a3.
 - Received a remodel adding more "cargo pods" to the sides in (unknown version please add)

@@ -1,16 +1,18 @@
 ---
 aliases:
-- /wiki/AI-Fighters
+  - /wiki/AI-Fighters
 categories:
-- Game Mechanics
-- NPC Ships
+  - Game Mechanics
+  - NPC Ships
 title: AI Fighters
----AI Fighters are a Robux exclusive feature of [Carriers]({{< ref "/categories/" >}}carriers) that allows the pilot of any Carrier to control their ship's [Fighters]({{< ref "/categories/" >}}fighters) with [AI]({{< ref "/categories/" >}}npc-ships) instead of players. They are priced at 300 Robux each, or 100,000 Credits for the first AI pilot purchased with credits (the second one is 125k, third 150k, and so on until the cost caps out at 500,000 Credits). ![Swarm of AI Fighters attacking a
+---
+
+AI Fighters are a Robux exclusive feature of [Carriers]({{< ref "/categories/" >}}carriers) that allows the pilot of any Carrier to control their ship's [Fighters]({{< ref "/categories/" >}}fighters) with [AI]({{< ref "/categories/" >}}npc-ships) instead of players. They are priced at 300 Robux each, or 100,000 Credits for the first AI pilot purchased with credits (the second one is 125k, third 150k, and so on until the cost caps out at 500,000 Credits). ![Swarm of AI Fighters attacking a
 ship.](AIFighterSwarm.png "Swarm of AI Fighters attacking a ship.")
 
-AI Fighters are effective for earning money, as each fighter's combat reward will be rewarded to the carrier (provided the fighters are still alive and that the target dies) 
+AI Fighters are effective for earning money, as each fighter's combat reward will be rewarded to the carrier (provided the fighters are still alive and that the target dies)
 
-## Interface and Behavior 
+## Interface and Behavior
 
 As the name suggests, **AI Fighters** are controlled by an [AI]({{< ref "/categories/" >}}npc-ships), and can be commanded by the [Carrier's]({{< ref "/categories/" >}}carriers) pilot to do various tasks via the **Fighter Control Center**.
 
@@ -52,7 +54,7 @@ If you want to deselect control of a Fighter, click the Fighter with a Thick Out
 |              | [Fighter]({{< ref "/wiki/" >}}:Categ---------|-age](FighterDamaged.png) | | | ory:Fighters "wikilink") | | | | is damaged, it's | | | | Fighter Infobox will | | | | tell how much | | | | [Shi | | | | eld]({{< ref "/wiki/" >}}Shields) | | | | and | | | | [Hull]({{< ref "/wiki/" >}}Hull) | | | | it has, much like how | | | | damaged your ships are | | | | in the "Spawn Ship" | | | | section. | | +--------------+--------------------------+--------------------------+ | **Dead** | If a | ! | | | [Fighter]({{< ref "/wiki/" >}}:Categ-|-[image](FighterDead.png) | | | ory:Fighters "wikilink") | | | | is dead, it will grey | | | | out the Fighter Infobox | | | | of that Fighter. | | | | | | | | If any **AI Fighter** | | | | dies _(e.g 4 out 12 of | | | | AI Fighters die, you | | | | will be left with 8 | | | | usable AI Pilots),_ you | | | | have to respawn the | | | | carrier to regain the | | | | **AI Fighters** that | | | | died. The "Remaining" | | | | AI Pilots found on the | | | | far right of the | | | | **Fighter Control | | | | Center** tells how much | | | | "AI Pilots" are on | | | | your disposal inside | | | | your carrier, as said | | | | before, you have to | | | | respawn your carrier in | | | | order to regain the AI | | | | Fighters that you lost. | | +--------------+--------------------------+--------------------------+ | **Occupied** | If a | ![ima                    |
 |              | [Fighter]({{< ref "/wiki/" >}}:Categ---------|-ge](FighterOccupied.png) | | | ory:Fighters "wikilink") | | | | is occupied by another | | | | player, it will show as | | | | a red outline over the | | | | **Fighter Infobox** that | | | | the other player is | | | | currently piloting. | | | | | | | | These Fighters can still | | | | be overridden by giving | | | | the Fighter an AI Pilot | | | | command, but the player | | | | piloting the Fighter | | | | will be kicked out of | | | | the pilot seat and will | | | | fall off. Be wary of | | | | this status when you | | | | have players controlling | | | | many of your Fighters. | | +--------------+--------------------------+--------------------------+ | | | | +--------------+--------------------------+--------------------------+
 
-### Additional Info 
+### Additional Info
 
 - Fighters that are controlled by AI will have their fighter name prefix be the owner of the Carrier _(e.g CarrierMain6969 Wraith)_, while the Fighters that are controlled by Players will have their fighter name prefix be the faction the Carrier is in. _(e.g Galaxy Defenders Wraith)_
 
@@ -68,7 +70,7 @@ If you want to deselect control of a Fighter, click the Fighter with a Thick Out
 - Combat Reward is given in full to the Carrier owner when an AI-Controlled Fighter with accumulated CR destroys a ship. But the accumulated CR will be lost if the AI-Fighter carrying it is destroyed before it's target is destroyed. For Player-Controlled Fighters, the Combat Reward is instead given to the Pilot of the Fighter instead of the Captain of the Carrier that houses it.
 - Fighters on a carrier take 60 seconds to re-spawn upon being destroyed.
 
-### Known Bugs 
+### Known Bugs
 
 - AI Fighters sometimes forget their commands when they destroy a ship. Best example of this is when an AI Pilot destroys a ship during a guard command, afterwards it will wander off from its guard spot aimlessly.
 - AI Fighters that are recalled are known to cause a bug where the [carrier]({{< ref "/categories/" >}}carriers) goes up to the recalled [fighter's]({{< ref "/categories/" >}}fighters) top speed (e.g. [Nimitz]({{< ref "/wiki/" >}}Nimitz) having [Interceptor F's]({{< ref "/wiki/" >}}Interceptor-F) top speed), caused by getting on a recalled AI Fighter, and then the pilot getting in the seat.
@@ -97,7 +99,7 @@ Amount Credits
 
 : AI Fighters per Credit
 
-## Version History 
+## Version History
 
 - Available in version .73f for a short time, and was quickly removed.
 - Re-added in version .74a.

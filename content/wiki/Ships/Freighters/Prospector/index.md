@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Prospector
+  - /wiki/Prospector
 categories:
-- Ships
-- Freighters
+  - Ships
+  - Freighters
 title: Prospector
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Prospector_** is a light [**Freighter**]({{< ref "/categories/" >}}freighters) with a focus on [Hull]({{< ref "/wiki/" >}}Hull) health. 
+The **_Prospector_** is a light [**Freighter**]({{< ref "/categories/" >}}freighters) with a focus on [Hull]({{< ref "/wiki/" >}}Hull) health.
 
 ## Description
 
@@ -37,7 +37,7 @@ The **Prospector** is entered through a metal door on the back that leads to a l
 - Go to the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) when it is safe. Always check your route if you're in a war. There might be a [Pirate]({{< ref "/wiki/" >}}Pirating) or two waiting for you.
 - Check how far away the closest [Alien]({{< ref "/wiki/" >}}aliens) is and where it is heading.
 
-## Version History 
+## Version History
 
 - Received buffs in .61e4 that doubled [Hull]({{< ref "/wiki/" >}}Hull) and [Shields]({{< ref "/wiki/" >}}Shields), and gave the ship *some*damage resistance.
 - Buffed in .65b - [Shield]({{< ref "/wiki/" >}}Shields) increased from 700 to 1200, [Hull]({{< ref "/wiki/" >}}Hull) increased from 1050 to 1500, Cargo Hold increased from 1000 to 1750, price increased somewhat. Also received a remodel.

@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Kneall-Core
+  - /wiki/Kneall-Core
 categories:
-- Items
+  - Items
 title: Kneall Core
----## Overview
+---
+
+## Overview
 
 The [Kneall]({{< ref "/wiki/" >}}Kneall) Core is an item obtained from the [Kneall Eradicator]({{< ref "/wiki/" >}}Kneall-Eradicator) during waves 7 & 8 in the [Kneall Stronghold]({{< ref "/wiki/" >}}Kneall-Stronghold) bossfight. It can be used to build the [Annihilator]({{< ref "/wiki/" >}}Annihilator) and the [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2). To obtain one, you must first pass the 15% damage threshold on a Kneall Eradicator, and you will receive an item from it's loot pool. The Kneall Core then has a 35%(?) chance of dropping.
 

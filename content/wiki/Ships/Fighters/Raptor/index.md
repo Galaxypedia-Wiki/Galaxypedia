@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Raptor
+  - /wiki/Raptor
 categories:
-- Ships
-- Fighters
-- Support Ships
-- PVP Ships
+  - Ships
+  - Fighters
+  - Support Ships
+  - PVP Ships
 title: Raptor
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Raptor_** is the signature [**Fighter**]({{< ref "/categories/" >}}fighters) of the [Carrier]({{< ref "/categories/" >}}carriers)-class ship [Warlord]({{< ref "/wiki/" >}}Warlord).
 
@@ -39,7 +39,7 @@ The **Raptor** has no interior. Like all [Fighters]({{< ref "/categories/" >}}fi
 - Make sure to assist your fleet by defending against smaller [Ships]({{< ref "/wiki/" >}}Ships) or by pestering larger ones.
 - Stay close to your fleet's ships or with a group of other [Fighters]({{< ref "/categories/" >}}fighters); never go out on your own.
 
-## Version History 
+## Version History
 
 - No logged changes.
 

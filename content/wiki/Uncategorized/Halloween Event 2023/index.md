@@ -1,18 +1,20 @@
 ---
 aliases:
-- /wiki/Halloween-Event-2023
+  - /wiki/Halloween-Event-2023
 title: Halloween Event 2023
----## Overview
+---
+
+## Overview
 
 The **Halloween 2023 Event** was accidentally released on October 13th, 2023 and was later fully released on October 15th, 2023. It ended on November 19th, 2023. This event had "2" parts.
 
-### <u>Part 1:</u> 
+### <u>Part 1:</u>
 
 Part 1 introduced 7 new ships and the Excursion Staging Points; The Excursion Staging Points were used to get to the Excursion; The Excursion contained a new base called the Beachhead and several bases which were called Caches.
 
 These Caches spawned ships which were required to be destroyed before destroying the base, both the ships and the base gave rewards used to make new ships.
 
-### <u>Part 2:</u> 
+### <u>Part 2:</u>
 
 Part 2 re-released 4 ships, that being:
 
@@ -23,11 +25,11 @@ Part 2 re-released 4 ships, that being:
 
 # Ships
 
-### Part 1 Ships: 
+### Part 1 Ships:
 
 <File:ApogeeOverview.png>|[Apogee]({{< ref "/wiki/" >}}Apogee) <File:Odyssey.png>|[Odyssey]({{< ref "/wiki/" >}}Odyssey) <File:Theseus-front.png>|[Theseus]({{< ref "/wiki/" >}}Theseus) <File:Theseus-front.png>|[Theseus-U]({{< ref "/wiki/" >}}Theseus-U) <File:Theseus-front.png>|[Theseus-E]({{< ref "/wiki/" >}}Theseus-E) <File:Theseus-K-icon.png>|[Theseus-K]({{< ref "/wiki/" >}}Theseus-K) <File:Theseus-X-front.png>|[Theseus-X]({{< ref "/wiki/" >}}Theseus-X)
 
-### Part 2 Ships: 
+### Part 2 Ships:
 
 <File:Revenge-icon.png>|[Revenge]({{< ref "/wiki/" >}}Revenge) (Re-released) <File:Anathema-icon.png>|[Anathema]({{< ref "/wiki/" >}}Anathema) (Re-released) <File:Incarnate-icon.png>|[Incarnate]({{< ref "/wiki/" >}}Incarnate) (Re-released) <File:Jupiter-icon.png>|[Jupiter]({{< ref "/wiki/" >}}Jupiter) (Re-released)
 

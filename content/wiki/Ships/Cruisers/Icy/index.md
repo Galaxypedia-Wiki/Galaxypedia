@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Icy
+  - /wiki/Icy
 categories:
-- Ships
-- Cruisers
-- Limited Ships
-- Reskins
-- Christmas Event 2017
-- Support Ships
-- PVP Ships
+  - Ships
+  - Cruisers
+  - Limited Ships
+  - Reskins
+  - Christmas Event 2017
+  - Support Ships
+  - PVP Ships
 title: Icy
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Icy_** is a remodel of the [**Cruiser Class**]({{< ref "/categories/" >}}cruisers) ship [Invictus]({{< ref "/wiki/" >}}Invictus).
 
@@ -50,7 +50,7 @@ The Interior of the **Icy** contains long hallway, however the floor as a surfac
 - When engaged, always make sure you are exploiting the enemy's blind spot with your high speed.
 - Fight ships with anti-laser arsenals, as your high [Hull]({{< ref "/wiki/" >}}Hull) will protect you from their lasers.
 
-## Version History 
+## Version History
 
 - Added in .60.
 - Received a rebalance in .60d that boosted [Shields]({{< ref "/wiki/" >}}Shields) by 400 and decreased [Hull]({{< ref "/wiki/" >}}Hull) by 100.

@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Viper
+  - /wiki/Viper
 categories:
-- Ships
-- Frigates
-- Support Ships
-- PVP Ships
-- Pirate Ships
+  - Ships
+  - Frigates
+  - Support Ships
+  - PVP Ships
+  - Pirate Ships
 title: Viper
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Viper_** is a highly maneuverable **[Frigate]({{< ref "/categories/" >}}frigates)**. 
+The **_Viper_** is a highly maneuverable **[Frigate]({{< ref "/categories/" >}}frigates)**.
 
 ## Description
 
@@ -59,4 +59,4 @@ The **Viper** has a simple interior, with only a pilot's seat, a small black and
 ![Render of studio model. Note the faction color patterns on wings are
 not present
 in-game.](Viper2.png "Render of studio model. Note the faction color patterns on wings are not present in-game."){width="305" height="305"} ![Viper Mark II from "Battlestar Galactica: Blood &
-Chrome.](BS0_Banner_914x655_0-(2)_0.png "Viper Mark II from "Battlestar Galactica: Blood & Chrome."){width="220" height="220"}
+Chrome.](BS0_Banner_914x655_0-(2)\_0.png "Viper Mark II from "Battlestar Galactica: Blood & Chrome."){width="220" height="220"}

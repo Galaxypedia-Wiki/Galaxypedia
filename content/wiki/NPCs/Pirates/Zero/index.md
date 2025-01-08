@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Zero
+  - /wiki/Zero
 categories:
-- Ships
-- Pirate Ships
-- PVP Ships
-- Support Ships
+  - Ships
+  - Pirate Ships
+  - PVP Ships
+  - Support Ships
 title: Zero
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Zero_**is a very good [**Destroyer**]({{< ref "/wiki/" >}}:category:destroyer) for dog-fighting.
 
@@ -44,7 +44,7 @@ The interior of the **Zero** consists only of a small pass-through cockpit windo
 - Avoid ships with many small turrets such as the ampharos as they will shred you apart.
 - Use Q and E to tilt your ship to make sure the most spinals can hit.
 
-## Version History 
+## Version History
 
 - Remodeled in an unknown version.
 - Top speed reduced from 210 to 115, Turn Speed reduced from 0.63 to 0.5, 2 [Medium Phasers]({{< ref "/wiki/" >}}Spinals) changed to 4 [Small Phasers]({{< ref "/wiki/" >}}Spinals) and given a remodel in version .66b.

@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Orion-X
+  - /wiki/Orion-X
 categories:
-- NPC Ships
-- U.N.E
-- Ships
+  - NPC Ships
+  - U.N.E
+  - Ships
 title: Orion-X
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 _This article describes the NPC ship. for the player-obtainable vessel, see [Orion]({{< ref "/wiki/" >}}Orion)._
 

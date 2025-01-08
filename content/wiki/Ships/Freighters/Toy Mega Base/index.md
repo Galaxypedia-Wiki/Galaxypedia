@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Toy-Mega-Base
+  - /wiki/Toy-Mega-Base
 categories:
-- Ships
-- Freighters
-- Christmas Event 2020
+  - Ships
+  - Freighters
+  - Christmas Event 2020
 title: Toy Mega Base
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Toy Mega Base_** is a [**Freighter-class**]({{< ref "/categories/" >}}freighters) ship found in one of the gifts at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020) and could have also been built during the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021) in the build menu. 
+The **_Toy Mega Base_** is a [**Freighter-class**]({{< ref "/categories/" >}}freighters) ship found in one of the gifts at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020) and could have also been built during the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021) in the build menu.
 
 ## Description
 
@@ -40,7 +40,7 @@ The **Toy Mega Base** has no interior; pilots sit on a seat positioned above the
 - Go to the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) when it is safe. Always check your route if you're in a war, as there might be a pirate waiting for you. If there is, stay at your base.
 - Check how far away the closest [Alien]({{< ref "/wiki/" >}}Aliens) is and where it is heading to.
 
-## Version History 
+## Version History
 
 - In .69a1, it was added to the 2021 Christmas Event. It was available in the build menu under 'freighter'.
 - Cargo Hold increased from 2000 to 2250 and Acceleration doubled in version .70a.

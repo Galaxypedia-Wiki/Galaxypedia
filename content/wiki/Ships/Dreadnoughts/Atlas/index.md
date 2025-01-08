@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Atlas
+  - /wiki/Atlas
 categories:
-- Dreadnoughts
-- Siege Ships
-- Support Ships
-- Capital Ships
-- Ships
-- Limited Ships
-- Black Friday 2020
+  - Dreadnoughts
+  - Siege Ships
+  - Support Ships
+  - Capital Ships
+  - Ships
+  - Limited Ships
+  - Black Friday 2020
 title: Atlas
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Atlas_** is an oddly-shaped [Limited]({{< ref "/categories/" >}}limited-ships) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts). 
+The **_Atlas_** is an oddly-shaped [Limited]({{< ref "/categories/" >}}limited-ships) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
 
 ## Description
 
@@ -50,7 +50,7 @@ The interior of the **_Atlas_** is well shaped with a large room containing a se
 - Avoid small ships such as [Frigates]({{< ref "/categories/" >}}frigates) or [Destroyers]({{< ref "/categories/" >}}destroyers), as they are hard to hit sometimes and can destroy you easily.
 - Don't use this against hull-breaker ships, as they will destroy your hull quickly.
 
-## Version History 
+## Version History
 
 - Added as part of the mega update in version .66b
 - The Soviet Insignia was removed soon after its release, this caused some of the community to be upset and mad.

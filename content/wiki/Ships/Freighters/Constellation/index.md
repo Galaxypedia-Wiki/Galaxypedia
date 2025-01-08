@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Constellation
+  - /wiki/Constellation
 categories:
-- Ships
-- Freighters
-- VIP Ships
+  - Ships
+  - Freighters
+  - VIP Ships
 title: Constellation
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/vipShip >}} 
+{{< notices/vipShip >}}
 
-The **_Constellation_** is a medium sized [**Freighter**]({{< ref "/categories/" >}}freighters)-class ship. It formerly had no armament, due to the removal of all armaments from armed freighters (except [Carvainir]({{< ref "/wiki/" >}}Carvainir), which was moved to [Battleship]({{< ref "/categories/" >}}battleships)). 
+The **_Constellation_** is a medium sized [**Freighter**]({{< ref "/categories/" >}}freighters)-class ship. It formerly had no armament, due to the removal of all armaments from armed freighters (except [Carvainir]({{< ref "/wiki/" >}}Carvainir), which was moved to [Battleship]({{< ref "/categories/" >}}battleships)).
 
 ## Description
 
@@ -41,7 +41,7 @@ To enter the **Constellation's**interior, step on a teleportation pad located on
 - Check the [Minimap]({{< ref "/wiki/" >}}Minimap) often so you can warp away from any enemy [Ships]({{< ref "/wiki/" >}}Ships) if needed.
 - If anything stronger than a [Battlecruiser]({{< ref "/categories/" >}}battlecruisers) attacks you, retreat to your [Starbase]({{< ref "/wiki/" >}}Starbase) or to a safe area _as soon as possible!_
 
-## Version History 
+## Version History
 
 - One of the 2 [Medium Flak Cannons]({{< ref "/wiki/" >}}Turrets) was replaced with a [Medium Laser]({{< ref "/wiki/" >}}Turrets) in .61g1.
 - Received a buff in .62a1 that added a second [Medium Laser]({{< ref "/wiki/" >}}Turrets) and [Medium Flak Cannon]({{< ref "/wiki/" >}}Turrets).

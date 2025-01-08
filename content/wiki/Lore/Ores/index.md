@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Ores
+  - /wiki/Ores
 categories:
-- Items
-- Galaxy Lore Pages
+  - Items
+  - Galaxy Lore Pages
 title: Ores
----## Description
+---
+
+## Description
 
 ![Rare Ore Quadrants, showing the Dead Zone as
 red.](OreQuadrants.png "Rare Ore Quadrants, showing the Dead Zone as red.")_For information on [Mining]({{< ref "/wiki/" >}}Mining) read the [Mining]({{< ref "/wiki/" >}}Mining) page._ **_Ores_** are rocky materials used mainly to build ships and the make credits. These materials are a core part of mining.

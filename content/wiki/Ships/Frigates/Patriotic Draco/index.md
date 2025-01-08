@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Patriotic-Draco
+  - /wiki/Patriotic-Draco
 categories:
-- Ships
-- Frigates
-- Fourth of July 2021
-- Limited Ships
-- Reskins
+  - Ships
+  - Frigates
+  - Fourth of July 2021
+  - Limited Ships
+  - Reskins
 title: Patriotic Draco
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Patriotic Draco_** is a very fast [Frigate]({{< ref "/categories/" >}}frigates) released for the [Fourth of July 2021]({{< ref "/categories/" >}}fourth-of-july-2021) Event Part 1.
 
@@ -39,7 +39,7 @@ The **Patriotic Draco** is a reskinned [Draco]({{< ref "/wiki/" >}}Draco).
 - Swarm with the **Patriotic Draco** for good damage output in a short amount of time.
 - Be cautious when using this ship since the **Patriotic Draco** is a [limited ship]({{< ref "/categories/" >}}limited-ships).
 
-## Version History 
+## Version History
 
 - Removed from the game along with a majority of other Limited recolors in version .75a5.
 

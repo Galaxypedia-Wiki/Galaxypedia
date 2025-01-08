@@ -1,14 +1,16 @@
 ---
 aliases:
-- /wiki/Galaxy-Star-Wars-Event
+  - /wiki/Galaxy-Star-Wars-Event
 categories:
-- Quests
-- NPCS
-- Removed From Game
-- Limited Ships
-- Events
+  - Quests
+  - NPCS
+  - Removed From Game
+  - Limited Ships
+  - Events
 title: Galaxy Star Wars Event
----<div class="cardcontainer">
+---
+
+<div class="cardcontainer">
 # The Rogue One Star Wars Event
 
 In 2016, Roblox hosted an event advertising the release of _Rogue One: A Star Wars Story_. It lasted from December 8 to December 19. The games chosen to advertise the movie release were [Phantom Forces](https://www.roblox.com/games/180719833/PRESENTS-Skybound-2), [Skybound 2](https://www.roblox.com/games/180719833/PRESENTS-Skybound-2) and [Galaxy](https://www.roblox.com/games/200330616/Galaxy). As with most ROBLOX events, players could win prizes in each game by completing specific objectives. The prizes available between all of the games were the [Interstellar Sunglasses](https://www.roblox.com/catalog/566779626/Interstellar-Sunglasses), [Helios Headphones](https://www.roblox.com/catalog/566779415/Helios-Headphones), [Galactic Sun Hat](https://www.roblox.com/catalog/566778868/Galactic-Sun-Hat), [The Major's Helmet](https://www.roblox.com/catalog/566779193/The-Major-s-Helmet), [U.FUN.O](https://www.roblox.com/catalog/566780416/U-Fun-O) and the [Celestial Scimitar](https://www.roblox.com/catalog/566780253/Celestial-Scimitar). [Galaxy's](https://www.roblox.com/games/200330616/Galaxy) event gave out the prizes known as the [Galactic Sun Hat](https://www.roblox.com/catalog/566778868/Galactic-Sun-Hat) and the [Interstellar Sunglasses](https://www.roblox.com/catalog/566779626/Interstellar-Sunglasses)![centre]({{< ref "/wiki/" >}}Rogue-One-Blog-Prizes-Asset.png-"centre"){width="650" height="650"}

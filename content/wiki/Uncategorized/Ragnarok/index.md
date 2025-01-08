@@ -1,10 +1,10 @@
 ---
 aliases:
-- /wiki/Ragnarok
+  - /wiki/Ragnarok
 title: Ragnarok
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 ## Description
 
@@ -26,7 +26,7 @@ Unknown
 
 Unknown
 
-## Version History 
+## Version History
 
 Unknown
 

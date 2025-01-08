@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Debt-Token
+  - /wiki/Debt-Token
 categories:
-- Items
+  - Items
 title: Debt Token
----## Description
+---
+
+## Description
 
 The **Debt Token** is a special [Item]({{< ref "/categories/" >}}items) used mainly for Punishments from Admins due to various reasons.
 
@@ -15,7 +17,7 @@ This Item has a negative buy and sell value, meaning you gain credits when buyin
 - This item is the only item in the game that takes absolutely no space in a player's warehouse.
 - Before this item prevented the spawning of combat ships while in possession of it, it was frequently used to get a "loan" of credits to make expensive purchases whenever there was a large amount of this item in stock.
 
-## Version History 
+## Version History
 
 - Item added in version **???**.
 - Item size changed from 7.5m³ to having no size at all, along with now preventing the spawning of combat ships while in possession of said item in version .76b2, February 16, 2022.

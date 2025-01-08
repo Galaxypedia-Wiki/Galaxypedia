@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Blood-Ravens
+  - /wiki/Blood-Ravens
 categories:
-- Galaxy Lore Pages
-- Clans
+  - Galaxy Lore Pages
+  - Clans
 title: Blood Ravens
----![]({{< ref "/wiki/" >}}A956DBFD-B42C-47B2-A879-E5261088264E.jpeg-"A956DBFD-B42C-47B2-A879-E5261088264E.jpeg")
+---
+
+![]({{< ref "/wiki/" >}}A956DBFD-B42C-47B2-A879-E5261088264E.jpeg-"A956DBFD-B42C-47B2-A879-E5261088264E.jpeg")
 
 <div align="justify" class="cardcontainer" style="font-size: 14px; line-height: 24px;">
 # Blood Ravens

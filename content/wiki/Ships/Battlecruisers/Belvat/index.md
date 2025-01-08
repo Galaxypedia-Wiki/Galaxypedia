@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Belvat
+  - /wiki/Belvat
 categories:
-- Ships
-- Battlecruisers
-- PVP Ships
-- Siege Ships
-- Pirate Ships
-- Support Ships
-- All-Rounder Ships
+  - Ships
+  - Battlecruisers
+  - PVP Ships
+  - Siege Ships
+  - Pirate Ships
+  - Support Ships
+  - All-Rounder Ships
 title: Belvat
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Belvat_** is a shuttle-like [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) with a [Torpedo]({{< ref "/wiki/" >}}Spinals).
 
@@ -48,7 +48,7 @@ The **Belvat's** interior consists of a simple hallway behind the cockpit that a
 - Attack from above/below to try and get the jump on other Ships before they can realize where you are.
 - During a siege, use the [Torpedo]({{< ref "/wiki/" >}}Spinals) against static or slow targets, like bases and [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts).
 
-## Version History 
+## Version History
 
 - It used to use an odd wield script resulting in offset parts. It was later fixed in the Version .52 update.
 - Remodeled in the continuation of version .65b.

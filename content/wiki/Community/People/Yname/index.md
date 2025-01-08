@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Yname
+  - /wiki/Yname
 categories:
-- Biographies
+  - Biographies
 title: Yname
----[Yname](https://www.roblox.com/users/34250563/profile) is the current Game Owner for the Roblox game known as [Galaxy](https://www.roblox.com/games/12426862174/Galaxy-Delta) after [rcouret]({{< ref "/wiki/" >}}rcouret) handed it over via contract.
+---
+
+[Yname](https://www.roblox.com/users/34250563/profile) is the current Game Owner for the Roblox game known as [Galaxy](https://www.roblox.com/games/12426862174/Galaxy-Delta) after [rcouret]({{< ref "/wiki/" >}}rcouret) handed it over via contract.
 
 ## Story
 

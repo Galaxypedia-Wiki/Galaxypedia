@@ -1,25 +1,25 @@
 ---
 aliases:
-- /wiki/Anathema
+  - /wiki/Anathema
 categories:
-- Ships
-- Halloween 2022
+  - Ships
+  - Halloween 2022
 title: Anathema
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 _This page is about the player-ownable vessel. If you're looking for the NPC variant, see [An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗]({{< ref "/wiki/" >}}An̶͋̈́a̶̍̆t̵̀̏h̷͓̚e̵̩͒m̷͗͊a̴̬͗)._
 
 The **Anathema** is a [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022) [Quest]({{< ref "/categories/" >}}quests) [Battlecruiser]({{< ref "/categories/" >}}battlecruisers).
 
-## Obtaining Method 
+## Obtaining Method
 
-Drive 88k studs of terminal C2 from mega, you will then reach a wreck of an Anathema, on top of the wreck is a quest called [The plague]({{< ref "/wiki/" >}}The-plague). 
+Drive 88k studs of terminal C2 from mega, you will then reach a wreck of an Anathema, on top of the wreck is a quest called [The plague]({{< ref "/wiki/" >}}The-plague).
 
 ## Description
 

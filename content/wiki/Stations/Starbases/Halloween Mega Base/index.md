@@ -1,15 +1,17 @@
 ---
 aliases:
-- /wiki/Halloween-Mega-Base
+  - /wiki/Halloween-Mega-Base
 categories:
-- Halloween 2017
-- Starbases
-- Limited Ships
-- Removed From Game
-- Halloween 2018
-- Halloween 2019
+  - Halloween 2017
+  - Starbases
+  - Limited Ships
+  - Removed From Game
+  - Halloween 2018
+  - Halloween 2019
 title: Halloween Mega Base
----<div class="cardcontainer" style="font-size:15px; line-height:24px">
+---
+
+<div class="cardcontainer" style="font-size:15px; line-height:24px">
 # Overview
 
 The **_Halloween Mega Base_** is a limited reskin of the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) that has appeared during the past four Halloween [Events]({{< ref "/categories/" >}}events).
@@ -40,7 +42,6 @@ The **Halloween Mega Base** was brought back in the [Halloween Event 2018]({{< r
 <div class="cardcontainer" style="font-size:15px; line-height:24px">
 # Description - 2017
 
-![]({{< ref "/wiki/" >}}halloween-mega-base-gif.gif-"halloween-mega-base-gif.gif"){width="300"} ![]({{< ref "/wiki/" >}}6685e98ab74a38a5ffeb965ef8f6843a.png-"6685e98ab74a38a5ffeb965ef8f6843a.png"){width="350"}
-The **Halloween Mega Base** was first added in the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017). The **Halloween Mega Base** played spooky music instead of the normal [Mega Base]({{< ref "/wiki/" >}}Mega-Base) sounds. It started September 30^th^ and it was removed on midnight, November 5^th^ as stated by [Rcouret]({{< ref "/wiki/" >}}Rcouret). The music played at the **Halloween Mega Base** was called [Dark Cemetery](https://www.youtube.com/watch?v=_m3aO21JO50).
+![]({{< ref "/wiki/" >}}halloween-mega-base-gif.gif-"halloween-mega-base-gif.gif"){width="300"} ![]({{< ref "/wiki/" >}}6685e98ab74a38a5ffeb965ef8f6843a.png-"6685e98ab74a38a5ffeb965ef8f6843a.png"){width="350"} The **Halloween Mega Base** was first added in the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017). The **Halloween Mega Base** played spooky music instead of the normal [Mega Base]({{< ref "/wiki/" >}}Mega-Base) sounds. It started September 30^th^ and it was removed on midnight, November 5^th^ as stated by [Rcouret]({{< ref "/wiki/" >}}Rcouret). The music played at the **Halloween Mega Base** was called [Dark Cemetery](https://www.youtube.com/watch?v=_m3aO21JO50).
 
 </div>

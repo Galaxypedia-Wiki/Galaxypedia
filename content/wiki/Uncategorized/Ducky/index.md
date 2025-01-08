@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Ducky
+  - /wiki/Ducky
 categories:
-- Ships
+  - Ships
 title: Ducky
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **Ducky** is a personal [Admin Ship]({{< ref "/categories/" >}}admin-ships) made by Duck_Blox.
 
@@ -36,7 +36,7 @@ No interior.
 - Meme on everyone because you have a duck.
 - There is no real strategy to using this ship; those flying it cannot fight back, so the only options are to tank damage with your 90% damage resistance or retreat.
 
-## Version History 
+## Version History
 
 - ?
 

@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Dire-Wolf
+  - /wiki/Dire-Wolf
 categories:
-- Ships
-- Battlecruisers
-- PVP Ships
-- Pirate Ships
-- All-Rounder Ships
-- Support Ships
+  - Ships
+  - Battlecruisers
+  - PVP Ships
+  - Pirate Ships
+  - All-Rounder Ships
+  - Support Ships
 title: Dire Wolf
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Dire Wolf_** is a classic **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** with high [Turret]({{< ref "/wiki/" >}}Turrets) firepower.
 
@@ -46,7 +46,7 @@ The **Dire Wolf** contains a pilot seat with a screen on the front. Behind it is
 - Use of [Spinals]({{< ref "/wiki/" >}}Spinals) are necessary to destroy [Hull]({{< ref "/wiki/" >}}Hull) so fighting with others is recommended.
 - In PVP, face your opponent straight on so all your [Turrets]({{< ref "/wiki/" >}}Turrets) [Spinals]({{< ref "/wiki/" >}}Spinals) can hit; drifting is recommended
 
-## Version History 
+## Version History
 
 - Remodeled in an unknown version.
 - 1 [Medium Laser]({{< ref "/wiki/" >}}Turrets) moved to the top of the ship, 2 [Medium Cannons]({{< ref "/wiki/" >}}Spinals) upsized to 2 [Large Cannons]({{< ref "/wiki/" >}}Spinals) and Top Speed increased from 130 to 140 in version .68e.

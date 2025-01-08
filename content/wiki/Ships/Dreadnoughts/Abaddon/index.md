@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Abaddon
+  - /wiki/Abaddon
 categories:
-- Limited Ships
-- Dreadnoughts
-- Halloween 2019
-- Capital Ships
-- Ships
-- PVP Ships
-- Support Ships
+  - Limited Ships
+  - Dreadnoughts
+  - Halloween 2019
+  - Capital Ships
+  - Ships
+  - PVP Ships
+  - Support Ships
 title: Abaddon
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **Abaddon** is a powerful [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) added in the [2019 Halloween Event]({{< ref "/categories/" >}}halloween-2019).
 
@@ -30,7 +30,7 @@ The Abaddon is a rather long and slim [dreadnought]({{< ref "/categories/" >}}dr
 
 Its shape and fins make it somewhat resemble a fish.
 
-The **Abaddon** shares the same interior as the [Azreal]({{< ref "/wiki/" >}}Azreal) and [Lucifer]({{< ref "/wiki/" >}}Lucifer), with a black, foggy hallway. At the front, there is a yellow glowing orb with electricity coming out of it, and in front of it there is yellow text that says <span style="color:#ffd424">*"**_LANCER ABADDON ONLINE_**".*</span> ![Ambience of the
+The **Abaddon** shares the same interior as the [Azreal]({{< ref "/wiki/" >}}Azreal) and [Lucifer]({{< ref "/wiki/" >}}Lucifer), with a black, foggy hallway. At the front, there is a yellow glowing orb with electricity coming out of it, and in front of it there is yellow text that says <span style="color:#ffd424">_"***LANCER ABADDON ONLINE***"._</span> ![Ambience of the
 Abaddon|none](HalloweenAmbienceII.mp4 "Ambience of the Abaddon|none")
 
 ## Advantages
@@ -61,7 +61,7 @@ Abaddon|none](HalloweenAmbienceII.mp4 "Ambience of the Abaddon|none")
 - Act as an extra pile of guns and not a flagship. The Abaddon can do tremendous amounts of damage, but being targeted greatly increases your chances of being destroyed.
 - Stay away from Hull-Breakers like [Hawklight]({{< ref "/wiki/" >}}Hawklight), as your [Hull]({{< ref "/wiki/" >}}Hull) has almost 1.5x the amount of your [Shields]({{< ref "/wiki/" >}}Shields).
 
-## Version History 
+## Version History
 
 - Received a 45% DPS nerf not long after being released in version .66b
 - [Spinal]({{< ref "/wiki/" >}}Spinal-Weaponry) count increased from 6/6 to 7/7 in version .73a.

@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Holy-Bible
+  - /wiki/Holy-Bible
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Holy Bible
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Holy Bible_** is an **[Admin]({{< ref "/categories/" >}}admin-ships)** ship and is one of the admin ships for Galaxy.
 
@@ -37,7 +37,7 @@ The Holy Bible has no interior.
 - Get other people to envy you.
 - Laugh at peasants.
 
-## Version History 
+## Version History
 
 - No changes logged
 

@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Black-Scarab
+  - /wiki/Black-Scarab
 categories:
-- Ships
-- Dreadnoughts
-- Halloween 2020
-- PVP Ships
-- Pirate Ships
-- Siege Ships
+  - Ships
+  - Dreadnoughts
+  - Halloween 2020
+  - PVP Ships
+  - Pirate Ships
+  - Siege Ships
 title: Black Scarab
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Black Scarab_**is a powerful event [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) from phase two of the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020). 
+The **_Black Scarab_**is a powerful event [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) from phase two of the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020).
 
 ## Description
 
@@ -49,7 +49,7 @@ The **Black Scarab** has a semi-full interior that contains a passageway to and 
 - When facing larger opponents, maintain speed and distance to dodge enemy fire and stay in your opponents blindspots.
 - Don't use this ship alone. The [Limited]({{< ref "/categories/" >}}limited-ships) status in combination with relatively low DPS make you a major target.
 
-## Version History 
+## Version History
 
 - Added teleporters in version .69d
 - Explosion Size 250 ----> 850 .75a12

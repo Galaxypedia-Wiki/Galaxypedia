@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Green-Snake
+  - /wiki/Green-Snake
 categories:
-- Limited Ships
-- Reskins
-- PVP Ships
-- Halloween 2018
-- Ships
-- Destroyers
+  - Limited Ships
+  - Reskins
+  - PVP Ships
+  - Halloween 2018
+  - Ships
+  - Destroyers
 title: Green Snake
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Green Snake_** is a **[Limited Event]({{< ref "/categories/" >}}limited-ships)** reskin of the **[Destroyer-class]({{< ref "/categories/" >}}destroyers)** [Cobra]({{< ref "/wiki/" >}}Cobra). 
+The **_Green Snake_** is a **[Limited Event]({{< ref "/categories/" >}}limited-ships)** reskin of the **[Destroyer-class]({{< ref "/categories/" >}}destroyers)** [Cobra]({{< ref "/wiki/" >}}Cobra).
 
 ## Description
 
@@ -41,7 +41,7 @@ A large opening containing several seats that line the walls, as well as the pil
 - Do not use this ship as a replacement for the [Cobra]({{< ref "/wiki/" >}}Cobra), as they have nearly identical stats.
 - Never use it in war as its limited and can only be required again at 3x its original cost.
 
-## Version History 
+## Version History
 
 - Added in .65a
 - Had its seats fixed in .65 (Including the secret seats)

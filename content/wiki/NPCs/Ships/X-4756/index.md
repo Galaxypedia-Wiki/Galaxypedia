@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/X-4756
+  - /wiki/X-4756
 categories:
-- NPC Ships
-- Ships
+  - NPC Ships
+  - Ships
 title: X-4756
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-The **_X-7849_** is an **[AI]({{< ref "/categories/" >}}npc-ships) [Freighter]({{< ref "/categories/" >}}freighters)** 
+The **_X-7849_** is an **[AI]({{< ref "/categories/" >}}npc-ships) [Freighter]({{< ref "/categories/" >}}freighters)**
 
 ## Description
 
@@ -26,7 +26,7 @@ The **X-4756** is an AI ship that, although classed on the map and via commands 
 - This ship is undefended on its own, but can call pirates to its side for reinforcement.
 - Can be lured to a max level [starbase]({{< ref "/wiki/" >}}starbase), but it will require the help of tanking and distracting to take it down, as a pirate fleet deals heavy damage with their spinals.
 
-## Version History 
+## Version History
 
 - Removed from being able to spawn along with the [X-7849]({{< ref "/wiki/" >}}X-7849), presumably for the duration of the [Helios]({{< ref "/wiki/" >}}Helios)' advanced ship rotation in version .72(?).
 - Added back along few other X class ships after [Helios]({{< ref "/wiki/" >}}Helios)' advanced ship rotation during the [Atheon]({{< ref "/wiki/" >}}Atheon) advanced ship rotation in version .7[?][?]

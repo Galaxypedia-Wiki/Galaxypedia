@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/D-Class
+  - /wiki/D-Class
 categories:
-- Ships
-- Freighters
+  - Ships
+  - Freighters
 title: D Class
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_D Class_** is currently the 2nd-largest [**Freighter**]({{< ref "/categories/" >}}freighters) in the game. [Excluding limited freighters] 
+The **_D Class_** is currently the 2nd-largest [**Freighter**]({{< ref "/categories/" >}}freighters) in the game. [Excluding limited freighters]
 
 ## Description
 
@@ -23,7 +23,7 @@ Features the same interior as the previous [E-Class]({{< ref "/wiki/" >}}E-Class
 
 - has 30x the cargohold of the [Wyrm]({{< ref "/wiki/" >}}Wyrm) and has 3x the cargohold of the [Hercules]({{< ref "/wiki/" >}}Hercules).
 - good health for its class.
-- Can easily make thousands of Credits per run even if the Economy is poor, so long as there are enough Ores for you to buy and *enough credits at another base for you to sell.
+- Can easily make thousands of Credits per run even if the Economy is poor, so long as there are enough Ores for you to buy and \*enough credits at another base for you to sell.
 - Somewhat fast for its size.
 - Docks as "Safe" at bases, meaning it is completely invulnerable when docked.
 
@@ -33,7 +33,7 @@ Features the same interior as the previous [E-Class]({{< ref "/wiki/" >}}E-Class
 - Terrible acceleration and turn speed makes it hard to escape quickly.
 - Extremely expensive for a Freighter.
 - Very vulnerable alone.
-- Pirates consider this ship the ultimate target since it's slow, defenseless, extremely expensive, and it often takes a long time to *dock at the Mega Base compared to most ships.
+- Pirates consider this ship the ultimate target since it's slow, defenseless, extremely expensive, and it often takes a long time to \*dock at the Mega Base compared to most ships.
 - When trading, finding enough Ores can be an issue.
 - Can break the Economy after a few trades, limiting its effective usage.
 - Takes time to make back the amount of money it costs.
@@ -48,7 +48,7 @@ Features the same interior as the previous [E-Class]({{< ref "/wiki/" >}}E-Class
 - Stay next to friendly combat ships.
 - This ship is an effective tool for VIP servers especially when trying to do a low player count eco server. Refer to the [trading tab]({{< ref "/wiki/" >}}Trading) on how to set one up.
 
-## Version History 
+## Version History
 
 - Hull nerfed from 6,000 to 4,000 hp in an unknown version.
 - Shield nerfed from 3500 to 3250 hp in an unknown version.

@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Mini-Alpha-Leviathan
+  - /wiki/Mini-Alpha-Leviathan
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Mini Alpha Leviathan
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Mini Alpha Leviathan_** is a [Fighter-class]({{< ref "/categories/" >}}fighters) ship found in the [Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship).
 

@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Obamasphere
+  - /wiki/Obamasphere
 categories:
-- Limited Ships
-- Ships
-- Fourth of July 2021
-- Frigates
+  - Limited Ships
+  - Ships
+  - Fourth of July 2021
+  - Frigates
 title: Obamasphere
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_obamasphere_** is a **[Frigate]({{< ref "/categories/" >}}frigates)** from the [**Fourth of July 2021**]({{< ref "/categories/" >}}fourth-of-july-2021) event.
 
@@ -34,7 +34,7 @@ The **obamasphere** has a small plank with a seat on the inside. This is very si
 - If you lose this, you can't get it back.
 - Has very low HP
 
-## Version History 
+## Version History
 
 - Re-classed from Frigate to Miner in version .72f
 - Ore Hold reduced from 6500 to 1 in order to reduce explosion radius in version .72f
@@ -50,6 +50,6 @@ The **obamasphere** has a small plank with a seat on the inside. This is very si
 - Was only a mere 5000 credits, which allowed both new players and old players to get this ship.
 - When the torpedoes hit a target and deal damage, it makes a funny sound.
 
-## July 7th Incident 
+## July 7th Incident
 
 On July 7th, 2021, the **obamasphere** was changed to a miner and given 6500 ore hold by SuperChip15. This resulted in the **obamasphere** being worth 300k and having an extreme nuke, approximately the nuke of the [Galaxy]({{< ref "/wiki/" >}}Galaxy). At 1:09 PM Eastern time, two obamaspheres were nuked in a private server, not knowing the explosion radius and damage. An [E Class]({{< ref "/wiki/" >}}E-Class), a [Weapon of Mass Destruction]({{< ref "/wiki/" >}}Weapon-of-Mass-Destruction), and an [Icebreaker]({{< ref "/wiki/" >}}Icebreaker) were destroyed by the explosion. ![July 7th Incident]({{< ref "/wiki/" >}}Obamasphere-incident.png-"July-7th-Incident") The nuke of the **obamasphere** has been nerfed due to this incident until a new patch rolls out (Which it has now as of 3/15/2022)

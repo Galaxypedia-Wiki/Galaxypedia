@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Stimulant-Subjugator
-- /wiki/The-Gardener
+  - /wiki/Stimulant-Subjugator
+  - /wiki/The-Gardener
 categories:
-- NPC Ships
-- Ultimate Retro Ship Event 2022
-- Titans
-- Bosses
-- Ships
+  - NPC Ships
+  - Ultimate Retro Ship Event 2022
+  - Titans
+  - Bosses
+  - Ships
 title: Stimulant Subjugator
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **Stimulant Subjugator** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Titan]({{< ref "/categories/" >}}titans) that spawned during the duration of the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022).
 

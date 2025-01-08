@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Ampharos
+  - /wiki/Ampharos
 categories:
-- Ships
-- Battleships
-- Support Ships
-- Pirate Ships
-- PVP Ships
-- Capital Ships
+  - Ships
+  - Battleships
+  - Support Ships
+  - Pirate Ships
+  - PVP Ships
+  - Capital Ships
 title: Ampharos
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Ampharos_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) great for defending heavy [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) ships during a siege. 
+The **_Ampharos_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) great for defending heavy [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) ships during a siege.
 
 ## Description
 
@@ -58,7 +58,7 @@ The interior of the **Ampharos** is very simple. You enter the ship through a te
 - In a pinch, it's fast speed to be used to distract heavy starbase turrets during a siege, but be mindful of your shield and hull while doing this.
 - You could wreck a [Hawklight]({{< ref "/wiki/" >}}Hawklight) if you're experienced, fire from the bottom of the [Hawklight]({{< ref "/wiki/" >}}Hawklight).
 
-## Version History 
+## Version History
 
 - The model of the ship was remade in update .53 for unknown reasons.
 - Changed in .63h to have nearly 1000 more health in each stat, replace the [Light Cannons]({{< ref "/wiki/" >}}Turrets) with dual [Medium Cannons]({{< ref "/wiki/" >}}Turrets), and increased the price.

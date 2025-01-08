@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Sovereign
+  - /wiki/Sovereign
 categories:
-- Ships
-- Battleships
-- PVP Ships
-- Support Ships
-- Capital Ships
-- U.N.E
+  - Ships
+  - Battleships
+  - PVP Ships
+  - Support Ships
+  - Capital Ships
+  - U.N.E
 title: Sovereign
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 _This Article describes the player-owned vessel. For the identical NPC ship, see [Sovereign-X]({{< ref "/wiki/" >}}Sovereign-X)._
 
@@ -47,7 +47,7 @@ The interior is a small but detailed box containing the pilot seat and a couple 
 - If possible, stick to fleets. More often than not your additional firepower will help to destroy enemy fleets and bases.
 - Avoid ships that are both versatile and deal heavy damage, such as the [Leviathan]({{< ref "/wiki/" >}}Leviathan) or [Razor Wing]({{< ref "/wiki/" >}}Razor-Wing).
 
-## Version History 
+## Version History
 
 - Buffed in version .63a?
 - Remodeled in an unknown version.

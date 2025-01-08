@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/V-22-OSPREY---S
+  - /wiki/V-22-OSPREY---S
 categories:
-- Fighters
-- PVP Ships
-- Support Ships
-- Ships
+  - Fighters
+  - PVP Ships
+  - Support Ships
+  - Ships
 title: V-22 OSPREY - S
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_V-22 Osprey-S_** is a unique **[Fighter]({{< ref "/categories/" >}}fighters)** based on its real life counterpart; [The V-22 Osprey]({{< ref "/wiki/" >}}wikipedia:Bell-Boeing-V-22-Osprey) and is some of the only [Turret]({{< ref "/wiki/" >}}Turrets)-equipped [Fighters]({{< ref "/categories/" >}}fighters) in the game.
 

@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Spider
+  - /wiki/Spider
 categories:
-- PVP Ships
-- Pirate Ships
-- Support Ships
-- Frigates
-- Ships
+  - PVP Ships
+  - Pirate Ships
+  - Support Ships
+  - Frigates
+  - Ships
 title: Spider
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 _Not to be confused with the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017) Limited [Frigate]({{< ref "/categories/" >}}frigates)-Class [Spiderblade]({{< ref "/wiki/" >}}Spiderblade)._
 
-The **_Spider_**is a [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Frigate**]({{< ref "/categories/" >}}frigates). 
+The **_Spider_**is a [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Frigate**]({{< ref "/categories/" >}}frigates).
 
 ## Description
 
@@ -46,7 +46,7 @@ The **Spider** has very little in the way of an interior. Inside, there is simpl
 - Stick to other [ships]({{< ref "/wiki/" >}}ships) from your faction as you are vulnerable and rather weak alone.
 - Join up with an [Abyss]({{< ref "/wiki/" >}}Abyss) to take down larger ships. You take care of the shield, and they take care of the hull.
 
-## Version History 
+## Version History
 
 - Added in .65a.
 - Explosion range reduced from 25 to 6 in .66b.

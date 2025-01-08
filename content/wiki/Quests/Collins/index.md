@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Collins
+  - /wiki/Collins
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Collins
----**_Collins_** is an NPC that allows players to complete the "Iron Forge" quest. 
+---
+
+**_Collins_** is an NPC that allows players to complete the "Iron Forge" quest.
 
 ## Description
 
@@ -15,9 +17,9 @@ title: Collins
 
 **Collins** can be found inside the cavity below the main base/spawnpoint in **Frion**. To access him, use the teleporter labeled "Reactor", then the one labeled "Garden". Behind a wall, there is another teleporter labeled "Unknown", which will bring you to the cave. **Collins** stands on top of a ledge of grass-covered stone next to a large crystal surfacing from the ground.
 
-![]({{< ref "/wiki/" >}}<Screenshot-(1405).png> "Screenshot_(1405).png"){width="400"}
+![]({{< ref "/wiki/" >}}<Screenshot-(1405).png> "Screenshot\_(1405).png"){width="400"}
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Collins]: Hey there.</span>
 

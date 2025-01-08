@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Stimulant-Tempest
+  - /wiki/Stimulant-Tempest
 categories:
-- NPC Ships
-- Ultimate Retro Ship Event 2022
-- Dreadnoughts
-- Bosses
-- Ships
+  - NPC Ships
+  - Ultimate Retro Ship Event 2022
+  - Dreadnoughts
+  - Bosses
+  - Ships
 title: Stimulant Tempest
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **Stimulant Tempest** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) that spawns for the duration of the [Ultimate Retro Event 2022]({{< ref "/wiki/" >}}Ultimate-Retro-Event-2022).
 

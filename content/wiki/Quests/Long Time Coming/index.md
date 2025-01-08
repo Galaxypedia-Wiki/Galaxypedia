@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Long-Time-Coming
+  - /wiki/Long-Time-Coming
 categories:
-- Quests
+  - Quests
 title: Long Time Coming
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 Currently it is unknown if the quest exists or not as the only source found of it is in [Ores]({{< ref "/wiki/" >}}Ores) under **Thrust Component**. Another quest that rewards thrust components is [Engine Manufacturing (Quest)]({{< ref "/wiki/" >}}<Engine-Manufacturing-(Quest)> "wikilink") which could have replaced this quest. ![]({{< ref "/wiki/" >}}Thrustcomponentquestold.png-"Thrustcomponentquestold.png")
 

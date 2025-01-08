@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Crescendo
+  - /wiki/Crescendo
 categories:
-- Ships
-- Capital Ships
-- Dreadnoughts
-- Limited Ships
-- PVP Ships
-- Halloween 2021
+  - Ships
+  - Capital Ships
+  - Dreadnoughts
+  - Limited Ships
+  - PVP Ships
+  - Halloween 2021
 title: Crescendo
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 _This page is about the player-ownable vessel. If you're looking for the NPC variant, see [Hellkeeper]({{< ref "/wiki/" >}}Hellkeeper)._
 
@@ -63,7 +63,7 @@ The **Interior** is a grey box with a purple light. It has a wall of text simill
 - Mainly use this ship to take down enemies' shields due it's anti shield firepower.
 - If you think your ship will be destroyed, Warp your ship away as **far as possible** from your own fleet or starbase as the nuke has a whopping radius of 12,500 studs, and if possible, you can warp to the enemy's fleet or starbase to bring the nuke there instead.
 
-## Version History 
+## Version History
 
 - Added in version .74b3 during the second part of the [Halloween Event 2021]({{< ref "/wiki/" >}}Halloween-Event-2021).
 - Received +2 Huge Cannons and changed spinal placement in version .74b17.

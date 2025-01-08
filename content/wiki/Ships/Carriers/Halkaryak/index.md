@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Halkaryak
+  - /wiki/Halkaryak
 categories:
-- Halloween 2021
-- Carriers
-- Ships
-- Capital Ships
-- Support Ships
+  - Halloween 2021
+  - Carriers
+  - Ships
+  - Capital Ships
+  - Support Ships
 title: Halkaryak
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Halkaryak_** is a [**Carrier**]({{< ref "/categories/" >}}carriers) added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021). 
+The **_Halkaryak_** is a [**Carrier**]({{< ref "/categories/" >}}carriers) added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021).
 
 ## Description
 
@@ -62,7 +62,7 @@ The interior for both bridge and fighter bays are very basic:
 - Use your slim width and speed to strafe shots coming towards you.
 - Pair up with hull-shredding ships such as the [Ridgebreaker]({{< ref "/wiki/" >}}Ridgebreaker) to become the perfect ship-destroying duo.
 
-## Version History 
+## Version History
 
 - No logged changes.
 

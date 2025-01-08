@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Retro-Ship-Event-2020
+  - /wiki/Retro-Ship-Event-2020
 categories:
-- Events
+  - Events
 title: Retro Ship Event 2020
----<div class="TDiv">
+---
+
+<div class="TDiv">
 
 # Description
 

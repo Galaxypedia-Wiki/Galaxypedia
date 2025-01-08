@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Weapon-of-Mass-Destruction
+  - /wiki/Weapon-of-Mass-Destruction
 categories:
-- Ships
-- Dreadnoughts
-- Limited Ships
-- Fourth of July 2021
-- Reskins
+  - Ships
+  - Dreadnoughts
+  - Limited Ships
+  - Fourth of July 2021
+  - Reskins
 title: Weapon of Mass Destruction
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 ## Description
 
@@ -42,7 +42,7 @@ The interior is the same as the [Armageddon]({{< ref "/wiki/" >}}Armageddon) but
 - Stay away from hull breakers such as the [Ridgebreaker]({{< ref "/wiki/" >}}Ridgebreaker) and the [Cyclops]({{< ref "/wiki/" >}}Cyclops).
 - Stay in a fleet as you will most likely be dived and targeted alone.
 
-## Version History 
+## Version History
 
 - No logged changes
 

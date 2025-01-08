@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Yctogriv
+  - /wiki/Yctogriv
 categories:
-- Alien Ships and Stations
-- NPC Ships
-- Ships
-- Stealth Ships
+  - Alien Ships and Stations
+  - NPC Ships
+  - Ships
+  - Stealth Ships
 title: Yctogriv
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-The **_Yctogriv_**is an [AI]({{< ref "/wiki/" >}}AI) [**Alien**]({{< ref "/wiki/" >}}Aliens) stealth ship and miner used by the **[Kneall]({{< ref "/wiki/" >}}Kneall).**  |image = Yctogriv.PNG |shields = 2000 |hull = 1000 |top_speed = 355 |acceleration = 18 |turn_speed = 0.7 |cargo_hold = 1 |ore_hold = 1000 |warp_drive = Yes |stealth = Yes |explosion_radius = 6 |description = N/A |creator = lightning9160 }}
+The **_Yctogriv_**is an [AI]({{< ref "/wiki/" >}}AI) [**Alien**]({{< ref "/wiki/" >}}Aliens) stealth ship and miner used by the **[Kneall]({{< ref "/wiki/" >}}Kneall).** |image = Yctogriv.PNG |shields = 2000 |hull = 1000 |top_speed = 355 |acceleration = 18 |turn_speed = 0.7 |cargo_hold = 1 |ore_hold = 1000 |warp_drive = Yes |stealth = Yes |explosion_radius = 6 |description = N/A |creator = lightning9160 }}
 
 ## Description
 

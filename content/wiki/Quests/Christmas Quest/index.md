@@ -1,13 +1,15 @@
 ---
 aliases:
-- /wiki/Christmas-Quest
+  - /wiki/Christmas-Quest
 categories:
-- Christmas Event 2017
-- Quests
-- Limited Ships
-- Removed From Game
+  - Christmas Event 2017
+  - Quests
+  - Limited Ships
+  - Removed From Game
 title: Christmas Quest
----## Description
+---
+
+## Description
 
 The Christmas Quest was given to the player by the [Ice Monster]({{< ref "/wiki/" >}}The-Ice-Monster). Upon interaction with the NPC, the player is told to acquire 15 Snowflakes. These were found across the galaxy in bases, all except for [Frion]({{< ref "/wiki/" >}}Frion). Upon collection of 15 [Snowflakes]({{< ref "/wiki/" >}}Snowflake),talk with [Ice Monster]({{< ref "/wiki/" >}}The-Ice-Monster). The [Ice Monster]({{< ref "/wiki/" >}}The-Ice-Monster) will then grant the player the [Blizzard]({{< ref "/wiki/" >}}Blizzard).
 

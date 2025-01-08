@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Christmas-Tree
+  - /wiki/Christmas-Tree
 categories:
-- Ships
-- Battlecruisers
-- Christmas Event 2020
+  - Ships
+  - Battlecruisers
+  - Christmas Event 2020
 title: Christmas Tree
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **Christmas Tree** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) added during the [2020 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2020). It was also re-introduced in the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
@@ -37,7 +37,7 @@ The **Christmas Tree** has a simple interior: The back the ship teleports pilots
 
 ## Strategy
 
-## Version History 
+## Version History
 
 - In .69a1, the spinal pattern was changed and the cannons were changed to torpedoes. The torpedoes are now the ornaments on the ship, they also now shoot forward.
 - In .69a1, it was added to the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021) as a Battlecruiser.

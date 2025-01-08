@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Gunslinger
+  - /wiki/Gunslinger
 categories:
-- Ships
-- Support Ships
-- PVP Ships
-- Pirate Ships
-- All-Rounder Ships
-- Hull breakers
+  - Ships
+  - Support Ships
+  - PVP Ships
+  - Pirate Ships
+  - All-Rounder Ships
+  - Hull breakers
 title: Gunslinger
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Gunslinger_** is a powerful [**Cruiser**]({{< ref "/categories/" >}}cruisers) that has rather unique [Medium Cannons]({{< ref "/wiki/" >}}Spinals) mounted on top of the ship. 
+The **_Gunslinger_** is a powerful [**Cruiser**]({{< ref "/categories/" >}}cruisers) that has rather unique [Medium Cannons]({{< ref "/wiki/" >}}Spinals) mounted on top of the ship.
 
 ## Description
 
@@ -46,7 +46,7 @@ The interior of the **Gunslinger** is sparsely decorated. It only has a small pi
 - Stay in a group of stronger ships and always be behind them when sieging so you won't take damage.
 - Defend your base by aiming at the bigger ships with your [Spinals]({{< ref "/wiki/" >}}Spinals).
 
-## Version History 
+## Version History
 
 - <span>It received a minor remake to the model as well as the addition of 2 [Light Flak Cannons]({{< ref "/wiki/" >}}Turrets) in around versions .47 - .48.</span>
 - Spinal barrel interval decreased from 0.5s to 0.1s in version .66b.

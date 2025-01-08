@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Tyrant
+  - /wiki/Tyrant
 categories:
-- Ships
-- Super Capital Ships
+  - Ships
+  - Super Capital Ships
 title: Tyrant
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Tyrant_** was a planned Super Capital ship planned to release during Beta. However, it was deemed to be way too overpowered and ended up being scrapped.
 
@@ -40,7 +40,7 @@ It's a gray box with a driver seat in it.
 - 3 very high firepower Dreadnoughts such as [Retro Prototype X-1]({{< ref "/wiki/" >}}Retro-Prototype-X-1) and [Osiris]({{< ref "/wiki/" >}}Osiris) are able to barely kill a Tyrant if the Tyrant takes the nuke damage.
 - Tyrant struggle greatly to hit anything smaller than a Battleship. Think before warping into a swarm of small ships.
 
-## Version History 
+## Version History
 
 - Added in an unknown version in Beta as an admin exclusive testing ship.
 - Removed in an unknown version in Beta.

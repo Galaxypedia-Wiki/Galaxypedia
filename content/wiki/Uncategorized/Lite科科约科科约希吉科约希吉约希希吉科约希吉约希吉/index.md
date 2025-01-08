@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Lite科科约科科约希吉科约希吉约希希吉科约希吉约希吉
+  - /wiki/Lite科科约科科约希吉科约希吉约希希吉科约希吉约希吉
 categories:
-- Ships
+  - Ships
 title: Lite科科约科科约希吉科约希吉约希希吉科约希吉约希吉
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **Lite科科约科科约希吉科约希吉约希希吉科约希吉约希吉** is an Admin Class Ship which is similar to the [Enigma]({{< ref "/wiki/" >}}Enigma) but is much larger.
 
@@ -22,13 +22,13 @@ The **Lite科科约科科约希吉科约希吉约希希吉科约希吉约希吉*
 
 The **Lite科科约科科约希吉科约希吉约希希吉科约希吉约希吉** has a sphere which is welded onto it, this sphere is neon-white on the outside and pink on the inside. Its said that the sphere has a radius of 30k. The inside of the Orb is the same exact model of the [Egg Admin Ship]({{< ref "/wiki/" >}}Egg).
 
-## Version History 
+## Version History
 
 - Renamed from **Orb** to **Lite科科约科科约希吉科约希吉约希希吉科约希吉约希吉** in .72f
 
 ## Trivia
 
-- *Insert joke here*
+- _Insert joke here_
 - This ship is literally too big... don't use it
 - 科科约科科约希吉科约希吉约希希吉科约希吉约希吉 translates from Chinese to English as Kokoyokokoyohijikoyohijiyohijikoyohijiyohiji.
 - 科科约科科约希吉科约希吉约希希吉科约希吉约希吉 is pronounced Kē kē yuē kē kē yuē xī jí kē yuē xī jí yuē xī xī jí kē yuē xī jí yuē xī jí.

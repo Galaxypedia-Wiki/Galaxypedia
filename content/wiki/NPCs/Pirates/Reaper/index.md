@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Reaper
+  - /wiki/Reaper
 categories:
-- Halloween 2017
-- Ships
-- Quests
-- Limited Ships
-- Pirate Ships
-- Support Ships
+  - Halloween 2017
+  - Ships
+  - Quests
+  - Limited Ships
+  - Pirate Ships
+  - Support Ships
 title: Reaper
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Reaper_** was a Limited Event **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** only available during the [2017 Halloween Event]({{< ref "/wiki/" >}}Halloween-Event-2017).
 
@@ -46,7 +46,7 @@ The **Reaper** has a very simple interior. When docked, you step onto the top of
 - Avoid facing higher-class ships alone, as it can be lacking in firepower at times.
 - Only spawn to show off to other players.
 
-## Version History 
+## Version History
 
 - The **Reaper** started with 4000 Shield and 666 Hull, then was buffed to 6666 Shield and 6666 Hull. It was later nerfed to 3333 Shield and 3333 Hull, then buffed back to 6666 Shield and 6666 Hull. After another nerf to 3333 Shield and 3333 Hull, its health was buffed more modestly to 3999 Shields and 3333 Hull. (Exact versions unknown)
 - Max Hull increased from 3333 to 3999, Small Phasers upgraded to Medium Phasers, barrel count increased to 6, Turn rate increased to .55, received a partial remodel/visual updates in version .65b.

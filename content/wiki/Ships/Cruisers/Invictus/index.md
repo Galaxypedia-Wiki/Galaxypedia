@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Invictus
+  - /wiki/Invictus
 categories:
-- Ships
-- Cruisers
-- Support Ships
-- PVP Ships
+  - Ships
+  - Cruisers
+  - Support Ships
+  - PVP Ships
 title: Invictus
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Invictus_**is a **[Cruiser]({{< ref "/categories/" >}}cruisers)** class ship with massive hull.
 
@@ -46,7 +46,7 @@ The interior is simple, being composed of only the pilot seat that has a joysti
 - Great for harassing the [Lazarus]({{< ref "/wiki/" >}}Lazarus), a [ship]({{< ref "/wiki/" >}}Ships) with high Shields and low Hull.
 - A swarm of these could be used as a perfect counter to the [Zeus]({{< ref "/wiki/" >}}Zeus), since they are good ad breaking shields and being sturdy against shield breakers.
 
-## Version History 
+## Version History
 
 - Max Hull increased from 1300 to 2000 in version .65b
 - Was remodeled in version .66b

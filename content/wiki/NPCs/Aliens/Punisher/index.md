@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Punisher
-- /wiki/Alien-Punisher
+  - /wiki/Punisher
+  - /wiki/Alien-Punisher
 categories:
-- NPC Ships
-- Alien Ships and Stations
-- Ships
-- Bosses
+  - NPC Ships
+  - Alien Ships and Stations
+  - Ships
+  - Bosses
 title: Punisher
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **_Punisher_** (Also known as **Alien Punisher** or **Kneall Punisher**) is an AI **[Alien]({{< ref "/wiki/" >}}Aliens) **ship made and used by the [Kneall]({{< ref "/wiki/" >}}Kneall).
 
@@ -22,7 +22,7 @@ The **Punisher** fits between the player ship classifications of [Battleship]({{
 
 ## Behavior
 
-Much like the [Swarmer]({{< ref "/wiki/" >}}Swarmer), **Punishers** will maneuver to a range of 3K to 5K studs away from their targets and will move back and forth along that range. They may also attempt to out speed attacking ships to stay out of player [Turret]({{< ref "/wiki/" >}}Turrets) range. Additionally, **Punishers** initiating an attack will **"call"** all other [Aliens]({{< ref "/wiki/" >}}Aliens) in the server to their location, in which other aliens will stop whatever they are doing, and warp to the Punisher's location, having the potential to create incredibly powerful and dangerous fleets capable of taking down even starbases. The only warning to these gatherings is a small period of time in which all Alien ships will *turn towards the attacking **Punisher***, which can be seen on the [Minimap]({{< ref "/wiki/" >}}Minimap). If the Punisher's target attempts to flee, regardless of health, the Punisher (and any other aliens) will give chase. Following the appearance of [Decimator]({{< ref "/wiki/" >}}Decimator), the Punisher can also "**call**" the entire fleet around the map to destroy player's starship or Starbase.
+Much like the [Swarmer]({{< ref "/wiki/" >}}Swarmer), **Punishers** will maneuver to a range of 3K to 5K studs away from their targets and will move back and forth along that range. They may also attempt to out speed attacking ships to stay out of player [Turret]({{< ref "/wiki/" >}}Turrets) range. Additionally, **Punishers** initiating an attack will **"call"** all other [Aliens]({{< ref "/wiki/" >}}Aliens) in the server to their location, in which other aliens will stop whatever they are doing, and warp to the Punisher's location, having the potential to create incredibly powerful and dangerous fleets capable of taking down even starbases. The only warning to these gatherings is a small period of time in which all Alien ships will \*turn towards the attacking **Punisher\***, which can be seen on the [Minimap]({{< ref "/wiki/" >}}Minimap). If the Punisher's target attempts to flee, regardless of health, the Punisher (and any other aliens) will give chase. Following the appearance of [Decimator]({{< ref "/wiki/" >}}Decimator), the Punisher can also "**call**" the entire fleet around the map to destroy player's starship or Starbase.
 
 ## Strategy
 

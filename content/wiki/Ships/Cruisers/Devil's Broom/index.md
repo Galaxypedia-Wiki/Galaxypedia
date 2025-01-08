@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Devil's-Broom
+  - /wiki/Devil's-Broom
 categories:
-- Halloween 2021
-- Cruisers
-- Ships
+  - Halloween 2021
+  - Cruisers
+  - Ships
 title: Devil's Broom
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Devil's Broom_** is a [**Cruiser**]({{< ref "/categories/" >}}cruisers) added during the [2021 Halloween Event]({{< ref "/categories/" >}}halloween-2021).
 
@@ -42,7 +42,7 @@ Ship is a long somewhat detailed beam that hosts the carpet seat where the pilot
 - Drift around enemies while continuously firing spinals.
 - Pair with a hull-breaking ship like the Centurion, since it does very little damage against hull.
 
-## Version History 
+## Version History
 
 - No logged changes.
 

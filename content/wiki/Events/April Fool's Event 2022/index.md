@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/April-Fool's-Event-2022
+  - /wiki/April-Fool's-Event-2022
 categories:
-- Events
+  - Events
 title: April Fool's Event 2022
----## Overview
+---
+
+## Overview
 
 The **April Fool's Event 2022** ran from about March 31^st^, 2022, 6PM GMT to April 2^nd^, 2022, 4PM GMT. The event saw the addition of several joke ships or remodels, some of which have since been disabled or removed; these included the [MRLS Launcher Launcher]({{< ref "/wiki/" >}}MRLS-Launcher-Launcher), [Waspinator]({{< ref "/wiki/" >}}Waspinator), and [Mega Elanis]({{< ref "/wiki/" >}}Mega-Elanis). A Starbase named the "no comment," reportedly using the Alien team color (bright green), was also added temporarily during the beginning of the event. It reportedly was composed of several floating circles hosting large turrets, and a single-stud cube in the center. The base was not hostile towards players but could be attacked, though its tiny size made landing a hit nearly impossible. Waspinators also reportedly spawned around the base, and they could be destroyed for approximately 24k credits in combat rewards. The base, being targetable, was also theoretically lootable, but its rewards are unknown.
 

@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Pirate-Avenger
+  - /wiki/Pirate-Avenger
 title: Pirate Avenger
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **_Pirate Avenger_**is a rare Pirate **[AI]({{< ref "/categories/" >}}npc-ships) [Frigate]({{< ref "/categories/" >}}frigates)** that is fast and powerful.
 
@@ -30,7 +30,7 @@ The interior of the **_Pirate Avenger_** is mostly empty. There is a small cockp
 
 ???
 
-## Version History 
+## Version History
 
 - ???
 

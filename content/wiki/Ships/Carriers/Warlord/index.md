@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Warlord
+  - /wiki/Warlord
 categories:
-- Carriers
-- Capital Ships
-- PVP Ships
-- Ships
+  - Carriers
+  - Capital Ships
+  - PVP Ships
+  - Ships
 title: Warlord
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Warlord_** is a small [**Carrier**]({{< ref "/categories/" >}}carriers) / [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) hybrid focused more on [Turret]({{< ref "/wiki/" >}}Turrets) firepower than [Fighters]({{< ref "/categories/" >}}fighters).
 
@@ -46,7 +46,7 @@ The interior of the **Warlord **is a small grey room containing the pilot's se
 - You could play it like a [Dreadnought]({{< ref "/categories/" >}}dreadnoughts), that is engage your enemy head on, as it has high DPS and high health pool.
 - OR you could be back-line support, have your fighters attack other ships while using your turrets for self defense.
 
-## Version History 
+## Version History
 
 - Added in version .65b.
 - Health increased from 5750/5800 to 9100/8700, 4 light cannons replaced with 4 [Heavy Point Defense Lasers]({{< ref "/wiki/" >}}Turrets) in version .68d.

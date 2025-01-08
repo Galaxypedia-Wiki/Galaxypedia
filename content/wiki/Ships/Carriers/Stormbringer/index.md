@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Stormbringer
+  - /wiki/Stormbringer
 categories:
-- Carriers
-- Ships
-- Support Ships
-- PVP Ships
-- Capital Ships
+  - Carriers
+  - Ships
+  - Support Ships
+  - PVP Ships
+  - Capital Ships
 title: Stormbringer
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **Stormbringer** was the first [Carrier]({{< ref "/categories/" >}}carriers) to be added, introduced in version .40, and has received 3 remodels.
 
@@ -51,7 +51,7 @@ The **Stormbringer's** bridge is exceedingly basic, being a plain grey cuboid-sh
 - DON'T let ships warp underneath you. It will likely spell huge damage or even destruction to your ship.
 - Some players use this ship as a nuke... as it has a massive nuke and can one-shot anything under a battleship, and some dreadnoughts.
 
-## Version History 
+## Version History
 
 - Health increased to 22000 [Shields]({{< ref "/wiki/" >}}Shields), 25000 [Hull]({{< ref "/wiki/" >}}Hull), Top speed increased to 35, Turn speed changed to 0.10 and Cargo Hold increased to 1400 in an unknown version.
 - Remodeled by oChaosWarrioro in .61e4.

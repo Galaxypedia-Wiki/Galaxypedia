@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Revelation
+  - /wiki/Revelation
 categories:
-- Carriers
-- Ships
-- Support Ships
-- PVP Ships
-- Siege Ships
-- Capital Ships
+  - Carriers
+  - Ships
+  - Support Ships
+  - PVP Ships
+  - Siege Ships
+  - Capital Ships
 title: Revelation
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Revelation_** is a heavily armed [**Carrier**]({{< ref "/categories/" >}}carriers). 
+The **_Revelation_** is a heavily armed [**Carrier**]({{< ref "/categories/" >}}carriers).
 
 ## Description
 
@@ -52,7 +52,7 @@ The **Fighter Bay** is an area in which contains 6 [Strikers]({{< ref "/wiki/" >
 - Stay behind siege ships. [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) provide excellent cover.
 - Only charge when [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) charge. Otherwise, focus on guiding the [Laser Turrets]({{< ref "/wiki/" >}}Turrets) instead of [Cannons]({{< ref "/wiki/" >}}Turrets).
 
-## Version History 
+## Version History
 
 - Price and health buff in an unknown version.
 - Its interior was stripped in version .61g to decrease part count.

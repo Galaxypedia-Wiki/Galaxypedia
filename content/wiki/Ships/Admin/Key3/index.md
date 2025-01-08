@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Key3
+  - /wiki/Key3
 categories:
-- Admin Ships
-- Ships
+  - Admin Ships
+  - Ships
 title: Key3
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Key3_** is a small, weak [**Admin**]({{< ref "/categories/" >}}admin-ships) ship modeled after the [Kneall Scout]({{< ref "/wiki/" >}}Kneall-Scout).
 

@@ -1,13 +1,15 @@
 ---
 aliases:
-- /wiki/Pyramus
+  - /wiki/Pyramus
 categories:
-- Starbases
-- Planets
-- Quests
-- Galaxy Lore Pages
+  - Starbases
+  - Planets
+  - Quests
+  - Galaxy Lore Pages
 title: Pyramus
----**_Pyramus_** is the largest planet in Galaxy to be added and serves as a stronghold for the [United Nations of Earth]({{< ref "/wiki/" >}}United-Nations-of-Earth).
+---
+
+**_Pyramus_** is the largest planet in Galaxy to be added and serves as a stronghold for the [United Nations of Earth]({{< ref "/wiki/" >}}United-Nations-of-Earth).
 
 ## Description
 
@@ -37,11 +39,11 @@ creativity!](Pyramus_mythical_trees.png "Cave with a blooming sight of nature an
 
 Pyramus has been the home to many different U.N.E and [trading]({{< ref "/wiki/" >}}trading) [quests]({{< ref "/wiki/" >}}quests), however all of them have been disabled by developers as their purpose ran dry and was no longer needed, but recently in 2021 during the economic inflation, two plasma battery quests were added to subdue the [farming]({{< ref "/wiki/" >}}Farming-for-Materials) of [plasma batteries]({{< ref "/wiki/" >}}Materials) and the draining of the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) [economy]({{< ref "/wiki/" >}}economy).
 
-### BM Plasma Batteries, 10 - Quest #2022010102 
+### BM Plasma Batteries, 10 - Quest #2022010102
 
 At a small outpost within the U.N.E Federation compound on **Pyramus**, there are three small buildings which the one that is to the left bears a quest that exchanges 10 Plasma Batteries for 40,000 credits. This quest is given by a shady black market dealer but is told that the deal is trustable and reliable. _DylanTheVillain101 is the giver._
 
-### BM Plasma Batteries, 50 - Quest #2022010101 
+### BM Plasma Batteries, 50 - Quest #2022010101
 
 At a small outpost within the U.N.E Federation compound on **Pyramus**, there are three small buildings which the one that is to the bottom right bears a quest that exchanges 50 Plasma Batteries for 200,000 credits. This quest is given by a shady black market dealer but is told that the deal is trustable and reliable. _ap_ek is the giver._
 
@@ -51,7 +53,7 @@ At a small outpost within the U.N.E Federation compound on **Pyramus**, there ar
 
 Similar to the conditions on the planet [Earth]({{< ref "/wiki/" >}}Earth), **Pyramus** does well to balance its weather conditions and atmospheric layers to sustain life, trees and vegetation has been reported to prosper by U.N.E scientists and while the planet does contain some anomalies such as strange mystical trees, the planet is habitable and will serve as a promising colony for the U.N.E federation.
 
-## Version History 
+## Version History
 
 - Clouds on Pyramus Fixed. They no longer register as hitboxes/interfere with movement <span style="color:#FF0000;">(.74)</span>
 - Pyramus

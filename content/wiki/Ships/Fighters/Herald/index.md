@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Herald
+  - /wiki/Herald
 categories:
-- Fighters
-- Ships
-- Support Ships
+  - Fighters
+  - Ships
+  - Support Ships
 title: Herald
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Herald_** is a stronger variant of the [Harbinger]({{< ref "/wiki/" >}}Harbinger), which used to spawn in the [Prometheus]({{< ref "/wiki/" >}}Prometheus). 
+The **_Herald_** is a stronger variant of the [Harbinger]({{< ref "/wiki/" >}}Harbinger), which used to spawn in the [Prometheus]({{< ref "/wiki/" >}}Prometheus).
 
 ## Description
 
@@ -38,7 +38,7 @@ The interior is the same as the [Harbinger]({{< ref "/wiki/" >}}Harbinger), obvi
 
 - Use the same strategies as the [Harbinger]({{< ref "/wiki/" >}}Harbinger).
 
-## Version History 
+## Version History
 
 - Added in an unknown version, replacing one of the Harbingers in the [Prometheus]({{< ref "/wiki/" >}}Prometheus) (only revealed in-game).
 - Shields/Hull increased from 2800 to 3000, 4 Small Phasers changed to 4 Medium Phasers in version .74b14 (only revealed in-game).

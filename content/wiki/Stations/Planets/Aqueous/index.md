@@ -1,15 +1,17 @@
 ---
 aliases:
-- /wiki/Aqueous
-- /wiki/Aqueous-II
+  - /wiki/Aqueous
+  - /wiki/Aqueous-II
 categories:
-- Christmas Event 2017
-- Starbases
-- Planets
-- Quests
-- Galaxy Lore Pages
+  - Christmas Event 2017
+  - Starbases
+  - Planets
+  - Quests
+  - Galaxy Lore Pages
 title: Aqueous
----**_Aqueous II_**is the second [Planet]({{< ref "/categories/" >}}planets) to be added to Galaxy after the removal of [Earth]({{< ref "/wiki/" >}}Earth).
+---
+
+**_Aqueous II_**is the second [Planet]({{< ref "/categories/" >}}planets) to be added to Galaxy after the removal of [Earth]({{< ref "/wiki/" >}}Earth).
 
 ## Description
 
@@ -38,11 +40,11 @@ Within the top portion of **Aqueous II**, there is a very large cave with very t
 
 **Aqueous II** is the home of 1 current quest and a former quest NPC.
 
-### [Dimensional Cache]({{< ref "/wiki/" >}}Dimensional-Cache) - Quest #201 
+### [Dimensional Cache]({{< ref "/wiki/" >}}Dimensional-Cache) - Quest #201
 
 Within the top section of **Aqueous II**, there is a very large cave that hosts Quest #201 - [Dimensional Cache]({{< ref "/wiki/" >}}Dimensional-Cache)
 
-### Ice Monster - Discontinued Quest 
+### Ice Monster - Discontinued Quest
 
 The [Ice Monster]({{< ref "/wiki/" >}}The-Ice-Monster) (or Yeti) was a quest NPC for the [Christmas 2017 Quest]({{< ref "/wiki/" >}}Christmas-Event-2017), which involved collecting snowflakes in a trade to acquire the [Blizzard]({{< ref "/wiki/" >}}Blizzard), a unique [Carrier]({{< ref "/categories/" >}}carriers). After the Christmas event ended, the quest was disabled and [Snowflakes]({{< ref "/wiki/" >}}Snowflake) no longer spawn, but the Ice Monster remains a permanent figure on the surface of **Aqueous II**.
 
@@ -50,7 +52,7 @@ The [Ice Monster]({{< ref "/wiki/" >}}The-Ice-Monster) (or Yeti) was a quest NPC
 
 The climate of **Aqueous II** is mostly boreal, the planet is always coated in snow and it is always snowing and quite foggy. The planet does support life, mostly trees however.
 
-## Version History 
+## Version History
 
 - Added in version .59i during the [Christmas Event 2017]({{< ref "/wiki/" >}}Christmas-Event-2017).
 - Remodeled and Buffed in .60d. Now can be upgraded to level 3 with max health of 20k (10k shield and 10k planet hull). Remodeled buildings, new teleporters, and more.

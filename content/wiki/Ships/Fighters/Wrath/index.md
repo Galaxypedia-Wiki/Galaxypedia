@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Wrath
+  - /wiki/Wrath
 categories:
-- Fighters
-- Removed From Game
-- Ships
+  - Fighters
+  - Removed From Game
+  - Ships
 title: Wrath
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **Wrath** was the predecessor to the **[Typhoon]({{< ref "/wiki/" >}}Typhoon),** and was a small, agile fighter with a versatile weapons array. It was previously carried aboard, and was unique to, the **[Stormbringer]({{< ref "/wiki/" >}}Stormbringer)**
 

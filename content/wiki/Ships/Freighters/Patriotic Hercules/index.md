@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Patriotic-Hercules
+  - /wiki/Patriotic-Hercules
 categories:
-- Ships
-- Limited Ships
-- Freighters
-- PVP Ships
-- Black Friday 2019
-- Fourth of July 2018
-- Reskins
+  - Ships
+  - Limited Ships
+  - Freighters
+  - PVP Ships
+  - Black Friday 2019
+  - Fourth of July 2018
+  - Reskins
 title: Patriotic Hercules
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Patriotic_** **_Hercules_** is a limited redesign of the old **[Hercules]({{< ref "/wiki/" >}}Hercules)** model.
 
@@ -43,7 +43,7 @@ The interior is the same as the old [Hercules]({{< ref "/wiki/" >}}Hercules), ap
 - Always check your [Minimap]({{< ref "/wiki/" >}}Minimap) and avoid [War]({{< ref "/wiki/" >}}War), everyone wants your event ship killed.
 - Treat this as a trophy, only spawn it to show off and never spawn it during a war.
 
-## Version History 
+## Version History
 
 - No logged changes.
 - 4 [Medium Flak Cannons]({{< ref "/wiki/" >}}Turrets) removed in version .71b.

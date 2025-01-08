@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Nova
+  - /wiki/Nova
 categories:
-- Ships
-- Cruisers
-- Support Ships
-- PVP Ships
+  - Ships
+  - Cruisers
+  - Support Ships
+  - PVP Ships
 title: Nova
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Nova_**is a [**Cruiser**]({{< ref "/categories/" >}}cruisers) class ship focusing heavily on [Spinal]({{< ref "/wiki/" >}}Spinals) Weaponry. 
+The **_Nova_**is a [**Cruiser**]({{< ref "/categories/" >}}cruisers) class ship focusing heavily on [Spinal]({{< ref "/wiki/" >}}Spinals) Weaponry.
 
 ## Description
 
@@ -43,7 +43,7 @@ The interior is nothing more than a simple cockpit containing the pilot's seat.
 - Make sure to hit with all [Spinals]({{< ref "/wiki/" >}}Spinals).
 - Go in large ship's blind spots and harass them with your [Lasers]({{< ref "/wiki/" >}}Turrets).
 
-## Version History 
+## Version History
 
 - Received a remodel in version .67e?
 

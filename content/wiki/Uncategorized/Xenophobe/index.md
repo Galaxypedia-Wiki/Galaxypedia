@@ -1,5 +1,5 @@
 ---
 aliases:
-- /wiki/Xenophobe
+  - /wiki/Xenophobe
 title: Xenophobe
 ---

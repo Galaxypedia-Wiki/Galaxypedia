@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Sabre-Tooth
+  - /wiki/Sabre-Tooth
 categories:
-- Ships
-- Destroyers
-- Support Ships
-- PVP Ships
-- Pirate Ships
+  - Ships
+  - Destroyers
+  - Support Ships
+  - PVP Ships
+  - Pirate Ships
 title: Sabre Tooth
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Sabre Tooth_** is one of the fastest ships in Galaxy and is the fastest **[Destroyer]({{< ref "/categories/" >}}destroyers)**.
 
@@ -46,7 +46,7 @@ The **Sabre Tooth** has effectively no interior. There is a small black square t
 - Stay in your enemies' blind spots, or use your speed to dodge incoming fire.
 - It has high shield damage, making it possible to hull an unprotected [Alien Punisher]({{< ref "/wiki/" >}}Alien-Punisher).
 
-## Version History 
+## Version History
 
 - Received a nerf in .62a1 that lowered the [Spinal]({{< ref "/wiki/" >}}Spinals) barrel count from 4 to 2 and lowered the speed from 300 to 285.
 - Rebalanced in .62a1 to have 4 [Small Phasers]({{< ref "/wiki/" >}}Spinals) instead of 2 [Medium Phasers]({{< ref "/wiki/" >}}Spinals).

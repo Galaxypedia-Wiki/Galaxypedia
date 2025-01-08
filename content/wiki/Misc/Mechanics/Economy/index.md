@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Economy
+  - /wiki/Economy
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Economy
----<div class="cardcontainer" style="font-size: 14px; line-height: 24px;" align="justify">
+---
+
+<div class="cardcontainer" style="font-size: 14px; line-height: 24px;" align="justify">
 
 Galaxy has many ways to make money, each with advantages and disadvantages. Knowing when and how to work for credits will greatly help you progress in Galaxy. Each dropdown tab details a specific strategy for making money. Individual pages are also dedicated to [Mining]({{< ref "/wiki/" >}}Mining), [Trading]({{< ref "/wiki/" >}}Trading), and [Pirating]({{< ref "/wiki/" >}}Pirating). For getting a profit, see Crashing The Market.
 
@@ -18,8 +20,7 @@ Mining
 
 Mining is the root of the economy in Galaxy. Without mining, trading cannot be done. Mining involves using a [miner]({{< ref "/categories/" >}}mining-ships) to mine asteroids before dumping the [ore]({{< ref "/wiki/" >}}Ores) to a starbase (including [Mega Base]({{< ref "/wiki/" >}}Mega-Base)). Dumping ore is a miner's way of selling the ore it has collected, and ore in your hold cannot be used for anything else. Mining is slower than trading, but also much safer (assuming that you mine around your own base). Miners fuel the economy and help to keep it alive. Because miners are not armed; they can be a big target; so it's best to keep your miner around your own base - this also helps reduce travel time.
 
-When mining, every small mining laser mines 2.5 mass of ore per second, and every medium mining laser mines 5 mass of ore per second. The number of credits paid by your base for ores is worked out using the following formula:
-(1.29+Loyalty*.8) * Mass
+When mining, every small mining laser mines 2.5 mass of ore per second, and every medium mining laser mines 5 mass of ore per second. The number of credits paid by your base for ores is worked out using the following formula: (1.29+Loyalty*.8) * Mass
 
 For instance, if you have 10% loyalty and a hold with 5000 mass of ore inside, you do (1.29+.10*.8)*5000, which gives you 6850 credits
 
@@ -90,13 +91,13 @@ If there happens to be an extremely large number of plasma batteries available, 
 - If war is declared, trade becomes extremely dangerous and almost impossible, and any good prices in your base are impossible to make use of. This problem can also be avoided if you have a VIP server.
 - When trading, you need to have enough credits to fill your hold, which can be problematic for particularly poor players.
 
-### **Profit Calculation** 
+### **Profit Calculation**
 
 - This section is designed to help understand how much money you will make by trading.
-- Profit is calculated using this formula: (Selling Destination Price - Buying Destination Price) * (quantity of item held)
-  - Example: Silicate E-Class: (4.5 - 3.5) * (10000) = 10000 Profit.
+- Profit is calculated using this formula: (Selling Destination Price - Buying Destination Price) \* (quantity of item held)
+  - Example: Silicate E-Class: (4.5 - 3.5) \* (10000) = 10000 Profit.
 
-### **"Priming" The Economy** 
+### **"Priming" The Economy**
 
 - Starting an eco-server is often done by putting money into a base that you plan to make an active trade hub. This is so people can buy and sell certain quantities of material without the base losing too much money.
 - This can be accomplished by buying a considerable amount of materials from a base and selling to mega base at a net loss. While this is not ideal initially, it allows you to start trading earlier. You can easily make your money back later.
@@ -113,7 +114,7 @@ Combat Rewards
 </h1>
 <div class="mw-collapsible mw-collapsed content" id="mw-customcollapsible-CombatRewardsStrat" align="left">
 
-### **Tips and Tricks** 
+### **Tips and Tricks**
 
 - **This is the most dangerous way to make money and is NOT recommended for newer players**
 - If you are new and want to dip your toes into making money through combat rewards, starting off with killing aliens swarmers and alien bruisers is a good way to learn basic combat, just be sure not to lose your ship!

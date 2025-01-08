@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Dragonfly
+  - /wiki/Dragonfly
 categories:
-- Fighters
-- Ships
-- Support Ships
+  - Fighters
+  - Ships
+  - Support Ships
 title: Dragonfly
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/removed >}} 
+{{< notices/removed >}}
 
-The**_Dragonfly_** was a weak but extremely fast **[Fighter]({{< ref "/wiki/" >}}:category:fighters)** that spawned in a player starbase, and was the fastest fighter in the game. It used to be in the Lucifer station, but then was changed to spawn in starbases, then changed again to not spawn at all and was replaced by the [Starbase Fury]({{< ref "/wiki/" >}}Starbase-Fury). 
+The**_Dragonfly_** was a weak but extremely fast **[Fighter]({{< ref "/wiki/" >}}:category:fighters)** that spawned in a player starbase, and was the fastest fighter in the game. It used to be in the Lucifer station, but then was changed to spawn in starbases, then changed again to not spawn at all and was replaced by the [Starbase Fury]({{< ref "/wiki/" >}}Starbase-Fury).
 
 ## Description
 
@@ -42,7 +42,7 @@ Like all fighter class ships, the **Dragonfly** was little in the way of an inte
 - Work with other [Fighters]({{< ref "/categories/" >}}fighters) to harass large ships.
 - This ship is weak against almost everything alone, so it is better as a distraction.
 
-## Version History 
+## Version History
 
 - Remodeled in .61e4?
 - Started spawning on [Frion's]({{< ref "/wiki/" >}}Frion) Lucifer Station in an unknown version.

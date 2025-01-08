@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Outrider
-- /wiki/Kneall-Outrider
+  - /wiki/Outrider
+  - /wiki/Kneall-Outrider
 categories:
-- NPC Ships
-- Alien Ships and Stations
-- Ships
+  - NPC Ships
+  - Alien Ships and Stations
+  - Ships
 title: Outrider
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **_Outrider_** is an [**Alien**]({{< ref "/categories/" >}}alien-ships-and-stations)AI ship with an array of turret and spinal-based weaponry.
 
@@ -37,7 +37,7 @@ Their size also allows players to try and brute force the kill with a battlecrui
 
 Outrider wrecks give 50 Alien Parts.
 
-## Version History 
+## Version History
 
 - Renamed from **Kneall Outrider** to **Outrider** in version .69d2
 

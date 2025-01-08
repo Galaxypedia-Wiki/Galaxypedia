@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Rhino
+  - /wiki/Rhino
 categories:
-- Ships
-- Carriers
-- Support Ships
-- PVP Ships
-- Capital Ships
+  - Ships
+  - Carriers
+  - Support Ships
+  - PVP Ships
+  - Capital Ships
 title: Rhino
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Rhino_** is a large, durable and heavily armed **[Carrier]({{< ref "/categories/" >}}carriers)**. 
+The **_Rhino_** is a large, durable and heavily armed **[Carrier]({{< ref "/categories/" >}}carriers)**.
 
 ## Description
 
@@ -49,7 +49,7 @@ The rhino is remodeled, all descriptions and images are currently inaccurate.
 - The **Rhino's** exposed underside, slow speed, sub-optimal Turret types, and awkward handling means it will need support from a fleet, or a [Starbase]({{< ref "/wiki/" >}}Starbase) to survive any dedicated assault.
 - When [Sieging]({{< ref "/wiki/" >}}Sieging), stay out of range of the base but turn sideways towards it to allow faster Fighter release. Also, bring some [Frigates]({{< ref "/categories/" >}}frigates) and [Destroyers]({{< ref "/categories/" >}}destroyers) as escorts to defend against the [Battleships]({{< ref "/categories/" >}}battleships) and [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) that may counterattack.
 
-## Version History 
+## Version History
 
 - After being added, the **Rhino** received a remodel in an unknown version.
 - Health buff in .65b

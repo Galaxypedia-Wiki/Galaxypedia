@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Icicle
+  - /wiki/Icicle
 categories:
-- Limited Ships
-- Christmas Event 2019
-- Ships
-- Battlecruisers
+  - Limited Ships
+  - Christmas Event 2019
+  - Ships
+  - Battlecruisers
 title: Icicle
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Icicle_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) released during the first phase of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019). 
+The **_Icicle_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) released during the first phase of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
 ## Description
 
@@ -41,7 +41,7 @@ You enter through a hatch/teleporter on the aft end of the ship. on the inside i
 - Try to achieve kills quickly, as it has low Shields and you will get targeted if enemies see this ship hulled.
 - Use this ship the same way you would use an [Arthur]({{< ref "/wiki/" >}}Arthur), as it has basically the same weapon layout, with Shield-breaking [Spinals]({{< ref "/wiki/" >}}Spinals) and Hull-breaking [Turrets]({{< ref "/wiki/" >}}Turrets).
 
-## Version History 
+## Version History
 
 - Shield health increased to 2000, Phasers resized to large, cannons re-classed as railguns in version .72f
 

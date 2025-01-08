@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Judgement
+  - /wiki/Judgement
 categories:
-- Dreadnoughts
-- PVP Ships
-- Support Ships
-- Capital Ships
-- Siege Ships
-- Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Support Ships
+  - Capital Ships
+  - Siege Ships
+  - Ships
 title: Judgement
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Judgement_**is a Shield-oriented Support/PvP [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts). It is an extremely good ship for the destruction of large ships. 
+The **_Judgement_**is a Shield-oriented Support/PvP [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts). It is an extremely good ship for the destruction of large ships.
 
 ## Description
 
@@ -62,7 +62,7 @@ The **Judgement** is white, with neon blue near it's wings. The [U.N.E]({{< ref 
 - If you see a crippled capital ship attempting to retreat to its base, chase it down and destroy it with your heavy-hitting turret armament. Your [Shields]({{< ref "/wiki/" >}}Shields) should be able to hold up against any defending ships and the [Starbase]({{< ref "/wiki/" >}}Starbase) for long enough for you to safely escape without being hulled. However, do not take the risk of warping into a very powerful defense fleet alone; and only do so with support.
 - Never brute force targets, always micro-warp under them repeatedly to get out of their line of sight and unleash your high alpha.
 
-## Version History 
+## Version History
 
 - [Hull]({{< ref "/wiki/" >}}Hull) increased from 2000 to 2500 and Turn Speed increased from 0.08 to 0.1 in .65b.
 - [Shield]({{< ref "/wiki/" >}}Shields) increased from 12000 to 14500, [Hull]({{< ref "/wiki/" >}}Hull) increased from 2500 to 3000, granted a third [Heavy Railgun]({{< ref "/wiki/" >}}Turrets) and Turn Speed reduced from 0.1 to 0.07 in version .65b

@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Snowball
+  - /wiki/Snowball
 categories:
-- Freighters
-- Limited Ships
-- Christmas Event 2019
-- Ships
+  - Freighters
+  - Limited Ships
+  - Christmas Event 2019
+  - Ships
 title: Snowball
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Snowball_** is a strange-looking quest **[Freighter]({{< ref "/categories/" >}}freighters)** released during the [Christmas Event 2019]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
@@ -40,7 +40,7 @@ The interior of the **Snowball** is practically non-existent. It is comprised of
 
 - Don't use this ship during conflict or in a public server where it is at risk of being destroyed; treat it like a trophy, as it can never be obtained again if lost.
 
-## Version History 
+## Version History
 
 - Cargo Hold reduced from 2935 to 2500 in an unknown version.
 

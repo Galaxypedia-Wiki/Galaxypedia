@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Theia
+  - /wiki/Theia
 categories:
-- Ships
-- Super Capital Ships
-- PVP Ships
-- Capital Ships
+  - Ships
+  - Super Capital Ships
+  - PVP Ships
+  - Capital Ships
 title: Theia
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/superCapitalShip >}} 
+{{< notices/superCapitalShip >}}
 
-The **_Theia_**is an extremely powerful Glass Cannon PVP-oriented [**Super Capital Ship**]({{< ref "/categories/" >}}super-capital-ships) 
+The **_Theia_**is an extremely powerful Glass Cannon PVP-oriented [**Super Capital Ship**]({{< ref "/categories/" >}}super-capital-ships)
 
 ## Description
 
@@ -58,7 +58,7 @@ The Interior of the Theia is a rather small but detailed room. When you first e
 - Use the high firepower on this ship to dive and chase down vulnerable or isolated [Capital Ships]({{< ref "/categories/" >}}capital-ships).
 - Know when to warp away, judging by the DPS of the other ships targeting you, or when your shield drops to dangerous levels.
 
-## Version History 
+## Version History
 
 - Added in .66b
 - Price heavily reduced from 11 million to 2 million in .66b

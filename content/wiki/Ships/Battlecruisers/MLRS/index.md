@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/MLRS
-- /wiki/MRLS-Launcher
+  - /wiki/MLRS
+  - /wiki/MRLS-Launcher
 categories:
-- Battlecruisers
-- Siege Ships
-- Ships
-- PVP Ships
-- Support Ships
+  - Battlecruisers
+  - Siege Ships
+  - Ships
+  - PVP Ships
+  - Support Ships
 title: MLRS
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_MLRS_** is a [Torpedo]({{< ref "/wiki/" >}}Spinals)-carrying [**Battlecruiser.**]({{< ref "/categories/" >}}battlecruisers) 
+The **_MLRS_** is a [Torpedo]({{< ref "/wiki/" >}}Spinals)-carrying [**Battlecruiser.**]({{< ref "/categories/" >}}battlecruisers)
 
 ## Description
 
@@ -51,7 +51,7 @@ The Interior is a large glass dome in the middle of the ship with a seat and 3 s
 - Stay out of the range of [Starbase]({{< ref "/wiki/" >}}Starbase) turrets and use the small turrets to get rid of any fighters or small ships coming your way during sieges.
 - If you get targeted, you will usually be destroyed. Try to stay behind more expensive ships and don't attack directly.
 
-## Version History 
+## Version History
 
 - Added in .65b.
 - Small Torpedoes buffed to Medium Torpedoes in version .65b.

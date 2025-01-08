@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Blitz
+  - /wiki/Blitz
 categories:
-- Advanced Ships
-- Fighters
-- Ships
+  - Advanced Ships
+  - Fighters
+  - Ships
 title: Blitz
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Blitz_** is a powerful [**Fighter**]({{< ref "/categories/" >}}fighters) found in the [Borealis]({{< ref "/wiki/" >}}Borealis).
 
@@ -22,7 +22,7 @@ The Blitz is a relative small and flat Fighter that has a spiky appearance, alon
 
 ## Advantages
 
-- DPS of  and  combined can lead to a monstrous DPS when all fighters are used.
+- DPS of and combined can lead to a monstrous DPS when all fighters are used.
 - High turret DPS results in incredibly quick and consistent DPS against any target.
 - High speed.
 - Can cripple [Ships]({{< ref "/wiki/" >}}Ships) as large as [Super Capital Ships]({{< ref "/categories/" >}}super-capital-ships) with multiple [Fighters]({{< ref "/categories/" >}}fighters) alike.
@@ -40,7 +40,7 @@ The Blitz is a relative small and flat Fighter that has a spiky appearance, alon
 - Avoid attacking any ship that can take down fighters easily, such as the [Ampharos]({{< ref "/wiki/" >}}Ampharos) or the [Mjolheimr]({{< ref "/wiki/" >}}Mjolnheimr).
 - Either keep your distance from your target at all times or make use of their blind spots.
 
-## Version History 
+## Version History
 
 - Shields reduced from 150 to 140, Hull reduced from 200 to 175, Top Speed reduced from 210 to 200, 3 [Small Phasers]({{< ref "/wiki/" >}}Spinals) upsized to 2 [Huge Phasers]({{< ref "/wiki/" >}}Spinal-Weaponry), 3 [Small Cannons]({{< ref "/wiki/" >}}Spinal-Weaponry) downsized to 3 [Tiny Cannons]({{< ref "/wiki/" >}}Spinal-Weaponry) and received a remodel in version .69e.
 - 2 [Huge Phasers]({{< ref "/wiki/" >}}Spinal-Weaponry) downsized to 3 [Medium Phasers]({{< ref "/wiki/" >}}Spinals) in an unknown version.

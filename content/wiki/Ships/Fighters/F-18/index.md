@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/F-18
+  - /wiki/F-18
 categories:
-- Fighters
-- Ships
-- Support Ships
+  - Fighters
+  - Ships
+  - Support Ships
 title: F-18
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_F-18_** is a small, fast **[Fighter]({{< ref "/categories/" >}}fighters)** found on the [Nimitz]({{< ref "/wiki/" >}}Nimitz) based from its real life counterpart; The [F/A-18 Hornet]({{< ref "/wiki/" >}}wikipedia:McDonnell-Douglas-F/A-18-Hornet).
 
@@ -41,7 +41,7 @@ The **<u>Interior</u>** of the fighter is nothing more than a small cockpit cont
 - Focus on swarming and destroying [AA]({{< ref "/wiki/" >}}Galaxy-Slang) Ships like the [Ampharos]({{< ref "/wiki/" >}}Ampharos) or [Hyron]({{< ref "/wiki/" >}}Hyron) first, as they will shred you if left alone.
 - Use the ship's high maneuverability to get into the blind spots of larger ships.
 
-## Version History 
+## Version History
 
 - Added in an unknown Version.
 - Replaced the [Foxfire]({{< ref "/wiki/" >}}Foxfire) due to the model being reverted in Version .75a5

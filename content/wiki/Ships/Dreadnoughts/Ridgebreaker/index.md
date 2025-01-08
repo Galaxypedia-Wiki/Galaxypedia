@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Ridgebreaker
+  - /wiki/Ridgebreaker
 categories:
-- Siege Ships
-- Ships
-- Dreadnoughts
-- Support Ships
-- PVP Ships
-- Capital Ships
-- Hull breakers
+  - Siege Ships
+  - Ships
+  - Dreadnoughts
+  - Support Ships
+  - PVP Ships
+  - Capital Ships
+  - Hull breakers
 title: Ridgebreaker
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Ridgebreaker_** is a large, slow **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)**-Class ship designed specifically for [sieging]({{< ref "/wiki/" >}}sieging). 
+The **_Ridgebreaker_** is a large, slow **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)**-Class ship designed specifically for [sieging]({{< ref "/wiki/" >}}sieging).
 
 ## Description
 
@@ -51,7 +51,7 @@ You enter the bridge to find a red seat in the middle of the room, with a sign s
 - Due to its reliance on kinetic weaponry, this ship is best used when a foe's [Shields]({{< ref "/wiki/" >}}Shields) have been depleted. It may not be the best idea to be the one soaking up all the initial damage in a [Siege]({{< ref "/wiki/" >}}Sieging), due to the fact you want your remaining health to last enough to destroy the [Starbase's]({{< ref "/wiki/" >}}Starbase) [Hull]({{< ref "/wiki/" >}}Hull).
 - A Combination of a [Sagittarius]({{< ref "/wiki/" >}}Sagittarius) and **Ridgebreaker** can be a big threat, as they will dish out damage fast from afar.
 
-## Version History 
+## Version History
 
 - At one point most of its exterior detail was removed leaving some simple decorations in its place, and its living quarters were completely removed.
 - Received a massive buff in .61e4 that boosted Cargo Hold, health, and ship cost.

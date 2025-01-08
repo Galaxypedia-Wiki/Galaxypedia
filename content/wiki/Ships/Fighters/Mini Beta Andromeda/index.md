@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Mini-Beta-Andromeda
+  - /wiki/Mini-Beta-Andromeda
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Mini Beta Andromeda
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Mini Alpha Andromeda_** is a [Fighter-class]({{< ref "/categories/" >}}fighters) ship found in the [Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship).
 

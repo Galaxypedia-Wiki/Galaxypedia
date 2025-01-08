@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Bombe
+  - /wiki/Bombe
 categories:
-- Ships
-- Battlecruisers
+  - Ships
+  - Battlecruisers
 title: Bombe
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **Bombe** is a joke ship created for the 1-year anniversary of the [Enigma Cache Incident]({{< ref "/wiki/" >}}Enigma-Cache-Incident).
 
@@ -42,17 +42,17 @@ The Bombe has no interior, just a seat on top of the ship.
 - Do not be fooled by its power. It will lose any and every fight it gets into.
 - Roleplay as an advanced ship computer?
 
-## Version History 
+## Version History
 
 (please add)
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <u>[0100110]</u>: 01010111 01100001 01101110 01110100 00100000 01100001 00100000 01110011 01101001 01110000 00111111
 
 _(<u>[&]</u>: Want a ship?)_
 
-<u>Player</u>: "..." or "What?"*
+<u>Player</u>: "..." or "What?"\*
 
 <u>[0100110]</u>: 01010111 01100001 01101110 01110100 00100000 01100001 00100000 01110011 01101001 01110000 00111111
 
@@ -64,13 +64,13 @@ _(<u>[&]</u>: Want a ship?)_
 
 _(<u>[&]</u>: Wantt IT YES OR NO BOZO)_
 
-<u>Player</u>: "Ok?" or "Then leave! NOW!"*
+<u>Player</u>: "Ok?" or "Then leave! NOW!"\*
 
 <u>[0100110]</u>: 01000010 01110010 01101001 01101110 01100111 00100000 01101101 01100101 00100000 01110011 01101111 01101101 01100101 00100000 01110011 01110100 01110101 01100110 01100110 00100000 01000111 00100000 01110100 01101000 01100101 01101110 00100000 01110101 00100000 01100011 01100001 01101110 00100000 01101000 01100001 01110110 01100101
 
 _(<u>[&]</u>: Bring me some stuff G then u can have)_
 
-### **Quest Completion** 
+### **Quest Completion**
 
 <u>[0100110]</u>: 01000100 01101111 00100000 01111001 01101111 01110101 00100000 01101000 01100001 01110110 01100101 00100000 01110100 01101000 01100101 00100000 01101001 01110100 01100101 01101101 01110011 00111111
 
@@ -84,7 +84,7 @@ _10,000 credits removed from player inventory--Player receives **Bombe**._
 
 _(<u>[&]</u>: TY my g)_
 
-_All quotations marked with an asterisk * will end the quest dialogue at that point._
+_All quotations marked with an asterisk \* will end the quest dialogue at that point._
 
 ## Trivia
 

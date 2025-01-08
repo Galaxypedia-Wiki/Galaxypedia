@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Retro-Prototype-X-1
+  - /wiki/Retro-Prototype-X-1
 categories:
-- Ships
-- Limited Ships
-- Dreadnoughts
-- Siege Ships
-- Retro Ship Event 2022
+  - Ships
+  - Limited Ships
+  - Dreadnoughts
+  - Siege Ships
+  - Retro Ship Event 2022
 title: Retro Prototype X-1
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Retro Prototype X-1_**is a Retro Variant of the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1). 
+The **_Retro Prototype X-1_**is a Retro Variant of the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1).
 
 ## Description
 
@@ -46,7 +46,7 @@ The **Retro Prototype X-1** is a "test dreadnought" based on the [Prototype X-1]
 - Do not try to move out of the way of [Huge Torpedoes]({{< ref "/wiki/" >}}Spinal-Weaponry) with regular ship movement alone, as the ship is too large and too sluggish to dodge them. Instead, warp out of the way of any Huge or Large Torpedoes that you see coming towards you.
 - This ship is heavily targeted due to its expense and limited status. As mentioned in the ship's description, use with extreme caution.
 
-## Version History 
+## Version History
 
 - Health changed from 9,500/9,500 Shield/Hull HP to 10,750/8,500 Shield/Hull HP, Top Speed reduced from 50 to 45, Turn Speed reduced from 0.12 to 0.1, Acceleration reduced from 12 to 5, Cargo Hold reduced from 1000 to 348, turret loadout changed from 5 Medium Siege Railguns and 4 Super LR Lasers to 5 Prototype Medium Railguns and 4 Prototype Heavy Lasers, [Spinals]({{< ref "/wiki/" >}}Spinal-Weaponry) changed from 4 Huge Cannons and 5 Huge Phasers to 6 Huge Cannons and 6 Huge Phasers as well as the spinal interval being removed, and released in the Retro Ship 2022 event for the cost of 2 million credits and 1 Blueprint B as a quest from the UNE Harbour Master in version .75a5.
 - Taken off-sale in version .75a5 after the end of the Retro 2022 Event.

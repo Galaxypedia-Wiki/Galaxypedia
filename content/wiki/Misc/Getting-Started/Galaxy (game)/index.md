@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Galaxy-(game)
+  - /wiki/Galaxy-(game)
 categories:
-- Getting Started
+  - Getting Started
 title: Galaxy (game)
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 ![]({{< ref "/wiki/" >}}Game-Banner.png-"Game-Banner.png") This page serves as an introduction/overview of the overall subject matter the Galaxypedia covers with its pages, which is the Roblox game [Galaxy](https://www.roblox.com/games/12426862174/).
 
@@ -38,7 +38,7 @@ As implied by the name, it is when a round is in its terminal stages of gameplay
 
 Exploration is oftentimes a refresher from the combat of war-torn rounds, or the process of gaining capital through mining, trading, etc. Outside of exploring planets and bases, players can explore space itself, and find points of interest such as the [U.N.E Battle of Sector 552 Wreckage]({{< ref "/wiki/" >}}U.N.E-Battle-of-Sector-552-Wreckage), [U.N.E Starbase 12]({{< ref "/wiki/" >}}U.N.E-Starbase-12), and more. Generally, it is a good idea to explore some place if you find mining/trading getting stagnant, or need some way to spend your downtime you need for repairing your ship after combat; even if you have already explored that place before. You might just find something new, or come to appreciate the little details of whatever landscape you're on when at a planet. Additionally, exploration is very useful for finding [quest]({{< ref "/categories/" >}}quests) vendors (NPCs which give quests), many of which are hidden in various places.
 
-## Additional Reading 
+## Additional Reading
 
 - [Strategies]({{< ref "/wiki/" >}}Strategies)
 - [Golden Rules]({{< ref "/wiki/" >}}Golden-Rules)

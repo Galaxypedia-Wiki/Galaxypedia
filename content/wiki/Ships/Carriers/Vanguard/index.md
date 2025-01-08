@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Vanguard
+  - /wiki/Vanguard
 categories:
-- Carriers
-- VIP Ships
-- Support Ships
-- Ships
-- Pirate Ships
-- PVP Ships
-- Capital Ships
+  - Carriers
+  - VIP Ships
+  - Support Ships
+  - Ships
+  - Pirate Ships
+  - PVP Ships
+  - Capital Ships
 title: Vanguard
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Vanguard_** is a mid-size and speedy [**Battleship**]({{< ref "/categories/" >}}battleships)/[**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts)**-[Carrier]({{< ref "/categories/" >}}carriers)** hybrid. 
+The **_Vanguard_** is a mid-size and speedy [**Battleship**]({{< ref "/categories/" >}}battleships)/[**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts)**-[Carrier]({{< ref "/categories/" >}}carriers)** hybrid.
 
 ## Description
 
@@ -48,7 +48,7 @@ When you enter the ship through the right hangar, there will be a command room t
 - Do not use the **Vanguard** in a siege unless no one else has a [Carrier]({{< ref "/categories/" >}}carriers), as only one is allowed per faction.
 - Use the Falcons the way you would use a [Viper]({{< ref "/wiki/" >}}Viper) while [Sieging]({{< ref "/wiki/" >}}Sieging) since they are tanky but have a weak armament.
 
-## Version History 
+## Version History
 
 - Received a price decrease in version .61g.
 - Received a speed buff in version .62d2

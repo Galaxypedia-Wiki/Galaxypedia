@@ -1,12 +1,14 @@
 ---
 aliases:
-- /wiki/Remains-of-U.N.E-Starbase-12
+  - /wiki/Remains-of-U.N.E-Starbase-12
 categories:
-- Galaxy Lore Pages
-- Starbases
-- Unmarked Locations
+  - Galaxy Lore Pages
+  - Starbases
+  - Unmarked Locations
 title: Remains of U.N.E Starbase 12
----The **_Remains of U.N.E Starbase 12_** are a set of lore-based remains hidden in the map.
+---
+
+The **_Remains of U.N.E Starbase 12_** are a set of lore-based remains hidden in the map.
 
 ## Description
 
@@ -18,7 +20,7 @@ The only interactive part of the starbase is a small, non-quest dialogue hosted 
 
 ## Dialogue
 
-***Note:** All dialogue is copied as seen in-game. This includes possible spelling or grammar errors. Do not change these mistakes in the dialogue shown below unless the in-game text also receives such changes.*
+**\*Note:** All dialogue is copied as seen in-game. This includes possible spelling or grammar errors. Do not change these mistakes in the dialogue shown below unless the in-game text also receives such changes.\*
 
 <u>U.N.E Starbase 12 Computer System</u>: "[U.N.E] Starbase 12 Computer V.102.87"
 
@@ -43,7 +45,7 @@ _If player chooses option 2 - Condition Report:_
 
 _If player chooses option 3 - Incident Report:_
 
-<u>U.N.E Starbase 12 Computer System</u>: "0*/*6/**24 TIME: 14:32 - Unidentified fleet detected on borders of U.N.E space."
+<u>U.N.E Starbase 12 Computer System</u>: "0*/*6/\*\*24 TIME: 14:32 - Unidentified fleet detected on borders of U.N.E space."
 
 <u>Player</u>: "[SELECT]READ MORE"
 
@@ -75,7 +77,7 @@ _If player chooses option 4 - Exit:_
 
 <span style="color:#ff0000">_(Dialogue ends)_</span>
 
-## Version History 
+## Version History
 
 - Announced as a "secret" addition in version .65b.
 - Added to main map area in version .66b

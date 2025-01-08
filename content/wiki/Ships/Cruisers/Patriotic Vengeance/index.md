@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Patriotic-Vengeance
+  - /wiki/Patriotic-Vengeance
 categories:
-- Ships
-- Cruisers
-- Limited Ships
-- Fourth of July 2019
-- Reskins
+  - Ships
+  - Cruisers
+  - Limited Ships
+  - Fourth of July 2019
+  - Reskins
 title: Patriotic Vengeance
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Patriotic Vengeance_** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** 4th of July reskin of the [Cruiser-class]({{< ref "/categories/" >}}cruisers) [Vengeance]({{< ref "/wiki/" >}}Vengeance). 
+The **_Patriotic Vengeance_** is a **[Limited]({{< ref "/categories/" >}}limited-ships)** 4th of July reskin of the [Cruiser-class]({{< ref "/categories/" >}}cruisers) [Vengeance]({{< ref "/wiki/" >}}Vengeance).
 
 ## Description
 
@@ -36,7 +36,7 @@ The **Patriotic Vengeance** shares the same simple interior as the Vengeance. Pl
 - Prime target for Pirates.
 - Once you lose this ship you can't get it back after the event ends.
 
-## Version History 
+## Version History
 
 - Added in version .65b on July 5th as part of the 2019 Fourth of July event.
 
@@ -44,7 +44,7 @@ The **Patriotic Vengeance** shares the same simple interior as the Vengeance. Pl
 
 - ?
 
-## Version History 
+## Version History
 
 - No logged changes.
 

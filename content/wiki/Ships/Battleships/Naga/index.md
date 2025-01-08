@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Naga
+  - /wiki/Naga
 categories:
-- Ships
-- Halloween 2020
-- Battleships
+  - Ships
+  - Halloween 2020
+  - Battleships
 title: Naga
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Naga_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) from Part 2 of the [2020 Halloween Event]({{< ref "/categories/" >}}halloween-2020). 
+The **_Naga_** is a [**Battleship**]({{< ref "/categories/" >}}battleships) from Part 2 of the [2020 Halloween Event]({{< ref "/categories/" >}}halloween-2020).
 
 ## Description
 
@@ -38,7 +38,7 @@ It has an endo-skeleton and has a simple black sphere to sit in inside. Interest
 - Has to be in a certain angle to let all turrets hit with spinals being able to hit as well.
 - Relies on the phasers to deal shield damage.
 
-## Version History 
+## Version History
 
 - Received a buff in version .73d6, turret loadout changed from 1 Light Laser and 4 Bone Lurkers to 9 Bone Lurkers, spinals changed from 4 Large Phasers to 12 Tiny Phasers and 1 Large Torpedo, Top Speed increased from 60 to 150, Turn Speed increased from 0.6 to 0.7, and Shields/Hull changed from 5000/4000 to 4500/4250.
 - Received a nerf in an unknown version, spinals changed from 12 Tiny Phasers and 1 Large Torpedo to 6 Tiny Phasers and 1 Large Torpedo.

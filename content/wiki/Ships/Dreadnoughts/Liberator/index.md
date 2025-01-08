@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Liberator
+  - /wiki/Liberator
 categories:
-- Ships
-- Dreadnoughts
-- Limited Ships
-- Fourth of July 2020
-- Pirate Ships
-- PVP Ships
+  - Ships
+  - Dreadnoughts
+  - Limited Ships
+  - Fourth of July 2020
+  - Pirate Ships
+  - PVP Ships
 title: Liberator
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Liberator_** is a **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** added during the [Fourth of July Event 2020]({{< ref "/wiki/" >}}Fourth-of-July-Event-2020). 
+The **_Liberator_** is a **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** added during the [Fourth of July Event 2020]({{< ref "/wiki/" >}}Fourth-of-July-Event-2020).
 
 ## Description
 
@@ -48,7 +48,7 @@ The interior of the **Liberator** is very simple: a metallic, blue box with the 
 - Although this ship has Light Turrets, they are best used against larger ships rather than smaller ones.
 - Due to the lack of shield damage outside of spinals, this ship somewhat struggles at destroying smaller vessels with decent shields.
 
-## Version History 
+## Version History
 
 - [Shield]({{< ref "/wiki/" >}}Shields) reduced to 2200 in version .68b, which caused a price drop.
 - [Shields]({{< ref "/wiki/" >}}Shields) increased from 5800 to 6500, [Hull]({{< ref "/wiki/" >}}Hull) increased from 3000 to 4000, [Turret]({{< ref "/wiki/" >}}Turrets) placement changed and teleporter position changed in version .68b.

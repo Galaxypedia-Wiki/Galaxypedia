@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Erebus
+  - /wiki/Erebus
 categories:
-- Ships
-- PVP Ships
-- Support Ships
-- Capital Ships
-- Dreadnoughts
-- Limited Ships
-- Halloween 2019
+  - Ships
+  - PVP Ships
+  - Support Ships
+  - Capital Ships
+  - Dreadnoughts
+  - Limited Ships
+  - Halloween 2019
 title: Erebus
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Erebus_** is a **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** added during the **[Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019)**.
 
@@ -54,7 +54,7 @@ The Erebus has a cylindrical shaped interior with a pilot seat that has a granit
 - Act as an extra pile of guns and not a flagship.
 - Avoid smaller Ships, as your Turrets are not accurate enough to hit them.
 
-## Version History 
+## Version History
 
 - Heavily nerfed in version .66b---Spinal barrels reduced from 8/8 to 4/4, Obliterator damage reduced from 140 to 85, Decimator damage increased from 36 to 38, reload increased from 0.2s to 1s, Shield reduced from 8000 to 7000, Hull reduced from 8000 to 6500, Top speed reduced from 125 to 60, Turn-speed reduced from 0.38 to 0.15.
 - Changed from a quest ship to a regular build menu in version ???

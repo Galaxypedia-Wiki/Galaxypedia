@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Falcon
+  - /wiki/Falcon
 categories:
-- Fighters
-- Ships
-- Support Ships
+  - Fighters
+  - Ships
+  - Support Ships
 title: Falcon
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Falcon_** was a **[Fighter-class]({{< ref "/categories/" >}}fighters)** ship unique to the [Vanguard]({{< ref "/wiki/" >}}Vanguard). 
+The **_Falcon_** was a **[Fighter-class]({{< ref "/categories/" >}}fighters)** ship unique to the [Vanguard]({{< ref "/wiki/" >}}Vanguard).
 
 ## Description
 
@@ -44,7 +44,7 @@ Like all [Fighter-class]({{< ref "/categories/" >}}fighters) [Ships]({{< ref "/w
 - Slow down a bit when fighting smaller enemies.
 - Get inside a starbase by going into a docking port and start to eat up the base's health. (caution: possible ban)
 
-## Version History 
+## Version History
 
 - Tiny Phaser spinal count increased from 1 to 3 in version .72f1.
 - Removed from the [Vanguard]({{< ref "/wiki/" >}}Vanguard) and replaced with Y.Falcons in version .74b14.

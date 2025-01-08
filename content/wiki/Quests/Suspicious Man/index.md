@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Suspicious-Man
+  - /wiki/Suspicious-Man
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Suspicious Man
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 **_Suspicious Man_** is an NPC who trade [Plasma Battery]({{< ref "/wiki/" >}}Plasma-Battery) to credits.
 
@@ -15,7 +15,7 @@ title: Suspicious Man
 
 Hello_World!
 
-## Plasma Batteries 
+## Plasma Batteries
 
 Hello_World!
 
@@ -23,7 +23,7 @@ Hello_World!
 
 Hello_World!
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Suspicious Man]: " Hello_World! "</span>
 

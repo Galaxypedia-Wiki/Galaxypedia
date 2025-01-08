@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Zhen
+  - /wiki/Zhen
 categories:
-- Ships
-- Battlecruisers
-- PVP Ships
-- Pirate Ships
-- Advanced Ships
+  - Ships
+  - Battlecruisers
+  - PVP Ships
+  - Pirate Ships
+  - Advanced Ships
 title: Zhen
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/advancedShip >}} 
+{{< notices/advancedShip >}}
 
 The **_Zhen_** is a swift and [**Advanced**]({{< ref "/categories/" >}}advanced-ships) **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)**.
 
@@ -66,7 +66,7 @@ The **Cockpit** of the Zhen is a closed cockpit with 4 screens and a control pan
 - Immediately retreat from heavily armed ships that exit warp very close to you, if they hit you even a few times you may be destroyed.
 - Know when to retreat, this ship is very costly for its class and isn't worth losing.
 
-## Version History 
+## Version History
 
 - Price buffed soon after its release.
 - Price reduced, and weapons nerfed the day after it was released.
@@ -101,4 +101,4 @@ The **Cockpit** of the Zhen is a closed cockpit with 4 screens and a control pan
 ![2nd Model]({{< ref "/wiki/" >}}Zhen-old.png-"2nd-Model") ![1st
 Model](Zhen_wiki_pic.JPG "1st Model") ![Picture of Sans Undertale inside
 2nd Model's
-Cockpit.](Zhen-SansUndertale.png "Picture of Sans Undertale inside 2nd Model's Cockpit.")  -icon.png }}
+Cockpit.](Zhen-SansUndertale.png "Picture of Sans Undertale inside 2nd Model's Cockpit.") -icon.png }}

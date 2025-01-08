@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Hevnetier
+  - /wiki/Hevnetier
 categories:
-- Carriers
-- Ships
-- PVP Ships
-- Support Ships
-- Alien Ships and Stations
+  - Carriers
+  - Ships
+  - PVP Ships
+  - Support Ships
+  - Alien Ships and Stations
 title: Hevnetier
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Hevnetier_** is a fairly large [Carrier]({{< ref "/categories/" >}}carriers) made by the [Slarfie]({{< ref "/wiki/" >}}Slarfie) with a focus on [Turrets]({{< ref "/wiki/" >}}Turrets) and it's special [Battleship]({{< ref "/categories/" >}}battleships)-like [Fighter]({{< ref "/categories/" >}}fighters).
 
@@ -50,7 +50,7 @@ The **Hevnetier** has a simple interior, being a box with a screen at the front,
 - Engage ships that are above you as all of the turrets can fire at once.
 - Only fight in this ship with a fleet, as small, agile ships can easily exploit your blind-spot under you.
 
-## Version History 
+## Version History
 
 - In .58b2 the old model's Interior was removed, leaving only an empty shell with [Fighters]({{< ref "/categories/" >}}fighters).
 - Remodeled in .64f.

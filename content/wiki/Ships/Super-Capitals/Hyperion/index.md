@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Hyperion
+  - /wiki/Hyperion
 categories:
-- Super Capital Ships
-- Siege Ships
-- PVP Ships
-- Ships
-- Capital Ships
+  - Super Capital Ships
+  - Siege Ships
+  - PVP Ships
+  - Ships
+  - Capital Ships
 title: Hyperion
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/superCapitalShip >}} 
+{{< notices/superCapitalShip >}}
 
 The **_Hyperion_** is one of the six **[Super Capital Ships]({{< ref "/categories/" >}}super-capital-ships)** in the game. This enormous ship can easily stand up to other large ships.
 
@@ -35,7 +35,7 @@ The exterior features a great quantity of detailing in a similar fashion to ship
 - Can obliterate hull from its overwhelming Hull DPS and alpha.
 - Can siege bases from afar with its [huge torpedoes]({{< ref "/wiki/" >}}Spinal-Weaponry) since it outranges [starbase]({{< ref "/wiki/" >}}starbase) turrets. Additionally, a large portion of its turrets can outrange a starbase's main heavy-hitting turrets (aside from railguns), further reducing risk.
 - Effective at destroying large and sluggish ships due to the high damage output.
-- Has a high cargo hold of  making it able to loot wrecks.
+- Has a high cargo hold of making it able to loot wrecks.
 - Ridiculous efficiency in sieges, due to the long range, massive damage, high health, and status as a Super Capital, which can scare off most enemies.
 
 ## Disadvantages
@@ -57,7 +57,7 @@ The exterior features a great quantity of detailing in a similar fashion to ship
 - Even though this ship has a strong nuke, it is almost certainly not worth doing a suicide mission in this ship due to the expense.
 - Pick your battles: Unless you know you have a fleet you can trust and that the enemy team has neither lots of competent and coordinated players or tricks up their sleeve, it is almost always better to use a cheaper alternative.
 
-## Version History 
+## Version History
 
 - Added in version .65b
 - Disabled in .66b along with the other [Super Capital Ships]({{< ref "/categories/" >}}super-capital-ships) due to [Weapons Part and Alien Device]({{< ref "/wiki/" >}}Materials) duplication.

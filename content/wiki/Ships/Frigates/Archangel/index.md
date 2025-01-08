@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Archangel
+  - /wiki/Archangel
 categories:
-- Ships
-- Frigates
-- PVP Ships
-- Support Ships
-- Hull breakers
+  - Ships
+  - Frigates
+  - PVP Ships
+  - Support Ships
+  - Hull breakers
 title: Archangel
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Archangel_** is a Heavyweight **[Frigate]({{< ref "/categories/" >}}frigates)** class ship with high mobility and 2 [Turrets]({{< ref "/wiki/" >}}Turrets). 
+The **_Archangel_** is a Heavyweight **[Frigate]({{< ref "/categories/" >}}frigates)** class ship with high mobility and 2 [Turrets]({{< ref "/wiki/" >}}Turrets).
 
 ## Description
 
@@ -41,7 +41,7 @@ The interior of the **Archangel** is a small but detailed cockpit containing a 
 - Use the ship's speed to dodge/distract [Starbase]({{< ref "/wiki/" >}}Starbase) long-range turrets during a siege.
 - Distract other ships during attacks, especially those around this ship's class.
 
-## Version History 
+## Version History
 
 - Received a remodel on 8/15/20
 - 1 [Light Cannon]({{< ref "/wiki/" >}}Turrets) and 1 [Light Laser]({{< ref "/wiki/" >}}Turrets) switched out with 2 [Light Flak Cannons]({{< ref "/wiki/" >}}Turrets), acceleration increased to 25 and it received a remodel in version .68e.

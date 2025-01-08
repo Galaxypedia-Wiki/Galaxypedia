@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Mini-Alpha-Naglfar
+  - /wiki/Mini-Alpha-Naglfar
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Mini Alpha Naglfar
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Mini Alpha Naglfar_** is a [Fighter-class]({{< ref "/categories/" >}}fighters) ship found in the [Alpha Ship]({{< ref "/wiki/" >}}Alpha-Ship).
 

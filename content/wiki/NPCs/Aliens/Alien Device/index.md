@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Alien-Device
-- /wiki/Advanced-Devices
+  - /wiki/Alien-Device
+  - /wiki/Advanced-Devices
 categories:
-- Items
-- Alien Ships and Stations
+  - Items
+  - Alien Ships and Stations
 title: Alien Device
----  
+---
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/outdatedInfo >}} 
+{{< notices/outdatedInfo >}}
 
 The Alien Device is an item used for building ships.
 
@@ -34,9 +34,9 @@ The Alien Device Quest can be found inside [Myriad]({{< ref "/wiki/" >}}Myriad) 
 location of the Alien Device
 Quest.](AlienDeviceGuide.mp4 "centre|Video guide on the location of the Alien Device Quest.")
 
-### Alien Computer 
+### Alien Computer
 
-**Requires:** 7500 Alien Parts. **Reward:** 1 Alien Device.  **_AlienQuest_** is the quest giver for [Quest]({{< ref "/wiki/" >}}Quests) #81 - "Alien Computer".
+**Requires:** 7500 Alien Parts. **Reward:** 1 Alien Device. **_AlienQuest_** is the quest giver for [Quest]({{< ref "/wiki/" >}}Quests) #81 - "Alien Computer".
 
 _Dialogue:_'
 
@@ -76,7 +76,7 @@ Player: "[Here I have them]"
 
 _If player has the required items, they will receive 1 count of the item "Alien Device" as a reward._
 
-## Version History 
+## Version History
 
 - [Alien Part]({{< ref "/wiki/" >}}Alien-Part) required for making one increased. 5000 -> 15000 in version ???.
 

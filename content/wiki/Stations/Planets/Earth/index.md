@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Earth
+  - /wiki/Earth
 categories:
-- Removed From Game
-- Planets
-- Starbases
+  - Removed From Game
+  - Planets
+  - Starbases
 title: Earth
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 ## Description
 

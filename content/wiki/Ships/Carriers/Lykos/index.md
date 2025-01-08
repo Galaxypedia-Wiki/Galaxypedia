@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Lykos
+  - /wiki/Lykos
 categories:
-- Ships
-- Carriers
-- PVP Ships
-- Promotion/Raffles
-- Support Ships
-- Siege Ships
-- All-Rounder Ships
+  - Ships
+  - Carriers
+  - PVP Ships
+  - Promotion/Raffles
+  - Support Ships
+  - Siege Ships
+  - All-Rounder Ships
 title: Lykos
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Lykos_** is a **[Carrier]({{< ref "/categories/" >}}carriers)** which was going to be awarded to the first-place winner of the [Galaxy Tournament](https://challonge.com/GalaxyAT).
 
@@ -43,7 +43,7 @@ The **Lykos** is intended to be a yacht, and as such features the most luxurious
 - Don't use this for trading during war.
 - Travel with a large fleet at all times, and if in doubt do not use this ship.
 
-## Version History 
+## Version History
 
 - Removed in version .69a2, due to the cancellation of the tournament.
 

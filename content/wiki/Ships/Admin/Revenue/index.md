@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Revenue
+  - /wiki/Revenue
 categories:
-- Admin Ships
-- Ships
+  - Admin Ships
+  - Ships
 title: Revenue
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Revenue_** is an extremely mobile **[Admin Ship]({{< ref "/categories/" >}}admin-ships)**.
 
@@ -38,7 +38,7 @@ The **Revenue's** interior consists of a small cockpit with a pilot's seat and a
 - Get other people to envy you.
 - Laugh at peasants.
 
-## Version History 
+## Version History
 
 - Model updated in an unknown version.
 

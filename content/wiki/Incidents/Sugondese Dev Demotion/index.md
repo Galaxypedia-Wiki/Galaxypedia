@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Sugondese-Dev-Demotion
+  - /wiki/Sugondese-Dev-Demotion
 categories:
-- Incidents
+  - Incidents
 title: Sugondese Dev Demotion
----  
+---
 
-{{< notices/communityIncident >}} 
+{{< notices/communityIncident >}}
 
 This article documents the events that lead to the demotion of Sugondese from Developer rank.
 

@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Wasp
+  - /wiki/Wasp
 categories:
-- Ships
-- Mining Ships
+  - Ships
+  - Mining Ships
 title: Wasp
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Wasp_** is a **[Miner-class]({{< ref "/categories/" >}}mining-ships)** ship and is one of the starter ships for Galaxy. 
+The **_Wasp_** is a **[Miner-class]({{< ref "/categories/" >}}mining-ships)** ship and is one of the starter ships for Galaxy.
 
 ## Description
 
@@ -43,7 +43,7 @@ The **Wasp** is a strangely designed "ship" featuring a pair of headlights, a gr
 - Due to the ship being small and fast, the ship can be used to scout enemy fleets for wars. The ship is also good for this task because there is no risk if you lose the ship as it's free, meaning you can easily spam this ship as a distraction.
 - You can distract player ships with this. Despite Wasps being free and worthless to destroy, many people will decide to shoot them for fun, which means they aren't shooting something valuable.
 
-## Version History 
+## Version History
 
 - Received a remodel in version .56b.
 - [Warp Drive]({{< ref "/wiki/" >}}Warp-Drive) added in version .61h1?.

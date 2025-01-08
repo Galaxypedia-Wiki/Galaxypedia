@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Chimera
+  - /wiki/Chimera
 categories:
-- Destroyers
-- Ships
-- Support Ships
-- PVP Ships
-- U.N.E
+  - Destroyers
+  - Ships
+  - Support Ships
+  - PVP Ships
+  - U.N.E
 title: Chimera
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 _This article describes the player-owned vessel. For the NPC version, see [Chimera-S]({{< ref "/wiki/" >}}Chimera-S)._
 
@@ -47,7 +47,7 @@ The interior of the **Chimera** is surprisingly good for its class. You enter us
 - Should be used as a supporting ship.
 - To ensure all turrets have a clear line of sight on targets, don't engage targets head on; instead engage in broadside combat with the side of your ship facing the enemy.
 
-## Version History 
+## Version History
 
 - Received a buff in .65a4? that increased the **Chimera's** health by 300 (100 to shields and 200 to hull).
 - Buffed in version .66b - received another turret, had its light laser changed to a light gatling laser, and had its acceleration buffed from 10 to 35.

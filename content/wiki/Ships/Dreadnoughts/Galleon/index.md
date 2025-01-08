@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Galleon
+  - /wiki/Galleon
 categories:
-- NPC Ships
-- Dreadnoughts
-- Broadsides
-- Capital Ships
-- Bosses
-- Pirate Ships
-- Ships
+  - NPC Ships
+  - Dreadnoughts
+  - Broadsides
+  - Capital Ships
+  - Bosses
+  - Pirate Ships
+  - Ships
 title: Galleon
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-The **Galleon** is a **[Pirate]({{< ref "/wiki/" >}}Pirates) [AI]({{< ref "/categories/" >}}npc-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts)**. 
+The **Galleon** is a **[Pirate]({{< ref "/wiki/" >}}Pirates) [AI]({{< ref "/categories/" >}}npc-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts)**.
 
 ## Description
 
@@ -43,7 +43,7 @@ It spawns every 70 minutes with no player count limit.
 
 The **Galleon** drops 6 [Plasma Batteries]({{< ref "/wiki/" >}}Plasma-Battery), 150 [Armor Scraps]({{< ref "/wiki/" >}}Armor-Scrap), and 1200 [Material Scraps]({{< ref "/wiki/" >}}Material-Scrap). Attacking it solo can give over 30k [Credits]({{< ref "/wiki/" >}}Credits) in combat rewards.
 
-## Version History 
+## Version History
 
 - Added in .72f1
 - Disabled from spawning upon the release of the first part of Halloween 2021 for obvious reasons

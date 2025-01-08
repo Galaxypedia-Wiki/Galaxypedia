@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Retro-Grievion
+  - /wiki/Retro-Grievion
 categories:
-- Battlecruisers
-- Limited Ships
-- PVP Ships
-- Ships
-- Black Friday 2019
-- Retro Ship Event 2019
+  - Battlecruisers
+  - Limited Ships
+  - PVP Ships
+  - Ships
+  - Black Friday 2019
+  - Retro Ship Event 2019
 title: Retro Grievion
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Retro Grievion_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Grievion]({{< ref "/wiki/" >}}Grievion) that features its original model and armament. 
+The **_Retro Grievion_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Grievion]({{< ref "/wiki/" >}}Grievion) that features its original model and armament.
 
 ## Description
 
@@ -45,7 +45,7 @@ The interior is accessed through a transparent door leading into the ship from w
 - Stay near your [Starbase]({{< ref "/wiki/" >}}Starbase).
 - Make effective use of your [Spinals]({{< ref "/wiki/" >}}Spinals).
 
-## Version History 
+## Version History
 
 - Added in .66b, along with the [Retro Ship Event 2019]({{< ref "/categories/" >}}retro-ship-event-2019).
 - Received a buff in .66b shortly after the event ended.

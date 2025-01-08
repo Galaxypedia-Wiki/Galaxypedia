@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Revylation-🦍
+  - /wiki/Revylation-🦍
 categories:
-- Ships
-- Battleships
+  - Ships
+  - Battleships
 title: Revylation 🦍
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 _This page is about the Battleship. If you're looking for the Carrier, see [Revelation]({{< ref "/wiki/" >}}Revelation)._
 
@@ -41,7 +41,7 @@ The **Interior** has the exact same description as the ship it's based on, but "
 
 - Keep this ship as a trophy.
 
-## Version History 
+## Version History
 
 - Added in Version .75a12 via a hidden quest.
 - Explosion size nerfed from 6000 Studs to 3000 Studs in the same version it was added .75a12

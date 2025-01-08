@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Retro-Hawklight
+  - /wiki/Retro-Hawklight
 categories:
-- Limited Ships
-- Battleships
-- PVP Ships
-- Ships
-- Black Friday 2019
-- Retro Ship Event 2019
-- Hull breakers
+  - Limited Ships
+  - Battleships
+  - PVP Ships
+  - Ships
+  - Black Friday 2019
+  - Retro Ship Event 2019
+  - Hull breakers
 title: Retro Hawklight
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Retro Hawklight_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Hawklight]({{< ref "/wiki/" >}}Hawklight) that features its 2nd generation model and armament.
 
@@ -52,7 +52,7 @@ The interior of the **Retro Hawklight** is rather mundane; it is composed of a s
 - Use this ship's [Spinals]({{< ref "/wiki/" >}}Spinal-Weaponry) to finish off crippled targets.
 - Be careful when using this ship as it will be seen as a valuable target. Avoid extensively tanking damage and retreat if needed.
 
-## Version History 
+## Version History
 
 - Added in .66b, along with the [Retro Ship event]({{< ref "/categories/" >}}-retro-ship-event-2019).
 - Received a buff along with all other retro event ships in .66b shortly after the event ended.

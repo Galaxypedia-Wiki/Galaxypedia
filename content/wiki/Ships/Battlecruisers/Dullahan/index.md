@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Dullahan
+  - /wiki/Dullahan
 categories:
-- Ships
-- Limited Ships
-- Reskins
-- Battlecruisers
-- Halloween 2020
-- Halloween 2022
+  - Ships
+  - Limited Ships
+  - Reskins
+  - Battlecruisers
+  - Halloween 2020
+  - Halloween 2022
 title: Dullahan
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Dullahan_** is a limited remake of the [Banshee]({{< ref "/wiki/" >}}Banshee) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) released during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020). 
+The **_Dullahan_** is a limited remake of the [Banshee]({{< ref "/wiki/" >}}Banshee) [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) released during the [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020).
 
 ## Description
 
@@ -43,7 +43,7 @@ The **Dullahan's** interior is the same as the [Banshee]({{< ref "/wiki/" >}}Ban
 
 - Use this Ship's small profile and drift around the enemy.
 
-## Version History 
+## Version History
 
 - Implemented in .69b1
 - Fixed an issue where you would fall right off while being anywhere near the pilot seat .75a12

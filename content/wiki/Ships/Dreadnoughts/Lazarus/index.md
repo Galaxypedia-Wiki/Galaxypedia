@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Lazarus
+  - /wiki/Lazarus
 categories:
-- Ships
-- Dreadnoughts
-- Siege Ships
-- PVP Ships
-- Support Ships
-- Capital Ships
-- VIP Ships
+  - Ships
+  - Dreadnoughts
+  - Siege Ships
+  - PVP Ships
+  - Support Ships
+  - Capital Ships
+  - VIP Ships
 title: Lazarus
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/vipShip >}} 
+{{< notices/vipShip >}}
 
-The **_Lazarus_** is a [VIP]({{< ref "/wiki/" >}}Galaxy-VIP-Gamepass)-exclusive PvP-based **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** with high Shield health and firepower. 
+The **_Lazarus_** is a [VIP]({{< ref "/wiki/" >}}Galaxy-VIP-Gamepass)-exclusive PvP-based **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)** with high Shield health and firepower.
 
 ## Description
 
@@ -53,7 +53,7 @@ The interior of the **Lazarus** is a small, very dark room containing only the p
 - Be careful around [Aliens]({{< ref "/wiki/" >}}Aliens), especially [Punisher]({{< ref "/wiki/" >}}Punisher) and [Decimator]({{< ref "/wiki/" >}}Decimator) as their high shield damage can tear you apart. An unsupported Punisher can be face-tanked, but if a Decimator targets you, retreat.
 - Try not to let enemy ships get under you, as you there are no [turrets]({{< ref "/wiki/" >}}turrets) on the underside of the ship.
 
-## Version History 
+## Version History
 
 - Made a [VIP]({{< ref "/wiki/" >}}Galaxy-VIP-Gamepass) ship a few days after its release in .62a1. This change also buffed the Shield from 8240 to 8500 and nerfed the Hull from 3850 to 1250.
 - [Shield]({{< ref "/wiki/" >}}Shields) increased to 9001 (from 8500), turn speed increased to 0.07 (from 0.05) in .65b

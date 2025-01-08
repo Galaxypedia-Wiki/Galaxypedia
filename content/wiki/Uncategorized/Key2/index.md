@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Key2
+  - /wiki/Key2
 categories:
-- Ships
+  - Ships
 title: Key2
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Key2_** is a small, weak [**Admin**]({{< ref "/categories/" >}}admin-ships) ship modeled after the [Kneall Scout]({{< ref "/wiki/" >}}Kneall-Scout).
 

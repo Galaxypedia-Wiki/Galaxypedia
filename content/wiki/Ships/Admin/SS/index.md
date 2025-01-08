@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/SS
+  - /wiki/SS
 categories:
-- Admin Ships
-- Ships
+  - Admin Ships
+  - Ships
 title: SS
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_ß_** is a personal **[Admin Ship]({{< ref "/wiki/" >}}:category:admin)** between Admin Director 1_Fast and Developer (former Admin) N3vadan.
 
@@ -34,7 +34,7 @@ The **ß** has a small platform under the main part of the ship for the pilot an
 - Use this ship alongside combat vessels so that enemies have trouble looking at the battle.
 - Be fast, but not 2_Fast.
 
-## Version History 
+## Version History
 
 - Originally added under the name 'Hmm...', but later removed.
 - Added again with the final name, but was again removed.

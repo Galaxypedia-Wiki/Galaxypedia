@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/X-0
+  - /wiki/X-0
 categories:
-- NPC Ships
-- Freighters
-- Pirate Ships
-- Ships
-- Bosses
+  - NPC Ships
+  - Freighters
+  - Pirate Ships
+  - Ships
+  - Bosses
 title: X-0
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-The **_X-0_** is a [Pirate]({{< ref "/wiki/" >}}Pirates) [Freighter]({{< ref "/categories/" >}}freighters) and Pirate mini-boss that has an identical model from the [D Class]({{< ref "/wiki/" >}}D-Class). 
+The **_X-0_** is a [Pirate]({{< ref "/wiki/" >}}Pirates) [Freighter]({{< ref "/categories/" >}}freighters) and Pirate mini-boss that has an identical model from the [D Class]({{< ref "/wiki/" >}}D-Class).
 
 ## Description
 
@@ -52,7 +52,7 @@ It has a random chance to spawn every 60 minutes in public servers, and has no p
 - Calls other pirates to location if an enemy is present, which can include the [Kodiak]({{< ref "/wiki/" >}}Kodiak) and/or [Galleon]({{< ref "/wiki/" >}}Galleon), which may also call the X-0 to their location.
 - Similar to all pirates, chases down (with other pirates) fleeing enemies.
 
-## Version History 
+## Version History
 
 - Loot nerf: Armor scraps 200 -> 199 (.74b17)
 - Loot nerf: Armor scraps 199 -> 150 (Version needed)

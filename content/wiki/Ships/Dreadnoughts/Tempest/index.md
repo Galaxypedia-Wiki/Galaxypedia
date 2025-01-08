@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Tempest
+  - /wiki/Tempest
 categories:
-- Dreadnoughts
-- PVP Ships
-- Support Ships
-- Capital Ships
-- Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Support Ships
+  - Capital Ships
+  - Ships
 title: Tempest
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Tempest_** is a powerful and fast PvP and Support [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts). 
+The **_Tempest_** is a powerful and fast PvP and Support [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
 
 ## Description
 
@@ -51,7 +51,7 @@ The Tempest's interior is rather simple, featuring an illuminated grey room with
 - When fighting nimble ships, keep pace with them to the best of your ability in both speed and direction; to maximize the accuracy of your turrets.
 - Support your team by providing AA (anti air) Support.
 
-## Version History 
+## Version History
 
 - Nerfed before release. Used to have 6 Large Phasers and 23 more Speed. Also had a part reduction.
 - Did not have a Cargo Hold until .52d.

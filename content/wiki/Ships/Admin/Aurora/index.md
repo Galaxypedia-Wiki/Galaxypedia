@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Aurora
+  - /wiki/Aurora
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Aurora
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Aurora_** is a personal [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) made by Uglycar & Rekuri.
 
@@ -49,7 +49,7 @@ The **Aurora** features:
   - Go on a luxury space cruise.
   - Throw a party.
 
-## Version History 
+## Version History
 
 - Removed along with most of the [**Admin Ships**]({{< ref "/categories/" >}}admin-ships) in version .62a1.
 - Re-added in version .68e???

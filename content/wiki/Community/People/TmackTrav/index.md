@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/TmackTrav
+  - /wiki/TmackTrav
 categories:
-- Biographies
+  - Biographies
 title: TmackTrav
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 Infamous Galaxy Player, known for his association with the Galaxy Faction Blackhawks.
 

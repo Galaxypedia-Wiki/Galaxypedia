@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Warden
+  - /wiki/Warden
 categories:
-- Ships
-- PVP Ships
-- Battleships
-- Capital Ships
+  - Ships
+  - PVP Ships
+  - Battleships
+  - Capital Ships
 title: Warden
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Warden_** is a cheap, agile PvP **[Battleship]({{< ref "/categories/" >}}battleships)** with an emphasis on shield damage.
 
@@ -41,7 +41,7 @@ The **Warden** has a fairly interesting interior containing a teleport pad to th
 - Extremely good at defending [Starbases]({{< ref "/wiki/" >}}Starbase); the low cost makes it less likely to be focused by a fleet, and the shield shredding properties will quickly scare any attackers into retreating.
 - Use this ship to counter Cruisers, Battlecruisers, Battleships, or Dreadnoughts. It won't do well against ships much larger than itself or extremely agile ships.
 
-## Version History 
+## Version History
 
 - Buffed in .66b, having its shield go from 4000 to 2750 and its hull going from 2000 to 4150, as well as its light gatling laser being changed to a Medium Flak Cannon.
 - 2 [Medium Phasers]({{< ref "/wiki/" >}}Spinals) and 1 [Triple Heavy Cannon]({{< ref "/wiki/" >}}Turrets) removed and [Hull]({{< ref "/wiki/" >}}Hull) reduced to 3150 in version .69a1.

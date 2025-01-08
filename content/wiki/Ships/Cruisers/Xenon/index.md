@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Xenon
+  - /wiki/Xenon
 categories:
-- Ships
-- Cruisers
-- Support Ships
-- Siege Ships
-- Hull breakers
-- PVP Ships
+  - Ships
+  - Cruisers
+  - Support Ships
+  - Siege Ships
+  - Hull breakers
+  - PVP Ships
 title: Xenon
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/outdatedInfo >}} 
+{{< notices/outdatedInfo >}}
 
 The **_Xenon_** is a very popular **[Cruiser]({{< ref "/categories/" >}}cruisers)** Class ship with decent health and decent speed. You will likely see this ship a lot.
 
@@ -48,7 +48,7 @@ The interior contains one small room with a computer with a small online convers
 - When sieging a base of level 2 or higher let your Medium Turrets do the work while you fly around the base to avoid being hit yourself. If any [Fighters]({{< ref "/categories/" >}}fighters) comes to defend, destroy them with your remaining [Small Turrets]({{< ref "/wiki/" >}}Turrets).
 - The small size and long range of this ship make it dangerous, especially in fleets: it can avoid base fire and dive in to attack ships trying to despawn.
 
-## Version History 
+## Version History
 
 - Max [Shield]({{< ref "/wiki/" >}}Shields) increased from 750 to 1000, added one [Medium Railgun]({{< ref "/wiki/" >}}Turrets).
 - Received a remodel in version??

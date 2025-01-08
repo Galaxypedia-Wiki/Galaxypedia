@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Instigator-A
+  - /wiki/Instigator-A
 categories:
-- Cruisers
-- Ships
-- PVP Ships
-- All-Rounder Ships
-- Support Ships
-- Stubs
+  - Cruisers
+  - Ships
+  - PVP Ships
+  - All-Rounder Ships
+  - Support Ships
+  - Stubs
 title: Instigator-A
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 _Not to be confused with the [**Fighter-class**]({{< ref "/categories/" >}}fighters) [Instigator]({{< ref "/wiki/" >}}Instigator)._
 
@@ -40,7 +40,7 @@ The interior of the **Instigator-A** contains nothing more than the pilot's seat
 - Expensive for a Cruiser; only the [Nidhogg]({{< ref "/wiki/" >}}Nidhogg) and [Atheon]({{< ref "/wiki/" >}}Atheon) are more expensive than it.
 - No Cargo Hold.
 
-## Version History 
+## Version History
 
 - No logged changes
 

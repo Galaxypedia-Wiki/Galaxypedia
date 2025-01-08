@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Raven
+  - /wiki/Raven
 categories:
-- Ships
-- Frigates
-- PVP Ships
-- Support Ships
+  - Ships
+  - Frigates
+  - PVP Ships
+  - Support Ships
 title: Raven
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Raven_** is a beginner's **[Frigate]({{< ref "/categories/" >}}frigates)** and the cheapest combat ship currently available. 
+The **_Raven_** is a beginner's **[Frigate]({{< ref "/categories/" >}}frigates)** and the cheapest combat ship currently available.
 
 ## Description
 
@@ -42,7 +42,7 @@ The **Raven** has a detailed pilot's seat with cushions the color of the player'
 - Avoid anything that has a Turret pointed at you, especially if the turret is high-accuracy (Flak Cannons, Point Defense Lasers, etc.)
 - Staying at Top Speed is critical to limiting damage.
 
-## Version History 
+## Version History
 
 - [Light Turret]({{< ref "/wiki/" >}}Turrets) removed in some part of version .61 or .62.
 - Received a remodel decreasing its size and altering its appearance in version .61g. A minor buff soon followed, adding its [Light Flak Cannon]({{< ref "/wiki/" >}}Turrets).

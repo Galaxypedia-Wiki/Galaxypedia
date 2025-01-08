@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Kneall-Bionicle
-- /wiki/Kneall-Brawler
+  - /wiki/Kneall-Bionicle
+  - /wiki/Kneall-Brawler
 categories:
-- NPC Ships
-- Alien Ships and Stations
-- Battleships
-- Ships
-- Bosses
+  - NPC Ships
+  - Alien Ships and Stations
+  - Battleships
+  - Ships
+  - Bosses
 title: Kneall Bionicle
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 _This article describes the NPC vessel, not the Fighter, nor the Player owned battleship. For the fighter with the same model, see [A - Brawler]({{< ref "/wiki/" >}}A---Brawler), for the player owned battleship, see [Brawler]({{< ref "/wiki/" >}}Brawler)._
 
@@ -49,7 +49,7 @@ Currently it spawns every 18 minutes at the same time as the [Punisher]({{< ref 
 
 The wreck of the Kneall Bionicle contains 5 Bionicle Parts, 3 Plasma Batteries and 100 Alien Parts and gives 7k-9k [Combat reward]({{< ref "/wiki/" >}}Money-Making).
 
-## Version History 
+## Version History
 
 - Added and implemented in version .75a10 in the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event).
 

@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Crystocrene
+  - /wiki/Crystocrene
 categories:
-- Ships
-- Battleships
-- Christmas Event 2020
-- Limited Ships
-- Siege Ships
+  - Ships
+  - Battleships
+  - Christmas Event 2020
+  - Limited Ships
+  - Siege Ships
 title: Crystocrene
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Crystocrene_** is a **[Battleship]({{< ref "/categories/" >}}battleships)** added during the [2020 Christmas event]({{< ref "/wiki/" >}}Christmas-Event-2020).
 
@@ -49,7 +49,7 @@ The ship's exterior has a sci-fi twist to a winter theme. It has many icicles lo
 - Stay away from hull breakers, as the Crystocrene is not able to endure them for long due to its low shields.
 - In sieges, stay at a safe distance and use your torpedoes. However, if an ally is tanking the base, you can go closer and use your turrets.
 
-## Version History 
+## Version History
 
 - It used to have a total of 2 Heavy Icy Artillery Cannons, 4 Medium Icy Artillery Cannons and 2 Frosty Triple Heavy Lasers when this ship was released in version .69[!] ~ .71[?]
 - Large Phaser count increased to 4, gained 4 Medium Cannons, Medium Advanced Autolaser and Advanced Autocannon changed to 2 Medium Crystal Railguns in version .72c20.

@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Snowfall
+  - /wiki/Snowfall
 categories:
-- Battleships
-- Christmas Event 2019
-- Limited Ships
-- Ships
-- Capital Ships
-- PVP Ships
-- Broadsides
+  - Battleships
+  - Christmas Event 2019
+  - Limited Ships
+  - Ships
+  - Capital Ships
+  - PVP Ships
+  - Broadsides
 title: Snowfall
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Snowfall_** is a powerful [**Battleship**]({{< ref "/categories/" >}}battleships) released from the 1st stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019). 
+The **_Snowfall_** is a powerful [**Battleship**]({{< ref "/categories/" >}}battleships) released from the 1st stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
 ## Description
 
@@ -59,7 +59,7 @@ The Interior is snow-covered box, containing a yellow-teleporter door and the pi
 - Remember to use [Spinals]({{< ref "/wiki/" >}}Spinals), as they account for 60% of this ships' total DPS.
 - Also remember to use your module (B) when the enemy is in close range to slow then down and take them down.
 
-## Version History 
+## Version History
 
 - 2 [Triple Heavy Cannons]({{< ref "/wiki/" >}}Turrets) changed to 2 [Frost Triple Heavy Cannons]({{< ref "/wiki/" >}}Turrets) in version .69a1.
 - Was released again in the "Limited Edition (Permits)" Build menu, in version .72f. It can be obtained for a D class permit (credits vary from time to time) + 13386 Sillicate, 10326 Carbon, 8502 Iridium, 892 Adamantite, 1784 Palladium, 1078 Titanium, 1078 Quantium, and 273 Uranium.

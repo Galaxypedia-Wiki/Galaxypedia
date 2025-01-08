@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Ar̴͑̈ć̶͝h̸̑̎ä̷͗y̵̓̆n̵͛̌
-- /wiki/Archayn
+  - /wiki/Ar̴͑̈ć̶͝h̸̑̎ä̷͗y̵̓̆n̵͛̌
+  - /wiki/Archayn
 categories:
-- NPC Ships
-- Ships
-- Halloween 2022
-- Alien Ships and Stations
-- Titans
-- Bosses
+  - NPC Ships
+  - Ships
+  - Halloween 2022
+  - Alien Ships and Stations
+  - Titans
+  - Bosses
 title: Ar̴͑̈ć̶͝h̸̑̎ä̷͗y̵̓̆n̵͛̌
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/removed >}}   
+{{< notices/removed >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 The **Ar̴͑̈ć̶͝h̸̑̎ä̷͗y̵̓̆n̵͛̌** is an [**AI**]({{< ref "/categories/" >}}npc-ships) [Titan]({{< ref "/categories/" >}}titans) that spawned during Part 2 of the [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022).
 

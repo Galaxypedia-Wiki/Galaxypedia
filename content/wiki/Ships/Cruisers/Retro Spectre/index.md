@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Retro-Spectre
+  - /wiki/Retro-Spectre
 categories:
-- Ships
-- Limited Ships
-- Cruisers
-- Retro Ship Event 2024
+  - Ships
+  - Limited Ships
+  - Cruisers
+  - Retro Ship Event 2024
 title: Retro Spectre
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The Retro Spectre is an Event Cruiser for the [Retro Ship Event 2024]({{< ref "/wiki/" >}}Retro-Ship-Event-2024). 
+The Retro Spectre is an Event Cruiser for the [Retro Ship Event 2024]({{< ref "/wiki/" >}}Retro-Ship-Event-2024).
 
 ## Description
 

@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Prowler
+  - /wiki/Prowler
 categories:
-- Ships
-- Battleships
-- Capital Ships
-- Siege Ships
+  - Ships
+  - Battleships
+  - Capital Ships
+  - Siege Ships
 title: Prowler
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Prowler_** is a cheap but strong [**Battleship**]({{< ref "/categories/" >}}battleships). 
+The **_Prowler_** is a cheap but strong [**Battleship**]({{< ref "/categories/" >}}battleships).
 
 ## Description
 
@@ -44,7 +44,7 @@ The interior of the **Prowler** is detailed, with black and grey striped walls, 
 - If you are fighting a big or medium ship, your turrets can easily pick on its hull rather quick.
 - Use this ship to finish off other ships as its cannon weaponry will decimate hull quickly and has enough health to dive a ship back to its starbase.
 
-## Version History 
+## Version History
 
 - Immediately nerfed upon addition in version .66b---Cargo Hold reduced from 1,750 to 200.
 - Buffed in .66b, increasing its shield from 4500 to 4550 and its hull from 3350 to 3650

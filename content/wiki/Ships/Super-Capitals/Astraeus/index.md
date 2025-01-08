@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Astraeus
+  - /wiki/Astraeus
 categories:
-- Super Capital Ships
-- Ships
-- Siege Ships
-- Capital Ships
+  - Super Capital Ships
+  - Ships
+  - Siege Ships
+  - Capital Ships
 title: Astraeus
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/superCapitalShip >}} 
+{{< notices/superCapitalShip >}}
 
-The **Astraeus** is a powerful and long range [Super Capital Ship]({{< ref "/categories/" >}}super-capital-ships) with one of the highest [Alpha Damage]({{< ref "/wiki/" >}}Galaxy-Slang) in the game. 
+The **Astraeus** is a powerful and long range [Super Capital Ship]({{< ref "/categories/" >}}super-capital-ships) with one of the highest [Alpha Damage]({{< ref "/wiki/" >}}Galaxy-Slang) in the game.
 
 ## Description
 
@@ -59,7 +59,7 @@ The Interior features a large room with the pilot seat elevated in a platform in
 - Due to the terrible maneuverability, make sure to be under your target.
 - Pirating with the Astraeus is very difficult, owing to the slow-moving nature and awareness other players have to Supercapitals.
 
-## Version History 
+## Version History
 
 - Added in version .66b.
 - Heavy Railgun replaced with Super Laser in version .66c.

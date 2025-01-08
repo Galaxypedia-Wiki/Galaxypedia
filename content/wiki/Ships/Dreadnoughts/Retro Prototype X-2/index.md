@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Retro-Prototype-X-2
+  - /wiki/Retro-Prototype-X-2
 categories:
-- Ships
-- Limited Ships
-- Dreadnoughts
-- Siege Ships
+  - Ships
+  - Limited Ships
+  - Dreadnoughts
+  - Siege Ships
 title: Retro Prototype X-2
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Retro Prototype X-2_**is a Retro Variant of the [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2).
 
@@ -50,7 +50,7 @@ X-2](Retro_Prototype_X-2_Quest_Alien.jpg "The room for the quest "Prototype X-2 
 - Do not try to move out of the way of [Huge Torpedoes]({{< ref "/wiki/" >}}Spinal-Weaponry) with regular ship movement alone, as the ship is too large and too sluggish to dodge them. Instead, [warp]({{< ref "/wiki/" >}}Warp-Drive) out of the way of any Huge or Large Torpedoes that you see coming towards you; if you cannot afford to take those hits.
 - This ship is heavily targeted due to its expense and limited status, so be considerate of the risks of using the ship in any situation.
 
-## Version History 
+## Version History
 
 - added in version .76c13
 

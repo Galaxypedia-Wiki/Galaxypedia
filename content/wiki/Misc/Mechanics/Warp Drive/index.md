@@ -1,16 +1,18 @@
 ---
 aliases:
-- /wiki/Warp-Drive
+  - /wiki/Warp-Drive
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Warp Drive
----## In-Game 
+---
+
+## In-Game
 
 ![]({{< ref "/wiki/" >}}RobloxScreenShot20180910-205514068.png-"RobloxScreenShot20180910-205514068.png"){width="822" height="822"} ![The warp indicator when warp is
 ready](Bbe5fff0afa7a5510eb7e0e2b246eac7-1-.png "The warp indicator when warp is ready"){width="117" height="117"} ![The warp indicator cooling just after
 use](5468a3127b3a1770f59b30ba0bf6dc1a-1-.png "The warp indicator cooling just after use"){width="110" height="110"} The **Warp Drive** is a feature of nearly every ship in the game (the main exception being all [Fighter-class]({{< ref "/categories/" >}}fighters) ships) that allows them to travel in one direction at a very fast speed. The **Warp Drive** is activated by pressing the button 'V' on your keyboard or by clicking on the warp button.  The **Warp Drive** will begin charging once the warp button is pressed or the 'V' key is pressed on your keyboard. A UI will then appear telling you how much it has charged.  You must first know how far you wish to travel and then press 'V' again once the charge level reaches that distance. Your ship will then accelerate at a very fast rate in the direction you were pointing for the distance that you chose. During this state of warping, ships cannot fire turrets or spinals, change direction, or stop short of the set warp distance. After being used, the **Warp Drive** will be deactivated for a cooldown period that varies with how far you traveled.  There is an indicator just above the movement panel to tell you the status of your warp drive. The maximum distance you can warp is 410,000 studs, so you can easily cross the 225,000 x 225,000 stud map.
 
-## How it theoretically works 
+## How it theoretically works
 
 A warp drive engine uses matter in the form of deuterium and antimatter to mutually annihilate them together in a fusion reaction which is mediated by dilithium crystals. This chemical reaction produces enormous amounts of energy to warp space-time itself using warp field generators to push the ship beyond unimaginable speeds. - <https://en.wikipedia.org/wiki/Warp_drive>
 

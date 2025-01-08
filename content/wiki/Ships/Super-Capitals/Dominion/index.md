@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Dominion
+  - /wiki/Dominion
 categories:
-- Limited Ships
-- Ships
-- Super Capital Ships
-- Fourth of July 2021
+  - Limited Ships
+  - Ships
+  - Super Capital Ships
+  - Fourth of July 2021
 title: Dominion
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Dominion_** is a Canadian-themed [**Super Capital**]({{< ref "/categories/" >}}super-capital-ships) briefly released during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021). 
+The **_Dominion_** is a Canadian-themed [**Super Capital**]({{< ref "/categories/" >}}super-capital-ships) briefly released during the [2021 Fourth of July Event]({{< ref "/categories/" >}}fourth-of-july-2021).
 
 ## Description
 
@@ -38,7 +38,7 @@ The interior of the **Dominion** is a recolour of the Prototype X-1's interior f
 
 - If using solo, it is best used against shield tanks such as the judgement. Try to bring a buddy in a ship with high hull dps in order to secure the kill
 
-## Version History 
+## Version History
 
 - "Moth-balled" along with the Liberty in version .72f1, rendering the ship unusable. In the Official Galaxy Discord, you can refund for this ship if you own it(before it is removed).
 

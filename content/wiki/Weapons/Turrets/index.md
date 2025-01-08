@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Turrets
+  - /wiki/Turrets
 categories:
-- Game Mechanics
-- Weapons
+  - Game Mechanics
+  - Weapons
 title: Turrets
----Turrets are the main things for protection or for mining. They have many, many, different kinds.
+---
+
+Turrets are the main things for protection or for mining. They have many, many, different kinds.
 
 ## Description
 
@@ -23,9 +25,9 @@ Turrets on this page are grouped into tables by their main types: Lasers, Cannon
 
 The only ships that **should** still retain the classic or Alpha Turret models are the [Kapisi]({{< ref "/wiki/" >}}Kapisi) and [Hallowlight]({{< ref "/wiki/" >}}Hallowlight) with their Skeletal Lasers and Skeletal Cannons, the [Frostpocalypse]({{< ref "/wiki/" >}}Frostpocalypse) with its Frosty Lasers, the [Ghost of Christmas Death]({{< ref "/wiki/" >}}Ghost-of-Christmas-Death) with its Ice Turrets, the [Patriotic Rorqual]({{< ref "/wiki/" >}}Patriotic-Rorqual) with its Patriotic Mining Lasers, and all armed ships from the [Retro Ship Event 2019]({{< ref "/wiki/" >}}Retro-Ship-Event-2019) / [Retro Ship Event 2020]({{< ref "/wiki/" >}}Retro-Ship-Event-2020), however, many ships (such as [Warlock]({{< ref "/wiki/" >}}Warlock) and [Retribution]({{< ref "/wiki/" >}}Retribution)) have these models as placeholders, due to the original turrets not being available.
 
-Ships can have a maximum of 10 turrets. This was increased from the previous maximum of 9 turrets in version .71a. 
+Ships can have a maximum of 10 turrets. This was increased from the previous maximum of 9 turrets in version .71a.
 
-## Mining Lasers 
+## Mining Lasers
 
 Mining lasers are primarily used for mining asteroids on [Miners]({{< ref "/categories/" >}}mining-ships). They can also be used as combat turrets. Generally, combat mining lasers are called "Lances". Lasers deal 30% damage to hulled targets.
 
@@ -61,7 +63,7 @@ Crackle Large 0.0038 288 6859 6.14 2187 46.88 NecroCAN Large 0.0003 150 10000 2.
 
 - Some turrets possess the surname of "Cannon", but are actually Railgun-type turrets.
 
-## Flak Cannons 
+## Flak Cannons
 
 Flak Cannons are accurate, fast-firing, low-damage Cannons and have a yellow projectile. If they miss their target, they explode beside the target without dealing damage. Kinetic turrets deal 40% damage to shielded targets.
 
@@ -81,7 +83,7 @@ Turret Size Base Accuracy Deviation Base Damage Range Reload Time (s) Speed Deno
 
 UCan Huge 0.0181 222 5223 1.97 2952 112.92 UltimaB Huge 0.0137 222 5787 3.07 3645 72.27 TestLaser Large 0.0106 132 5641 3.52 4860 37.50 Banana Gun Tiny 0.0030 25 4750 4.00 12500 6.25 Base Cannon Huge 0.0119 222 6092 3.84 4050 57.81 Bone Lurker Medium 0.0069 75 5463 4.00 7650 18.75 Epoka Clave Large 0.0092 132 5938 4.40 5400 30.00 Tiny Cannon Tiny 0.0034 75 5500 5.00 7500 15.00 Void Cannon Large 0.0106 132 5641 3.52 4860 37.50 Chaos Cannon Small 0.0030 150 5750 2.75 15000 54.55 Ender Cannon Large 0.0050 500 7500 1.25 4000 400.00 Gauss Cannon Medium 0.0091 75 4930 2.56 6197 29.30 Heavy Cannon Large 0.0080 400 6500 13.50 4500 29.63 Light Cannon Small 0.0040 140 5800 7.00 7000 20.00 Pulse Cannon Medium 0.0069 210 5463 7.00 7650 30.00 Sledgehammer Large 0.0122 132 5359 2.82 4374 46.88 Amalgam Eater Large 0.0092 300 5938 6.00 5400 50.00 Azrael Cannon Large 0.0080 150 6250 5.00 6000 30.00 Crogmaw Eater Medium 0.0091 75 4930 2.56 6197 29.30 Hallow Cannon Small 0.0020 50 5000 3.60 17500 13.89 Kneall Cannon Large 0.0106 132 5641 3.52 4860 37.50 Kraken Cannon Medium 0.0091 75 4930 2.56 6197 29.30 Medium Cannon Medium 0.0060 300 6100 12.00 5750 25.00 cannonLucifer Large 0.0080 132 6250 5.50 6000 24.00 Bioaccelerator Large 0.0040 275 6500 6.00 6000 45.83 Quantum Cannon Large 0.0050 140 6500 5.50 9000 25.45 Azrael's Dagger Large 0.0080 550 6250 12.50 6000 44.00 Cephisso Cannon Small 0.0030 100 5750 2.75 15000 36.36 Colossus Cannon Large 0.0030 900 7750 12.50 3000 72.00 Kneall Cannon A Medium 0.0015 175 5750 2.50 5750 70.00 Lillak Firewall Large 0.0080 120 6250 3.00 6000 40.00 Olympian Cannon Large 0.0060 225 6500 6.00 4500 37.50 Prikkit Ionizer Small 0.0046 49 4988 3.60 9450 13.61 Skeletal Cannon Large 0.0050 132 6500 3.52 5500 37.50 Advanced Coilgun Medium 0.0050 250 8000 5.00 10000 50.00 Assault Positive Medium 0.0075 50 5500 4.00 7000 12.50 Colony PD Cannon Small 0.0010 40 8250 1.50 20000 26.67 Kneall Subcannon Huge 0.0070 1000 7600 12.00 8000 83.33 KrakenCannonBoss Large 0.0140 132 5091 2.25 3937 58.59 Light Autocannon Small 0.0046 40 4500 1.60 8000 25.00 Precursor Cannon Medium 0.0060 75 5750 5.00 8500 15.00 U.N.E. Subcannon Huge 0.0090 210 6250 3.50 5000 60.00 Colossussy Cannon Large 0.0080 2000 7500 25.00 5000 80.00 Heartifact Hammer Medium 0.0105 75 5500 2.00 5577 37.50 Huge Theia Cannon Large 0.0085 250 6000 5.00 5000 50.00 Rapid Fire Cannon Huge 0.0025 75 5250 2.00 20000 37.50 Retro Flak Cannon Large 0.0005 80 6000 2.30 20000 34.78 Tiny Blitz Cannon Tiny 0.0040 35 4000 1.20 15000 29.17 Avellian Pulsewave Medium 0.0079 216 5189 9.00 6885 24.00 Dual Medium Cannon Medium 0.0069 75 5463 4.00 7650 18.75 Erebus Obliterator Large 0.0070 200 6500 4.00 10000 50.00 Huge Triple Cannon Huge 0.0119 222 6092 3.84 4050 57.81 Kneall Auto Cannon Large 0.0050 125 6000 3.00 6500 41.67 Kneall Flak Cannon Large 0.0030 100 5000 3.00 12500 33.33 Kneall Multicannon Large 0.0040 300 7500 1.50 10000 200.00 Kneall Subcannon A Medium 0.0005 500 6750 5.00 5750 100.00 Lykos Micro Cannon Small 0.0040 49 5250 4.50 10500 10.89 Prokaryotic Cannon Small 0.0080 48 4500 2.40 50000 20.00 Zillavik Decimator Large 0.0106 350 5641 7.00 4860 50.00 Advanced AutoCannon Small 0.0046 49 4988 3.60 9450 13.61 Canadian Icebreaker Large 0.0106 132 5641 3.52 4860 37.50 Hallow Cannon Green Small 0.0020 40 5000 3.50 17500 11.43 Titan Kneall Cannon Large 0.0122 180 5500 3.00 4374 60.00 Triple Heavy Cannon Large 0.0106 180 5500 4.50 5500 40.00 Colony Medium Cannon Medium 0.0020 125 9250 3.50 15000 35.71 Graviton Obliterator Large 0.0100 180 6250 5.50 30000 32.73 Heavy Bioaccelerator Large 0.0080 400 6500 9.50 6000 42.11 Heavy Quantum Cannon Large 0.0050 235 6500 5.00 8000 47.00 Kneall Auto Cannon A Large 0.0050 60 6000 3.00 6500 20.00 Lykos Cannon Defense Medium 0.0069 75 5463 4.00 7650 18.75 Medium Kneall Cannon Medium 0.0079 75 5189 3.20 6885 23.44 Mothership Minigun++ Huge 0.0300 225 4250 0.80 2000 281.25 Super Capital Cannon Large 0.0092 132 5938 4.40 5400 30.00 Triple Medium Cannon Medium 0.0079 100 5000 3.40 6500 29.41 Zillavik Accelerator Large 0.0092 200 5938 5.00 5400 40.00 Capital Kneall Cannon Large 0.0122 95 5500 3.00 4374 31.67 Capital Triple Cannon Large 0.0106 240 6000 5.70 4500 42.11 Dual Advanced Coilgun Large 0.0050 200 7000 5.00 6000 40.00 Light Hijacked Cannon Small 0.0040 49 5250 4.50 10500 10.89 Patriotic Mass Driver Large 0.0106 132 5641 3.52 4860 37.50 Sakala Quantum Cannon Large 0.0080 250 6000 5.00 5000 50.00 Subjugator Devastator Huge 0.0137 500 6500 4.00 3645 125.00 Advanced Triple Cannon Large 0.0080 220 6000 3.40 7250 64.71 Atomic Colossus Cannon Large 0.0020 2000 10000 12.00 50000 166.67 Heartifact Accelerator Medium 0.0091 75 5000 2.50 6197 30.00 Plagued Quantum Cannon Large 0.0100 280 7000 6.00 50000 46.67 Patriotic Medium Cannon Medium 0.0069 75 5463 4.00 7650 18.75 Frosty Dual Medium Cannon Medium 0.0079 75 5189 3.20 6885 23.44 Rapid Fire Quantum Cannon Large 0.0025 100 5250 2.00 20000 50.00 Advanced Medium AutoCannon Medium 0.0069 75 5463 4.00 7650 18.75 Canadian Medium Icebreaker Medium 0.0069 75 5463 4.00 7650 18.75 Frosty Triple Heavy Cannon Large 0.0100 140 5700 3.50 4860 40.00 Light Hijacked Flak Cannon Small 0.0040 49 5250 4.50 10500 10.89 Catastrophic Quantum Cannon Large 0.0140 800 7000 12.00 7000 66.67 Compact Advanced AutoCannon Small 0.0061 49 4501 2.30 7655 21.27 Kneall Starbase Multicannon Large 0.0100 50 7500 5.00 3000 10.00 Quad Advanced Medium Cannon Medium 0.0091 100 4930 3.00 6197 33.33 Triple Heavy Quantum Cannon Large 0.0050 350 6500 6.00 8000 58.33 U.N.E. Heavy Missile Launcher Large 0.0080 300 7000 6.00 8000 50.00 Patriotic Small Gatling Cannon Tiny 0.0034 50 4513 3.20 11250 15.63
 
-## Point Defense Lasers 
+## Point Defense Lasers
 
 Point Defense Lasers are accurate, fast-firing, low-damage Lasers and fire a blue projectile. Lasers deal 30% damage to hulled targets.
 

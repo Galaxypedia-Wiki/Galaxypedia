@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Assimilations
+  - /wiki/Assimilations
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Assimilations
----## Overview
+---
+
+## Overview
 
 An _Assimilation_ occurs when one faction's main base becomes occupied by another [Faction's]({{< ref "/wiki/" >}}Factions) territory. The faction that has lost their territory will be "Assimilated" into the other faction, and all [Starbases]({{< ref "/wiki/" >}}Starbase) owned by the assimilated [Faction]({{< ref "/wiki/" >}}Factions) will fall under the control of the _assimilating_ [Faction]({{< ref "/wiki/" >}}Factions). As such, the assimilated [Starbase]({{< ref "/wiki/" >}}Starbase) will adopt that [Faction]({{< ref "/wiki/" >}}Factions)'s team color. Assimilation is one of the main ways factions take control of planets or other NPC bases (except [Mega Base]({{< ref "/wiki/" >}}Mega-Base)). The more power your [Starbase]({{< ref "/wiki/" >}}Starbase) has, the faster it will gain territory. To gain power you can dump ore at your base or destroy a ship or a base, which can give a significant amount of power depending on the class or level of the ship or base. Assimilation is an irreversible process, much like faction destruction, but assimilated factions _can_ be assimilated a second time by _other_ factions. When a planet/starbase is assimilated, a text colored the same color as the faction that assimilated it that says "[faction name] has [taken a [planet/base] from [faction name]/been assimilated into [faction name]" will appear on the chat.
 

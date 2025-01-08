@@ -1,14 +1,16 @@
 ---
 aliases:
-- /wiki/Alien-Part
-- /wiki/Alien-Computer
+  - /wiki/Alien-Part
+  - /wiki/Alien-Computer
 categories:
-- Alien Ships and Stations
-- NPCS
-- Quests
-- Items
+  - Alien Ships and Stations
+  - NPCS
+  - Quests
+  - Items
 title: Alien Part
----The Alien Part is an item used for making the Alien Device and trading in materials via Quests. Alien Parts are extremely lightweight and just take a [Wyrm]({{< ref "/wiki/" >}}Wyrm) to loot from enemies that drop it.
+---
+
+The Alien Part is an item used for making the Alien Device and trading in materials via Quests. Alien Parts are extremely lightweight and just take a [Wyrm]({{< ref "/wiki/" >}}Wyrm) to loot from enemies that drop it.
 
 Alien Parts only drop from [Alien]({{< ref "/wiki/" >}}Aliens) [AI]({{< ref "/wiki/" >}}AI) Faction ships.
 
@@ -28,7 +30,7 @@ The Alien Part Material Quest is found inside Level 1 of [Freedom Base]({{< ref 
 
 The Alien Device quest can be found in the page [Alien Device]({{< ref "/wiki/" >}}Alien-Device).
 
-### Alien Part Scrapping 
+### Alien Part Scrapping
 
 **Requires:** 3000 Alien Parts. **Reward:** 3000 [Material Scrap]({{< ref "/wiki/" >}}Material-Scrap).
 
@@ -64,7 +66,7 @@ _If player has the required items, they will receive 3000 [Material Scrap]({{< r
 
 </div>
 
-## Version History 
+## Version History
 
 - Price changed from 4 to 1 in an unknown version, then 1 to 2.5 in version .75a12
 - Weight changed from 1 to 0.1 in version .75a12

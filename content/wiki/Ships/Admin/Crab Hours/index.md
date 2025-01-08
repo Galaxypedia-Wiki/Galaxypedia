@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Crab-Hours
+  - /wiki/Crab-Hours
 categories:
-- Admin Ships
-- Ships
+  - Admin Ships
+  - Ships
 title: Crab Hours
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
-The **_Crab Hours_** is a large, 2D [**Admin**]({{< ref "/categories/" >}}admin-ships) ship modeled with numerous pictures of crabs dancing. 
+The **_Crab Hours_** is a large, 2D [**Admin**]({{< ref "/categories/" >}}admin-ships) ship modeled with numerous pictures of crabs dancing.
 
 ## Appearance
 
@@ -28,11 +28,11 @@ The **_Crab Hours_** has no interior.
 - It has no form of dps.
 - It will be targeted as it is an admin ship and is therefore unobtainable to the public
 
-## Ship Strategy/Tactics 
+## Ship Strategy/Tactics
 
 - Utilize the **_Crab Hours_** narrow hitbox to avoid enemy fire.
 
-## Version History 
+## Version History
 
 - ???
 

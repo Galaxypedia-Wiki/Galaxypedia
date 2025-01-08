@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Drill-ship-(Test)
+  - /wiki/Drill-ship-(Test)
 categories:
-- Ships
-- Mining Ships
+  - Ships
+  - Mining Ships
 title: Drill ship (Test)
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
-The **_Drill ship (Test)_** is a [**Miner**]({{< ref "/categories/" >}}mining-ships) available to juice in Galaxy Development. 
+The **_Drill ship (Test)_** is a [**Miner**]({{< ref "/categories/" >}}mining-ships) available to juice in Galaxy Development.
 
 ## Description
 
@@ -33,7 +33,7 @@ The **Drill ship (Test)** is a harvester with altered stats, only available in G
 
 -Dev only ship, unobtainable/non-existent in the main game.
 
-## Version History 
+## Version History
 
 - No logged changes.
 

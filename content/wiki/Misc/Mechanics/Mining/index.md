@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Mining
+  - /wiki/Mining
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Mining
----<div class="cardcontainer" style="font-size: 15px; line-height: 24px;" align="justify">
+---
+
+<div class="cardcontainer" style="font-size: 15px; line-height: 24px;" align="justify">
 # Mining
 
 ![An Industrial Miner mining Carbon
@@ -14,7 +16,7 @@ Mining has several advantages over other [Money Making]({{< ref "/wiki/" >}}Mone
 
 Mining also adds to your score every time you dump or sell ore.
 
-## Getting Started 
+## Getting Started
 
 To mine, just get a mining ship and click on an Ore's name box, it will light up and then when you click on the buttons for your [Mining Laser/Turrets]({{< ref "/wiki/" >}}Turrets), or press their hotkey, they will start to mine, if they are in range. After a while either your Ore Hold gets full or the ore disintegrates. If your Ore Hold is full, find the nearest friendly [Starbase,]({{< ref "/wiki/" >}}Starbase) preferably your own team, and dock, then open the Menu and click "Dump Ore". There are two options for what to do with your ore: Selling _(You give the starbase the ores and you get credits in exchange) and Transferring (The starbase refines the ores and transfers most of them to your warehouse)_.
 
@@ -47,13 +49,13 @@ In Mining, there is a dedicated class of Ships called [Miner Ships]({{< ref "/ca
 - NEVER Mine during a war, you will be guaranteed to get dived by a [pirate]({{< ref "/wiki/" >}}Pirating) if you have a large and expensive miner.
 - Mining lasers can be used as weapons, however their damage is extremely low.
 
-### List Of Mining Ships: 
+### List Of Mining Ships:
 
 <div class="shipnav">
 
 </div>
 
-### List Of Limited Mining Ships: 
+### List Of Limited Mining Ships:
 
 <div class="shipnav">
 
@@ -63,11 +65,11 @@ In Mining, there is a dedicated class of Ships called [Miner Ships]({{< ref "/ca
 
 Mining is used to bolster the territory of a [Starbase]({{< ref "/categories/" >}}starbases)/[Planet]({{< ref "/categories/" >}}planets), and make it rapidly expand often for many reasons including assimilation, Starbase Income, or pushing to [Endgame]({{< ref "/wiki/" >}}Endgame) early.
 
-### Money Making 
+### Money Making
 
 There are several Money Making strategies which can give more than normal mining, and can be found in the [Money Making]({{< ref "/wiki/" >}}Money-Making) page.
 
-## Version History 
+## Version History
 
 - [Loyalty]({{< ref "/wiki/" >}}Loyalty) now affects the percentage of ore that is transferred into your [Warehouse]({{< ref "/wiki/" >}}Warehouse) via this second dump ore option in version .64h.
 - Version .64h, players can transfer 14% of their mined ores into their [Warehouse]({{< ref "/wiki/" >}}Warehouse). This method makes dump to the warehouse more profitable than selling to a starbase after about 11% [Loyalty]({{< ref "/wiki/" >}}Loyalty) and is recommended for new players in the game, although it is still a viable option for all players to use, especially at higher loyalties.

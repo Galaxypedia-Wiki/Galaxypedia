@@ -1,20 +1,22 @@
 ---
 aliases:
-- /wiki/Depthbreaker
+  - /wiki/Depthbreaker
 categories:
-- Quests
-- Halloween 2018
+  - Quests
+  - Halloween 2018
 title: Depthbreaker
----## Description
+---
+
+## Description
 
 This Quest was made available just before the [Halloween Event 2018]({{< ref "/wiki/" >}}Halloween-Event-2018). To obtain the [Kraken]({{< ref "/wiki/" >}}Kraken), this quest must be completed.
 
-## Completing the Quest 
+## Completing the Quest
 
 ![The image of the Lucifer station out side of
 Frion](Lucifer1.png "The image of the Lucifer station out side of Frion"){width="220" height="220"}To begin the quest the player must travel to [Frion]({{< ref "/wiki/" >}}Frion) and arrive at the Lucifer Station. Head straight inside. Once inside, there should be a UNE soldier with an Afro you can talk to. The soldier named Zack Crustae tells you that the scientist next door lost the [Kodiak]({{< ref "/wiki/" >}}Kodiak) to some pirates who apparently hijacked it.
 
-## Quest Dialog 1 
+## Quest Dialog 1
 
 ![To begin the quest the player must talk to the NPC, Zack
 Crustae.](Images.jpg "To begin the quest the player must talk to the NPC, Zack Crustae."){width="267" height="267"} <u>Zack</u>: Pst, hey you, yeah you. You look like you could handle yourslf. Want a job?
@@ -45,15 +47,15 @@ Crustae.](Images.jpg "To begin the quest the player must talk to the NPC, Zack C
 
 _Quest obtained: DepthBreaker_
 
-## Completing the Quest (continued) 
+## Completing the Quest (continued)
 
 ![The entrance to the
 scientist.](Images-0.jpg "The entrance to the scientist."){width="220" height="220"} After acquiring the quest the player then must then travel to the scientist mentioned by Zack. To get to the scientist the player must travel to the door with the text above "Waste Dispoal Chute (yes it actually does says "dispoal" not disposal). If you have VIP you can enter the giant red door with the text on the side "AUTHORIZED PERSONNEL ONLY" You must talk to the scientist to give you the quest "[Dining in Hell]({{< ref "/wiki/" >}}Dining-In-Hell)" to obtain the [Kodiak]({{< ref "/wiki/" >}}Kodiak) activator.
 
-## Version History 
+## Version History
 
 - Was replaced by [another quest]({{< ref "/wiki/" >}}Naga-Wreck), removing this quest from the game in an unknown version.
 
-## Claiming the Prize 
+## Claiming the Prize
 
 After acquiring the activator and the 12 [Kodiak Armor]({{< ref "/wiki/" >}}Materials), you need to talk to Zack again, this time he will collect the activator and the 12 [Kodiak plates]({{< ref "/wiki/" >}}Materials), and you will receive the [Kraken]({{< ref "/wiki/" >}}Kraken).

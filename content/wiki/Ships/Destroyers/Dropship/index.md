@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Dropship
+  - /wiki/Dropship
 categories:
-- Ships
-- Destroyers
-- PVP Ships
-- Support Ships
+  - Ships
+  - Destroyers
+  - PVP Ships
+  - Support Ships
 title: Dropship
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Dropship_** is a hull-breaking transport **[Destroyer]({{< ref "/categories/" >}}destroyers)**, being one of the few ships to change classes. 
+The **_Dropship_** is a hull-breaking transport **[Destroyer]({{< ref "/categories/" >}}destroyers)**, being one of the few ships to change classes.
 
 ## Description
 
@@ -37,7 +37,7 @@ The back of the **Dropship** has two large benches, which don't work at the mome
 
 - Use this to transport players to [Carriers]({{< ref "/categories/" >}}carriers) such as the [Nimitz]({{< ref "/wiki/" >}}Nimitz) or other bases and planets.
 
-## Version History 
+## Version History
 
 - Received a remodel in version .61h.
 - Shields and Hull increased to 950 and 750, top speed reduced to 115, acceleration reduced to 25, Spinals changed to 6 Tiny Cannons, up classed from Frigate to Destroyer, and received another remodel in version .73a3.

@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Onslaught
+  - /wiki/Onslaught
 categories:
-- Ships
-- Limited Ships
-- Battleships
-- Capital Ships
-- Quests
-- PVP Ships
-- Kneall Events
+  - Ships
+  - Limited Ships
+  - Battleships
+  - Capital Ships
+  - Quests
+  - PVP Ships
+  - Kneall Events
 title: Onslaught
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **Onslaught** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Battleship]({{< ref "/categories/" >}}battleships) that is a reconstruction of a [Punisher]({{< ref "/wiki/" >}}Punisher) from salvaged parts. 
+The **Onslaught** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Battleship]({{< ref "/categories/" >}}battleships) that is a reconstruction of a [Punisher]({{< ref "/wiki/" >}}Punisher) from salvaged parts.
 
 ## Description
 
@@ -48,7 +48,7 @@ The ship is a bright yellow and white playable version of the [Alien Punisher]({
 - Chase down and destroy crippled [dreadnoughts]({{< ref "/categories/" >}}dreadnoughts), that in most cases lack the accurate armament necessary to fend you off.
 - Use the lasers to harass smaller or faster ships (like the [Constantine]({{< ref "/wiki/" >}}Constantine)), as they are fairly accurate for the amount of damage they output.
 
-## Version History 
+## Version History
 
 - Implemented in version .75a^(which patch number of .75a?)^.
 - Model updated .75a12

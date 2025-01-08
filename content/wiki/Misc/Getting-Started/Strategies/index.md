@@ -1,23 +1,25 @@
 ---
 aliases:
-- /wiki/Strategies
-- /wiki/Fighter-Swarming
-- /wiki/Money-Making
-- /wiki/Multiboxing-in-Galaxy
-- /wiki/Pirating
-- /wiki/Sieging
-- /wiki/Vulture
+  - /wiki/Strategies
+  - /wiki/Fighter-Swarming
+  - /wiki/Money-Making
+  - /wiki/Multiboxing-in-Galaxy
+  - /wiki/Pirating
+  - /wiki/Sieging
+  - /wiki/Vulture
 categories:
-- Game Mechanics
-- Getting Started
+  - Game Mechanics
+  - Getting Started
 title: Strategies
----This page contains a list of strategies for use in-game. The page is split into Ship v. Ship combat, Fleets, Sieging, and Defense. ![]({{< ref "/wiki/" >}}<Untitled-drawing-(4).png> "Untitled_drawing_(4).png")
+---
 
-## Ship to ship combat 
+This page contains a list of strategies for use in-game. The page is split into Ship v. Ship combat, Fleets, Sieging, and Defense. ![]({{< ref "/wiki/" >}}<Untitled-drawing-(4).png> "Untitled*drawing*(4).png")
+
+## Ship to ship combat
 
 This section compiles a list of general combat strategies in PvP. See the second dropdown menu for more in-depth descriptions of various maneuvers.
 
-### General tips 
+### General tips
 
 - When you are in combat with a ship you are familiar with, try to get out of the turrets' line of sight. For example, when fighting a [Stormbringer]({{< ref "/wiki/" >}}Stormbringer) you would want to go underneath it, because it has no [Turrets]({{< ref "/wiki/" >}}Turrets) underneath it, so the Turrets on top can't hit you.
 - Always keep moving as fast as you can when fighting as it lowers the chance of an enemy hitting you.
@@ -34,7 +36,7 @@ This section compiles a list of general combat strategies in PvP. See the second
 - Always check the diplomacy tab, never be caught off guard.
 - Never mine in a war. No, seriously, don't. I have seen someone do it during a siege, 3 Loyalists ripped his Rorqual apart, even when he docked. This will cause you to lose a valuable miner ship, and make you start all over. Stealth ships might also want to sneak up to you if you mine also, beware!
 
-### Combat maneuvers 
+### Combat maneuvers
 
 #### Orbit
 
@@ -59,11 +61,11 @@ All [Fighter-class]({{< ref "/categories/" >}}fighters) ships have a 90% Drift P
 
 Since most ships have all their turrets on top and no underside defense what usually happens is orbit will start followed by a downward weaving pattern where both players will slowly spiral downwards trying to get under each other. This is where turn speed becomes an important attribute as a high turn speed means your orbit will be tighter so you can lap your opponent and come up behind and below them and wreak havoc.
 
-#### Micro-Warping 
+#### Micro-Warping
 
 Mirco warping is usually employed during a dread 1v1 or in a fight where spinals are the biggest source of DPS. What it is, is warping 400-1k and turning around to try to get behind your opponent in an orbiting fight or turning to deliver a head-on spinal attack. What also might happen, is a warp and flip. What that means, is after you warp to gain a bit of distance, you turn upwards so that all your topside turrets can get a line of sight at the enemy behind you. Mirco warping can also be used when your opponent is drifting in a spinal based ship. By warping right behind or next to them, you force them to stop drifting and spare yourself from the spinal fire for a few seconds. Micro Warping hard counters drifting if you opponent is spinal based, and you are turret based.
 
-#### Other 1v1 Maneuvers 
+#### Other 1v1 Maneuvers
 
 - **Counter Orbit:** When you find that your opponent is running circles around you in an orbiting battle, stop, and start turning the other way. Hopefully, they have too much momentum to stop before being right in front of you ready to take spinal punishment.
 - **Ram:** If you are a [spinal]({{< ref "/wiki/" >}}Spinals) based ship and your opponent is going too fast for you, forget all flight patterns and head-on attack and try to make them bump you so they stop moving and you are facing them with spinals blazing.
@@ -71,21 +73,21 @@ Mirco warping is usually employed during a dread 1v1 or in a fight where spinals
 - **Tornado:** The Tornado maneuver can easily take down a slow ship when used by a skilled pilot. It involves constantly running circles around the enemy ship, while still facing it so spinals can hit it, as well as getting some turret shots. Note this strategy should be used by ships like the [Sixfold]({{< ref "/wiki/" >}}Sixfold) that have high [spinal]({{< ref "/wiki/" >}}Spinals) firepower.
 - **Border Blocking:** Border blocking strategy is depended the pvp you are in. If your opponents turrets are top mounted go down to the border and stay there. Hopefully their ship won't be able to turn fast enough and you will get the kill. This strategy is useful against ships like Apocalypse and Nemesis.
 
-### Retreating/Evasive Maneuvers 
+### Retreating/Evasive Maneuvers
 
 Galaxy is a game where not every scenario is winnable, and it is a sign of experience to know when to fight, and when to get the hell out before you are too low to save yourself. When retreating in a fleet be aware that if the enemy is not diving someone, the last person to warp will likely get the hell beaten out of them before leaving.
 
 These maneuvers detail how to evade enemies. They are best used by ships of the [Cruiser]({{< ref "/categories/" >}}cruisers) class and under (although some [Battlecruisers]({{< ref "/categories/" >}}battlecruisers) like the [Black Flare]({{< ref "/wiki/" >}}Black-Flare) can use a handful of these methods)
 
-#### Duck and Dive 
+#### Duck and Dive
 
 This maneuver consists of flying up and down repetitively while still maintaining a particular heading. This up-down motion makes it much more difficult for enemy spinals and turrets to hit while still allowing you to reach your destination. This can only be done with a smaller, faster ship as large warships such as Dreadnoughts won't be able to move fast enough to do any good.
 
-#### Bob and Weave 
+#### Bob and Weave
 
 A method based more on luck than skill. Best used at close range, this maneuver consists of random slips, turns, dives, acceleration, and deceleration as to make it incredibly difficult for enemies to get into a good firing position. Pilots performing this maneuver may become lucky enough as to get behind the enemy, allowing for an excellent tactical position.
 
-#### Hull Skimming 
+#### Hull Skimming
 
 A maneuver used to hide from and confuse enemies. A pilot performing this maneuver would stay incredibly close along the hull of another ally ship or base and would continuously work to avoid enemies from gaining a tactical advantage and a good firing position by keeping themselves out of sight.
 
@@ -93,7 +95,7 @@ A maneuver used to hide from and confuse enemies. A pilot performing this maneuv
 
 Most 1v1s can be won if you know what your doing of you have a ship that counters your opponent. The thing is, if your opponent is more skilled or has, say, a [Prowler]({{< ref "/wiki/" >}}Prowler) vs your [Cutlass]({{< ref "/wiki/" >}}Cutlass), you may want to get out ASAP. Class can make a difference but depending on skill a destroyer can kill a battleship so you need to know how good you are and have a general idea of how good your opponent is. **Note: While score might not be an accurate representation of skill, it is wise to proceed with caution around high scores. Bounty on the other hand, is a sign of an experienced and careful fighter.**
 
-### 2v1s 
+### 2v1s
 
 Most 2v1s are a no-win situation, though there are exceptions. If your scenario is not on the following list, or you think that you are under the "enemy" category in a fleet of two, it would be smart to run.
 
@@ -105,7 +107,7 @@ Most 2v1s are a no-win situation, though there are exceptions. If your scenario 
 
 The term "fleet" is generally used to refer to large groups of player-coordinated ships. Fleets can be used for sieging, defense, economic blockades during war, and more. This section details the basics of fleets and fleet coordination.
 
-### Fleet Basics 
+### Fleet Basics
 
 Let us start with the basics; You are on a two faction server, 20v20 players, and on the map, you see a rather angry blob of triangles, which represent your opposing faction's most active area. In this situation, you want to stick as close as possible to the area the most of your team's ships are. If you are on your own in a relatively low DPS/support ship, and you are not covered by any [Starbases]({{< ref "/wiki/" >}}Starbase) or are within easy reach of the [Mega Base]({{< ref "/wiki/" >}}Mega-Base), you are probably going to get spotted by a rather high DPS ship or group of rather high DPS ships and promptly dived on and destroyed within a minute of combat, or after a few jumps. You want to stay with your fleet, and only venture from it if you know:
 
@@ -119,7 +121,7 @@ What if you are the Tank? Don't. If you are the tank because of the ship you are
 
 Finally, for fleet basics, you must understand another concept: Galaxy players, especially good ones, know when to back off or go all in, with the better the player, the sooner they get the hell out of dodge when their odds aren't looking too good. Some players, however, will react differently if the enemy team has a ship that is hulled and of value: they may dive it no matter what, even if it means warping closer to the enemy base. Most galaxy players **will** warp out of a fight if they are put onto hull, and this is where communication becomes vital. You need to figure out where the player which you hulled is warping to, what support they will have, and how quick they can despawn their ship or warp to a more advantageous position. Because you will rarely have the firepower to kill a hulled dreadnought before it can dock or warp away, you need friends to warp with you and do as much damage as possible. If you, do it right, and plan accordingly, you will be getting many kills, because fleet combat rarely plays out to where there are multiple casualties, full fleet combat is a way to isolate a target and get a kill.
 
-### Fleet Coordination 
+### Fleet Coordination
 
 A fleet is a very desirable thing, for the sheer amount of firepower they can possess and pump out, for the amount of safety they tend to provide against wandering battleships and dreadnoughts, or even for the value and satisfaction of working as a team to complete a goal. However, to get one is difficult at the best of times, and impossible in others, simply due to the fact that you can't get everyone to agree on one given thing, especially if they don't know you. However, there is a way, or a few ways, to get coordination online in any given server.
 
@@ -136,17 +138,17 @@ Next, there are a few things you must consider while in a fleet and while comman
 
 If you keep your caravan of high-grade weapon transported in working order as specified, you will have a fun time. Try and be polite to one another while in fleet combat, curtsy is usually the best way to get an idea up and fast in a fast-paced situation. Any idea is usually better than inactivity.
 
-### Advanced Tactics 
+### Advanced Tactics
 
-#### Fighter Swarming 
+#### Fighter Swarming
 
 Fighter swarming is a method to attack bases, destroy ships or carry out dogfights due to the extremely high firepower all combined fighters of a [Carrier]({{< ref "/categories/" >}}carriers) or a Starbase usually has. This can be done with AI Fighters, though it is of much greater efficacy if it is controlled by players instead.
 
-#### Crossteaming (clan trapping) 
+#### Crossteaming (clan trapping)
 
 Sometimes, when you have enough connections and firepower, you may crossteam with another powerful player to score a high value kill. This is commonly known as Clan Trapping. Pretend that you and your friend are at war with each other by pretending to be fighting with a shiny Super Capital or two. You may choose to be stationary around one spot or enact a scene of warp chasing, making your target fall for your trick. Once your true target falls for the bait and warp to the scene, both you and your friend should turn on them immediately and get that high valued kill. It is recommended that you only clan trap with very high firepower Dreadnoughts (Retro Prototype X-1, Obliterator and etc.) or Super Capitals (such as the [Theia]({{< ref "/wiki/" >}}Theia) due to its great firepower, or even Prototypes. This trick is fantastic for targeting someone and most people that had never experienced this will likely fall for this easily.
 
-#### Ghost team (Logoff trapping) 
+#### Ghost team (Logoff trapping)
 
 Have a friend or two stay at your team for a while until they get at least 7% Loyalty. Have them leave the server. Declare war on your target's faction while being solo. Your target might get complacent and not shy away from going after you. Go somewhere and let yourself get attacked by your target, pretend to be low and warp back to your base and let yourself get dived. Have your friends join back at that exact moment and spawn their big ships, because loyalty persists as long as its the same team even though you've left the server. And then annihilate your target.
 
@@ -156,7 +158,7 @@ Have a friend or two stay at your team for a while until they get at least 7% Lo
 
 It is advised to not attempt to multi-box on lower-end devices, as it may result in your device crashing
 
-##### Applications of Multi-boxing 
+##### Applications of Multi-boxing
 
 - People may enjoy making whole swarms of ships by themselves.
 - Makes farming easier.
@@ -178,7 +180,7 @@ It is advised to not attempt to multi-box on lower-end devices, as it may result
 - Multi-boxing is not a feature supported by Roblox, Apple, Microsoft or any other large tech company. As such, wannabe multi-boxers must be sure that they install the correct multi-boxing software and not a Trojan disguised as one.
 - It requires practice to be able to control your alts, especially once you have 3 or more active at once.
 
-##### Methods for Multi-boxing 
+##### Methods for Multi-boxing
 
 There are several methods for multi-boxing, and each one is unique in its own way. Some methods may be viable for certain players, whereas it may not be for others.
 
@@ -205,7 +207,7 @@ The following are a few tools for multi-boxing on Roblox. **Please note that the
 
 This technique is a bit harder to implement due to Apple devices having poor gaming specs but if your Macbook is powerful enough, you could pull this off. This would involve opening an instance of Roblox and then navigating to the apple icon on the top toolbar. Once you have selected the icon, a force quit option will appear. Once that is open, you will force quit Roblox then run it again. An error message will appear but you can close the game. Re-open the game and then you can log off your main account and log on to as many alt accounts you need. The main advantage for this bug is that you do not need to rely on third-party software, and can open multiple instances of the game on different accounts.
 
-##### Tips for Multi-boxing 
+##### Tips for Multi-boxing
 
 - Learn to Alt + Tab. It is considerably faster to alt tab between your alts than it is to select them from the toolbar menu.
 - Use a macro to switch between tabs, as it is faster than Alt + Tab. The most popular macro for this, written in AutoHotKey, is available [here](https://gist.github.com/Wingysam/3c9c12998b5a34c192e94905f092f616). Once you use this, you will need [another macro](https://gist.github.com/Wingysam/30c74b616fcf636fc8dbfd4766a75446) to use turrets.
@@ -218,23 +220,23 @@ This technique is a bit harder to implement due to Apple devices having poor gam
 
 ## Sieges
 
-### Sieging an Enemy Starbase 
+### Sieging an Enemy Starbase
 
 These strategies detail how to destroy an enemy [Starbase]({{< ref "/wiki/" >}}Starbase).
 
 To find out what ships will be the most useful in your situation look at their Shapes, DPS, Health, Turret Placement, Alpha Damage, and Speed to see if it will help with your situation.
 
-#### Classic Siege 
+#### Classic Siege
 
 The most common method of destroying an enemy [Starbase]({{< ref "/wiki/" >}}Starbase).
 
 Uses a lot of Battleships, Battlecruisers, Cruisers, and Dreadnoughts. Heavier ships with [Railguns]({{< ref "/wiki/" >}}Turrets) and [Heavy Lasers]({{< ref "/wiki/" >}}Turrets) attack the Starbase and any heavy ships that retaliate, smaller, lighter ships provide evasive cover and make sure nothing gets close to the heavier ships. The main idea of this type of siege is to brute-force their way into destroying the enemy Starbase.
 
-#### Torpedo Siege 
+#### Torpedo Siege
 
 Uses a ship or two with extremely powerful [Spinals]({{< ref "/wiki/" >}}Spinals) and strong long-range capabilities, such as the [Hasatan]({{< ref "/wiki/" >}}Hasatan), [Avalon]({{< ref "/wiki/" >}}Avalon) [Ridgebreaker]({{< ref "/wiki/" >}}Ridgebreaker) or the [Hyperion]({{< ref "/wiki/" >}}Hyperion), along with multiple other Dreadnoughts or Battleships that are capable of tanking and long-range attack, and at least one large ship optimized for PvP such as the [Hawklight]({{< ref "/wiki/" >}}Hawklight). This is an extremely effective siege strategy but it requires some timing and can fail miserably if messed up bad enough. This siege strategy goes for dealing massive damage at a long range, then finishing it off by pushing forward and focus-firing on the Starbase. Once the Starbase's shields are depleted, it deals significant hull damage.
 
-#### Outside the Box 
+#### Outside the Box
 
 (This strategy works only for enemy [Starbases]({{< ref "/wiki/" >}}Starbase) close to the edge of the map).
 
@@ -244,23 +246,23 @@ This strategy uses any ship with extremely high range (7k+). Ships like the [Has
 
 (Another Note: As of a recent update, the map was greatly expanded and it's now even less likely for a starbase to spawn within 7k distance of a boundary, further limiting the possibilities of the Outside the Box Strategy).
 
-#### Fighter Siege 
+#### Fighter Siege
 
 First, park any [Carrier]({{< ref "/categories/" >}}carriers) outside the base range (9k-11k) alongside a sieging fleet. Use the [Fighters]({{< ref "/categories/" >}}fighters) to distract base fire so your ships can stay within range and fire upon the Starbase. Make sure at least 3 guys are manning the fighters, and at least 2 [Battleships]({{< ref "/categories/" >}}battleships). In order to do this correctly have 1-2 people in [Sixfolds]({{< ref "/wiki/" >}}Sixfold) or [Cobras]({{< ref "/wiki/" >}}Cobra) to shoot down enemy fighters or ships. If you do this correctly, none of the ships in your fleet except for the Fighters will get damaged.
 
-#### Flash Fleet 
+#### Flash Fleet
 
 A tactic used to catch the enemy by surprise. (The enemy Starbase has to be somewhat close to the edge of the map).
 
 This strategy is very similar to "Outside the Box" except instead of just a [Hasatan]({{< ref "/wiki/" >}}Hasatan) there is a fleet, imagine a "Classic Seige" or a "Torpedo Siege" except off radar. How this strategy works is by having ships sneak out of the map (doesn't allow the radar to see you). A [Carrier]({{< ref "/categories/" >}}carriers) would be good for this because it's just a single ship, but it can deploy a fleet. It can be suspicious if multiple ships go out of the map at the same time. Because of this, each ship will have to go out of the map every minute or so as to avoid detection. From there you can launch the attack, catch them all off guard, and destroy their Starbase.
 
-#### Drop Firing 
+#### Drop Firing
 
 This tactic should be used along with the strategies for sieging. Doing this alone will result in low damage being done and a few dead ships if you're not careful.
 
 Use small ships that have a lot of [Spinals]({{< ref "/wiki/" >}}Spinals). Lowest amount is four small phasers or cannons. Ships such as the [Viper]({{< ref "/wiki/" >}}Viper) are alright for damaging shields. [Sixfold]({{< ref "/wiki/" >}}Sixfold) is good for hull destruction. [Razor Wing]({{< ref "/wiki/" >}}Razor-Wing) Is also a good all-rounder since it has both [Cannons]({{< ref "/wiki/" >}}Spinals) and [Phasers]({{< ref "/wiki/" >}}Spinals). Repeatedly do flybys of the base, damaging it each time. You can also bring in some [Phantom's]({{< ref "/wiki/" >}}Phantom) to help kill shield because of the lasers on the bottom. Again, do NOT attempt to use this strategy alone. This is a strategy that is to be used with another.
 
-#### Alien Supporters 
+#### Alien Supporters
 
 This strategy is generally unreliable, but it could be useful. You need a [Punisher]({{< ref "/wiki/" >}}Aliens) and group of [Swarmers]({{< ref "/wiki/" >}}Aliens) for this to work. First, the Aliens need to attack the enemy Starbase. This step is challenging because it's hard to lead Aliens to a specific place. Once the Aliens are at the enemy's Starbase, the Aliens will attack whatever the [Punisher]({{< ref "/wiki/" >}}Aliens) does, causing trouble for any players the Punisher's AI might target. After the Aliens have either retreated or died, the Starbase will most likely be low on health, or dead entirely. This strategy is generally one that isn't used since the Punisher might target one of your sieging ships, causing critical damage. If this strategy is used, its best to wait for all the Aliens to die, otherwise you are putting yourself in a risky position.
 
@@ -268,19 +270,19 @@ This strategy is generally unreliable, but it could be useful. You need a [Punis
 
 Take any large ship like an M-class, Dreadnoughts, etc. and drive it straight at the enemy base. Get as close as you can to the base and let it destroy you. When your ship explodes, the explosion might take the enemy base down with you and will damage any nearby ships. Some good ships for nuking are Nyx, Galaxy, etc. However, using these ships are not recommended unless you are in arcade, since these ships are also generally immensely expensive in the regular version of the game.
 
-#### Long-Range Siege 
+#### Long-Range Siege
 
 Take any ship that has a turret with a high range and a lot of damage like an [Xenon]({{< ref "/wiki/" >}}Xenon), [Lazarus]({{< ref "/wiki/" >}}Lazarus), [Andromeda]({{< ref "/wiki/" >}}Andromeda), Super Capital Ships, etc. and drive it 8000--6000 studs away from the enemy base, then attack the base.
 
-### Defense Against Sieges 
+### Defense Against Sieges
 
 These strategies are used for defending against an enemy or countering some of the siege tactics listed above.
 
-#### Fleet in Being 
+#### Fleet in Being
 
 This tactic is aimed at showing off military power while not leaving the base.  Players will spawn in large [Ships]({{< ref "/wiki/" >}}Ships) or combat vessels as to show off military power and make itself a threat while not actually engaging in combat unless absolutely forced to. These ships will simply be docked at either their own Starbase or at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base). Docking enough of these Ships at your own starbase might influence enemy decisions and can prevent sieges. This will also help prevent [Pirating]({{< ref "/wiki/" >}}Pirating) if done at [Mega Base]({{< ref "/wiki/" >}}Mega-Base).
 
-#### Dock Camping 
+#### Dock Camping
 
 This strategy is highly effective when used in a situation where the enemy team has a clear advantage and you and your team are not willing to lose any ships but still want to defend your team. Your team will pick your most heavily armed base (Often the [Mothership]({{< ref "/wiki/" >}}Mothership) or a high-level planet) but a [Level 4 Starbase]({{< ref "/wiki/" >}}Starbase) can work depending on your enemies strength) and dock your ships there. But can be used to defend any base just be ready to despawn if your ship's health runs too low. If it gets too damaged go to the strongest base and see if it is safe to spawn it and heal there but despawn it if enemies come by unless it is healed enough.
 
@@ -290,7 +292,7 @@ This strategy can often take a lot of time. You need to wait for your enemy to d
 
 This strategy requires a loyal team willing to be very patient, and a number of ships/players similar to your enemies. This is commonly used and learned by players on their own but was added by Hamlet9219.
 
-#### What to Shoot 
+#### What to Shoot
 
 This tactic is a very uncommon one. This requires a decent-sized team that has members willing to co-operate. You need a [Level-3 Starbase]({{< ref "/wiki/" >}}Starbase) or a Carrier to apply this.
 
@@ -304,7 +306,7 @@ If the siegers attack the base, you will get the worst result out of all three o
 
 Another chance is that the reinforcements will arrive for the enemy team. Even if it happens, which is unlikely for their team members have seen what happened to the most powerful ones. The ships they will bring probably will be weak, So it's unlikely they will even get a chance to shoot at the base among the crowd of the small ships.
 
-#### Defensive Swarm 
+#### Defensive Swarm
 
 Swarm involves everyone on the team using a ship that is fast and can deal a lot of damage, preferably a ship like the [Sixfold]({{< ref "/wiki/" >}}Sixfold), or another Cruiser. All of the ships then will target one ship at a time, either scaring it off and forcing it to warp, or destroying it. It's typically good to make sure your team is out of the ships' lines of sight, or the Starbase is being shot at by them.
 
@@ -322,15 +324,15 @@ If Capital ships aren't available, then spawn a fleet of non-capital but hard hi
 
 A minimum of two bases (at least one being level 2) is required for this, preferably the [Mothership]({{< ref "/wiki/" >}}Mothership) and main starbase. Have one player go to the main starbase and spawn a cruiser/battlecruiser. The rest of the team will remain at the other base and WILL NOT spawn any ships. At this point, it is likely that the enemies will siege the main starbase because of its strategic importance and the opportunity for a kill. When the siege has begun, the team at the other base will spawn multiple battleships and a dreadnought if possible. Then this team will warp to the main starbase. This should happen very quickly, preferably in the timespan of 30 seconds. The siege team will be unprepared and will be destroyed easily. This strategy is largely based on chance, so it should only be used as a last resort.
 
-#### Revenge from the Grave 
+#### Revenge from the Grave
 
 Allow the enemy to siege your base with little resistance, and then pull off a heavily guarded 'Classic Siege' or 'Torpedo Siege' on theirs from another base. The enemies will retreat and attempt to destroy your fleet. Warp away as soon as the enemy warps near you. If they siege again, they will likely split their forces, leaving some ships at their base. Their forces are now stretched thin. Spawn a massive fleet at an obsolete level 2 base that is not being attacked, let's call this fleet A, and destroy the defending force on their side. Wait for the enemy siege team to return to the base and destroy them too. Siege their base with fleet A and now that you do not have to defend yourself anymore, you can spare more ships.
 
-#### Logoff Trap: Siege Edition 
+#### Logoff Trap: Siege Edition
 
 Do the same thing, have yourself and a friend or two stay at a team and get at least 7% Loyalty. Declare war against the biggest teams on the server and then leave the server. Put a low score alt onto the team to watch how everything goes. When the teams siege your base, join the server with your friends then spawn all your shiny powerful ships and take your enemies by surprise. This is best done with Super Capitals and have your friends on separate teams so that multiple Super Capitals may be used to achieve maximum damage. Target the most valuable ship to get the most out of this, as the server is likely never going to fall for this again for the next 3 or 4 hours.
 
-## Money Making 
+## Money Making
 
 **Galaxy has many ways to make money, each with advantages and disadvantages. Knowing when and how to work for credits will greatly help you progress in Galaxy. Each tab details a specific strategy for making money.**
 
@@ -358,7 +360,7 @@ Mining is slower than trading, but also much safer (assuming that you mine aroun
 
 ![]({{< ref "/wiki/" >}}Mining-photo.png-"Mining-photo.png"){width="680" height="680"}
 
-### Combat Rewards 
+### Combat Rewards
 
 Combat Rewards is a way of making money by damaging and destroying ships. **Tips and Tricks**
 
@@ -431,11 +433,11 @@ Many recommended ships for Pirating can be found in the page [Pirate Ships.]({{<
 - Many players escape to their [Starbase]({{< ref "/wiki/" >}}Starbase) as soon as a war is declared, making it difficult to destroy them.
 - The difference in precision between your and their warps can be the difference between life and death.
 
-### Private Server Methods 
+### Private Server Methods
 
 Owning or having an access to a private server is the key to some of the best money making methods in the entire game. Millions of credits can be made in a single day if done properly.
 
-#### Boss Hunting 
+#### Boss Hunting
 
 Sit in a private server until a boss spawns, then kill and loot it.
 
@@ -453,7 +455,7 @@ Sit in a private server until a boss spawns, then kill and loot it.
 - Takes quite a bit of time investment, as bosses don't spawn frequently.
 - Combat reward diminishes by quite a lot if you require the help of a base, as its earned credits will go into the Starbase bank.
 
-### Buying Credits 
+### Buying Credits
 
 Buying credits is the easiest and fastest way to make money in-game. Nothing rivals how much money can be gained in a single click. Hundreds of thousands of credits can be made in just seconds.
 
@@ -466,13 +468,13 @@ Buying credits is the easiest and fastest way to make money in-game. Nothing riv
 
 - The price for credits costs an exorbitant amount of Robux, relative to the time it would take if you already own a Galaxy through mining or a Supercapital-Class through combat rewards.
 
-### Patched Unintended Money Making Methods 
+### Patched Unintended Money Making Methods
 
-#### <s>Battery Duping</s> 
+#### <s>Battery Duping</s>
 
 <s>Battery Duping Involves selling something to [Mega Base]({{< ref "/wiki/" >}}Mega-Base), often in Private Server then as soon as the servers all update and it shows up outside of your server, you have alts buy it on seperate servers, and if you're quick enough, the game sells you more materials than it actually has in stock. This can cause materials' stock to be in the negatives sometimes.</s>
 
-#### <s>Shutdown Mining</s> 
+#### <s>Shutdown Mining</s>
 
 <s>Enter a private server, make a team, mine a full ore hold, then shutdown the server. You'll get around 50% more credits than the normal amount from automatic refund, and nobody knows why. But hey, its free money!</s>
 

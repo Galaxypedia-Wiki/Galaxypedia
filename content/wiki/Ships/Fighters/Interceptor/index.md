@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Interceptor
+  - /wiki/Interceptor
 categories:
-- Fighters
-- Support Ships
-- PVP Ships
-- Ships
+  - Fighters
+  - Support Ships
+  - PVP Ships
+  - Ships
 title: Interceptor
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The**_Interceptor_**was the first **[Fighter]({{< ref "/categories/" >}}fighters)** to have a [Turret]({{< ref "/wiki/" >}}Turrets) instead of spinal weaponry.
 
@@ -40,7 +40,7 @@ Like all fighter class ships, the **Interceptor** has little in the way of an in
 - Swarming with all [Fighters]({{< ref "/categories/" >}}fighters) from [Nimitz]({{< ref "/wiki/" >}}Nimitz) creates huge damage comparable to a [Battlecruiser]({{< ref "/categories/" >}}battlecruisers) or some [Battleships]({{< ref "/categories/" >}}battleships).
 - Good for warding off enemy scouts. Additionally, it can defend from [Aliens]({{< ref "/wiki/" >}}Aliens) when no one else is available.
 
-## Version History 
+## Version History
 
 - Small Flak Cannon replaced with Medium Flak Cannon / Light Laser replaced with Medium Laser in .61g.
 

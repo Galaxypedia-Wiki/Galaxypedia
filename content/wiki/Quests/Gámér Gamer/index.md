@@ -1,14 +1,16 @@
 ---
 aliases:
-- /wiki/Gámér-Gamer
+  - /wiki/Gámér-Gamer
 categories:
-- Christmas Event 2018
-- Quests
-- NPCS
-- Limited Ships
-- Removed From Game
+  - Christmas Event 2018
+  - Quests
+  - NPCS
+  - Limited Ships
+  - Removed From Game
 title: Gámér Gamer
----## Description
+---
+
+## Description
 
 **Gámér Gamer** was the Quest NPC for the [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018). He gave players the now-removed [Quest]({{< ref "/wiki/" >}}Quests) #14 - "Rennovator Innevator." **Gámér** was seen working on the ice around a frozen ship. He was wearing a rather high-tech spacesuit to protect him from [Aqueous]({{< ref "/wiki/" >}}Aqueous)'s freezing temperatures. He was subsequently removed from the game with the end of the Christmas Event. ![centre|thumb|800x800px]({{< ref "/wiki/" >}}GamerGamer.png-"centre|thumb|800x800px")
 
@@ -16,11 +18,11 @@ title: Gámér Gamer
 
 **Gámér Gamer** was found on top of the planet [Aqueous]({{< ref "/wiki/" >}}Aqueous) next to a giant ice crystal with a rusted ship inside. Nearby is a blue tent-like structure with a [Torpedo]({{< ref "/wiki/" >}}Spinals) inside.
 
-## Current Dialogue 
+## Current Dialogue
 
 <u>Gámér Gamer</u>: "shuffle off mate"
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <u>Gámér Gamer</u>: "This is gonna take FOREVER to get out"
 
@@ -52,7 +54,7 @@ _Quest #14 - "Rennovator Innevator" appears in Quest Menu_
 
 **Please note that all grammar or spelling mistakes have been intentionally included to maintain the exact quest dialogue**
 
-## Quest Completion 
+## Quest Completion
 
 The player needed to have brought **Gámér** [various materials]({{< ref "/wiki/" >}}Ores) including 4000 Silicate, 1200 Carbon, 500 Iridium, 250 Adamantite, 250 Palladium, 250 Titanium, 250 Quantium, 500 Uranium, and 25 [Snowflakes]({{< ref "/wiki/" >}}Snowflake) to claim the reward.
 

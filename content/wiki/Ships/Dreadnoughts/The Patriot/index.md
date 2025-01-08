@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/The-Patriot
+  - /wiki/The-Patriot
 categories:
-- Dreadnoughts
-- Limited Ships
-- Fourth of July 2023
-- U.N.E
-- Ships
+  - Dreadnoughts
+  - Limited Ships
+  - Fourth of July 2023
+  - U.N.E
+  - Ships
 title: The Patriot
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 ## Description
 
@@ -56,7 +56,7 @@ The interior is nothing more than a white box with a teleporter and a seat.
 - Warp to dodge spinals instead of relying on ship movement alone.
 - Trust few to none.
 
-## Version History 
+## Version History
 
 - Added in .76d
 

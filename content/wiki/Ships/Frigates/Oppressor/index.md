@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Oppressor
+  - /wiki/Oppressor
 categories:
-- Ships
-- Frigates
+  - Ships
+  - Frigates
 title: Oppressor
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Oppressor_** is a powerful **[Frigate]({{< ref "/categories/" >}}frigates).**
 
@@ -38,7 +38,7 @@ The **Oppressor**has a simple interior, with a pilot's seat, a small screen with
 - Use this in swarms for effectiveness
 - Best for hunting down hulled ships with its 8 tiny cannons
 
-## Version History 
+## Version History
 
 - Cargo Hold increased from 35 to 65 in version .66b
 - Received 1 Tiny Laser, turn speed increased to 0.80, top speed increased to 235 from 220, shield and hull reduced to 330 Shield and 350 Hull from 350 Shield and 380 Hull in version .72c20.

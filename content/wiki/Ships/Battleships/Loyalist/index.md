@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Loyalist
+  - /wiki/Loyalist
 categories:
-- Ships
-- Battleships
-- PVP Ships
-- Pirate Ships
-- Support Ships
-- Capital Ships
+  - Ships
+  - Battleships
+  - PVP Ships
+  - Pirate Ships
+  - Support Ships
+  - Capital Ships
 title: Loyalist
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Loyalist_**is a [**Battleship**]({{< ref "/categories/" >}}battleships) equipped with a full armament of medium [Turrets]({{< ref "/wiki/" >}}Turrets).
 
@@ -49,7 +49,7 @@ The interior consists of a lit hallway with a seat and holograms in front of it 
 - Since the blindspot below you can be exploited a lot, try to mostly outmaneuver your opponents with repeated descending warps. If you think you can't keep your target in sight for the weapons, do not force the fight and flee to your closest starbase.
 - This ship excels at [Alien]({{< ref "/wiki/" >}}Aliens) hunting. While it can't fight a [Punisher]({{< ref "/wiki/" >}}Punisher) in a 1v1, it can destroy most of the [Swarmers]({{< ref "/wiki/" >}}Swarmer), [Outriders]({{< ref "/wiki/" >}}Outrider) and [Bruisers]({{< ref "/wiki/" >}}Kneall-Bruiser) with ease.
 
-## Version History 
+## Version History
 
 - Received a shield and hull buff and it's [Turrets]({{< ref "/wiki/" >}}Turrets) were changed from 8 [Gatling Turrets]({{< ref "/wiki/" >}}Turrets) to 8 [Medium Turrets]({{< ref "/wiki/" >}}Turrets) in version .63h. Likely due to the fact that when there was heavy server lag, the [Gatling]({{< ref "/wiki/" >}}Turrets) fire rate would become dramatically slower, which hindered the **Loyalist** from dealing its full DPS.
 - 2 [Medium Lasers]({{< ref "/wiki/" >}}Turrets) changed to 2 [Dual Medium Lasers]({{< ref "/wiki/" >}}Turrets) and 2 [Medium Cannons]({{< ref "/wiki/" >}}Turrets) changed to 2 [Medium Railguns]({{< ref "/wiki/" >}}Turrets) in version .65a6 along with the new [Turret]({{< ref "/wiki/" >}}Turrets) models.

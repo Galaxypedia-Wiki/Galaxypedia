@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Baby-Leviathan
+  - /wiki/Baby-Leviathan
 categories:
-- Ships
-- Admin Ships
+  - Ships
+  - Admin Ships
 title: Baby Leviathan
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Baby Leviathan_** is a small **[Admin]({{< ref "/categories/" >}}admin-ships)** ship.
 
@@ -36,7 +36,7 @@ Just a single tiny chair
 
 - Fly through the skies with the baby leviathan at your side.
 
-## Version History 
+## Version History
 
 - No logged changes.
 

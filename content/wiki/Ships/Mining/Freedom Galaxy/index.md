@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Freedom-Galaxy
+  - /wiki/Freedom-Galaxy
 categories:
-- Ships
-- Limited Ships
-- Reskins
-- Mining Ships
-- Fourth of July 2020
+  - Ships
+  - Limited Ships
+  - Reskins
+  - Mining Ships
+  - Fourth of July 2020
 title: Freedom Galaxy
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Freedom Galaxy_** is a massive, expensive [**Miner**]({{< ref "/categories/" >}}mining-ships) released during the [Fourth of July Event 2020]({{< ref "/wiki/" >}}Fourth-of-July-Event-2020).
 
@@ -51,7 +51,7 @@ The Interior of the Freedom Galaxy can be accessed via a teleporter on the do
 - If large amounts of high-score players joins an enemy team, you should stay close to your base while mining, so you will have time to dock if the players declare war to destroy your **Freedom Galaxy.**
 - Use this ship with extreme caution. Once it's destroyed, it will be **extremely** difficult to reobtain because of the sheer exorbitant cost.
 
-## Version History 
+## Version History
 
 - Buffed in version .68b adding another Large Patriotic Mining Laser (60 m3/s>75 m3/s)
 - Shields and Hull reduced from 12000/12000 to 7500/7500 in version .71c.

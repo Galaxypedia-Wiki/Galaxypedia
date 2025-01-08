@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Python
+  - /wiki/Python
 categories:
-- Ships
-- Frigates
-- PVP Ships
+  - Ships
+  - Frigates
+  - PVP Ships
 title: Python
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Python_** is a fast and powerful [**Frigate**]({{< ref "/categories/" >}}frigates).
 
@@ -40,7 +40,7 @@ A teleporter in the middle of a hallway: behind the teleporter is a Cobra Imperi
 - This ship does not do well alone. But in a fleet, you can quickly wear down an opponent's shields while they are distracted by the larger ships in your fleet.
 - Try to stay in the blind spots of enemy ships by using your superior agility so they cannot fire back at you.
 
-## Version History 
+## Version History
 
 - Received a buff in version .61g adding its turrets.
 - Received 2 Small Cannons ("G" Spinal) and Turn speed increased from 0.6 to 0.7 in version .65b.

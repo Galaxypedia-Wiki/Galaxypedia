@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Guillotine
+  - /wiki/Guillotine
 categories:
-- PVP Ships
-- Cruisers
-- Ships
+  - PVP Ships
+  - Cruisers
+  - Ships
 title: Guillotine
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Guillotine_** is a [**Cruiser**]({{< ref "/categories/" >}}cruisers) added in the first part of the Mega Update.
 
@@ -37,7 +37,7 @@ The interior of the ship is made with a living room with a bed, a sort of kitche
 
 - Use it in swarm to literally shred Shields of bigger ships like [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts).
 
-## Version History 
+## Version History
 
 - Removed "temporarily" shortly after its release, due to many problems.
 - Re-Added a month or so later.

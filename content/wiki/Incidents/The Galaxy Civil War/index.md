@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/The-Galaxy-Civil-War
+  - /wiki/The-Galaxy-Civil-War
 categories:
-- Staff-Only Pages
-- Incidents
+  - Staff-Only Pages
+  - Incidents
 title: The Galaxy Civil War
----  
+---
 
-{{< notices/communityIncident >}} 
+{{< notices/communityIncident >}}
 
 <div class="cardcontainer" style="font-size: 14px; line-height: 24px;" align="justify">
 

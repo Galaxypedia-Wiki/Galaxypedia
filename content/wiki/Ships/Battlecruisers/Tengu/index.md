@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Tengu
+  - /wiki/Tengu
 categories:
-- PVP Ships
-- Battlecruisers
-- Pirate Ships
-- All-Rounder Ships
-- Support Ships
-- Ships
+  - PVP Ships
+  - Battlecruisers
+  - Pirate Ships
+  - All-Rounder Ships
+  - Support Ships
+  - Ships
 title: Tengu
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Tengu_** is a [Spinal]({{< ref "/wiki/" >}}Spinals) focused [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers). 
+The **_Tengu_** is a [Spinal]({{< ref "/wiki/" >}}Spinals) focused [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers).
 
 ## Description
 
@@ -41,7 +41,7 @@ The interior consists of a single corridor with several detailed display screens
 - Always try to aim for where the enemy ship is going.
 - Don't buy this ship if you're not good with [Spinal]({{< ref "/wiki/" >}}Spinals) weaponry.
 
-## Version History 
+## Version History
 
 - Received a remodel in .61h(?)
 - Remodel reverted in .64c

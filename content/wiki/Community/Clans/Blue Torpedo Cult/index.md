@@ -1,17 +1,16 @@
 ---
 aliases:
-- /wiki/Blue-Torpedo-Cult
+  - /wiki/Blue-Torpedo-Cult
 categories:
-- Galaxy Lore Pages
-- Clans
+  - Galaxy Lore Pages
+  - Clans
 title: Blue Torpedo Cult
----<div align="justify" class="cardcontainer" style="font-size: 14px; line-height: 24px;">
+---
+
+<div align="justify" class="cardcontainer" style="font-size: 14px; line-height: 24px;">
 # Blue Torpedo Cult
 
-**The Blue Torpedo Cult** Is supposed to be a joke faction created for
-the "Blue Torpedo". It was founded on August 15, 2019, by the Founder,
-[Frenzyy]({{< ref "/wiki/" >}}User:Frenzyy). Its Current Leader is
-[Scrapduck14]({{< ref "/wiki/" >}}User:Scrapduck14)
+**The Blue Torpedo Cult** Is supposed to be a joke faction created for the "Blue Torpedo". It was founded on August 15, 2019, by the Founder, [Frenzyy]({{< ref "/wiki/" >}}User:Frenzyy). Its Current Leader is [Scrapduck14]({{< ref "/wiki/" >}}User:Scrapduck14)
 
 As of 12/11/19 **Blue Torpedo Cult** expanded its faction both to starscape and galaxy, causing [Frenzyy]({{< ref "/wiki/" >}}User:Frenzyy) To be the overlord in the starscape division.
 

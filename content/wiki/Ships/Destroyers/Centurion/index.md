@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Centurion
+  - /wiki/Centurion
 categories:
-- Ships
-- Destroyers
-- Support Ships
-- Siege Ships
-- PVP Ships
+  - Ships
+  - Destroyers
+  - Support Ships
+  - Siege Ships
+  - PVP Ships
 title: Centurion
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Centurion_** is a [**Destroyer**]({{< ref "/categories/" >}}destroyers) class ship and one of the few ships to be armed with [torpedoes]({{< ref "/wiki/" >}}Spinal-Weaponry).
 
@@ -41,7 +41,7 @@ The Centurion is a [Destroyer]({{< ref "/categories/" >}}destroyers) that has a 
 - Can be used to help a fleet in taking down[Starbases]({{< ref "/wiki/" >}}Starbase) or large [Ships]({{< ref "/wiki/" >}}Ships)
 - Can be combined with shield shredding ships such as the [Gideon]({{< ref "/wiki/" >}}Gideon) to make a devastating combo.
 
-## Version History 
+## Version History
 
 - Remodeled in version .66b
 

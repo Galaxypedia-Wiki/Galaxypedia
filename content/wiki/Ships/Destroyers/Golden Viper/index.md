@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Golden-Viper
+  - /wiki/Golden-Viper
 categories:
-- Limited Ships
-- Reskins
-- Destroyers
-- Ships
-- Black Friday 2020
+  - Limited Ships
+  - Reskins
+  - Destroyers
+  - Ships
+  - Black Friday 2020
 title: Golden Viper
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Golden Viper_** is a limited reskin of the [Viper]({{< ref "/wiki/" >}}Viper) released as a [**Destroyer**]({{< ref "/categories/" >}}destroyers) during the Black Friday Event 2020. 
+The **_Golden Viper_** is a limited reskin of the [Viper]({{< ref "/wiki/" >}}Viper) released as a [**Destroyer**]({{< ref "/categories/" >}}destroyers) during the Black Friday Event 2020.
 
 ## Description
 
@@ -47,7 +47,7 @@ For the most part, the **Golden Viper** has the same interior as its regular cou
 - Utilize the ships impressive speed for evasion.
 - While it can be devastating in swarms, it's probably not worth risking this ship unless if you're confident that you'll make it out alive.
 
-## Version History 
+## Version History
 
 - Received a recolor in version .69e.
 

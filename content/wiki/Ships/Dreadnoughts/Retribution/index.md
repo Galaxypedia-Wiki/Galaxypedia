@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Retribution
+  - /wiki/Retribution
 categories:
-- Dreadnoughts
-- PVP Ships
-- Siege Ships
-- Ships
-- Support Ships
-- All-Rounder Ships
-- Capital Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Siege Ships
+  - Ships
+  - Support Ships
+  - All-Rounder Ships
+  - Capital Ships
 title: Retribution
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-**_Retribution_** is a multi-purpose **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)**. 
+**_Retribution_** is a multi-purpose **[Dreadnought]({{< ref "/categories/" >}}dreadnoughts)**.
 
 ## Description
 
@@ -54,7 +54,7 @@ There is a small teleporter located on the back of the ship, which sends you to 
 - When [Sieging]({{< ref "/wiki/" >}}Sieging) in a fleet, park your ship at [Heavy Laser]({{< ref "/wiki/" >}}Turrets) range (7000 studs away) and use your Heavy Lasers along with your [Small Torpedoes]({{< ref "/wiki/" >}}Spinal-Weaponry) to attack the base, while not tanking too much damage.
 - During sieges, your goal is to support core capital [Ships]({{< ref "/wiki/" >}}Ships). Be sure to fend off any defenders. Focus on enemy [Battleships]({{< ref "/categories/" >}}battleships) and [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts); they can cause serious problems during a siege.
 
-## Version History 
+## Version History
 
 - Remodeled in an unknown version.
 - Got a second remodel in version .66b, though it was met by much criticism from players and later reverted and the model was reused as a [Loyalist]({{< ref "/wiki/" >}}Loyalist) remodel.

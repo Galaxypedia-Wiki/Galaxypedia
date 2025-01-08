@@ -1,12 +1,14 @@
 ---
 aliases:
-- /wiki/Rev4
-- /wiki/Lucifer-Core
+  - /wiki/Rev4
+  - /wiki/Lucifer-Core
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Rev4
----**_Rev4_** is an NPC that allows players to start the "Spooky" quest.
+---
+
+**_Rev4_** is an NPC that allows players to start the "Spooky" quest.
 
 ## Description
 
@@ -24,7 +26,7 @@ The Items that the quest needs to build the Lucifer Core are the following:
 **Rev4** is found beside inside one of the terminal doors in [Derelict Station]({{< ref "/wiki/" >}}Derelict-Station) and is beside 3 more Rev NPCS. ![The Station Rev4 is
 located.](Derelict_Station_Ext1.png "The Station Rev4 is located."){width="400"}
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">Rev4: OGGA BOOGA</span>
 

@@ -1,12 +1,14 @@
 ---
 aliases:
-- /wiki/U.N.E-Harbor-Master
+  - /wiki/U.N.E-Harbor-Master
 categories:
-- NPCS
-- Quests
-- Limited Ships
+  - NPCS
+  - Quests
+  - Limited Ships
 title: U.N.E Harbor Master
----## Description
+---
+
+## Description
 
 The U.N.E Harbor Master is the quest giver for Quest #5 - "Give U.N.E Harbor Master <u>2 million credits</u> for the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1)." In the pre-quest dialogue, he explains that the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) is the largest and deadliest warship created to date, but he also states that the ship had been in production for a long time. The U.N.E Harbor Master no longer gives a quest for the [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1) and now is the dealer for the [Weapon Part]({{< ref "/wiki/" >}}Ores), which requires 30500 [Uranium]({{< ref "/wiki/" >}}Ores) and 182500 Credits. ![centre|thumb|720x720px]({{< ref "/wiki/" >}}UNE-Harbour-Masterrr.png-"centre|thumb|720x720px")
 
@@ -14,9 +16,9 @@ The U.N.E Harbor Master is the quest giver for Quest #5 - "Give U.N.E Harbor Mas
 
 The U.N.E Harbor Master is located in the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) on the second floor of **Terminal C.** ![]({{< ref "/wiki/" >}}Mega-Base-C.png-"Mega-Base-C.png"){width="400" height="400"}![]({{< ref "/wiki/" >}}Inside-Terminal-C.png-"Inside-Terminal-C.png"){width="400" height="400"}
 
-## Quest Dialogue 
+## Quest Dialogue
 
-<u>U.N.E. Harbor Master:</u> "Welcome to the U.N.E Recruiting Outpost, how [may]* I help you?"
+<u>U.N.E. Harbor Master:</u> "Welcome to the U.N.E Recruiting Outpost, how [may]\* I help you?"
 
 <u>Player:</u> "What is this prototype ship rumor?"
 
@@ -36,7 +38,7 @@ The U.N.E Harbor Master is located in the [Mega Base]({{< ref "/wiki/" >}}Mega-B
 
 _("Quest #5 - Prototype X-1 Quest" appears in Quest Menu)_
 
-_*actual dialogue says "many," not "may."_
+_\*actual dialogue says "many," not "may."_
 
 ## Glitches
 

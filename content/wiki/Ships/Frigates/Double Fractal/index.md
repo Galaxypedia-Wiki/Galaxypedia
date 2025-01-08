@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Double-Fractal
+  - /wiki/Double-Fractal
 categories:
-- Frigates
-- Ships
-- Christmas Event 2019
-- Limited Ships
+  - Frigates
+  - Ships
+  - Christmas Event 2019
+  - Limited Ships
 title: Double Fractal
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Double Fractal_** is [**Frigate**]({{< ref "/categories/" >}}frigates) which is part of the second stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019). 
+The **_Double Fractal_** is [**Frigate**]({{< ref "/categories/" >}}frigates) which is part of the second stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
 ## Description
 
@@ -43,7 +43,7 @@ The interior of the **Double Fractal** is a detailed cabin with a screen in fron
 - Treat this ship as a trophy, nothing more than a flex.
 - If you really want to use these, use them to swarm larger ships, using your speed and health to absorb, (some) hits, try to get into blind spots and unleash you spinals, which do a lot of damage, once you are at 300 shield or so retreat, as your hull is extremely fragile.
 
-## Version History 
+## Version History
 
 - No logged changes.
 

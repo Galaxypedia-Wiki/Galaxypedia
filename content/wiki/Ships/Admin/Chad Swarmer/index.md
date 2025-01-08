@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Chad-Swarmer
+  - /wiki/Chad-Swarmer
 categories:
-- Ships
-- Admin Ships
-- Alien Ships and Stations
+  - Ships
+  - Admin Ships
+  - Alien Ships and Stations
 title: Chad Swarmer
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Chad Swarmer_** is a popular [**Admin**]({{< ref "/categories/" >}}admin-ships) ship in Galaxy
 
@@ -42,7 +42,7 @@ The interior is composed of an Alien [Swarmer]({{< ref "/wiki/" >}}Swarmer) prot
 - Attack your opponents with your menacing presence.
 - Use the extreme shield and speed to tank enemy fire or starbases, even at point-blank range!
 
-## Version History 
+## Version History
 
 - Shield changed from ? to 25,000
 

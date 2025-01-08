@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Khapri
+  - /wiki/Khapri
 categories:
-- Ships
-- Limited Ships
-- Dreadnoughts
-- Christmas Event 2021
-- Avellians= Ships and Stations
+  - Ships
+  - Limited Ships
+  - Dreadnoughts
+  - Christmas Event 2021
+  - Avellians= Ships and Stations
 title: Khapri
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **Khapri** is a [Limited]({{< ref "/categories/" >}}limited-ships) [Dreadnought]({{< ref "/categories/" >}}dreadnoughts) from the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
-_This article describes the player-owned ship. For the NPC boss ship with the same model, see **[Adversary]({{< ref "/wiki/" >}}Alien-Adversary)**._ 
+_This article describes the player-owned ship. For the NPC boss ship with the same model, see **[Adversary]({{< ref "/wiki/" >}}Alien-Adversary)**._
 
 ## Description
 
@@ -48,7 +48,7 @@ There is practically no interior, it's just a pilot seat slapped on a small base
 - Don't try to engage with agile or small ships, your turrets will miss and you will struggle to accurately hit your spinals.
 - If you engage in combat with another capital ship, use your health and speed to your advantage.
 
-## Version History 
+## Version History
 
 - Interior teleporter fixed in version .75a1.
 - Buffed in version .75a5, Gained 1 Huge Cannon, [Avellian Eliminators]({{< ref "/wiki/" >}}Turrets) gained more DPS.

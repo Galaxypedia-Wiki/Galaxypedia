@@ -1,14 +1,16 @@
 ---
 aliases:
-- /wiki/Myriad-III
-- /wiki/Myriad
+  - /wiki/Myriad-III
+  - /wiki/Myriad
 categories:
-- Planets
-- Starbases
-- Galaxy Lore Pages
-- Alien Ships and Stations
+  - Planets
+  - Starbases
+  - Galaxy Lore Pages
+  - Alien Ships and Stations
 title: Myriad III
----**_Myriad_** is the smallest [Planet]({{< ref "/wiki/" >}}:category:planets) in Galaxy.
+---
+
+**_Myriad_** is the smallest [Planet]({{< ref "/wiki/" >}}:category:planets) in Galaxy.
 
 ## Description
 
@@ -26,11 +28,11 @@ The climate of **Myriad** is a hot desert with constant sandstorms covering the 
 
 During part three of the Celestial Bodies update(s), a moon was added in orbit of **Myriad.**The moon is named _"Duna'kaé"_ and is supposedly the home of a dormant (or inactive) volcano. The moon's volcanic activity and excessive heat have left the surface flat and tough. The moon has a similar atmosphere to **Myriad**, but it is a bright red as opposed to **Myriad's** brown. **Myriad**'s moon _Duna'kaé_ also contains a [Quest]({{< ref "/wiki/" >}}Richard-Kavar) which requires you to obtain 5 Data Archives, a very rare and expensive artifact that can be found drifting through space in random locations or bought at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base). Most players with access to mid-tier miners should be able to afford them if bought. The reward for completing this quest is only 15,000 credits, so most players do not do it, as Artifacts are very rare items.
 
-### Climate 
+### Climate
 
 The climate of _Duna'kaé_ is very hot and is unable to support life.
 
-## Version History 
+## Version History
 
 - Added in version .60d1
 - Received a moon named "Duna'kaé" in version .62d2

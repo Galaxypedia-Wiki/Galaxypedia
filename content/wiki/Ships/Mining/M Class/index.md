@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/M-Class
+  - /wiki/M-Class
 categories:
-- Mining Ships
-- Ships
+  - Mining Ships
+  - Ships
 title: M Class
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_M Class_** was a very specialized **[Miner]({{< ref "/categories/" >}}mining-ships)** and physically was one of the largest ships in Galaxy.
 
@@ -51,7 +51,7 @@ To enter the **M Class**, you must walk across the glowing path to the "door" te
 - Try not to do things while [Mining]({{< ref "/wiki/" >}}Mining). The ship will mine a full-size [Ores]({{< ref "/wiki/" >}}Ores) chunk in about 20 seconds.
 - Due to the recent [Miner]({{< ref "/categories/" >}}mining-ships) cost nerfs, this ship is a somewhat viable nuking ship in terms of cost-effectiveness. Don't try to nuke anything that has a sizeable amount of [Shield]({{< ref "/wiki/" >}}Shields) HP, though.
 
-## Version History 
+## Version History
 
 - Received a nerf in .60d that reduced this ship's [Mining Lasers]({{< ref "/wiki/" >}}Turrets) by 2, Hull by 500, Cargo Hold By 50, Ore Hold by 1750, and ship cost by around $80K
 - Received a nerf in an unknown version that added transparent plates to the front and back, obstructing line-of-sight outside of the "mining hole" to prevent the [Mining Lasers]({{< ref "/wiki/" >}}Turrets) from [Mining]({{< ref "/wiki/" >}}Mining) outside of the ship.

@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Nightmare
+  - /wiki/Nightmare
 categories:
-- Frigates
-- Ships
-- PVP Ships
-- Advanced Ships
-- Pirate Ships
+  - Frigates
+  - Ships
+  - PVP Ships
+  - Advanced Ships
+  - Pirate Ships
 title: Nightmare
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/advancedShip >}} 
+{{< notices/advancedShip >}}
 
 The **_Nightmare_** is an extremely powerful and agile [Advanced]({{< ref "/categories/" >}}advanced-ships)**[Frigate]({{< ref "/wiki/" >}}:category:Frigate)**.
 
@@ -62,7 +62,7 @@ The **Cockpit** of the Nightmare is fully made of glass, tinted with orange, fro
 - When fighting carriers, hide in the fighter bay and use your spinals. If they warp a short distance, quickly move into another blind spot or warp away.
 - Beware of any explosions from ships you destroy; Your health will lead to a quick destruction if you don't pay attention.
 
-## Version History 
+## Version History
 
 - Re-Introduced in Version .74b14 with a cost of 60k Credits and 4 Plasma batteries.
 - Top Speed reduced from 290 to 250 shortly after it being introduced as of version .64f.

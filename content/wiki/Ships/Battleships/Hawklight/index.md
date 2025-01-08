@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Hawklight
+  - /wiki/Hawklight
 categories:
-- Ships
-- Battleships
-- PVP Ships
-- Pirate Ships
-- Support Ships
-- Hull breakers
-- Capital Ships
+  - Ships
+  - Battleships
+  - PVP Ships
+  - Pirate Ships
+  - Support Ships
+  - Hull breakers
+  - Capital Ships
 title: Hawklight
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Hawklight_** is generally considered to be one of the strongest [**Battleships**]({{< ref "/categories/" >}}battleships) in Galaxy, especially as a PvP ship.
 
@@ -43,13 +43,13 @@ The interior of the **Hawklight** is very alien-themed. You'll enter an empty do
 - It is a great ship for fighting [Battlecruisers]({{< ref "/categories/" >}}battlecruisers) and other large ships like Dreadnoughts, however, do not attack faster, more agile ships.
 - Like any other battleship, you will be focused in a siege if you are the biggest ship present, DO NOT be the last one out if your team warps away.
 - Great ship for [Sieges]({{< ref "/wiki/" >}}Sieging) and counter-sieges, use it for that.
-- The** **Hawklight*** ***is effective at destroying Hull-Focused Opponents with its [Spinals]({{< ref "/wiki/" >}}Spinals).
+- The\*\* **Hawklight\*** \*\*\*is effective at destroying Hull-Focused Opponents with its [Spinals]({{< ref "/wiki/" >}}Spinals).
 - Don't let enemy ships get underneath you, instead get underneath them to hit your Turrets or in front of them to fire your Spinals.
 - Try and stay away from shield tanks, since the Hawklight is focused on hull.
 - In PvP, never let your opponent get below you, always warp under them.
 - Once hulled, immediately warp back to a friendly starbase or such and dock ASAP. As people will likely chase you down once they see that you're hulled. If they do follow you to your starbase, de-spawn and heal another time. Don't take any chances.
 
-## Version History 
+## Version History
 
 - Added in the [Halloween Event 2016]({{< ref "/wiki/" >}}Halloween-Event-2016).
 - Received a remodel in update ??.

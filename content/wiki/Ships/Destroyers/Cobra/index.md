@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Cobra
+  - /wiki/Cobra
 categories:
-- Ships
-- Destroyers
-- Pirate Ships
-- PVP Ships
-- Support Ships
+  - Ships
+  - Destroyers
+  - Pirate Ships
+  - PVP Ships
+  - Support Ships
 title: Cobra
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Cobra_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class Ship with very high offensive capabilities. 
+The **_Cobra_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class Ship with very high offensive capabilities.
 
 ## Description
 

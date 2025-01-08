@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/U.N.E-Starbase
+  - /wiki/U.N.E-Starbase
 categories:
-- Starbases
-- U.N.E
+  - Starbases
+  - U.N.E
 title: U.N.E Starbase
----  
+---
 
-{{< notices/outdatedInfo >}} 
+{{< notices/outdatedInfo >}}
 
-The **_U.N.E Starbase_** is the inhabited replacement of the [Abandoned U.N.E Base]({{< ref "/wiki/" >}}Abandoned-U.N.E-Base). 
+The **_U.N.E Starbase_** is the inhabited replacement of the [Abandoned U.N.E Base]({{< ref "/wiki/" >}}Abandoned-U.N.E-Base).
 
 ## Description
 
@@ -19,7 +19,7 @@ The **U.N.E Starbase** is a Starbase owned by the U.N.E. Prior to version .71a, 
 
 The **U.N.E Starbase** was reconditioned from the [Abandoned UNE Base]({{< ref "/wiki/" >}}Abandoned-U.N.E-Base) due to the threat of the [Kneall Stronghold]({{< ref "/wiki/" >}}Kneall-Stronghold) getting closer to the playable area every passing second.
 
-## Version History 
+## Version History
 
 - Added in version .69??
 - Received an interior remodel, made the main Starbase for the U.N.E team, 10 [Triple Heavy Cannons]({{< ref "/wiki/" >}}Turrets) replaced with 6 [Heavy Flak Cannons]({{< ref "/wiki/" >}}Turrets) and 4 [Capital Triple Lasers]({{< ref "/wiki/" >}}Turrets), Shields increased to 100000 and Hull increased to 25000 in version .71a.

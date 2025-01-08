@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Heartbreaker
+  - /wiki/Heartbreaker
 categories:
-- Ships
-- Battlecruisers
-- Quests
-- Limited Ships
-- PVP Ships
-- Hidden Events
+  - Ships
+  - Battlecruisers
+  - Quests
+  - Limited Ships
+  - PVP Ships
+  - Hidden Events
 title: Heartbreaker
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Heartbreaker_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) which was made for Valentine's Day 2020. It was re-released on Valentine's Day 2021, then again on Valentine's Day 2024. 
+The **_Heartbreaker_** is a [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers) which was made for Valentine's Day 2020. It was re-released on Valentine's Day 2021, then again on Valentine's Day 2024.
 
 ## Description
 
@@ -45,7 +45,7 @@ The ship's interior consists of a chair next to a teleporter underneath a glass 
 - Spinal aim is crucial in dealing effective shield damage.
 - Use with caution, as it is a [Limited]({{< ref "/categories/" >}}limited-ships) ship and will be focused in a battle.
 
-## Version History 
+## Version History
 
 - Taken offsale on an unknown date.
 - Top Speed increased from 120 to 135, 1 [Medium Phaser]({{< ref "/wiki/" >}}Spinal-Weaponry) added and put back on-sale (for Valentine's Day only) in version .71b2.

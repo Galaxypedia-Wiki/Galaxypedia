@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/ShieldSide
+  - /wiki/ShieldSide
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: ShieldSide
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_ShieldSide_** is a "Fighter" found on each side of the [Subjugator]({{< ref "/wiki/" >}}Subjugator).
 
@@ -40,7 +40,7 @@ The ShieldSide looks like its, name, a Shield, with 2 equipped on each side of t
 - Always face the enemy at your sides in order to use these well.
 - It is better to use this to tank against Capital Ships rather than swarms, because swarms rely on spinals to do damage, which ShieldSide cannot protect [Subjugator]({{< ref "/wiki/" >}}Subjugator) from.
 
-## Version History 
+## Version History
 
 - Health changed from unknown amount^(please add former shield health amount)^ to 9,500/1 Shield/Hull HP in unknown version^(please add version when possible)^.
 - 9,500 changed to 8,500 Shields in an unknown version.

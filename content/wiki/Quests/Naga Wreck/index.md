@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Naga-Wreck
+  - /wiki/Naga-Wreck
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Naga Wreck
----The **_Naga Wreck_** is an NPC that allows players to start the "Special Armor" quest.
+---
+
+The **_Naga Wreck_** is an NPC that allows players to start the "Special Armor" quest.
 
 ## Description
 
@@ -24,7 +26,7 @@ The Items that the quest needs to build the [Kraken Armor]({{< ref "/wiki/" >}}K
 It is also found in front of [Smith]({{< ref "/wiki/" >}}Smith) and [SAD-OS]({{< ref "/wiki/" >}}Mega-Base). ![Where the quest giver is
 located.](Krakenarmor1.png "Where the quest giver is located."){width="400"}
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">Naga: Kraken Armor</span>
 

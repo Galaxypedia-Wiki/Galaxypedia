@@ -1,12 +1,14 @@
 ---
 aliases:
-- /wiki/Commands
+  - /wiki/Commands
 categories:
-- Game Mechanics
+  - Game Mechanics
 title: Commands
----**Commands** are specific codes/words used to execute a function within the game. They can be used to display statistics or lists, play music, or change servers. The default command tag in Galaxy is /. For example, to see your own logs you would type /log into the chat. This page only displays commands that are usable by every player, not restricted commands.
+---
 
-## Command List 
+**Commands** are specific codes/words used to execute a function within the game. They can be used to display statistics or lists, play music, or change servers. The default command tag in Galaxy is /. For example, to see your own logs you would type /log into the chat. This page only displays commands that are usable by every player, not restricted commands.
+
+## Command List
 
 - Age (Player Name) - Shows how many days old the specified player account is.
 

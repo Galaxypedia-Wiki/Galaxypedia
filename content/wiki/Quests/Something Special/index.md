@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Something-Special
+  - /wiki/Something-Special
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Something Special
----## Description
+---
+
+## Description
 
 _Something Special_ is a quest that gives the ship [SR-71]({{< ref "/wiki/" >}}SR-71).
 
@@ -20,7 +22,7 @@ The Items that the quest needs to make the [SR-71]({{< ref "/wiki/" >}}SR-71) ar
 
 Rapidofast can be found at the top floor of [Freedom Base]({{< ref "/wiki/" >}}Freedom-Base), though Freedom Base has to be Level 3 in order to access the Quest.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Rapidofast]: "Hey, I got something for you if you're willing to pay. Top Secret UNE ship, straight from old Earth."</span>
 

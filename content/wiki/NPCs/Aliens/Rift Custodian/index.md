@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Rift-Custodian
+  - /wiki/Rift-Custodian
 categories:
-- NPC Ships
-- Halloween 2020
-- Alien Ships and Stations
-- Ships
+  - NPC Ships
+  - Halloween 2020
+  - Alien Ships and Stations
+  - Ships
 title: Rift Custodian
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-The **_Rift Custodian_** is a [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**AI**]({{< ref "/categories/" >}}npc-ships) ship that appeared in the [Halloween 2020]({{< ref "/categories/" >}}halloween-2020) event. It is the stronger version of the [Rift Guardian]({{< ref "/wiki/" >}}Rift-Guardian). 
+The **_Rift Custodian_** is a [Halloween Event 2020]({{< ref "/wiki/" >}}Halloween-Event-2020) [**AI**]({{< ref "/categories/" >}}npc-ships) ship that appeared in the [Halloween 2020]({{< ref "/categories/" >}}halloween-2020) event. It is the stronger version of the [Rift Guardian]({{< ref "/wiki/" >}}Rift-Guardian).
 
 ## Description
 

@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Rorqual
+  - /wiki/Rorqual
 categories:
-- Mining Ships
-- Ships
+  - Mining Ships
+  - Ships
 title: Rorqual
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Rorqual_** is a popular **[Miner]({{< ref "/categories/" >}}mining-ships)**-Class ship commonly seen in Galaxy.
 
@@ -41,7 +41,7 @@ The back of the **Rorqual** contains a small teleporter to the cockpit, which is
 - Stay close to friendly combat ships when possible. They can help protect you from enemies.
 - Try finding a [Faction]({{< ref "/wiki/" >}}Factions) that has a lot of [Ores]({{< ref "/wiki/" >}}Ores) around its [Starbase]({{< ref "/wiki/" >}}Starbase) and is not using as many [Miners]({{< ref "/categories/" >}}mining-ships).
 
-## Version History 
+## Version History
 
 - Received a remodel in ?
 - Received a small buff in .59a so people can choose this over the [Mammoth]({{< ref "/wiki/" >}}Mammoth).

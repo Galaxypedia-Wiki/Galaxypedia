@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Quantum-Core
+  - /wiki/Quantum-Core
 categories:
-- Items
+  - Items
 title: Quantum Core
----The **Quantum Core** is a special item used for making powerful ships via [Quests]({{< ref "/categories/" >}}quests) or the [Build Menu]({{< ref "/wiki/" >}}Build-Menu).
+---
+
+The **Quantum Core** is a special item used for making powerful ships via [Quests]({{< ref "/categories/" >}}quests) or the [Build Menu]({{< ref "/wiki/" >}}Build-Menu).
 
 Quantum Cores can only be obtained by looting [Kodiak]({{< ref "/wiki/" >}}Kodiak), which drops 2 per wreck.
 
@@ -22,11 +24,11 @@ Ship Amount Onsale
 
 The list of [Quests]({{< ref "/wiki/" >}}Quests) where the Quantum Core is used.
 
-### [Advanced Systems]({{< ref "/wiki/" >}}Advanced-Systems) 
+### [Advanced Systems]({{< ref "/wiki/" >}}Advanced-Systems)
 
-### [Charybdis OCS]({{< ref "/wiki/" >}}Charybdis-OCS) 
+### [Charybdis OCS]({{< ref "/wiki/" >}}Charybdis-OCS)
 
-### [The Last Signal]({{< ref "/wiki/" >}}The-Last-Signal) 
+### [The Last Signal]({{< ref "/wiki/" >}}The-Last-Signal)
 
 ### [Spooky]({{< ref "/wiki/" >}}Lucifer-Core)
 

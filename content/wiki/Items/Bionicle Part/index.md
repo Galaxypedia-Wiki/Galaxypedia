@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Bionicle-Part
+  - /wiki/Bionicle-Part
 categories:
-- Event Items
-- Kneall Events
+  - Event Items
+  - Kneall Events
 title: Bionicle Part
----The **Bionicle Part** is an [Event Item]({{< ref "/categories/" >}}event-items) used as a material for making the [Annihilator]({{< ref "/wiki/" >}}Annihilator) Blueprint, which is crafted via a quest during the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event). After the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event), it was used to trade in for credits from the leftovers of this item.
+---
+
+The **Bionicle Part** is an [Event Item]({{< ref "/categories/" >}}event-items) used as a material for making the [Annihilator]({{< ref "/wiki/" >}}Annihilator) Blueprint, which is crafted via a quest during the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event). After the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event), it was used to trade in for credits from the leftovers of this item.
 
 The [Devastator]({{< ref "/wiki/" >}}Devastator) drops 50 Bionicle Parts per wreck, while the [Kneall Bionicle]({{< ref "/wiki/" >}}Kneall-Bionicle) drops 5 Bionicle Parts per wreck.
 
@@ -13,11 +15,11 @@ The [Devastator]({{< ref "/wiki/" >}}Devastator) drops 50 Bionicle Parts per wre
 
 The list of [Quests]({{< ref "/wiki/" >}}Quests) where the Bionicle Part is used.
 
-### [Reverse Engineering]({{< ref "/wiki/" >}}Reverse-Engineering) 
+### [Reverse Engineering]({{< ref "/wiki/" >}}Reverse-Engineering)
 
-### Bionicle Parts, 10 
+### Bionicle Parts, 10
 
-**Requires:** 100 Bionicle Parts. **Reward:** 110000 Credits.  "Bionicle Parts" is the [NPC]({{< ref "/categories/" >}}npcs) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #20202602.
+**Requires:** 100 Bionicle Parts. **Reward:** 110000 Credits. "Bionicle Parts" is the [NPC]({{< ref "/categories/" >}}npcs) Quest-giver for [Quest]({{< ref "/wiki/" >}}Quests) #20202602.
 
 **Dialogue:**
 

@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/Purpledazee
+  - /wiki/Purpledazee
 categories:
-- Biographies
+  - Biographies
 title: Purpledazee
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 Former Galaxy Head of Staff, very controversial figure in the Galaxy Community, demoted for abuse.
 

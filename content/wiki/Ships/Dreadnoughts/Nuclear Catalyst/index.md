@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Nuclear-Catalyst
+  - /wiki/Nuclear-Catalyst
 categories:
-- Ships
-- Dreadnoughts
-- Support Ships
-- Limited Ships
-- Fourth of July 2021
-- Reskins
+  - Ships
+  - Dreadnoughts
+  - Support Ships
+  - Limited Ships
+  - Fourth of July 2021
+  - Reskins
 title: Nuclear Catalyst
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 ## Description
 
@@ -49,7 +49,7 @@ The Nuclear Catalyst interior is no different from the Catalysts interior with a
 - Get under your opponents allowing all your turrets to fire and stopping enemies from getting in your blind spot.
 - Travel in fleets, Enemies will target your limited and expensive ship.
 
-## Version History 
+## Version History
 
 - No logged changes
 

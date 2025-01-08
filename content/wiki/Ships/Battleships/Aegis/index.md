@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Aegis
+  - /wiki/Aegis
 categories:
-- Ships
-- Battleships
-- PVP Ships
-- Siege Ships
-- Support Ships
-- Capital Ships
+  - Ships
+  - Battleships
+  - PVP Ships
+  - Siege Ships
+  - Support Ships
+  - Capital Ships
 title: Aegis
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Aegis_** is a **[Battleship]({{< ref "/categories/" >}}battleships)** that focuses on Shield health and [Turrets]({{< ref "/wiki/" >}}Turrets).
 
@@ -50,7 +50,7 @@ The **Aegis** has a small teleporter on one front wing that leads to the interio
 - A very powerful way to employ Aegis is in 1 on 1 battleship or lower, warping tactically right behind a ship or at least very close to get a full turret salvo off on an enemy ship, and utilize the [spinals]({{< ref "/wiki/" >}}spinals) after your large lasers have shredded their [shields]({{< ref "/wiki/" >}}shields). Doing this on a Battlecruiser usually results in the Battlecruiser getting very low or destroyed before being able to warp out.
 -
 
-## Version History 
+## Version History
 
 - Received some changes in .63h that added 900 [Shield]({{< ref "/wiki/" >}}Shields), added 1 [Heavy Laser]({{< ref "/wiki/" >}}Turrets), lowered the Speed from 100 to 80, and increased the price.
 - Max Shield increased to 5300 from 5000 in .65b

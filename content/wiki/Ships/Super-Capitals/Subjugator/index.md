@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Subjugator
+  - /wiki/Subjugator
 categories:
-- Super Capital Ships
-- Capital Ships
-- Support Ships
-- Ships
-- Broadsides
-- U.N.E
+  - Super Capital Ships
+  - Capital Ships
+  - Support Ships
+  - Ships
+  - Broadsides
+  - U.N.E
 title: Subjugator
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/superCapitalShip >}} 
+{{< notices/superCapitalShip >}}
 
 The **_Subjugator_** is the [**Super Capital Ship**]({{< ref "/categories/" >}}super-capital-ships) with the highest total health, it's capable of withstanding monstrous amounts of damage, but at the lack of damage compared to ships of it's class.
 
@@ -34,7 +34,7 @@ The Interior is a round room with 3 screens, one being a hexagonal display, the 
 ## Advantages
 
 - Has the highest HP out of any normally obtainable ship in the game, with a monstrous 105000 HP (without its [ShieldSides]({{< ref "/wiki/" >}}ShieldSide)), allowing it to tank damage for long periods of time.
-- [ShieldSides]({{< ref "/wiki/" >}}ShieldSide) have  health each, and can regenerate after being destroyed like other [Fighters]({{< ref "/categories/" >}}fighters).
+- [ShieldSides]({{< ref "/wiki/" >}}ShieldSide) have health each, and can regenerate after being destroyed like other [Fighters]({{< ref "/categories/" >}}fighters).
 - Above average [Turret]({{< ref "/wiki/" >}}Turrets) accuracy.
 
 ## Disadvantages
@@ -57,7 +57,7 @@ The Interior is a round room with 3 screens, one being a hexagonal display, the 
 - It is very hard to take out small ships with this, so use it for tanking in Sieges or tanking large ships head-on.
 - Use this ship to tank bases while your teammates kill the enemy ships or siege the base. This is extremely useful at bases such as [Frion]({{< ref "/wiki/" >}}Frion), where the damage can kill battleships in one volley.
 
-## Version History 
+## Version History
 
 - Disabled in .66b along with the other Super Capitals due to weapon part/alien device duplication glitch.
 - Received a turret placement change during the [Halloween 2019 Event]({{< ref "/wiki/" >}}Halloween-Event-2019).

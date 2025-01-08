@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Retro-Leviathan
+  - /wiki/Retro-Leviathan
 categories:
-- Ships
-- Limited Ships
-- Dreadnoughts
-- Black Friday 2019
-- Capital Ships
-- Retro Ship Event 2019
+  - Ships
+  - Limited Ships
+  - Dreadnoughts
+  - Black Friday 2019
+  - Capital Ships
+  - Retro Ship Event 2019
 title: Retro Leviathan
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Retro Leviathan_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Leviathan]({{< ref "/wiki/" >}}Leviathan) that features its original model and armament. 
+The **_Retro Leviathan_** is a **[limited-edition]({{< ref "/categories/" >}}limited-ships)** version of the [Leviathan]({{< ref "/wiki/" >}}Leviathan) that features its original model and armament.
 
 ## Description
 
@@ -48,7 +48,7 @@ The bridge is composed of a relatively simple room with windows in addition to a
 - In combat, warp and try to stay under your enemies; most of your turrets are on top of your ship.
 - Try to hit your [Spinals]({{< ref "/wiki/" >}}Spinal-Weaponry) as they account for 1/3 of your hull DPS.
 
-## Version History 
+## Version History
 
 - Added in Version .66b for the Retro Ship Event.
 - Received a buff along with all other retro event ships in .66b shortly after the event ended.

@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Nidhogg
+  - /wiki/Nidhogg
 categories:
-- Cruisers
-- Pirate Ships
-- Ships
-- PVP Ships
-- Support Ships
+  - Cruisers
+  - Pirate Ships
+  - Ships
+  - PVP Ships
+  - Support Ships
 title: Nidhogg
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **Nidhogg** is a fast [Cruiser]({{< ref "/categories/" >}}cruisers) with powerful [Shield]({{< ref "/wiki/" >}}Shields) breaking capabilities.
 
@@ -44,7 +44,7 @@ The **Nidhogg** has no interior. There is just a black pass-through cover over a
 - Stay in fleets or groups of smaller cruisers.
 - While pirating is a viable option, it's much more suited for fleet PvP.
 
-## Version History 
+## Version History
 
 - Added in .60d
 - Light Laser swapped for Light Flak in version .65a6.

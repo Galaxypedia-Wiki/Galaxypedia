@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Leecher
+  - /wiki/Leecher
 categories:
-- Ships
-- Destroyers
-- Pirate Ships
-- PVP Ships
-- Support Ships
+  - Ships
+  - Destroyers
+  - Pirate Ships
+  - PVP Ships
+  - Support Ships
 title: Leecher
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Leecher_** is a decently fast and heavily armed [**Destroyer**]({{< ref "/categories/" >}}destroyers).
 
@@ -45,7 +45,7 @@ The interior of the **Leecher** is entirely comprised of its small cockpit. The 
 - Avoid ships like the [Ampharos]({{< ref "/wiki/" >}}Ampharos) or [Tempest]({{< ref "/wiki/" >}}Tempest) whose high accuracy [Turrets]({{< ref "/wiki/" >}}Turrets) can quickly destroy even the smallest and fastest of [Fighters]({{< ref "/categories/" >}}fighters).
 - Outside of combat, it's a great ship for hunting down [Alien Swarmers]({{< ref "/wiki/" >}}Aliens), but **ALWAYS** avoid the [Alien Punisher]({{< ref "/wiki/" >}}Aliens) for obvious reasons.
 
-## Version History 
+## Version History
 
 - Massively nerfed in .62d7, reducing its health from 600 [Hull]({{< ref "/wiki/" >}}Hull) and [Shield]({{< ref "/wiki/" >}}Shields) to 350 of each. The Speed was nerfed from 210 to 140 and the Acceleration dropped from 30 to 11. It also lost one [Phaser]({{< ref "/wiki/" >}}Spinals), and cost was dropped by a large amount.
 - Remodel by Auri#1814 .75a12
@@ -57,5 +57,5 @@ The interior of the **Leecher** is entirely comprised of its small cockpit. The 
 
 ## Gallery
 
- ![Old Model of the Leecher
+![Old Model of the Leecher
 (.62a1)](Leecher-icon.png "Old Model of the Leecher (.62a1)")

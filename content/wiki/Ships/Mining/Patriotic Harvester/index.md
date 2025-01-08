@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Patriotic-Harvester
+  - /wiki/Patriotic-Harvester
 categories:
-- Limited Ships
-- Ships
-- Mining Ships
-- Fourth of July 2021
-- Reskins
+  - Limited Ships
+  - Ships
+  - Mining Ships
+  - Fourth of July 2021
+  - Reskins
 title: Patriotic Harvester
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Patriotic Harvester_** is a limited variant of the [Harvester]({{< ref "/wiki/" >}}Harvester). 
+The **_Patriotic Harvester_** is a limited variant of the [Harvester]({{< ref "/wiki/" >}}Harvester).
 
 ## Description
 
@@ -47,7 +47,7 @@ The interior is very simple with just a chair.
 - Don't mine at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) if you are at [War]({{< ref "/wiki/" >}}War) and you aren't protected.
 - Don't take risks at all.
 
-## Version History 
+## Version History
 
 - Shields and Hull was tremendously buffed, going from 1,500/1,500 to 7,500/7,500 in version .75a10.
 - [Large Patriotic Mining Laser]({{< ref "/wiki/" >}}Turrets) swapped with a [Patriotic Mining Laser]({{< ref "/wiki/" >}}Turrets) in version .75a10.

@@ -1,15 +1,17 @@
 ---
 aliases:
-- /wiki/Armor-Scrap
-- /wiki/Iron-Forge
-- /wiki/Scrap-Collector
-- /wiki/Smith
+  - /wiki/Armor-Scrap
+  - /wiki/Iron-Forge
+  - /wiki/Scrap-Collector
+  - /wiki/Smith
 categories:
-- Quests
-- NPCS
-- Items
+  - Quests
+  - NPCS
+  - Items
 title: Armor Scrap
----_Not to be confused with [Material Scrap]({{< ref "/wiki/" >}}Material-Scrap), an item of a similar name._ 
+---
+
+_Not to be confused with [Material Scrap]({{< ref "/wiki/" >}}Material-Scrap), an item of a similar name._
 
 ## Description
 
@@ -17,7 +19,7 @@ title: Armor Scrap
 
 To convert **Armor Scrap** into credits, speak with the NPC [Pata]({{< ref "/wiki/" >}}Pata). **Pata** can be found inside the hill between the Sales Floor and the Library Floor, In a cozy cave at the center of which lies a scrapped [Dragoon]({{< ref "/wiki/" >}}Dragoon).
 
-### Armor Scrap currently only drop from all [Pirate]({{< ref "/wiki/" >}}Pirates) AI Faction Ships. 
+### Armor Scrap currently only drop from all [Pirate]({{< ref "/wiki/" >}}Pirates) AI Faction Ships.
 
 Ship Amount
 

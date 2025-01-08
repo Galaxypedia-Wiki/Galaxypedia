@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Gift
+  - /wiki/Gift
 categories:
-- Ships
-- Limited Ships
-- Christmas Event 2022
-- Freighters
+  - Ships
+  - Limited Ships
+  - Christmas Event 2022
+  - Freighters
 title: Gift
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Gift_** was a limited quest [Freighter]({{< ref "/categories/" >}}freighters) Ship.
 
@@ -23,7 +23,7 @@ The Gift looks exactly like its name. Sadly, there was nothing modeled inside of
 
 ## Advantages
 
-- One of the fastest and most agile ships in the game, having a whopping top speed of  and turn speed of .
+- One of the fastest and most agile ships in the game, having a whopping top speed of and turn speed of .
 - Extremely large explosion radius of , rivaling [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts).
 
 ## Disadvantages
@@ -35,7 +35,7 @@ The Gift looks exactly like its name. Sadly, there was nothing modeled inside of
 
 - Merry Christmas! Your gift is 1,000 kilograms of high explosives!
 
-## Version History 
+## Version History
 
 - Removed Quest in version .75a37.
 - Removed from the game in an unknown version.

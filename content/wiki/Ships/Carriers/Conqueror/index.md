@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Conqueror
+  - /wiki/Conqueror
 categories:
-- Ships
-- U.N.E
-- Advanced Ships
-- Carriers
-- Support Ships
-- Capital Ships
-- PVP Ships
-- Incomplete Images
+  - Ships
+  - U.N.E
+  - Advanced Ships
+  - Carriers
+  - Support Ships
+  - Capital Ships
+  - PVP Ships
+  - Incomplete Images
 title: Conqueror
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 ## Description
 
@@ -48,7 +48,7 @@ X-1](Prototype_X-1 "wikilink")](ConquerorSize.png "Size comparison of the Conque
 - Watch out for anything going under you, as that is a huge blindspot.
 - Do NOT use this ship alone, as it will get dived due to its value. Always fly in fleets of players you trust.
 
-## Version History 
+## Version History
 
 - Added on 2024/04/12, but not logged in an actual version. The most recent version after its implementation is .77d22.
 

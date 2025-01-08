@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Lich
+  - /wiki/Lich
 categories:
-- Ships
-- Destroyers
-- Pirate Ships
-- PVP Ships
-- Support Ships
+  - Ships
+  - Destroyers
+  - Pirate Ships
+  - PVP Ships
+  - Support Ships
 title: Lich
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Lich_** is a hull-shredding [**Destroyer**]({{< ref "/categories/" >}}destroyers) with a lack in maneuverability. 
+The **_Lich_** is a hull-shredding [**Destroyer**]({{< ref "/categories/" >}}destroyers) with a lack in maneuverability.
 
 ## Description
 
@@ -42,7 +42,7 @@ The **Lich** has very little interior aside from the pilot's seat. The seat and 
 - Avoid ships with high rate of fire [Turrets]({{< ref "/wiki/" >}}Turrets) like the [Bastion]({{< ref "/wiki/" >}}Bastion) or [Ampharos]({{< ref "/wiki/" >}}Ampharos).
 - Low overall health.
 
-## Version History 
+## Version History
 
 - Added in .62a1
 - Top Speed increased dramatically from 68 to 125 in .65b

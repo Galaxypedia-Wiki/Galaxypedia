@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Avalon
+  - /wiki/Avalon
 categories:
-- Dreadnoughts
-- PVP Ships
-- Siege Ships
-- Support Ships
-- Ships
-- Capital Ships
-- Hull breakers
-- Pirate Ships
+  - Dreadnoughts
+  - PVP Ships
+  - Siege Ships
+  - Support Ships
+  - Ships
+  - Capital Ships
+  - Hull breakers
+  - Pirate Ships
 title: Avalon
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Avalon_** is a light, [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts). 
+The **_Avalon_** is a light, [Spinal]({{< ref "/wiki/" >}}Spinals)-focused [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts).
 
 ## Description
 
@@ -55,7 +55,7 @@ The interior is small but detailed. The player enters through a teleporter at th
 - Encourage your team to bring more Avalons or other ships with torpedoes and at least one support ship for smaller enemies. A torpedo siege is a very effective and straight-forward way to destroy a starbase. If anybody in a large ship tries to defend the base, the siege ships can rip them apart while the support ship takes care of any smaller enemies. In the case of the Avalon, it can also perform somewhat as a support ship due to its multiple AA- turrets.
 -
 
-## Version History 
+## Version History
 
 - Remodeled in an unknown version.
 - Received a massive buff that increased its Hull and Shield health as well as increasing the turn speed.

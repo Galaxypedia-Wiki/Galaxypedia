@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Arthur
+  - /wiki/Arthur
 categories:
-- Cruisers
-- PVP Ships
-- Ships
-- Support Ships
-- Pirate Ships
-- All-Rounder Ships
+  - Cruisers
+  - PVP Ships
+  - Ships
+  - Support Ships
+  - Pirate Ships
+  - All-Rounder Ships
 title: Arthur
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Arthur_** is a fast and powerful **[Cruiser]({{< ref "/categories/" >}}cruisers)**.
 
@@ -46,7 +46,7 @@ The **Arthur** does not have an interior, and it is entered by falling straight 
 - If going alone, use hit and run tactics. Strike your enemy hard, return to your [Starbase]({{< ref "/wiki/" >}}Starbase) for repairs, and repeat.
 - If attempting a 1v1 battle, make sure that your enemy is a [Cruiser]({{< ref "/categories/" >}}cruisers) or lower class. Use the **Arthur's** maneuverability to find your enemy's blindspot and stay there.
 
-## Version History 
+## Version History
 
 - The original [Turret]({{< ref "/wiki/" >}}Turrets) placement of the **Arthur** had two [Flaks]({{< ref "/wiki/" >}}Turrets) on the top and three on the bottom. In version ??? all of the [Turrets]({{< ref "/wiki/" >}}Turrets) were moved to the bottom.
 

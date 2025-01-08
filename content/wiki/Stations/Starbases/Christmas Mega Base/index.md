@@ -1,16 +1,18 @@
 ---
 aliases:
-- /wiki/Christmas-Mega-Base
+  - /wiki/Christmas-Mega-Base
 categories:
-- Limited Ships
-- Christmas Event 2017
-- Starbases
-- Removed From Game
-- Christmas Event 2018
-- Christmas Event 2019
-- Christmas Event 2020
+  - Limited Ships
+  - Christmas Event 2017
+  - Starbases
+  - Removed From Game
+  - Christmas Event 2018
+  - Christmas Event 2019
+  - Christmas Event 2020
 title: Christmas Mega Base
----<div class="cardcontainer" style="font-size:15px; line-height:24px">
+---
+
+<div class="cardcontainer" style="font-size:15px; line-height:24px">
 # Overview
 
 The **_Christmas Mega Base_** is a limited reskin of the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) that has appeared during the past four Christmas [Events]({{< ref "/categories/" >}}events).

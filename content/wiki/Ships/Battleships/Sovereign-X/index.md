@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Sovereign-X
+  - /wiki/Sovereign-X
 categories:
-- NPC Ships
-- Battleships
-- Capital Ships
-- Ships
-- U.N.E
+  - NPC Ships
+  - Battleships
+  - Capital Ships
+  - Ships
+  - U.N.E
 title: Sovereign-X
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
 _This article describes the NPC ship. For the player-owned equivalent, see [Sovereign]({{< ref "/wiki/" >}}Sovereign)._
 
@@ -36,7 +36,7 @@ It is able to call other U.N.E. ships to assist it in combat, similar to a [Puni
 
 - Lure powerful enemy AI ships such as a [Galleon]({{< ref "/wiki/" >}}Galleon) or [Decimator]({{< ref "/wiki/" >}}Decimator) to it, if engaged, it will call other [U.N.E]({{< ref "/wiki/" >}}U.N.E) ships around the map to attack it.
 
-## Version History 
+## Version History
 
 - Released in version.69.
 - Rearmed and Buffed in Version .70a8

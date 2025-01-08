@@ -1,23 +1,23 @@
 ---
 aliases:
-- /wiki/Santaliz
+  - /wiki/Santaliz
 categories:
-- Christmas Event 2019
-- Ships
-- PVP Ships
-- Limited Ships
-- Siege Ships
-- Battleships
-- Pirate Ships
-- Reskins
+  - Christmas Event 2019
+  - Ships
+  - PVP Ships
+  - Limited Ships
+  - Siege Ships
+  - Battleships
+  - Pirate Ships
+  - Reskins
 title: Santaliz
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Santaliz_** is **[Battleship]({{< ref "/categories/" >}}battleships)** from the second stage of the [2019 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2019).
 
@@ -49,7 +49,7 @@ The interior of the **Santaliz** is very simple. (Add more)
 - Do not overestimate its speed, It is not very strong on its own. It can easily be destroyed by a skilled team.
 - Use this as you would use a [Hallow]({{< ref "/wiki/" >}}Hallow).
 
-## Version History 
+## Version History
 
 - In version .75a, 4 [Large Phasers]({{< ref "/wiki/" >}}Spinal-Weaponry) replaced by 2 [Large Torpedoes]({{< ref "/wiki/" >}}Spinal-Weaponry), 6 [Large Cannons]({{< ref "/wiki/" >}}Spinal-Weaponry) reduced to 3 [Large Cannons]({{< ref "/wiki/" >}}Spinal-Weaponry), 2 [Light Gattling Lasers]({{< ref "/wiki/" >}}Turrets) replaced with 2 [Splitters]({{< ref "/wiki/" >}}Turrets).
 - Custom Max drift is now 90% .75a12

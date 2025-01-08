@@ -1,24 +1,26 @@
 ---
 aliases:
-- /wiki/Doman90
-- /wiki/Hide-and-Seek
+  - /wiki/Doman90
+  - /wiki/Hide-and-Seek
 categories:
-- Quests
+  - Quests
 title: Doman90
----**Hide and Seek** involves a two part quest inside the [Mega Base]({{< ref "/wiki/" >}}Mega-Base).
+---
 
-## <span style="color:red">(OLD)</span> Description 
+**Hide and Seek** involves a two part quest inside the [Mega Base]({{< ref "/wiki/" >}}Mega-Base).
+
+## <span style="color:red">(OLD)</span> Description
 
 doman90, the first quest vendor, is the starting point of the quest. Talking to him leads you to having to find GodrevyD ([Rev]({{< ref "/wiki/" >}}Rev)), the second quest vendor. Upon finding and talking the second quest vendor, you will obtain the [Revylation 🦍]({{< ref "/wiki/" >}}Revylation-🦍). The cost of obtaining it is very low, approximately 1-5 credits **(?)**. ![doman90,Used for admins to spawn
 fleets of
 ships](Doman90-1.png "doman90,Used for admins to spawn fleets of ships"){width="209" height="209"} ![doman90, the first NPC to talk to in the
 quest.](HaS_QuestVendor1.png "doman90, the first NPC to talk to in the quest.")
 
-## <span style="color:red">(OLD)</span> Location 
+## <span style="color:red">(OLD)</span> Location
 
 Currently unknown, as the quest location has been moved multiple times at the time of writing (if you know the current quest location, please put it here with image examples).
 
-## <span style="color:red">(OLD)</span> Quest Dialogue 
+## <span style="color:red">(OLD)</span> Quest Dialogue
 
 **Note:** Choosing any secondary option in the dialogue prompts causes the conversation to end. For the sake of simplicity, only the first options that lead to the quest being started and finished will be shown. Additionally, any grammatical errors in the quest dialogue will be shown and not corrected. ![]({{< ref "/wiki/" >}}HideAndSeek-Dialogue1.png-"HideAndSeek-Dialogue1.png") (First Dialogue) doman90: "<span style="color:orange">This is annoying.</span>"
 
@@ -44,7 +46,7 @@ Revy: "<span style="color:orange">THANKYOU HERE YOU GO!!!</span>"
 
 (Player completes the quest and is rewarded)
 
-## <span style="color:blue">(Updated)</span> description 
+## <span style="color:blue">(Updated)</span> description
 
 doman 90 is now for admins, they use the quest to spawn a big fleet of pirates or aliens.
 
@@ -53,7 +55,7 @@ doman 90 is now for admins, they use the quest to spawn a big fleet of pirates o
 Between Termanal A & Termanal D on the mega base during the [Halloween Event 2022]({{< ref "/wiki/" >}}Halloween-Event-2022) ![The location of
 doman90|none](FOUNDHIM.png "The location of doman90|none"){width="526" height="526"} (Note): doman90 located bottom left of image behind the rocks.
 
-## Quest Dialogue 
+## Quest Dialogue
 
 **Note:** Choosing any secondary option in the dialogue prompts causes the conversation to end. For the sake of simplicity, only the first options that lead to the quest being started and finished will be shown. Additionally, any grammatical errors in the quest dialogue will be shown and not corrected.
 

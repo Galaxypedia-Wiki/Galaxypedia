@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Defiance
+  - /wiki/Defiance
 categories:
-- PVP Ships
-- Pirate Ships
-- Support Ships
-- Destroyers
-- All-Rounder Ships
-- Ships
+  - PVP Ships
+  - Pirate Ships
+  - Support Ships
+  - Destroyers
+  - All-Rounder Ships
+  - Ships
 title: Defiance
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Defiance_**is a powerful [**Destroyer**]({{< ref "/categories/" >}}destroyers). 
+The **_Defiance_**is a powerful [**Destroyer**]({{< ref "/categories/" >}}destroyers).
 
 ## Description
 
@@ -43,7 +43,7 @@ The interior to the Defiance includes a small pilot seat with a small screen in 
 - Use this for diving weak targets, as the [Cannons]({{< ref "/wiki/" >}}Spinals) easily shred hull.
 - The **Defiance** is also useful for hunting [Aliens]({{< ref "/wiki/" >}}Aliens) with its high-accuracy [Turrets]({{< ref "/wiki/" >}}Turrets).
 
-## Version History 
+## Version History
 
 - Added in update .65a6.
 - Max Hull reduced from 600 to 500, Turn speed reduced from .6 to .55, Cannon barrels reduced from 5 to 3 in version .65b

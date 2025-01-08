@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/The-Last-Signal
+  - /wiki/The-Last-Signal
 categories:
-- Quests
-- NPCS
+  - Quests
+  - NPCS
 title: The Last Signal
----  
+---
 
-{{< notices/removed >}} 
+{{< notices/removed >}}
 
-**_The Last Signal_** is a quest NPC first implemented alongside [The Nautilus]({{< ref "/wiki/" >}}Nautilus) Wreck to give players the Kneall Core. 
+**_The Last Signal_** is a quest NPC first implemented alongside [The Nautilus]({{< ref "/wiki/" >}}Nautilus) Wreck to give players the Kneall Core.
 
 ## Description
 
@@ -34,7 +34,7 @@ The **Nautilus Wreck** can be found somewhere around the [Mega Base]({{< ref "/w
 To find it, you must first find the [Punisher]({{< ref "/wiki/" >}}Punisher) wreck at the bottom of the Wreckages, then find a [Swarmer]({{< ref "/wiki/" >}}Swarmer) beside it, then find the direction of the [Swarmer]({{< ref "/wiki/" >}}Swarmer) where it is pointing at the Nautilus Wreck at its backside with its wrecked thrusters. Then travel 10k in the direction from where the back of the [Swarmer]({{< ref "/wiki/" >}}Swarmer) is facing. _(Note that the Nautilus Wreck is quite challenging to spot even with this guide)_ ![centre|Video guide on the location of the Nautilus
 Wreck.](KneallCoreGuide.mp4 "centre|Video guide on the location of the Nautilus Wreck.") _Note that to understand the video more easily, read the written guide first._
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Nautilus Wreck]: "[STARTING]"</span>
 

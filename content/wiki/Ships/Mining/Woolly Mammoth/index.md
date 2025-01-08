@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Woolly-Mammoth
+  - /wiki/Woolly-Mammoth
 categories:
-- Ships
-- Mining Ships
-- Limited Ships
-- Christmas Event 2017
-- Reskins
+  - Ships
+  - Mining Ships
+  - Limited Ships
+  - Christmas Event 2017
+  - Reskins
 title: Woolly Mammoth
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The**_Woolly Mammoth_** is a reskin of the [Mammoth]({{< ref "/wiki/" >}}Mammoth). 
+The**_Woolly Mammoth_** is a reskin of the [Mammoth]({{< ref "/wiki/" >}}Mammoth).
 
 ## Description
 
@@ -49,7 +49,7 @@ The interior of the **Woolly Mammoth**is the same as the original [Mammoth]({{< 
 - It's imperative that you watch the [Minimap]({{< ref "/wiki/" >}}Minimap) if mining on a private server or public server, as a couple of [Swarmers]({{< ref "/wiki/" >}}Swarmer) could end you.
 - If you can, [Mine]({{< ref "/wiki/" >}}Mining) on a [Private Server]({{< ref "/wiki/" >}}Galaxy-VIP-Servers); this way, [Pirates]({{< ref "/wiki/" >}}Pirating) can't disrupt your mining sessions.
 
-## Version History 
+## Version History
 
 - It received a buff which replaced 8 [Small Mining Lasers]({{< ref "/wiki/" >}}Turrets) with 4 [Medium Mining Lasers]({{< ref "/wiki/" >}}Turrets).
 - Received a buff which added 4 [Tiny Mining Lasers]({{< ref "/wiki/" >}}Turrets); as of the buff, the **Woolly Mammoth** is the first of 2 ships to have [Tiny Mining Lasers]({{< ref "/wiki/" >}}Turrets), with the [Harvester]({{< ref "/wiki/" >}}Harvester) being the second.

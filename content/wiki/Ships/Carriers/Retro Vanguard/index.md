@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Retro-Vanguard
+  - /wiki/Retro-Vanguard
 categories:
-- Ships
-- Limited Ships
-- Carriers
-- Retro Ship Event 2024
+  - Ships
+  - Limited Ships
+  - Carriers
+  - Retro Ship Event 2024
 title: Retro Vanguard
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The Retro Vanguard is an Event Carrier for the [Retro Ship Event 2024]({{< ref "/wiki/" >}}Retro-Ship-Event-2024). 
+The Retro Vanguard is an Event Carrier for the [Retro Ship Event 2024]({{< ref "/wiki/" >}}Retro-Ship-Event-2024).
 
 ## Description
 
@@ -45,6 +45,6 @@ The Retro Vanguard is an Event Carrier for the [Retro Ship Event 2024]({{< ref "
 - Try To avoid AA ships such as [Ampharos]({{< ref "/wiki/" >}}Ampharos), [Tempest]({{< ref "/wiki/" >}}Tempest), [Aedes]({{< ref "/wiki/" >}}Aedes) and [Oblivion]({{< ref "/wiki/" >}}Oblivion) as much as possible, as their AA can deal a lot of damage to you.
 - Use its small size on the minimap to your advantage by surprise attacking players.
 
-## Version History 
+## Version History
 
 - Added to the game in .77d29.

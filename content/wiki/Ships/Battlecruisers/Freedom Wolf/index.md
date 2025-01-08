@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Freedom-Wolf
+  - /wiki/Freedom-Wolf
 categories:
-- Ships
-- Limited Ships
-- Reskins
-- Battlecruisers
-- Fourth of July 2021
+  - Ships
+  - Limited Ships
+  - Reskins
+  - Battlecruisers
+  - Fourth of July 2021
 title: Freedom Wolf
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **Freedom Wolf** is a [Battlecruiser]({{< ref "/categories/" >}}battlecruisers) released for the [Galaxy 4th of July event]({{< ref "/categories/" >}}fourth-of-july-2021) 
+The **Freedom Wolf** is a [Battlecruiser]({{< ref "/categories/" >}}battlecruisers) released for the [Galaxy 4th of July event]({{< ref "/categories/" >}}fourth-of-july-2021)
 
 ## Description
 
@@ -42,7 +42,7 @@ The Interior of the **Freedom Wolf** is the same as that of the Dire Wolf.
 - Stay under and behind the enemy, as that's where you can use your armament most effectively.
 - This don't let the enemy get this position on you, as they can exploit your blind spots.
 
-## Version History 
+## Version History
 
 - Removed from the game along with a majority of Limited recolors in version .75a5.
 

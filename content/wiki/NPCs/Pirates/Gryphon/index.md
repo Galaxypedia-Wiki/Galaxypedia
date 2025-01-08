@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Gryphon
+  - /wiki/Gryphon
 categories:
-- Ships
-- PVP Ships
-- Support Ships
-- Pirate Ships
+  - Ships
+  - PVP Ships
+  - Support Ships
+  - Pirate Ships
 title: Gryphon
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Gryphon_** is a [**Cruiser**]({{< ref "/wiki/" >}}:category:cruiser)with amazing mobility,suited for dog-fighting and pest control.
 
@@ -45,7 +45,7 @@ The side ladder leads to the underside, with a small hallway leading to both end
 - Don't engage in a head-to-head fight with [Battlecruisers]({{< ref "/categories/" >}}battlecruisers) and up, instead strafe around them or fight in numbers.
 - Use your agility to attack [Frigates]({{< ref "/categories/" >}}frigates), [Destroyers]({{< ref "/categories/" >}}destroyers) and other [Cruisers]({{< ref "/categories/" >}}cruisers) using your [Medium Flak Cannons]({{< ref "/wiki/" >}}Turrets) to chip their health.
 
-## Version History 
+## Version History
 
 - In version .65a6, its [Dual Gatlings]({{< ref "/wiki/" >}}Turrets) were replaced by [Medium Flaks]({{< ref "/wiki/" >}}Turrets).
 - Max [Shield]({{< ref "/wiki/" >}}Shields) and [Hull]({{< ref "/wiki/" >}}Hull) increased from 700/925 to 1000/1000, [Medium Flak Cannon]({{< ref "/wiki/" >}}Turrets) count increased from 2 to 3 in version .65b

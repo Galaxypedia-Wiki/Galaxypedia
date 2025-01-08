@@ -1,25 +1,25 @@
 ---
 aliases:
-- /wiki/Frozen-MLRS
-- /wiki/Frozen-MRLS-Launcher
+  - /wiki/Frozen-MLRS
+  - /wiki/Frozen-MRLS-Launcher
 categories:
-- Limited Ships
-- Reskins
-- Battlecruisers
-- Siege Ships
-- Christmas Event 2018
-- Quests
-- Ships
-- PVP Ships
-- Support Ships
+  - Limited Ships
+  - Reskins
+  - Battlecruisers
+  - Siege Ships
+  - Christmas Event 2018
+  - Quests
+  - Ships
+  - PVP Ships
+  - Support Ships
 title: Frozen MLRS
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Frozen MRLS_** is a [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018) variant of the [MLRS]({{< ref "/wiki/" >}}MLRS). 
+The **_Frozen MRLS_** is a [Christmas Event 2018]({{< ref "/wiki/" >}}Christmas-Event-2018) variant of the [MLRS]({{< ref "/wiki/" >}}MLRS).
 
 ## Description
 
@@ -48,7 +48,7 @@ The ship's interior consists of a single seat and some holograms in the middle o
 - Just like its normal counterpart, the [MLRS]({{< ref "/wiki/" >}}MLRS), it's useful in sieges with other siege ships such as the [Ridgebreaker]({{< ref "/wiki/" >}}Ridgebreaker).
 - Use your [Light Turrets]({{< ref "/wiki/" >}}Turrets) to defend yourself from small ships.
 
-## Version History 
+## Version History
 
 - Added in .65b.
 - [Torpedo]({{< ref "/wiki/" >}}Spinals) sizes increased to [Medium Torpedoes]({{< ref "/wiki/" >}}Spinals) later in .65b.

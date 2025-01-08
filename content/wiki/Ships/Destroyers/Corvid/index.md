@@ -1,18 +1,18 @@
 ---
 aliases:
-- /wiki/Corvid
+  - /wiki/Corvid
 categories:
-- Ships
-- Destroyers
-- Pirate Ships
-- PVP Ships
-- Support Ships
+  - Ships
+  - Destroyers
+  - Pirate Ships
+  - PVP Ships
+  - Support Ships
 title: Corvid
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Corvid_** is a relatively large [Turret]({{< ref "/wiki/" >}}Turrets)-based hull breaker [**Destroyer**]({{< ref "/categories/" >}}destroyers). 
+The **_Corvid_** is a relatively large [Turret]({{< ref "/wiki/" >}}Turrets)-based hull breaker [**Destroyer**]({{< ref "/categories/" >}}destroyers).
 
 ## Description
 
@@ -46,7 +46,7 @@ The entrance in the back leads to short hallway, eventually ending at the pilot'
 - In a fleet, help your teammates finish off hulled ships.
 - If you are a lower score, this ship may be a bit expensive for you, so warp away when you are hulled. Because of your balanced shield / hull ratio, your hull should be able to resist the damage while you charge your warp.
 
-## Version History 
+## Version History
 
 - The **Corvid** got a buff with extra Turrets and a lower cost in an unknown version.
 - 2 Light Flak Cannons got changed to 2 Light Gatling Cannons in version .62_dbg03.

@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Absolution
+  - /wiki/Absolution
 categories:
-- Battlecruisers
-- Ships
-- PVP Ships
-- Pirate Ships
-- Support Ships
-- All-Rounder Ships
+  - Battlecruisers
+  - Ships
+  - PVP Ships
+  - Pirate Ships
+  - Support Ships
+  - All-Rounder Ships
 title: Absolution
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Absolution_** is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** with unique ship design and powerful [Spinals]({{< ref "/wiki/" >}}Spinals).  
+The **_Absolution_** is a **[Battlecruiser]({{< ref "/categories/" >}}battlecruisers)** with unique ship design and powerful [Spinals]({{< ref "/wiki/" >}}Spinals).
 
 ## Description 
 
@@ -45,7 +45,7 @@ The interior is largely inaccessible and is hard to make out what is inside, due
 - Attack from below other ships if you can. Your mobility should allow you to stay below most ships.
 - Utilize your powerful [Large Cannons]({{< ref "/wiki/" >}}Spinals) to maximize damage.
 
-## Version History 
+## Version History
 
 - Nerfed in .58b---lost 350 shield.
 - Buffed in the Battlecruiser Rebalance (version .64d), gained 800 shield.

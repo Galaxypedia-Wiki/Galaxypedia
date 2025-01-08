@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Stealth-Recon
+  - /wiki/Stealth-Recon
 categories:
-- Ships
-- Destroyers
-- Stealth Ships
+  - Ships
+  - Destroyers
+  - Stealth Ships
 title: Stealth Recon
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Stealth Recon_** is a stealth [destroyer]({{< ref "/categories/" >}}destroyers) that is the smallest ship to be equipped with a sniper turret. 
+The **_Stealth Recon_** is a stealth [destroyer]({{< ref "/categories/" >}}destroyers) that is the smallest ship to be equipped with a sniper turret.
 
 ## Overview
 
@@ -52,7 +52,7 @@ There is no interior, it is simply a seat that can be accessed from a hatch on t
 - Use in swarms to slowly yet effectively siege enemy planets or [Starbase]({{< ref "/wiki/" >}}Starbase)[s]({{< ref "/wiki/" >}}Starbase) by utilizing the sniper turret's long range of 7,000 studs.
 - Whenever you must make an escape from combat; Warp far into empty space _(but not near the map borders)_ to make your position unpredictable to any enemies that may try to chase you. Note that this strategy may not work well if there is a spy on your team.
 
-## Version History 
+## Version History
 
 - Gained a second tiny torpedo in version .75a5
 

@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Cyclops
+  - /wiki/Cyclops
 categories:
-- Ships
-- Dreadnoughts
-- Siege Ships
-- Hull breakers
+  - Ships
+  - Dreadnoughts
+  - Siege Ships
+  - Hull breakers
 title: Cyclops
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
-The **_Cyclops_** is a siege-focused[ **Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) that is primarily focused on hull damage. 
+The **_Cyclops_** is a siege-focused[ **Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) that is primarily focused on hull damage.
 
 ## Description
 
@@ -42,7 +42,7 @@ When you first enter the interior using a teleporter on the back, you are greete
 - Try and find an ally with a [Zeus]({{< ref "/wiki/" >}}Zeus) or [Sagittarius]({{< ref "/wiki/" >}}Sagittarius) as the combination will rip through both Shield and Hull.
 - Can be used to fend off other Dreadnoughts in an anti-siege. The starbase will cripple enemy shields, letting this ship decimate the weakened attackers with its high hull damage.
 
-## Version history 
+## Version history
 
 - It received a buff to its [Spinals]({{< ref "/wiki/" >}}Spinals) so that it fires 3 shots instead of just 1.
 - Received a remodel to its interior in .60d1 that gave it an additional second floor.

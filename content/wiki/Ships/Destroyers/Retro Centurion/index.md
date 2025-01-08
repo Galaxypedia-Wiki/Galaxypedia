@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Retro-Centurion
+  - /wiki/Retro-Centurion
 categories:
-- Ships
-- Destroyers
-- Retro Ship Event 2020
-- Siege Ships
-- Support Ships
-- Hull breakers
+  - Ships
+  - Destroyers
+  - Retro Ship Event 2020
+  - Siege Ships
+  - Support Ships
+  - Hull breakers
 title: Retro Centurion
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Retro Centurion_** is a limited replica of the original [**Destroyer-Class**]({{< ref "/categories/" >}}destroyers) [Centurion]({{< ref "/wiki/" >}}Centurion) added during the [Retro Ship Event 2020]({{< ref "/wiki/" >}}Retro-Ship-Event-2020). 
+The **_Retro Centurion_** is a limited replica of the original [**Destroyer-Class**]({{< ref "/categories/" >}}destroyers) [Centurion]({{< ref "/wiki/" >}}Centurion) added during the [Retro Ship Event 2020]({{< ref "/wiki/" >}}Retro-Ship-Event-2020).
 
 ## Description
 
@@ -49,7 +49,7 @@ The interior of the **Retro Centurion **is made up of two rooms, with one room
 - Avoid ships with high-accuracy [Turrets]({{< ref "/wiki/" >}}Turrets) like the [Ampharos]({{< ref "/wiki/" >}}Ampharos), as they will shred you.
 - Finish off crippled targets with your high hull damage.
 
-## Version History 
+## Version History
 
 - No logged changes.
 

@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Lucifer
+  - /wiki/Lucifer
 categories:
-- Limited Ships
-- Super Capital Ships
-- Ships
-- Halloween 2019
-- PVP Ships
-- Siege Ships
+  - Limited Ships
+  - Super Capital Ships
+  - Ships
+  - Halloween 2019
+  - PVP Ships
+  - Siege Ships
 title: Lucifer
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/superCapitalShip >}}   
+{{< notices/superCapitalShip >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 **_Lucifer_** is a [Super Capital ship]({{< ref "/categories/" >}}super-capital-ships) that is part of the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019).
 
@@ -36,7 +36,7 @@ The **Lucifer** is a long, massive [Super Capital Ship]({{< ref "/categories/" >
 
 The Lucifer shares the same Interior as the [Azreal]({{< ref "/wiki/" >}}Azreal) and [Abaddon]({{< ref "/wiki/" >}}Abaddon), with a black, foggy hallway, being the only difference is the color. At the front, there is a purple glowing orb with electricity coming out of it, and in front of it there is purple text that says
 
-<span style="color:#b708ff">*"**_PALADIN OMEN ONLINE_**".*</span>
+<span style="color:#b708ff">_"***PALADIN OMEN ONLINE***"._</span>
 
 <s>_Note that it's ambience is extremely faint and may need to max your volume in order to hear it._</s> (Now only relevant for the old ambience file in the Trivia section at the bottom of the page.)
 
@@ -77,7 +77,7 @@ The Lucifer shares the same Interior as the [Azreal]({{< ref "/wiki/" >}}Azreal)
 - If you think your ship will be destroyed, Warp your ship away as **far as possible** from your own fleet or [Starbase]({{< ref "/categories/" >}}starbases) as the nuke has a whopping radius of 15000 studs, and if possible, you can warp to the enemies' fleet and get close to more expensive enemy ships or [Starbase]({{< ref "/categories/" >}}starbases) to bring the nuke there instead.
 - It is highly recommended to record this ship every time you use it in case you lose it for unfair reasons due to the price.
 
-## Version History 
+## Version History
 
 - Added in the [Halloween Event 2019]({{< ref "/wiki/" >}}Halloween-Event-2019) in version .66b.
 - DPS reduced by 5% in version .66b.

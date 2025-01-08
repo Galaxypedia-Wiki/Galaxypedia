@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Scimitar
+  - /wiki/Scimitar
 categories:
-- Ships
-- Destroyers
-- Support Ships
-- PVP Ships
+  - Ships
+  - Destroyers
+  - Support Ships
+  - PVP Ships
 title: Scimitar
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Scimitar_** is a **[Destroyer]({{< ref "/categories/" >}}destroyers)** Class ship commonly used as an interceptor against large targets.
 
@@ -43,7 +43,7 @@ The interior of the **Scimitar** consists of two small, glass-covered areas with
 - If used in a swarm it is possible to siege star bases using its speed and maneuverability.
 - One of the ships utilized in the notorious infern spinal TP, despawn if you see this happening.
 
-## Version History 
+## Version History
 
 - Its description received a minor rewrite between versions .46 and .48.
 - Max speed increased to 230 from 210 in .65b

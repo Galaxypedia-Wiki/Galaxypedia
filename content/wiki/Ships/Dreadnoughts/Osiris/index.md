@@ -1,20 +1,20 @@
 ---
 aliases:
-- /wiki/Osiris
+  - /wiki/Osiris
 categories:
-- Ships
-- Capital Ships
-- Dreadnoughts
-- Advanced Ships
-- PVP Ships
-- All-Rounder Ships
-- Broadsides
+  - Ships
+  - Capital Ships
+  - Dreadnoughts
+  - Advanced Ships
+  - PVP Ships
+  - All-Rounder Ships
+  - Broadsides
 title: Osiris
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/advancedShip >}} 
+{{< notices/advancedShip >}}
 
 The **_Osiris_** is a powerful [Advanced]({{< ref "/categories/" >}}advanced-ships) [**Dreadnought**]({{< ref "/categories/" >}}dreadnoughts) with powerful Turret Firepower.
 
@@ -71,7 +71,7 @@ The **Interior** is a large room with the Pilot seat in the middle surrounded by
 - Be extremely careful during war, due to this ship's cost it is a large target for groups to suddenly attack.
 - Similar to the [Slipstream]({{< ref "/wiki/" >}}Slipstream) a group of 3 **Osiris**' can easily shred any dreadnoughts, and destroy most supercapitals.
 
-## Version History 
+## Version History
 
 - Released in version .64a
 - 2 [Dual Medium Cannons]({{< ref "/wiki/" >}}Turrets) replaced with 2 [Medium Advanced Autolasers]({{< ref "/wiki/" >}}Turrets) in version .64f, one light [Advanced Autocannon]({{< ref "/wiki/" >}}Turrets) added.

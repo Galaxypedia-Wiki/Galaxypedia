@@ -1,15 +1,15 @@
 ---
 aliases:
-- /wiki/Frog
+  - /wiki/Frog
 categories:
-- Admin Ships
-- Ships
+  - Admin Ships
+  - Ships
 title: Frog
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **Frog** is an [**Admin Ship**]({{< ref "/categories/" >}}admin-ships) that has no collision.
 
@@ -37,7 +37,7 @@ No interior; its pilot seat is hidden and non-collidable.
 
 - Become frog, fly through walls and into bases.
 
-## Version History 
+## Version History
 
 - Added in .73f19
 

@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Pirates
+  - /wiki/Pirates
 categories:
-- NPC Ships
-- Pirate Ships
+  - NPC Ships
+  - Pirate Ships
 title: Pirates
----_This article is about the NPCs, not to be confused with [the Player's Behaviour.]({{< ref "/wiki/" >}}Pirating)_
+---
+
+_This article is about the NPCs, not to be confused with [the Player's Behaviour.]({{< ref "/wiki/" >}}Pirating)_
 
 ## Description
 
@@ -14,7 +16,7 @@ Pirates are one of the only two enemy AI Factions in the game, the other being t
 - Pirate ships show up with dark red color on the [Minimap]({{< ref "/wiki/" >}}Minimap).
 - Pirate ships are not affiliated with any official factions in the game and mostly use variants of Player owned ships.
 
-## Pirate Fleet 
+## Pirate Fleet
 
 The Pirate ships that currently spawn naturally are the following:
 
@@ -33,7 +35,7 @@ The Pirate ships that currently don't spawn naturally are the following:
 - Pirate ships that are [Dreadnought]({{< ref "/categories/" >}}dreadnoughts)-class or larger have the ability to call all pirate currently in the map to their aid, with the exception of [X-0]({{< ref "/wiki/" >}}X-0).
 - The Strategies on how to beat them can be found in their respective ship pages.
 
-## Ship Stats 
+## Ship Stats
 
 Pirate Ships tend to have more hull health and focus on hull damage.
 
@@ -45,11 +47,11 @@ Pirate Ship Shield Hull Top Spd. Accel. Turn Spd. Turret DPS Spinal DPS Explosio
 
 ---
 
-_[Dragoon]({{< ref "/wiki/" >}}Dragoon)_       0  4 Minutes (Random) No _[Avenger]({{< ref "/wiki/" >}}Avenger)_         Doesn't Spawn Unknown _[Jormungand]({{< ref "/wiki/" >}}Jormungand)_         10 Minutes (Random) No _[Scowling]({{< ref "/wiki/" >}}Scowling)_         Doesn't Spawn No _[X-0]({{< ref "/wiki/" >}}X-0)_      0 0  60 Minutes (Random) Yes _[Galleon]({{< ref "/wiki/" >}}Galleon)_         70 Minutes No _[Kodiak]({{< ref "/wiki/" >}}Kodiak)_         120 Minutes Yes
+_[Dragoon]({{< ref "/wiki/" >}}Dragoon)_ 0 4 Minutes (Random) No _[Avenger]({{< ref "/wiki/" >}}Avenger)_ Doesn't Spawn Unknown _[Jormungand]({{< ref "/wiki/" >}}Jormungand)_ 10 Minutes (Random) No _[Scowling]({{< ref "/wiki/" >}}Scowling)_ Doesn't Spawn No _[X-0]({{< ref "/wiki/" >}}X-0)_ 0 0 60 Minutes (Random) Yes _[Galleon]({{< ref "/wiki/" >}}Galleon)_ 70 Minutes No _[Kodiak]({{< ref "/wiki/" >}}Kodiak)_ 120 Minutes Yes
 
 : Pirate Ships
 
-## Freedom Base Pirates 
+## Freedom Base Pirates
 
 <span class="mw-customtoggle-myDivision"><u>**Click here to read about this.**</u></span>
 
@@ -61,7 +63,7 @@ The Pirate [Osprey]({{< ref "/wiki/" >}}Osprey) was removed to make it a bit eas
 
 </div>
 
-## Version History 
+## Version History
 
 - Version _???_ added a new Pirate Boss; The [Kodiak]({{< ref "/wiki/" >}}Kodiak) spawned by during the "Dining in Hell" and "Depthbreaker" quest paths, and later spawned naturally.
 - Version _???_ saw the Valentine's Day 2021, which spawned pirate ships; the Pirate [Heartbreaker]({{< ref "/wiki/" >}}Heartbreaker), and Pirate [Hearteater]({{< ref "/wiki/" >}}Hearteater).

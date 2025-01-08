@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Practice-Drone
+  - /wiki/Practice-Drone
 categories:
-- NPC Ships
-- Ships
+  - NPC Ships
+  - Ships
 title: Practice Drone
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/npcShip >}} 
+{{< notices/npcShip >}}
 
-The **_Practice Drone_** is an [**AI**]({{< ref "/categories/" >}}npc-ships) drone that can be spawned in the [Mega Base]({{< ref "/wiki/" >}}Mega-Base). 
+The **_Practice Drone_** is an [**AI**]({{< ref "/categories/" >}}npc-ships) drone that can be spawned in the [Mega Base]({{< ref "/wiki/" >}}Mega-Base).
 
 ## Description
 

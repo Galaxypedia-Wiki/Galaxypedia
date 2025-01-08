@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Flea
+  - /wiki/Flea
 categories:
-- Ships
-- Limited Ships
-- Battlecruisers
-- Christmas Event 2021
-- Siege Ships
-- Avellians= Ships and Stations
+  - Ships
+  - Limited Ships
+  - Battlecruisers
+  - Christmas Event 2021
+  - Siege Ships
+  - Avellians= Ships and Stations
 title: Flea
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **Flea** is a Battlecruiser that is part of the [2021 Christmas Event]({{< ref "/wiki/" >}}Christmas-Event-2021).
 
@@ -50,7 +50,7 @@ The interior is nothing more than a box with a pilot seat.
 - Use your speed, size and health to kite larger ships while continuously slamming them with torpedoes.
 - Speed up to top speed before warping in order to come out of warp at full speed, avoiding the need to take hits while waiting for this ship to slowly climb to max speed in battle.
 
-## Version History 
+## Version History
 
 - Basic interior added in .75a3.
 - Removed from the game in version .75a10(**?**) due to archived meshes (broken visual model).

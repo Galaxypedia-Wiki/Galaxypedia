@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Halloween-Event-2020
+  - /wiki/Halloween-Event-2020
 categories:
-- Events
+  - Events
 title: Halloween Event 2020
----<div class="cardcontainer" style="font-size:15px; line-height:24px">
+---
+
+<div class="cardcontainer" style="font-size:15px; line-height:24px">
 
 The **2020 Halloween Event** started on October 15^th^ and ran until November 22^nd^. Marked as version .69b1, Part 1 of the update added 4 new ships, a Halloween themed Mega Base model, the [Necromancer]({{< ref "/wiki/" >}}Necromancer) boss, [Alien Servs]({{< ref "/wiki/" >}}Alien-Serv), [Alien Scourges]({{< ref "/wiki/" >}}Alien-Scourge), [Gamma Pumpkins]({{< ref "/wiki/" >}}Gamma-Pumpkin) and other hidden changes. Part 2 added [The Rift]({{< ref "/wiki/" >}}The-Rift) and 2 new mini-bosses, [Rift Guardians]({{< ref "/wiki/" >}}Rift-Guardian) and Rift Custodians, as well as 4 new quest ships. Part 3 added 2 more new quest ships, the [Blackgate]({{< ref "/wiki/" >}}Blackgate) and [Incarnate]({{< ref "/wiki/" >}}Incarnate).
 

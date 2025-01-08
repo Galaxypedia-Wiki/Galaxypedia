@@ -1,19 +1,19 @@
 ---
 aliases:
-- /wiki/Retro-Nyx
+  - /wiki/Retro-Nyx
 categories:
-- Ships
-- Carriers
-- Retro Ship Event 2021
-- Limited Ships
+  - Ships
+  - Carriers
+  - Retro Ship Event 2021
+  - Limited Ships
 title: Retro Nyx
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
-The **_Retro Nyx_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [**Carrier**]({{< ref "/categories/" >}}carriers) added during the [Retro Ship Event 2021]({{< ref "/wiki/" >}}Retro-Ship-Event-2021). 
+The **_Retro Nyx_** is a [Limited]({{< ref "/categories/" >}}limited-ships) [**Carrier**]({{< ref "/categories/" >}}carriers) added during the [Retro Ship Event 2021]({{< ref "/wiki/" >}}Retro-Ship-Event-2021).
 
 ## Description
 
@@ -56,7 +56,7 @@ The **Fighter Bay** is a long hangar housing 8 [Nyxesion]({{< ref "/wiki/" >}}Ny
 - Warp in, release fighters, then immediately warp back to your strongest starbase.
 - Extremely powerful in taking down NPC Bosses.
 
-## Version History 
+## Version History
 
 - Turnspeed reduced from 0.25 to 0.17, Health reduced from 16500/14500 to 13500/12000 in version .73a3
 - Retro Heavy Laser count reduced from 3 to 2 in version .73a3.

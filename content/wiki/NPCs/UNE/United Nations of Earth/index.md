@@ -1,12 +1,14 @@
 ---
 aliases:
-- /wiki/United-Nations-of-Earth
+  - /wiki/United-Nations-of-Earth
 categories:
-- Galaxy Lore Pages
-- U.N.E
-- NPC Ships
+  - Galaxy Lore Pages
+  - U.N.E
+  - NPC Ships
 title: United Nations of Earth
----![The U.N.E. Flag]({{< ref "/wiki/" >}}UNE-FLAG.png-"The-U.N.E.-Flag"){width="432" height="432"}
+---
+
+![The U.N.E. Flag]({{< ref "/wiki/" >}}UNE-FLAG.png-"The-U.N.E.-Flag"){width="432" height="432"}
 
 ## Description
 
@@ -27,15 +29,15 @@ New players who have just started playing Galaxy will be automatically be joined
 - _<s>U.N.E Starbases can assimilate NPC Bases but **NOT** Player Starbases.</s> Changed in an unknown version, Player bases **CAN** be assimilated now_
 - _<s>Strangely, the U.N.E Starbase can be assimilated, given enough territory from a faction, this also allows the faction to own the U.N.E AI ships, meaning that at war they can attack and players can attack them back.</s> Changed in an unknown version, Can't be assimilated anymore._
 
-## U.N.E Fleet 
+## U.N.E Fleet
 
-The U.N.E ships that currently spawn naturally are the following:      The U.N.E ships that currently don't spawn naturally are the following: 
+The U.N.E ships that currently spawn naturally are the following: The U.N.E ships that currently don't spawn naturally are the following:
 
 - Small [Chimera-S]({{< ref "/wiki/" >}}Chimera-S) ships spawn in groups of 3-5 at random locations on the map.
 - Capital U.N.E ships used to spawn and patrol at the [U.N.E Starbase]({{< ref "/wiki/" >}}U.N.E-Starbase) and the [Mega Base]({{< ref "/wiki/" >}}Mega-Base).
 - All U.N.E ships, from the [Chimera-S]({{< ref "/wiki/" >}}Chimera-S), all the way to the [U.N.E Subjugator]({{< ref "/wiki/" >}}U.N.E-Subjugator) have the ability to call all U.N.E Ships currently in the map to their aid, and can target [Alien]({{< ref "/wiki/" >}}Aliens) [Starbases]({{< ref "/categories/" >}}starbases) and [Planets]({{< ref "/categories/" >}}planets).
 
-## Ship Stats 
+## Ship Stats
 
 U.N.E Ships tend to focus on shield damage.
 
@@ -43,11 +45,11 @@ U.N.E Ship Shield Hull Top Spd. Accel. Turn Spd. Turret DPS Spinal DPS Explosion
 
 ---
 
-_[Chimera-S]({{< ref "/wiki/" >}}Chimera-S)_       0  Spawns in groups _[Orion-X]({{< ref "/wiki/" >}}Orion-X)_         Spawns in groups _[U.N.E. Nisos]({{< ref "/wiki/" >}}U.N.E.-Nisos)_         Spawns _[Sovereign-X]({{< ref "/wiki/" >}}Sovereign-X)_         Doesn't Spawn _[Judgement]({{< ref "/wiki/" >}}Judgement)_       0  Spawns _[U.N.E Subjugator]({{< ref "/wiki/" >}}UNE-Subjugator)_       0  Doesn't Spawn
+_[Chimera-S]({{< ref "/wiki/" >}}Chimera-S)_ 0 Spawns in groups _[Orion-X]({{< ref "/wiki/" >}}Orion-X)_ Spawns in groups _[U.N.E. Nisos]({{< ref "/wiki/" >}}U.N.E.-Nisos)_ Spawns _[Sovereign-X]({{< ref "/wiki/" >}}Sovereign-X)_ Doesn't Spawn _[Judgement]({{< ref "/wiki/" >}}Judgement)_ 0 Spawns _[U.N.E Subjugator]({{< ref "/wiki/" >}}UNE-Subjugator)_ 0 Doesn't Spawn
 
 : U.N.E Ships
 
-## Version History 
+## Version History
 
 - Version .69 saw the addition of the [U.N.E Starbase]({{< ref "/wiki/" >}}U.N.E-Starbase), and multiple U.N.E Capital Ships; The [Sovereign-X]({{< ref "/wiki/" >}}Sovereign-X), [The U.N.E Nisos]({{< ref "/wiki/" >}}Nisos) and The [U.N.E Subjugator]({{< ref "/wiki/" >}}U.N.E-Starbase).
 - Version .75a10 saw the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event), in which U.N.E Capital ships could spawn naturally. These ships were around until the conclusion of the [Kneall Event]({{< ref "/wiki/" >}}Kneall-Event).

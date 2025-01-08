@@ -1,24 +1,24 @@
 ---
 aliases:
-- /wiki/Maple-Orca
+  - /wiki/Maple-Orca
 categories:
-- Limited Ships
-- Reskins
-- Mining Ships
-- Ships
-- Fourth of July 2021
+  - Limited Ships
+  - Reskins
+  - Mining Ships
+  - Ships
+  - Fourth of July 2021
 title: Maple Orca
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/underConstruction >}}   
+{{< notices/underConstruction >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 h
 
-The **Maple Orca** is a Limited Reskin of the [Orca]({{< ref "/wiki/" >}}Orca) 
+The **Maple Orca** is a Limited Reskin of the [Orca]({{< ref "/wiki/" >}}Orca)
 
 ## Description
 
@@ -47,7 +47,7 @@ The Maple Orca is one of the only Miners in the game to feature a proper interio
 
 Don't use this ship in war whatsoever; This is a Limited ship which is very very expensive, it should not be used in war or it will be destroyed. In addition, do not use this ship in a server with an admin event or any threat to your ship.
 
-## Version History 
+## Version History
 
 - Uranium cost increased from 2000 to 4000 shortly after being released, then reduced to 1954 a few hours later.
 - Was released on limited permit build menu for a Class B Permit in version .73b1.

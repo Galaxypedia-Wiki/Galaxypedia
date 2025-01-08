@@ -1,22 +1,22 @@
 ---
 aliases:
-- /wiki/Sentaliz
+  - /wiki/Sentaliz
 categories:
-- Battleships
-- PVP Ships
-- VIP Ships
-- Pirate Ships
-- Ships
-- Support Ships
-- Capital Ships
+  - Battleships
+  - PVP Ships
+  - VIP Ships
+  - Pirate Ships
+  - Ships
+  - Support Ships
+  - Capital Ships
 title: Sentaliz
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/vipShip >}} 
+{{< notices/vipShip >}}
 
-The **_Sentaliz_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-based PvP **[Battleship]({{< ref "/categories/" >}}battleships)**. 
+The **_Sentaliz_** is a [Spinal]({{< ref "/wiki/" >}}Spinals)-based PvP **[Battleship]({{< ref "/categories/" >}}battleships)**.
 
 ## Description
 
@@ -55,7 +55,7 @@ The interior of this ship is quite simple, with a blue metal pilot's seat and a 
 - Watch out for small ships, as the [Viper]({{< ref "/wiki/" >}}Viper) and [Draco]({{< ref "/wiki/" >}}Draco), as they have the ability to dodge your lasers.
 - Combining the speed and the [Small Torpedoes]({{< ref "/wiki/" >}}Spinals), this ship proves to be effective at supporting [Sieges]({{< ref "/wiki/" >}}Sieging) on Starbases and Planets.
 
-## Version history 
+## Version history
 
 - At one point<span> the two turrets (1 [Light Laser]({{< ref "/wiki/" >}}Turrets) and 1 [Light Flak]({{< ref "/wiki/" >}}Turrets)) were removed as the ship was too overpowered, but they were added back, then replaced by two [Light Gatling Cannons]({{< ref "/wiki/" >}}Turrets).</span>
 - The original arsenal was 2 [Large Phasers]({{< ref "/wiki/" >}}Spinals), 4 [Large Cannons]({{< ref "/wiki/" >}}Spinals), and a [Light Laser]({{< ref "/wiki/" >}}Turrets), but it was changed for being too powerful.

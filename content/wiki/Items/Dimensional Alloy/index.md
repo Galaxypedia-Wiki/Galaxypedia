@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Dimensional-Alloy
+  - /wiki/Dimensional-Alloy
 categories:
-- Items
+  - Items
 title: Dimensional Alloy
----The **Dimensional Alloy** is a special item used for making powerful ships via [Quests]({{< ref "/categories/" >}}quests) or the [Build Menu]({{< ref "/wiki/" >}}Build-Menu).
+---
+
+The **Dimensional Alloy** is a special item used for making powerful ships via [Quests]({{< ref "/categories/" >}}quests) or the [Build Menu]({{< ref "/wiki/" >}}Build-Menu).
 
 Dimensional Alloys can only be obtained by completing the [Dimensional Cache]({{< ref "/wiki/" >}}Dimensional-Cache) Quest.
 

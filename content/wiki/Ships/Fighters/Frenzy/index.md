@@ -1,14 +1,14 @@
 ---
 aliases:
-- /wiki/Frenzy
+  - /wiki/Frenzy
 categories:
-- Fighters
-- Ships
-- Support Ships
+  - Fighters
+  - Ships
+  - Support Ships
 title: Frenzy
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The**_Frenzy_** is a [Fighter-class ship]({{< ref "/wiki/" >}}:category:fighters) modeled after the Fury.
 
@@ -40,7 +40,7 @@ The **Frenzy**'s interior is the exact same as the [Fury's]({{< ref "/wiki/" >}}
 - If you're in a faction with 4+ members, use the frenzy to take down bigger [ships]({{< ref "/wiki/" >}}ships).
 - Stay in the blindspot of enemy [ships]({{< ref "/wiki/" >}}ships) to escape being damaged.
 
-## Version History 
+## Version History
 
 - Received a remodel sometime during version .61.
 - Received a remodel in version .66b

@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Richard-Kavar
+  - /wiki/Richard-Kavar
 categories:
-- Quests
-- NPCS
+  - Quests
+  - NPCS
 title: Richard Kavar
----**Richard Kavar** is the quest giver NPC for Quest #9 -- "Crazy Secret".
+---
+
+**Richard Kavar** is the quest giver NPC for Quest #9 -- "Crazy Secret".
 
 ## Description
 
@@ -15,13 +17,13 @@ title: Richard Kavar
 
 Richard Kavar can be found inside a "secret" research lab inside [Myriad's]({{< ref "/wiki/" >}}Myriad) moon, Duna'kaé. The quest is never locked and has no prerequisites other than having some form of transportation to the moon. The quest also comes with an _optional_ pre-quest dialogue from the [Monogram]({{< ref "/wiki/" >}}Monogram), which is unlike any other quest in Galaxy. ![centre|thumb|600x600px]({{< ref "/wiki/" >}}Kavarlocation.png-"centre|thumb|600x600px")
 
-## Quest Dialogue 
+## Quest Dialogue
 
-### Optional Monogram Dialogue: 
+### Optional Monogram Dialogue:
 
 <u>Monogram</u>: "Hello human, Please, be careful"
 
-<u>Player</u>: "What do you mean 'be careful'" or "[EXIT]"*****
+<u>Player</u>: "What do you mean 'be careful'" or "[EXIT]"**\***
 
 <u>Monogram</u>: "User Richard Kavar is dangerous and is currently wanted for the murder of his 2 co-workers, he is armed and is suffering // from PTSD thinking he is being hunted by Kneall and Red Ice [withdrawal]"
 
@@ -43,11 +45,11 @@ Richard Kavar can be found inside a "secret" research lab inside [Myriad's]({{< 
 
 _End Dialogue. Note that the dialogue is kept as similar to the real in-game text as possible. Grammar and general English mistakes are present to maintain similarity to the true dialogue. The same remains true in the Main Dialogue._
 
-### Main Quest Dialogue 
+### Main Quest Dialogue
 
 <u>Richard Kavar</u>: "They wont come will they, will they? Surely not, I got rid of the traitors, may whatever is after hav-"
 
-<u>Player</u>: "Excuse me?" or "Goodbye!"*****
+<u>Player</u>: "Excuse me?" or "Goodbye!"**\***
 
 <u>Richard Kavar</u>: "WHO ARE YOU, YOUR AN ALIEN ARN'T YA, HERE TO FINISH THE JOB?"
 
@@ -77,15 +79,15 @@ _End Dialogue. Note that the dialogue is kept as similar to the real in-game tex
 
 _Quest #9 -- "Crazy Secret" appears in Quest Menu_
 
-<u>Player</u>: "Where [would] I get the [hard drives]" or "Sorry, I dont want to help you, your crazy!"*****
+<u>Player</u>: "Where [would] I get the [hard drives]" or "Sorry, I dont want to help you, your crazy!"**\***
 
 <u>Richard Kavar</u>: "There should be a base, very safe, monsters wont go there, they may sell some"
 
-_*All quotations marked with an asterisk ***** will end the quest dialogue at that point._
+_\*All quotations marked with an asterisk **\*** will end the quest dialogue at that point._
 
 _The //_ marking indicates that a second chatbox is required for the entire dialogue to show.
 
-## Quest Completion & Dialogue 
+## Quest Completion & Dialogue
 
 The player must collect 1000 Silicate and 3 Data Archives to complete this quest.
 

@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/Xeiron-Industries
+  - /wiki/Xeiron-Industries
 categories:
-- Galaxy Lore Pages
+  - Galaxy Lore Pages
 title: Xeiron Industries
----<div class="cardcontainer" align="justify" style="font-size: 14px; line-height: 24px;">
+---
+
+<div class="cardcontainer" align="justify" style="font-size: 14px; line-height: 24px;">
 # Xeiron Industries
 
 **Xeiron Industries** was a manufacturing company formed in the early days of the Interstellar Space Program. They quickly grew due to the popularity and efficiency of their advanced power systems, most of which were necessary for any interstellar spacecraft. Being one of the oldest companies on Earth that still exists, Xeiron ascended to the stars along with the rest of humanity, becoming one of the first private industries to reach the so-called "final frontier." Though the company was originally founded to create specialized components for the I.S.P., they later began to delve into designing their own spacecraft. ![centre|thumb|432x432px|The Logo of Xeiron

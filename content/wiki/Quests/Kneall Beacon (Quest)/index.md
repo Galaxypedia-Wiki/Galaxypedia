@@ -1,17 +1,17 @@
 ---
 aliases:
-- /wiki/Kneall-Beacon-(Quest)
+  - /wiki/Kneall-Beacon-(Quest)
 categories:
-- Quests
-- NPCS
+  - Quests
+  - NPCS
 title: Kneall Beacon (Quest)
----  
+---
 
-{{< notices/removed >}} 
+{{< notices/removed >}}
 
 PLEASE NOTE: DUE TO THE FACT THAT THE KNEALL STRONGHOLD WAS CHANGED TO HAVE NO QUEST/QUESTS AROUND IT, THIS INFO PAGE IS OUTDATED, PLEASE **_DO NOT_** REFER TO THIS PAGE FOR ANY INFO ON HOW TO SPAWN IN THE STRONGHOLD ![The official update log explaining the changes of the Stronghold and
 how it
-works](YnameStrongholdReturnAnnoncement.png "The official update log explaining the changes of the Stronghold and how it works") Proof of the fact that is was changed with the official update log can be seen to your _right_ > ----***Kneall Beacon**'' is the name of 2 [Quests]({{< ref "/categories/" >}}quests) that must be completed to spawn the [Kneall Stronghold]({{< ref "/wiki/" >}}Kneall-Stronghold).***Kneall Beacon**'' is also the name of the quest-giver of said quests.
+works](YnameStrongholdReturnAnnoncement.png "The official update log explaining the changes of the Stronghold and how it works") Proof of the fact that is was changed with the official update log can be seen to your _right_ > ----**\*Kneall Beacon**'' is the name of 2 [Quests]({{< ref "/categories/" >}}quests) that must be completed to spawn the [Kneall Stronghold]({{< ref "/wiki/" >}}Kneall-Stronghold).**\*Kneall Beacon**'' is also the name of the quest-giver of said quests.
 
 ## Description
 
@@ -28,7 +28,7 @@ Base.](Kneall_beacon_vendor_megabase.png "The Kneall Beacon on top of the Embass
 on
 Myriad.](Kneall_beacon_vendor_myriad.png "The Kneall Beacon on a hill on Myriad.")
 
-## Quest Dialogue 
+## Quest Dialogue
 
 **_Kneall Beacon #1 (Mega Base):_**
 

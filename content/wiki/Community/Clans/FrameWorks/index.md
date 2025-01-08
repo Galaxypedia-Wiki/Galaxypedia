@@ -1,12 +1,12 @@
 ---
 aliases:
-- /wiki/FrameWorks
+  - /wiki/FrameWorks
 categories:
-- Clans
+  - Clans
 title: FrameWorks
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 ## History
 

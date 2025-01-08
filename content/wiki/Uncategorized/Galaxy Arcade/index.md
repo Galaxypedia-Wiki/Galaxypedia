@@ -1,8 +1,10 @@
 ---
 aliases:
-- /wiki/Galaxy-Arcade
+  - /wiki/Galaxy-Arcade
 title: Galaxy Arcade
----<u>GALAXY ARCADE HAS BEEN ABANDONED!</u>
+---
+
+<u>GALAXY ARCADE HAS BEEN ABANDONED!</u>
 
 <div class="cardcontainer" style="font-size:15px; line-height:24px">
 # Overview

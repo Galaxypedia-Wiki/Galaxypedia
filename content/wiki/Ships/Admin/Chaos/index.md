@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Chaos
+  - /wiki/Chaos
 categories:
-- Ships
-- Admin Ships
-- Removed From Game
+  - Ships
+  - Admin Ships
+  - Removed From Game
 title: Chaos
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/adminShip >}} 
+{{< notices/adminShip >}}
 
 The **_Chaos_** is one of the most popular [**Admin**]({{< ref "/categories/" >}}admin-ships) ships among the [Galaxy Staff]({{< ref "/wiki/" >}}Galaxy-Staff).
 

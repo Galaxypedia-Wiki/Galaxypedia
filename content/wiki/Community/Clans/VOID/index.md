@@ -1,10 +1,12 @@
 ---
 aliases:
-- /wiki/VOID
+  - /wiki/VOID
 categories:
-- Clans
+  - Clans
 title: VOID
----## Introduction
+---
+
+## Introduction
 
 **_VOID_** is a Galaxy clan that puts a large emphasis non-toxicity and does not have a large emphasis on [Super Capital]({{< ref "/categories/" >}}super-capital-ships) kills.
 

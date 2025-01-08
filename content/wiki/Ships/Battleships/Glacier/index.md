@@ -1,21 +1,21 @@
 ---
 aliases:
-- /wiki/Glacier
+  - /wiki/Glacier
 categories:
-- Ships
-- Limited Ships
-- Reskins
-- Christmas Event 2017
-- Battleships
-- Support Ships
-- PVP Ships
-- Capital Ships
+  - Ships
+  - Limited Ships
+  - Reskins
+  - Christmas Event 2017
+  - Battleships
+  - Support Ships
+  - PVP Ships
+  - Capital Ships
 title: Glacier
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Glacier_** is a [**Limited**]({{< ref "/categories/" >}}limited-ships) remodel of the [Aegis]({{< ref "/wiki/" >}}Aegis).
 
@@ -48,7 +48,7 @@ The old **Glacier** had an interior that was exactly identical to the [Aegis]({{
 - Beware of [Shield]({{< ref "/wiki/" >}}Shields)-shredders, as your formidable health pool is reduced to nothing in a matter of seconds when up against one of these, such as the [Zeus]({{< ref "/wiki/" >}}Zeus).
 - This is a great chaser, as the 8 [Medium Cannons]({{< ref "/wiki/" >}}Spinals) are quite useful in destroying hulled ships.
 
-## Version History 
+## Version History
 
 - Added in .60.
 - Received a major buff and slight nerf in .60d that reduced [Shield]({{< ref "/wiki/" >}}Shields) by 200 and buffed [Hull]({{< ref "/wiki/" >}}Hull) by 1200.

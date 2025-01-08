@@ -1,26 +1,26 @@
 ---
 aliases:
-- /wiki/Spiderblade
+  - /wiki/Spiderblade
 categories:
-- Ships
-- PVP Ships
-- Limited Ships
-- Frigates
-- Halloween 2017
-- Support Ships
-- Siege Ships
-- Black Friday 2019
-- Reskins
+  - Ships
+  - PVP Ships
+  - Limited Ships
+  - Frigates
+  - Halloween 2017
+  - Support Ships
+  - Siege Ships
+  - Black Friday 2019
+  - Reskins
 title: Spiderblade
----  
+---
 
-{{< shipInfobox >}}   
+{{< shipInfobox >}}
 
-{{< notices/limitedShip >}} 
+{{< notices/limitedShip >}}
 
 The **_Spiderblade_** is an old, redesigned version of the original [Starblade]({{< ref "/wiki/" >}}Starblade) made for the [Halloween Event 2017]({{< ref "/wiki/" >}}Halloween-Event-2017).
 
-**_Not to be confused with the normally buildable [Spider]({{< ref "/wiki/" >}}Spider) [Frigate]({{< ref "/categories/" >}}frigates)-Class Ship_.** 
+**_Not to be confused with the normally buildable [Spider]({{< ref "/wiki/" >}}Spider) [Frigate]({{< ref "/categories/" >}}frigates)-Class Ship_.**
 
 ## Description
 
@@ -54,7 +54,7 @@ This ship has no interior, just a single seat on top of the spider.
 
 - Treat this like a trophy; Do not ever use it or spawn it. Only spawn it to show off to others. If you do spawn it, try to spawn it at the [Mega Base]({{< ref "/wiki/" >}}Mega-Base) so it can't be damaged. If you want to use it in combat, be prepared to lose it.
 
-## Version History 
+## Version History
 
 - A second Small Torpedo was added in an unknown version.
 - Shield and Hull increased from 500/250 to 950/550, Torpedoes increased in size from Small to Medium in version .65b.

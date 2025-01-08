@@ -1,16 +1,16 @@
 ---
 aliases:
-- /wiki/Vansnova
+  - /wiki/Vansnova
 categories:
-- Ships
-- Battlecruisers
-- PVP Ships
-- Pirate Ships
-- Support Ships
+  - Ships
+  - Battlecruisers
+  - PVP Ships
+  - Pirate Ships
+  - Support Ships
 title: Vansnova
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 The **_Vansnova_** is a [Spinal-based]({{< ref "/wiki/" >}}Spinals) PVP [**Battlecruiser**]({{< ref "/categories/" >}}battlecruisers).
 
@@ -43,7 +43,7 @@ The **Vansnova** has no interior, you just go through the cockpit.
 - Due to its high mobility, it can easily cover its blind spots.
 - Try to drift as much as you can so that you're always going at top speed but never going too close or too far from your target.
 
-## Version History 
+## Version History
 
 - 9 Tiny Phasers buffed to 9 Small Phasers in .64d.
 - Remodeled in .66b

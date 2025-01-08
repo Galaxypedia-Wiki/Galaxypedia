@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Blizzard-(Base)
+  - /wiki/Blizzard-(Base)
 categories:
-- Starbases
-- Christmas Event 2022
+  - Starbases
+  - Christmas Event 2022
 title: Blizzard (Base)
----  
+---
 
-{{< notices/removed >}} 
+{{< notices/removed >}}
 
 ## Description
 
@@ -23,6 +23,6 @@ It has a nuke radius of 8k Studs.
 
 The Blizzard Drops 1 [Frost Core]({{< ref "/wiki/" >}}Frost-Core) and 40 [Ice Shard]({{< ref "/wiki/" >}}Ice-Shard).
 
-## Version History 
+## Version History
 
 - Nuke Radius reduced from 50k to 8k in version .75a37

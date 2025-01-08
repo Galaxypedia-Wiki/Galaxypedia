@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Truck-B
+  - /wiki/Truck-B
 categories:
-- Ships
-- Fighters
+  - Ships
+  - Fighters
 title: Truck-B
----  
+---
 
-{{< shipInfobox >}} 
+{{< shipInfobox >}}
 
 ## Description
 
@@ -32,7 +32,7 @@ None, the pilot seat is on the spare tire in the back
 
 - Work with other fighters to take down foes.
 
-## Version History 
+## Version History
 
 ?
 

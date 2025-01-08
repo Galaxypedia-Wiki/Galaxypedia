@@ -1,11 +1,13 @@
 ---
 aliases:
-- /wiki/Vanguard-Coalition
+  - /wiki/Vanguard-Coalition
 categories:
-- Galaxy Lore Pages
-- Clans
+  - Galaxy Lore Pages
+  - Clans
 title: Vanguard Coalition
----**Vanguard Coalition** is an obscure pirate faction that revels in their strength drawn from not only quantity, but individual quality and knowledge.
+---
+
+**Vanguard Coalition** is an obscure pirate faction that revels in their strength drawn from not only quantity, but individual quality and knowledge.
 
 ## Story
 
@@ -25,7 +27,7 @@ _This section may be outdated_ 3 } [Prototype X-1]({{< ref "/wiki/" >}}Prototype
 
 **737m Destroyed Total.**
 
-## "VC Burn Galaxy" Incident 
+## "VC Burn Galaxy" Incident
 
 08/01/2019 - 01/06/2020
 

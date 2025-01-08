@@ -1,13 +1,13 @@
 ---
 aliases:
-- /wiki/Batteries-for-Uranium
+  - /wiki/Batteries-for-Uranium
 categories:
-- NPCS
-- Quests
+  - NPCS
+  - Quests
 title: Batteries for Uranium
----  
+---
 
-{{< notices/underConstruction >}} 
+{{< notices/underConstruction >}}
 
 **_Batteries for Uranium_** is an NPC who trade [Plasma Battery]({{< ref "/wiki/" >}}Plasma-Battery) to Uranium.
 
@@ -15,7 +15,7 @@ title: Batteries for Uranium
 
 Hello_World!
 
-## Plasma Batteries 
+## Plasma Batteries
 
 Hello_World!
 
@@ -23,7 +23,7 @@ Hello_World!
 
 Hello_World!
 
-## Quest Dialogue 
+## Quest Dialogue
 
 <span style="color:#ee7600">[Batteries for Uranium]: " Hello_World! "</span>
 
