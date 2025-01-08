@@ -32,7 +32,7 @@
 >
   <h2 class="infoboxtitle !my-4">The {{ .Page.Title }}</h2>
 
-  {{ with .Page.Resources.Get (printf "%s-icon.webp" .Page.Title) }}
+  {{ with .Page.Resources.Get "ship-icon.webp" }}
     {{ with .Resize "x512 Lanczos webp" }}
       <img
         src="{{ .RelPermalink }}"
