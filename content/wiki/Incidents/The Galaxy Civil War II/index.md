@@ -32,7 +32,7 @@ On April 28th, 2021, four admins - asd1232468, ChipsOmen, Loggue, and CaptainLos
 
 Players and Galaxy Staff alike used the Enigma Cache quest to gain massive amounts of credits, and therefore ships. The administrators who abused the quest were demoted and blacklisted from ever obtaining a staff position again, players were logged on sight in public servers, and many account warehouses were either manually flooded with [Debt Coins,]({{< ref "/wiki/" >}}Artifacts) or simply wiped altogether.
 
-This is most likely what inspired the {PS} label for private server quest logging.
+While you might expect this to be what inspired the {PS} label for private server quest logging, that is not correct. The label was added because of NPC fleet spawns for staff being added and the developers wanting to make sure staff members did not spawn and kill NPC fleets in private servers, earning large amounts of money.
 
 </div>
 
