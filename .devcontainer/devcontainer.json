@@ -1,0 +1,37 @@
+{
+  "name": "Galaxypedia",
+  "build": {
+    "context": "..",
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "files.exclude": {
+          "**/.git": true,
+          "**/.cache": true,
+          "**/.pnpm-store": true
+        }
+      },
+      "extensions": [
+        "esbenp.prettier-vscode",
+        "davidanson.vscode-markdownlint",
+        "kaellarkin.hugo-shortcode-syntax",
+        "budparr.language-hugo-vscode",
+        "bradlc.vscode-tailwindcss",
+        "vasubasraj.flashpost",
+        "redhat.vscode-yaml",
+        "GitHub.vscode-pull-request-github",
+        "eamodio.gitlens"
+      ]
+    }
+  },
+  "containerEnv": {
+    "HUGO_CACHEDIR": "/workspaces/Galaxypedia/.cache"
+  },
+  "mounts": [
+    "source=hugo-cache,target=/workspaces/Galaxypedia/.cache,type=volume"
+  ],
+  "remoteUser": "node",
+  "postCreateCommand": "sudo chown -R node:node /workspaces/Galaxypedia/.cache && pnpm i"
+}

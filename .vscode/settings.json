@@ -1,21 +1,21 @@
 {
-  "[markdown]": {
-    "editor.quickSuggestions": {
-      "other": "on",
-      "comments": "on",
-      "strings": "on"
-    },
-    "editor.tabCompletion": "onlySnippets",
-    "files.trimTrailingWhitespace": false,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "other": "on",
+      "strings": "on"
+    },
+    "editor.tabCompletion": "onlySnippets",
+    "files.trimTrailingWhitespace": false
+  },
+  "editor.formatOnSave": true,
   "files.associations": {
     ".css": "tailwindcss"
   },
-  "editor.formatOnSave": true,
   "json.schemas": [
     {
       "fileMatch": ["*.json", "*.jsonc"],
