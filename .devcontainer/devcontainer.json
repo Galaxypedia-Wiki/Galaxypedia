@@ -7,6 +7,12 @@
   "customizations": {
     "vscode": {
       "settings": {
+        "terminal.integrated.defaultProfile.linux": "zsh",
+        "terminal.integrated.profiles.linux": {
+          "zsh": {
+            "path": "/bin/zsh"
+          }
+        },
         "files.exclude": {
           "**/.git": true,
           "**/.cache": true,
