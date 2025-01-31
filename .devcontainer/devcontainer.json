@@ -22,7 +22,8 @@
         "vasubasraj.flashpost",
         "redhat.vscode-yaml",
         "GitHub.vscode-pull-request-github",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "ms-azuretools.vscode-docker"
       ]
     }
   },
