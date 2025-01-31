@@ -1,6 +1,3 @@
-# syntax=docker/dockerfile:1
-FROM node:23-bookworm-slim AS node
-
 FROM mcr.microsoft.com/devcontainers/javascript-node:22-bookworm
 LABEL repository="github.com/Galaxypedia-Wiki/Galaxypedia"
 LABEL maintainer="cswimr <seaswimmerthefsh@gmail.com>"
