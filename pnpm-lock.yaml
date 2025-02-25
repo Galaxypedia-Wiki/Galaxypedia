@@ -23,10 +23,10 @@ importers:
     devDependencies:
       prettier:
         specifier: ^3.4.2
-        version: 3.5.2
+        version: 3.4.2
       prettier-plugin-go-template:
         specifier: ^0.0.15
-        version: 0.0.15(prettier@3.5.2)
+        version: 0.0.15(prettier@3.4.2)
       prettier-plugin-tailwind-css:
         specifier: ^1.5.0
         version: 1.5.0
@@ -529,8 +529,8 @@ packages:
     engines: {node: '>=10.13.0'}
     hasBin: true
 
-  prettier@3.5.2:
-    resolution: {integrity: sha512-lc6npv5PH7hVqozBR7lkBNOGXV9vMwROAPlumdBkX0wTbbzPu/U1hk5yL8p2pt4Xoc+2mkT8t/sow2YrV/M5qg==}
+  prettier@3.4.2:
+    resolution: {integrity: sha512-e9MewbtFo+Fevyuxn/4rrcDAaq0IYxPGLvObpQjiZBMAzB9IGmzlnG9RZy3FFas+eBMu2vA0CszMeduow5dIuQ==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -1018,9 +1018,9 @@ snapshots:
 
   picomatch@2.3.1: {}
 
-  prettier-plugin-go-template@0.0.15(prettier@3.5.2):
+  prettier-plugin-go-template@0.0.15(prettier@3.4.2):
     dependencies:
-      prettier: 3.5.2
+      prettier: 3.4.2
       ulid: 2.3.0
 
   prettier-plugin-tailwind-css@1.5.0:
@@ -1029,7 +1029,7 @@ snapshots:
 
   prettier@2.8.8: {}
 
-  prettier@3.5.2: {}
+  prettier@3.4.2: {}
 
   server-destroy@1.0.1: {}
 
