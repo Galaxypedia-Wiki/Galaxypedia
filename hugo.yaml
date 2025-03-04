@@ -10,6 +10,8 @@ build:
   buildStats:
     enable: true
   cachebusters:
+    - source: "assets/js"
+      target: "js"
     - source: "assets/notwatching/hugo_stats\\.json"
       target: "css"
     - source: "(postcss|tailwind)\\.config\\.js"
