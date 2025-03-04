@@ -42,10 +42,10 @@
     </script>
   {{ end }}
   <link href="{{ .Site.BaseURL }}pagefind/pagefind-ui.css" rel="stylesheet" />
+  {{ with resources.Get "js/search.js" }}
+    {{ with . | js.Build }}
+        <script src="{{ .RelPermalink }}"></script>
+    {{ end }}
+  {{ end }}
   <script src="{{ .Site.BaseURL }}pagefind/pagefind-ui.js"></script>
-  <script>
-    window.addEventListener("DOMContentLoaded", (event) => {
-      new PagefindUI({ element: "#search" });
-    });
-  </script>
 </head>

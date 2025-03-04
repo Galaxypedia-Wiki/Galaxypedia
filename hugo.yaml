@@ -22,3 +22,8 @@ markup:
 
 taxonomies:
   category: categories
+
+mediaTypes:
+  text/javascript:
+    suffixes:
+    - js

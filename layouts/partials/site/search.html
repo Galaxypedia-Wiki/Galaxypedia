@@ -1,0 +1,31 @@
+<div id="elasticsearch">
+    <input type="text" class="w-full p-2 border-1 rounded outline-none mb-1" placeholder="Search" id="searchbar"/>
+    <div id="results"></div>
+</div>
+
+<style>
+    #searchbar:focus {
+        box-shadow: #fff 0 0 8px;
+    }
+
+    #searchbar {
+        border-color: #888;
+        background-color: #222;
+        box-shadow: none;
+        transition-property: box-shadow, border-color;
+        transition-duration: 500ms;
+        transition-timing-function: cubic-bezier(0.25, 1, 0.5, 1);
+        font-family: "Avenir", "Helvetica Neue", "Helvetica", sans-serif;
+    }
+
+    #results a {
+        position: absolute;
+        opacity: 0;
+        transition-property: opacity, transform;
+        transition-duration: 375ms;
+        transition-timing-function: cubic-bezier(0.33, 1, 0.68, 1);
+        transform: translateX(-10px);
+        will-change: contents;
+        font-family: "Avenir", "Helvetica Neue", "Helvetica", sans-serif;
+    }
+</style>
