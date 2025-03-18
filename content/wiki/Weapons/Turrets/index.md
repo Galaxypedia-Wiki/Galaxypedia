@@ -35,8 +35,39 @@ Turret Size Base Accuracy Deviation Base Damage Range Reload Time (s) Speed Deno
 
 ---
 
-Spindle Lance Medium 0.0005 250 8000 10.00 50000 25.00 Tachyon Lance-S Medium 0.0005 48 5500 8.00 20000 6.00 Tachyon Lance-X Medium 0.0005 48 5500 8.00 20000 6.00 Canadian Ice Pick Large 0.0005 105 6500 11.00 17000 9.55 Coal Mining Laser Small 0.0013 22 3143 1.26 11001 17.48 Tiny Mining Laser Tiny 0.0005 10 4000 4.00 26000 2.50 Kneall Subcannon-M Huge 0.0006 189 6650 11.20 12600 16.88 Large Mining Laser Large 0.0005 105 6500 11.00 17000 9.55 Retro Mining Laser Small 0.0005 30 4500 4.00 23000 7.50 Small Mining Laser Small 0.0005 22 4500 6.00 23000 3.67 Huge Trolling Laser Huge 0.0007 189 6318 8.96 11340 21.09 Medium Mining Laser Medium 0.0005 48 5500 8.00 20000 6.00 Woolly Mining Laser Medium 0.0005 48 6750 8.00 20000 6.00 X-3 Colossus Cannon Large 0.0027 105 3512 0.76 4801 138.91 Large Trolling Laser Large 0.0005 200 7000 6.00 17000 33.33 M Class Mining Laser Large 0.0005 198 250 11.00 17000 18.00 Mammoth Mining Laser Large 0.0005 99 5500 11.00 17000 9.00 Santa's Mining Laser Large 0.0005 264 250 11.00 17000 24.00 Heavy Heartifact Lance Large 0.0018 105 5500 1.40 6586 75.00 Patriotic Mining Laser Large 0.0005 105 6500 11.00 17000 9.55 Small-ish Mining Laser Medium 0.0005 90 9000 6.00 20000 15.00 Heavy Canadian Ice Pick Medium 0.0088 88 7501 14.00 8888 6.29 Medium Canadian Ice Pick Medium 0.0005 64 6750 8.00 20000 8.00 Retro Medium Mining Laser Medium 0.0005 50 5500 6.50 20000 7.69 not so Small Mining Laser Large 0.0018 105 4097 1.48 6586 71.12 Kneall Tachyon Accelerator Medium 0.0005 2000 5600 10.00 50000 200.00 Large Advanced Mining Laser Large 0.0006 105 6500 8.80 15300 11.93 Small Advanced Mining Laser Small 0.0006 22 4275 4.80 20700 4.58 Large Patriotic Mining Laser Large 0.0006 105 7500 8.80 15300 11.93 Medium Advanced Mining Laser Medium 0.0006 48 5225 6.40 18000 7.50 Medium Patriotic Mining Laser Medium 0.0007 48 4964 5.12 16200 9.38
-
+| Turret Name                   | Size   | Base Accuracy | Deviation | Base Damage | Range | Reload Time (s) | Speed Denominator | DPS |
+|--------------------------------|--------|--------------|-----------|-------------|-------|----------------|------------------|-----|
+| Spindle Lance                 | Medium | 0.0005       | 250       | 8000        | 10.00 | 50000          | 25.00            |     |
+| Tachyon Lance-S               | Medium | 0.0005       | 48        | 5500        | 8.00  | 20000          | 6.00             |     |
+| Tachyon Lance-X               | Medium | 0.0005       | 48        | 5500        | 8.00  | 20000          | 6.00             |     |
+| Canadian Ice Pick             | Large  | 0.0005       | 105       | 6500        | 11.00 | 17000          | 9.55             |     |
+| Coal Mining Laser             | Small  | 0.0013       | 22        | 3143        | 1.26  | 11001          | 17.48            |     |
+| Tiny Mining Laser             | Tiny   | 0.0005       | 10        | 4000        | 4.00  | 26000          | 2.50             |     |
+| Kneall Subcannon-M            | Huge   | 0.0006       | 189       | 6650        | 11.20 | 12600          | 16.88            |     |
+| Large Mining Laser            | Large  | 0.0005       | 105       | 6500        | 11.00 | 17000          | 9.55             |     |
+| Retro Mining Laser            | Small  | 0.0005       | 30        | 4500        | 4.00  | 23000          | 7.50             |     |
+| Small Mining Laser            | Small  | 0.0005       | 22        | 4500        | 6.00  | 23000          | 3.67             |     |
+| Huge Trolling Laser           | Huge   | 0.0007       | 189       | 6318        | 8.96  | 11340          | 21.09            |     |
+| Medium Mining Laser           | Medium | 0.0005       | 48        | 5500        | 8.00  | 20000          | 6.00             |     |
+| Woolly Mining Laser           | Medium | 0.0005       | 48        | 6750        | 8.00  | 20000          | 6.00             |     |
+| X-3 Colossus Cannon           | Large  | 0.0027       | 105       | 3512        | 0.76  | 4801           | 138.91           |     |
+| Large Trolling Laser          | Large  | 0.0005       | 200       | 7000        | 6.00  | 17000          | 33.33            |     |
+| M Class Mining Laser          | Large  | 0.0005       | 198       | 250         | 11.00 | 17000          | 18.00            |     |
+| Mammoth Mining Laser          | Large  | 0.0005       | 99        | 5500        | 11.00 | 17000          | 9.00             |     |
+| Santa’s Mining Laser          | Large  | 0.0005       | 264       | 250         | 11.00 | 17000          | 24.00            |     |
+| Heavy Heartifact Lance        | Large  | 0.0018       | 105       | 5500        | 1.40  | 6586           | 75.00            |     |
+| Patriotic Mining Laser        | Large  | 0.0005       | 105       | 6500        | 11.00 | 17000          | 9.55             |     |
+| Small-ish Mining Laser        | Medium | 0.0005       | 90        | 9000        | 6.00  | 20000          | 15.00            |     |
+| Heavy Canadian Ice Pick       | Medium | 0.0088       | 88        | 7501        | 14.00 | 8888           | 6.29             |     |
+| Medium Canadian Ice Pick      | Medium | 0.0005       | 64        | 6750        | 8.00  | 20000          | 8.00             |     |
+| Retro Medium Mining Laser     | Medium | 0.0005       | 50        | 5500        | 6.50  | 20000          | 7.69             |     |
+| not so Small Mining Laser     | Large  | 0.0018       | 105       | 4097        | 1.48  | 6586           | 71.12            |     |
+| Kneall Tachyon Accelerator    | Medium | 0.0005       | 2000      | 5600        | 10.00 | 50000          | 200.00           |     |
+| Large Advanced Mining Laser   | Large  | 0.0006       | 105       | 6500        | 8.80  | 15300          | 11.93            |     |
+| Small Advanced Mining Laser   | Small  | 0.0006       | 22        | 4275        | 4.80  | 20700          | 4.58             |     |
+| Large Patriotic Mining Laser  | Large  | 0.0006       | 105       | 7500        | 8.80  | 15300          | 11.93            |     |
+| Medium Advanced Mining Laser  | Medium | 0.0006       | 48        | 5225        | 6.40  | 18000          | 7.50             |     |
+| Medium Patriotic Mining Laser | Medium | 0.0007       | 48        | 4964        | 5.12  | 16200          | 9.38             |     |
 - Some turrets possess a name of "Cannon", but are actually Mining Laser-type turrets.
 
 ## Lasers
