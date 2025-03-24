@@ -1,0 +1,4 @@
+elasticsearch/
+.env
+public/
+node_modules/
