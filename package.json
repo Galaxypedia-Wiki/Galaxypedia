@@ -9,6 +9,7 @@
     "pagefind": "pagefind --site public",
     "index": "pnpm pagefind",
     "build": "hugo && pnpm pagefind",
+    "build:min": "hugo --minify && pnpm pagefind",
     "ci": "hugo --minify --baseURL '$PAGEURL' && pnpm pagefind && pnpm linkrot",
     "serve": "pnpm build && hugo server -D"
   },

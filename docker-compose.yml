@@ -1,0 +1,7 @@
+services:
+  galaxypedia:
+    ports:
+      - "1313:1313"
+    build:
+      context: .
+      dockerfile: Dockerfile
