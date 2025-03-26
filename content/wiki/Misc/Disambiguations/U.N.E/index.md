@@ -7,7 +7,9 @@ categories:
 title: U.N.E
 ---
 
-- [ [United Nations of Ear]({{< ref "/wiki/" >}}United-Nations-of-Earth), A Passive [ []({{< ref "/wiki/" >}}AI) Faction found in public servers.
+{{< notices/disambiguation >}}
+
+- [United Nations of Earth]({{< ref "/wiki/" >}}United-Nations-of-Earth), a [passive]({{< ref "/wiki/" >}}AI) Faction found in public servers.
 
 <!-- -->
 
