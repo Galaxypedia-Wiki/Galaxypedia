@@ -22,7 +22,6 @@
 body {
   @apply antialiased text-white;
   background-color: var(--color-bg);
-  transform: rotate(180deg);
 }
 
 h1,
