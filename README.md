@@ -29,6 +29,7 @@ Some features that the Hugo version has over the MediaWiki version are:
   - No need for AutoWikiBrowser
 - Modern and Responsive
   - The Hugo Galaxypedia is built using modern web technologies. This means that the Galaxypedia is more accessible, more responsive, and more user-friendly.
+  - Design philosophy is based on [Linear](https://linear.app)
   - We use technologies like Node.JS, Tailwind CSS, Hugo, Pagefind, and more to make the Galaxypedia as accessible as possible.
   - Tailwind in specific allows us to make the Galaxypedia look good without having to write a lot of CSS. This makes the Galaxypedia more maintainable and easier to work with. It also has built in support for responsive design, which means that the Galaxypedia will look good on any device. And unlike MediaWiki, we don't have to make an entirely different skin for mobile.
   - Theming and custom color schemes are planned for the future. You can fine tune the Hugo Galaxypedia to look exactly how you want it to look.
@@ -45,12 +46,6 @@ Some features that the Hugo version has over the MediaWiki version are:
   - As a breath of fresh air, the Hugo Galaxypedia does not require accounts. This means that there is no need for a database, and no need for a server. This means that the Galaxypedia is more secure, and more private. No need to worry about your data being leaked or stolen. And no need for smallketchup82 to concern himself with user data, management, and GDPR.
   - Since there are no accounts, there is no need for moderation. This means that staff can focus on making the Galaxypedia better, rather than dealing with trolls, vandals, and spammers.
   - Also we finally don't have to deal with bot accounts spamming the site with nonsense. This is a huge relief.
-
-## Will this replace the Galaxypedia?
-
-It's complicated. The Hugo version of the Galaxypedia will be a separate entity from the MediaWiki version. The MediaWiki version will still be up and running for as long as the hugo version is in development. Once the Hugo version is ready, has most and/or all of the content and features of the MediaWiki version we will consider replacing the MediaWiki version with the Hugo version.
-
-For now, it's up in the air.
 
 ## Contributing
 
