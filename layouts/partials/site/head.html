@@ -30,6 +30,16 @@
   <title>
     {{ if .Title }}Galaxypedia - {{ .Title }}{{ else }}Galaxypedia{{ end }}
   </title>
+  {{ if getenv "CI" }}
+    {{ $jsBuildOpts := dict "minify" false "params" (dict "baseUrl" (.Site.BaseURL | safeJS)) }}
+    {{ with resources.Get "js/redirect.js" | js.Build $jsBuildOpts | fingerprint }}
+      <script
+        src="{{ .RelPermalink }}"
+        integrity="{{ .Data.Integrity }}"
+        crossorigin="anonymous"
+      ></script>
+    {{ end }}
+  {{ end }}
   {{ if hugo.IsProduction }}
     <script
       src="https://js.sentry-cdn.com/79a2541d247797be5c61ecfd7c307b0e.min.js"
