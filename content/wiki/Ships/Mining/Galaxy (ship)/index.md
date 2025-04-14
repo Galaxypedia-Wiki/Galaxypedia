@@ -10,7 +10,7 @@ title: Galaxy (ship)
 
 {{< shipInfobox >}}
 
-The**_Galaxy_** is a VIP **[Miner-]({{< ref "/categories/" >}}mining-ships)[class]({{< ref "/categories/" >}}mining-ships)** ship and the 4th best of its class (It be obtained without VIP via a [Harbourmaster]({{< ref "/wiki/" >}}Harbourmaster)). It is the best non-limited miner in the game.
+The **_Galaxy_** is a VIP **[Miner-]({{< ref "/categories/" >}}mining-ships)[class]({{< ref "/categories/" >}}mining-ships)** ship and the 4th best of its class (It be obtained without VIP via the [Harbourmaster]({{< ref "/wiki/" >}}Harbourmaster)). It is the best non-limited miner in the game.
 
 ## Description
 
@@ -90,8 +90,6 @@ The interior of the Galaxy can be accessed via teleporter on the docking ramp. T
 Galaxy](Freedom_Galaxy "wikilink"))](GalaxySwarm.png "A Galaxy Swarm (plus a Freedom Galaxy)"){width="306" height="306"}
 
 ## References
-
-<references />
 
 [^1]: See [Confinium Pay-to-win Incident]({{< ref "/wiki/" >}}Confinium-Pay-to-win-Incident).
 

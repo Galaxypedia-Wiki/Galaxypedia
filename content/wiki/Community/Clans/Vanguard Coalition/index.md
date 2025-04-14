@@ -15,15 +15,17 @@ Vanguard Coalition was founded by Jay4444444444 (_also known as Nevadan)_ in 201
 
 ## Kills
 
-_This section may be outdated_ 3 } [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1)
+_This section may be outdated_
 
-1 } [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2)
+3 [Prototype X-1]({{< ref "/wiki/" >}}Prototype-X-1)
 
-7 } [Supercapital Class Ships]({{< ref "/categories/" >}}super-capital-ships)
+1 [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2)
 
-2 } [Lucifer]({{< ref "/wiki/" >}}Lucifer)
+7 [Supercapital-Class Ships]({{< ref "/categories/" >}}super-capital-ships)
 
-5 } [Osiris]({{< ref "/wiki/" >}}Osiris)
+2 [Lucifer]({{< ref "/wiki/" >}}Lucifer)
+
+5 [Osiris]({{< ref "/wiki/" >}}Osiris)
 
 **737m Destroyed Total.**
 
@@ -31,6 +33,6 @@ _This section may be outdated_ 3 } [Prototype X-1]({{< ref "/wiki/" >}}Prototype
 
 08/01/2019 - 01/06/2020
 
-"**Burn Galaxy**" is a VERY destructive incident in Galaxy occurring in the new age of [Prototypes]({{< ref "/categories/" >}}prototypes) and [Super Capital Ships]({{< ref "/categories/" >}}super-capital-ships). The elite division of VC, similar in concept to [.SU]({{< ref "/wiki/" >}}.SU) (.skill urself), were on an [Imperator]({{< ref "/wiki/" >}}Imperator), [Prototype class ship]({{< ref "/categories/" >}}prototypes), and [Helios]({{< ref "/wiki/" >}}Helios), to which they started a rampage on August 1st, 2019. They destroyed over 619~ **million** [Credits]({{< ref "/wiki/" >}}Credits) (adjusted to inflation) worth of [Ships]({{< ref "/wiki/" >}}Ships) in less than five months. Among the losses are 12 [Osiris]({{< ref "/wiki/" >}}Osiris)-Class [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) (2 not inside this time period), 12 [Prototype X-1s]({{< ref "/wiki/" >}}Prototype-X-1), 7 [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2)'s, a [Skeletal Ghostealis]({{< ref "/wiki/" >}}Skeletal-Ghostealis) and 35+ [Lucifers]({{< ref "/wiki/" >}}Lucifer).
+"**Burn Galaxy**" was a VERY destructive incident in Galaxy occurring in the new age of [Prototypes]({{< ref "/categories/" >}}prototypes) and [Super Capital Ships]({{< ref "/categories/" >}}super-capital-ships). The elite division of VC, similar in concept to [.SU]({{< ref "/wiki/" >}}.SU) (.skill urself), were on an [Imperator]({{< ref "/wiki/" >}}Imperator), [Prototype-Class ship]({{< ref "/categories/" >}}prototypes), and [Helios]({{< ref "/wiki/" >}}Helios), to which they started a rampage on August 1st, 2019. They destroyed over ~619 **million** [Credits]({{< ref "/wiki/" >}}Credits) (adjusted to inflation) worth of [Ships]({{< ref "/wiki/" >}}Ships) in less than five months. Among the losses were 12 [Osiris]({{< ref "/wiki/" >}}Osiris)-Class [Dreadnoughts]({{< ref "/categories/" >}}dreadnoughts) (2 not inside this time period), 12 [Prototype X-1s]({{< ref "/wiki/" >}}Prototype-X-1), 7 [Prototype X-2]({{< ref "/wiki/" >}}Prototype-X-2)'s, a [Skeletal Ghostealis]({{< ref "/wiki/" >}}Skeletal-Ghostealis) and 35+ [Lucifers]({{< ref "/wiki/" >}}Lucifer).
 
 <File:Vchail.png> <File:Funy> laugh.png|A few victims of the mass purge.
